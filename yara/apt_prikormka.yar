@@ -30,31 +30,27 @@
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 //
 
-rule PrikormkaDropper
+private rule PrikormkaDropper
 {
-    
     strings:
-        $mz = { 4D 5A }
         $kd1 = "KDSTORAGE" wide
         $kd2 = "KDSTORAGE_64" wide
         $kd3 = "KDRUNDRV32" wide
         $kd4 = "KDRAR" wide
+
         $bin1 = {69 65 04 15 00 14 1E 4A 16 42 08 6C 21 61 24 0F}
         $bin2 = {76 6F 05 04 16 1B 0D 5E 0D 42 08 6C 20 45 18 16}
         $bin3 = {4D 00 4D 00 43 00 00 00 67 00 75 00 69 00 64 00 56 00 47 00 41 00 00 00 5F 00 73 00 76 00 67 00}
+
         $inj1 = "?AVCinj2008Dlg@@" ascii
         $inj2 = "?AVCinj2008App@@" ascii
-
     condition:
-        ($mz at 0) and ((any of ($bin*)) or (3 of ($kd*)) or (all of ($inj*)))
+        uint16(0) == 0x5a4d and ((any of ($bin*)) or (3 of ($kd*)) or (all of ($inj*)))
 }
 
-rule PrikormkaModule
+private rule PrikormkaModule
 {
-    
     strings:
-        $mz = { 4D 5A }
-
         // binary
         $str1 = {6D 70 2E 64 6C 6C 00 53 74 61 72 74 69 6E 67 00}
         $str2 = {68 6C 70 75 63 74 66 2E 64 6C 6C 00 43 79 63 6C 65}
@@ -106,31 +102,27 @@ rule PrikormkaModule
         $str34 = "\\TOOLS PZZ\\Bezzahod\\" ascii
 
     condition:
-        ($mz at 0) and (any of ($str*))
+        uint16(0) == 0x5a4d and (any of ($str*))
 }
 
-rule PrikormkaEarlyVersion
+private rule PrikormkaEarlyVersion
 {
-    
     strings:
-        $mz = { 4D 5A }
-        $str36 = "IntelRestore" ascii fullword
-        $str37 = "Resent" wide fullword
-        $str38 = "ocp8.1" wide fullword
-        $str39 = "rsfvxd.dat" ascii fullword
-        $str40 = "tsb386.dat" ascii fullword
-        $str41 = "frmmlg.dat" ascii fullword
-        $str42 = "smdhost.dll" ascii fullword
-        $str43 = "KDLLCFX" wide fullword
-        $str44 = "KDLLRUNDRV" wide fullword
-  
+        $str1 = "IntelRestore" ascii fullword
+        $str2 = "Resent" wide fullword
+        $str3 = "ocp8.1" wide fullword
+        $str4 = "rsfvxd.dat" ascii fullword
+        $str5 = "tsb386.dat" ascii fullword
+        $str6 = "frmmlg.dat" ascii fullword
+        $str7 = "smdhost.dll" ascii fullword
+        $str8 = "KDLLCFX" wide fullword
+        $str9 = "KDLLRUNDRV" wide fullword
     condition:
-        ($mz at 0) and (2 of ($str*))
+        uint16(0) == 0x5a4d and (2 of ($str*))
 }
 
 rule Prikormka
 {
-    
     meta:
         Author      = "Anton Cherepanov"
         Date        = "2016/05/10"
@@ -138,7 +130,7 @@ rule Prikormka
         Source = "https://github.com/eset/malware-ioc/"
         Contact = "threatintel@eset.com"
         License = "BSD 2-Clause"
-    
+        id = "6073aa34-d385-5ae8-b97d-9b3d61015aae"
     condition:
         PrikormkaDropper or PrikormkaModule or PrikormkaEarlyVersion
 }
