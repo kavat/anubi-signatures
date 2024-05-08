@@ -1,0 +1,9 @@
+19f927386a03ce8d2866879513f37ea0:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+39df26099caf5d5edf264801a486e4ee:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+65377fa1d86351c7bd353b51f68f6b80:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+8e878695aab7ab16e38265c3a5f17970:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+a0e197b9c359b89e48c3f0c01af21713:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+b9e9a29229a10deecc104654cb7c71ae:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+c7a8c3c78ac973785f700c537fbfcb00:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+e0dab7efb9cea5b6a010c8c5fee1a285:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users
+efcbcd6a2166745153c329fd2d486b3a:Spyware Telegram mod distributed via Google Play - Evil Telegram doppelganger attacks Chinese users

@@ -1,0 +1,29 @@
+01b5f7094de0b2c6f8e28aa9a2ded678c166d615530e595621e692a9c0240732:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+18101518eae3eec6ebe453de4c4c380160774d7c3ed5c79e1813013ac1bb0b93:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+19f1ef66e449cf2a2b0283dbb756850cca396114286e1485e35e6c672c9c3641:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+1e74cf0223d57fd846e171f4a58790280d4593df1f23132044076560a5455ff8:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+1fddf14984c6b57358401a4587e7b950:BlueNoroff: new Trojan attacking macOS users
+219fb90d2e88a2197a9e08b0e7811e2e0bd23d59233287587ccc4642c2cf3d67:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+34c8f155601a3948ddb0d60b582cfe87de970d443cc0e05df48b1a1ad2e42b5e:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+3b3b3b9f7c71fcd7239abe90c97751c0:BlueNoroff: new Trojan attacking macOS users
+440b5385d3838e3f6bc21220caa83b65cd5f3618daea676f271c3671650ce9a3:AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities
+4bf1915785d7c6e0987eb9c15857f7ac67dc365177a1707b14822131d43a6166:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+7b666b978dbbe7c032cef19a90993e8e4922b743ee839632bfa6d99314ea6c53:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+80c1256f8bb2a9572e20dd480ac68759:BlueNoroff: new Trojan attacking macOS users
+90385d612877e9d360196770d73d22d6:BlueNoroff: new Trojan attacking macOS users
+92c7693e82a90d08249edeafbca6533fed81b62e9e056dec34c24756e0a130a6:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+950adbaf66ab214de837e6f1c00921c501746616a882ea8c42f1bad5f9b6eff4:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+971f0ced6c42dd2b6e3ea3e6c54d0081cf9b06e79a38c2ede3a2c5228c27a6dc:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+b1e01ae0006f449781a05f4704546b34:BlueNoroff: new Trojan attacking macOS users
+b53e27c79eed8531b1e05827ace2362603fb9f77f53cee2e34940d570217cbf7:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+ba284a4b508a7abd8070a427386e93e0:AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities
+c37c109171f32456bbe57b8676cc533091e387e6ba733fbaa01175c43cfb6ebd:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+c40a8006a7b1f10b1b42fdd8d6d0f434be503fb3400fb948ac9ab8ddfa5b78a0:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+c7b01242d2e15c3da0f45b8adec4e6913e534849cde16a2a6c480045e03fbee4:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+c832462c15c8041191f190f7a88d25089d57f78e97161c3003d68d0cc2c4baa3:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+cd3584d61c2724f927553770924149bb51811742a461146b15b34a26c92cad43:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+d724728344fcf3812a0664a80270f7b4980b82342449a8c5a2fa510e10600443:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+d8011dcca570689d72064b156647fa82:BlueNoroff: new Trojan attacking macOS users
+ebe231c90fad02590fc56d5840acc63b90312b0e2fee7da3c7606027ed92600e:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+f1b40e6e5a7cbc22f7a0bd34607b13e7e3493b8aad7431c47f1366f0256e23eb:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
+f6194121e1540c3553273709127dfa1daab96b0acfab6e92548bfb4059913c69:AA23-347A Russian Foreign Intelligence Service (SVR) Exploiting JetBrains TeamCity CVE Globally
