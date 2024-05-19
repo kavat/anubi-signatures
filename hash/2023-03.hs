@@ -1,228 +1,350 @@
-0012f5bfe97421d39751eb20d857ae09:The Unintentional Leak: A glimpse into the attack vectors of APT37
-00a7c9ad2e975e19034838a14f73a46a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-012f0dd04c9c810c14cdde08cfbca3c5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0164d8a2d27cfd312fb709c60c351850:The Unintentional Leak: A glimpse into the attack vectors of APT37
-02baa23f3baecdc29d96bffea165191b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-030c3873f1a45eab56dca00fa8fa9a14:The Unintentional Leak: A glimpse into the attack vectors of APT37
-030df9bca0a35bcd88d5897482ee226d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-04802790b64d66b9257ae119ee7d39a5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-04a7290e04fd1855140373aa3d453cef:The Unintentional Leak: A glimpse into the attack vectors of APT37
-06b7207879bd9ed42b323e16bb757a3c:The Unintentional Leak: A glimpse into the attack vectors of APT37
-06c112968cdde43c3424bdf0a2a00928:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0923c69808352feb9a57a766c611b7d4:The Unintentional Leak: A glimpse into the attack vectors of APT37
-093ad28a08314e8fe79c26828137ab0a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0947efee85596a17bdd1e798826d48aa:The Unintentional Leak: A glimpse into the attack vectors of APT37
-097edc04368d411593fff1f49c2e1d9c:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0a95a985e6be0918fdb4bfabf0847b5a:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-0beeb858734cd7da03b1284e7fe00b22:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0bf53a165b2bd64be31093fefbb9fb51:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0bf993c36aac528135749ec494f96e96:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0c2375825dcae816a1f9b53f8f82d705:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0cb75b1192b23b8e03d955f1156ad19e:BatLoader Continues to Abuse Google Search Ads to Deliver Vidar Stealer and Ursnif
-0d15b99583b3b9638b2c7976b4a1d2ef:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0db43beb06845026cf33c59baa66b393:The Unintentional Leak: A glimpse into the attack vectors of APT37
-0fb698efce9476c3f2b603b30f5e35d5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-1032986517836a8b1f87db954722a33f:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-11ae3dabdb2d2458da43558f36114acb:BatLoader Continues to Abuse Google Search Ads to Deliver Vidar Stealer and Ursnif
-11b0c0577e12400cddc7b62b763a1dd1:The Unintentional Leak: A glimpse into the attack vectors of APT37
-120a677df1c4d1f0792b6547d3b60183:The Unintentional Leak: A glimpse into the attack vectors of APT37
-122208301a3727c5fc7794ff0f7947bf:The Unintentional Leak: A glimpse into the attack vectors of APT37
-1531bba6a8028d38d36c0a91b91159c3:The Unintentional Leak: A glimpse into the attack vectors of APT37
-174ae3db1dd4c61037bc7a5bf71d1366:The Unintentional Leak: A glimpse into the attack vectors of APT37
-17bc6298bf72fa76ad6e3f29536e2f13:The Unintentional Leak: A glimpse into the attack vectors of APT37
-1803d81e1d0ccb91c752ecb4bc3b6f0c:The Unintentional Leak: A glimpse into the attack vectors of APT37
-19c0583e57385f574c9986de6a26adae:The Unintentional Leak: A glimpse into the attack vectors of APT37
-1de44e8da621cdeb62825d367693c75e:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-1e05dbe1846c1704b9a7a1db13fdd976:The Unintentional Leak: A glimpse into the attack vectors of APT37
-1f4038a9c6266b60f784c37efbb832f5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-1fe3a2502e330432f3cf37ca7acbffac:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-211b412fe5c4b207eb39384499b93342:The Unintentional Leak: A glimpse into the attack vectors of APT37
-22652b383d9ea880a4644a35cd5fadaf:The Unintentional Leak: A glimpse into the attack vectors of APT37
-237bcbe07219eb24104815205cc01d24:The Unintentional Leak: A glimpse into the attack vectors of APT37
-24daf49d81008da00c961091cbfc8438:The Unintentional Leak: A glimpse into the attack vectors of APT37
-28b807be70e49ebc0c65455f430d6408:The Unintentional Leak: A glimpse into the attack vectors of APT37
-2a982b843cf92081fc4202e11a1f7234:The Unintentional Leak: A glimpse into the attack vectors of APT37
-2ab575f9785239d59395ec501ceaec2e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-2bf05e2526911b3bdb7f77cbbe4155f3:The Unintentional Leak: A glimpse into the attack vectors of APT37
-2c697d27cd2e455ae18b6744a47eef4f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-2cf2805529ebc68884979e582e12cf8d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-2ffcb634118aaa6154395374f0c66010:The Unintentional Leak: A glimpse into the attack vectors of APT37
-31793153b12f1187287007578017abd4:The Unintentional Leak: A glimpse into the attack vectors of APT37
-31da11dbf80715138261904b2249a7f8:The Unintentional Leak: A glimpse into the attack vectors of APT37
-328dc6e7acce35abaaf3811bac2bc838:The Unintentional Leak: A glimpse into the attack vectors of APT37
-34d3e5306cff0bfe831ccd89d095ef33:The Unintentional Leak: A glimpse into the attack vectors of APT37
-353370ade2a2491c29f20f07860cf492:The Unintentional Leak: A glimpse into the attack vectors of APT37
-38d9ff50b68144a9a40d1e7e3d06adb0:The Unintentional Leak: A glimpse into the attack vectors of APT37
-3a23ee36f792e241772e81aeeccf8aa8:The Unintentional Leak: A glimpse into the attack vectors of APT37
-3a4f4b1fb30fbb70c14dea600a56ca68:The Unintentional Leak: A glimpse into the attack vectors of APT37
-3b52f149e220da28bf9cd719570979ce:The Unintentional Leak: A glimpse into the attack vectors of APT37
-3c3fc3f47abf0ec7a3ab797b21b123e2:The Unintentional Leak: A glimpse into the attack vectors of APT37
-3db1edc5b5550f54abdcb5520cf91d75:BatLoader Continues to Abuse Google Search Ads to Deliver Vidar Stealer and Ursnif
-3dd12d67844b047486740405ae96f1a4:The Unintentional Leak: A glimpse into the attack vectors of APT37
-3fe6722cd256d6d5e1d5f5003d6a01a5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-441adf67527915c09cfe29727b111a6a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-45bd3001517f5e913ddde83827f4cc29:The Unintentional Leak: A glimpse into the attack vectors of APT37
-4987ed60bb047d4ca660142b05556125:The Unintentional Leak: A glimpse into the attack vectors of APT37
-498b20e20af190c6650f03e8adf9a5b7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-4d27d6b01f85a4b40650e6bc7cc18ed3:The Unintentional Leak: A glimpse into the attack vectors of APT37
-532ec6d88c728afecfcf8fbb38fb8add:The Unintentional Leak: A glimpse into the attack vectors of APT37
-54004dfaa48ca5fa91e3304fb99559a2395301c570026450882d6aad89132a02:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-549162b9ec4c80f9a0ca410ff29c8e98:The Unintentional Leak: A glimpse into the attack vectors of APT37
-54a99efd1b9adec5dc0096c624f21660:The Unintentional Leak: A glimpse into the attack vectors of APT37
-561b29a5650ff7fe6e63fa19c29ee240:The Unintentional Leak: A glimpse into the attack vectors of APT37
-59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-5a8bdfb0008767cdb05dfcc3223e9a70:The Unintentional Leak: A glimpse into the attack vectors of APT37
-5c67c9266e4267d1bf0862bf2c7bd2a5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-5d99efa36f34aa6b43cd81e77544961c5c8d692c96059fef92c2df2624550734:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-5e2e5b71503adedf786bc69f3849750f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-5e95023c6ac3f3fefe00cfc2b4b1d093:The Unintentional Leak: A glimpse into the attack vectors of APT37
-5f2dcb1e51c8d574f43c8f7c7f84d9fa:The Unintentional Leak: A glimpse into the attack vectors of APT37
-624567dae70fc684b2a80b5f0f1de46d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-632104e97870c1177c211f5e2d963b75:The Unintentional Leak: A glimpse into the attack vectors of APT37
-67cc91e889b4a597a6486db0e92fa4d1:The Unintentional Leak: A glimpse into the attack vectors of APT37
-681a21cb83e82da88f42f9fb0dd764b6:The Unintentional Leak: A glimpse into the attack vectors of APT37
-684a61eedb2ec26d663c3d42a107f281:The Unintentional Leak: A glimpse into the attack vectors of APT37
-6ab401c83095129a182b9be0359d602d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-6ac4b333e6d7f64aee5c32e20d624f2e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-6bd63cf73cab3305686f2ee41d69bd42:The Unintentional Leak: A glimpse into the attack vectors of APT37
-6da10cc37edee7e16c520f2f95cd9304:The Unintentional Leak: A glimpse into the attack vectors of APT37
-6db5f68b74c8ba397104da419fcc831d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-6dc7795dde643aae9ced8e22db335ad1:The Unintentional Leak: A glimpse into the attack vectors of APT37
-7058661c3f944f868e5a47c4440daa9b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-71389f565a5ebe573c94d688fa6f23ea:The Unintentional Leak: A glimpse into the attack vectors of APT37
-715d408b45e5334a985e7e6279fa80ac:The Unintentional Leak: A glimpse into the attack vectors of APT37
-717dab257423d5fd93d0d02f3ff242e7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-72a38aa3e128d2ffca141a41a4101dca:The Unintentional Leak: A glimpse into the attack vectors of APT37
-73715c82e31702f56858226557f98444:The Unintentional Leak: A glimpse into the attack vectors of APT37
-74bc2d0b6680faa1a5a76b27e5479cbc:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-75fe480a0669e80369eaf640857c27cd:The Unintentional Leak: A glimpse into the attack vectors of APT37
-765f45198cb8039079a28289eab761c5:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-77a6f57ccefeda14d5faf44cc37b69da:The Unintentional Leak: A glimpse into the attack vectors of APT37
-79d5af9d4826f66090e4daf6029ed643:The Unintentional Leak: A glimpse into the attack vectors of APT37
-79e158af8ded991ee95a0f10654576ce:The Unintentional Leak: A glimpse into the attack vectors of APT37
-7b60dc663e1025e8892b96fa9fc34f00:The Unintentional Leak: A glimpse into the attack vectors of APT37
-7c0e5627fd25c40374bc22035d3fadd8:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-7c370a0b1fef5dfad829a8b6368b9114:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-7c53f15614d5f9cf2791cb31811893a7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-7cba0c911b74d889f05f8b954926aa67:The Unintentional Leak: A glimpse into the attack vectors of APT37
-7f030cbf7ce41b9eb15693ee92b637a5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-802bf381dd7f7f6cea077ab2a1814027:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8113798acc4d5690712d28b39a7bb13a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-820d302655d5cd5dd67859f7a5cb74fe:The Unintentional Leak: A glimpse into the attack vectors of APT37
-82187ad3f0c6c225e2fba0c867280cc9:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-85fbc743bb686688ce05cf3289507bf7:BatLoader Continues to Abuse Google Search Ads to Deliver Vidar Stealer and Ursnif
-87aaf50fc5024b5e18f47c50147528b4:The Unintentional Leak: A glimpse into the attack vectors of APT37
-87c3e8e4308aac42fed82de86b0d4cb6:The Unintentional Leak: A glimpse into the attack vectors of APT37
-881ccfd6c11b774b80b304ab78efef53:The Unintentional Leak: A glimpse into the attack vectors of APT37
-882d4d6528404c3ceacee099f59bfab4:The Unintentional Leak: A glimpse into the attack vectors of APT37
-886702585a3951882801b9eecb76c604:The Unintentional Leak: A glimpse into the attack vectors of APT37
-89d1888d36ff615adf46c317c606905e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8a5e7f281b51c2b9e364c26e3f699019:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8a74a931e6ed4ae477547707da2fd76c:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8c2f5e7432f1e6ad22002991772d589b:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-8c3bb54dcd4704a0f0b307863345c5d1:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8c4cbe900cf69c739882cef844b1ac11:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8d7141882a95be5dcfa8ce90d7079541:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8db5578f5245c805c785ae38ea8a1363:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8eb56493d984b3c2fa4c2dedb6871dd7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-8faabae5e6766a6a93a56014cca5c295:The Unintentional Leak: A glimpse into the attack vectors of APT37
-914521cb6b4846b2c0e85588d5224ba2:The Unintentional Leak: A glimpse into the attack vectors of APT37
-92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-920ccffa488d2b0e9aa19acc5f31fc3a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-92974d1677fa840fcc3d6599df86d38f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-93675086f33fb0708982eafea5568f05:The Unintentional Leak: A glimpse into the attack vectors of APT37
-93817f6dfe3a7596eeef049eda9c8b18:The Unintentional Leak: A glimpse into the attack vectors of APT37
-93e94b673c6d1ea6d615c0102dc77610:The Unintentional Leak: A glimpse into the attack vectors of APT37
-9bf4576a1381c15c08060ca6cfd59949:The Unintentional Leak: A glimpse into the attack vectors of APT37
-9c6d553682813724424a7fcc7af8729d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-9d85c8378b5f1edefb1e9837b3abb74f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-9e19fe5c3cf3e81f347dd78cf3c2e0c2:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-9e1a2b331fd1e4ee77880d8f62025cd1:The Unintentional Leak: A glimpse into the attack vectors of APT37
-9e7099b32f6bd36724a71f6c3cb21d17:The Unintentional Leak: A glimpse into the attack vectors of APT37
-9ebbe0a1b79e6f13bfca014f878ddeec:BatLoader Continues to Abuse Google Search Ads to Deliver Vidar Stealer and Ursnif
-a13fb4e11b31d109a1b145f20ea4b929:The Unintentional Leak: A glimpse into the attack vectors of APT37
-a372e8dfd1940ef4f9e74095a8bf3bd7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-a48ac5efd350341beab9a4fdfb7f68d7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-a5ce8fe31da94fdea9c25f3abcdd5982:The Unintentional Leak: A glimpse into the attack vectors of APT37
-a60a61bf844bc181d4540c9fac53203250a982e7c3ad6153869f01e19cc36203:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-a6b30fc17d6ff9aa84fb93c3f05a4171:The Unintentional Leak: A glimpse into the attack vectors of APT37
-a85dc5403cb1fe7d0ae692a431e1eae3:The Unintentional Leak: A glimpse into the attack vectors of APT37
-a8bcbb34e11d7b23721ec07eadb5ddc5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-aa68044e16a115af4ea1de3d062c4e41:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ab0dc3964a203eea96a233c8d068de95:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ac51f29d609c73cce8db67c86aa49ba0:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ac7f8e5245f9736a1323509a537e54eb:The Unintentional Leak: A glimpse into the attack vectors of APT37
-acf9bad00bc1d2649ad918b0524c7761:The Unintentional Leak: A glimpse into the attack vectors of APT37
-af89179ef2c8365ca413fed8553159fa:The Unintentional Leak: A glimpse into the attack vectors of APT37
-afdc59ec36ac950de08169162783accd:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b1d2c6233d56ef3aeaa08cff7a7d2971:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b2ce0ba21ae1e982a3a33a676c958bec:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b2d7c047dc1c7fb7074111128594c36e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b34761f5272c9109c47780f415d28631:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b4adb4fede9025f6dd85faac072a02e7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b6c4137868e2c305241093e967b2d60b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b7275a3931fb85f723a4ceec9478c89e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b7b1095620b8629c73191d5c05afc446:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b840485840480d42b3b8e576eecdf2ee:The Unintentional Leak: A glimpse into the attack vectors of APT37
-b86c695822013483fa4e2dfdf712c5ee777d7b99cbad8c2fa2274b133481eadb:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-b9f423b42df0df0cb5209973345d267c:The Unintentional Leak: A glimpse into the attack vectors of APT37
-bb182e47e1ffc0e8335b3263112ffdb1:The Unintentional Leak: A glimpse into the attack vectors of APT37
-bca3f0b4a5a1cbcd3efa1ca0df7f0d4b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c09939e972432968976efc22f556bd0f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c0bfb9f408263c1bc574a08fa164a61f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c0d25429f924016765711cd860fd03f9:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c1b6390f0ef992571fa9ed3c47eb0883:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c23c17756e5ccf9543ea4fb9eb342fde:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c29d11961b9662a8cb1c7edd47d94ae5:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c3325c43b6eea2510f9c9f1df7b7ce22:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c5f954436e9623204ed961b9b33e769d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-c97a32c7555fc81f296fee0a65fec079:The Unintentional Leak: A glimpse into the attack vectors of APT37
-cae4d578b1bdaa4e193095f035cecbc6:The Unintentional Leak: A glimpse into the attack vectors of APT37
-cb33ef9c824d16ff23af4e01f017e648:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ce8d77af445e3a7c7e56a6ea53af8c0d:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-cf012ca48b5e1f6743be7e0d10cdfd2e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-cfd73942f61fbb14dded15f3d0c92f4a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-d020d573d28e3febb899446e3a65e025:The Unintentional Leak: A glimpse into the attack vectors of APT37
-d32ccdcf79932dd9d7eaf4fd75bfade2:The Unintentional Leak: A glimpse into the attack vectors of APT37
-d431c37057303e5609f0bffa83874402:The Unintentional Leak: A glimpse into the attack vectors of APT37
-d45674f941be3cca2fbc1af42778043cc18cd86d95a2ecb9e6f0e212ed4c74ae:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-d5ad2c1790c715d88b5e05ca4329417d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-d942353d15077352dcae83dd04869e1a:The Unintentional Leak: A glimpse into the attack vectors of APT37
-dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-deed5eb8b19dae07720e97b485a5f1e4:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e32f59fd5acbe01d2171ba6c2f24e3ca:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e3879ea3f695706dfc3fc1fb68c6241d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e557693cc879beeb1a455cac02724ea7:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e5865d8cee159ac02ee53ef52f4058ac:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e5c509a33db926f3087c3a52546b71f2:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-e7104d3e388530a43623981138112e03:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e73b6c906f1070d569a0e9b70304be01:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e8ab4f80ebad24260869e89bca69957d:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e9230cf7615338ab037719646d67351b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e9562655c36d46f4b6534f189ae453a0:The Unintentional Leak: A glimpse into the attack vectors of APT37
-e9cd4c60582a587416c4807c890f8a5b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-eb7a6e3dc8bbc26f208c511ec7ee1d4c:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ebaf3c6818bfc619ca2876abd6979f6d:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-ecb7af5771f4fe36a3065dc4d5516d84:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-edb87c2cabcc402173fa0153f4e8ae26:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ee06a0d6e5645248db88c279ec0e8624:The Unintentional Leak: A glimpse into the attack vectors of APT37
-eecf78848dde0d41075e35d3aa404697:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ef5aa1dfbfc4c9128a971e006da0cb8b:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f07a3d146f32bfa8f53e5cae7178559e:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f0b7abea21984790d2906adf9653c542:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f11b9fb8208b9949859785810f251334:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f2be2c1e80769a45761d0b69a46a627f:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f3f4cf7876817b1e8a2d49fe9bd7b206:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f7a73eaf15ee8d8f3257a359af5987eb:The Unintentional Leak: A glimpse into the attack vectors of APT37
-f96fa367261df9cc2b021318ce361ec6:The Unintentional Leak: A glimpse into the attack vectors of APT37
-fa797b29229613f054378c8a32fcefbc:The Unintentional Leak: A glimpse into the attack vectors of APT37
-fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405:CrowdStrike Falcon Platform Detects and Prevents Active Intrusion Campaign Targeting 3CXDesktopApp Customers
-faf6139671f07db49056f4e0470ab188:The Unintentional Leak: A glimpse into the attack vectors of APT37
-fb60a976bbed174effa6081a35abee87:The Unintentional Leak: A glimpse into the attack vectors of APT37
-fbc339cd3f4d39af108b4fdb70202b22:The Unintentional Leak: A glimpse into the attack vectors of APT37
-fee3db5db8817e82b1af4cedafd2f346:Bad magic: new APT found in the area of Russo-Ukrainian conflict
-ff2ccc12007bbf3f5934a5dfdc8430ee:The Unintentional Leak: A glimpse into the attack vectors of APT37
-ffba3072600a1f06d260137f82371227:The Unintentional Leak: A glimpse into the attack vectors of APT37
+0012f5bfe97421d39751eb20d857ae09:AglimpseintotheattackvectorsofAPT37
+00a7c9ad2e975e19034838a14f73a46a:AglimpseintotheattackvectorsofAPT37
+00c85f0aa5f0c3ce51505cf807fd5af3:Kimsuky
+00dc44731957d5221588b2ed9eaef09a:BitterRAT
+012f0dd04c9c810c14cdde08cfbca3c5:AglimpseintotheattackvectorsofAPT37
+0164d8a2d27cfd312fb709c60c351850:AglimpseintotheattackvectorsofAPT37
+01ed7609e3bab9bcfc4cab9e055854e0d48b136bdecc6cf294e6f737a76fec02:S.O.V.A.
+02baa23f3baecdc29d96bffea165191b:AglimpseintotheattackvectorsofAPT37
+030c3873f1a45eab56dca00fa8fa9a14:AglimpseintotheattackvectorsofAPT37
+030df9bca0a35bcd88d5897482ee226d:AglimpseintotheattackvectorsofAPT37
+04802790b64d66b9257ae119ee7d39a5:AglimpseintotheattackvectorsofAPT37
+0498c32f2609bf06d28289a09e413aa7:CrimsonRAT
+04a7290e04fd1855140373aa3d453cef:AglimpseintotheattackvectorsofAPT37
+04b83ed773a7b82a81db79be03cee68d:CrimsonRAT
+06b7207879bd9ed42b323e16bb757a3c:AglimpseintotheattackvectorsofAPT37
+06c112968cdde43c3424bdf0a2a00928:AglimpseintotheattackvectorsofAPT37
+0725318b4f5c312eeaf5ec9795a7e919:Unknownmalware
+0923c69808352feb9a57a766c611b7d4:AglimpseintotheattackvectorsofAPT37
+093ad28a08314e8fe79c26828137ab0a:AglimpseintotheattackvectorsofAPT37
+0947efee85596a17bdd1e798826d48aa:AglimpseintotheattackvectorsofAPT37
+097edc04368d411593fff1f49c2e1d9c:AglimpseintotheattackvectorsofAPT37
+0a95a985e6be0918fdb4bfabf0847b5a:newAPTfoundintheareaofRusso-Ukrainianconflict
+0beeb858734cd7da03b1284e7fe00b22:AglimpseintotheattackvectorsofAPT37
+0bf53a165b2bd64be31093fefbb9fb51:AglimpseintotheattackvectorsofAPT37
+0bf993c36aac528135749ec494f96e96:AglimpseintotheattackvectorsofAPT37
+0c2375825dcae816a1f9b53f8f82d705:AglimpseintotheattackvectorsofAPT37
+0cb75b1192b23b8e03d955f1156ad19e:Ursnif
+0d15b99583b3b9638b2c7976b4a1d2ef:AglimpseintotheattackvectorsofAPT37
+0db43beb06845026cf33c59baa66b393:AglimpseintotheattackvectorsofAPT37
+0fb698efce9476c3f2b603b30f5e35d5:AglimpseintotheattackvectorsofAPT37
+1032986517836a8b1f87db954722a33f:newAPTfoundintheareaofRusso-Ukrainianconflict
+11ae3dabdb2d2458da43558f36114acb:AdobeSetup.msi(BatLoader)
+11b0c0577e12400cddc7b62b763a1dd1:AglimpseintotheattackvectorsofAPT37
+120a677df1c4d1f0792b6547d3b60183:AglimpseintotheattackvectorsofAPT37
+122208301a3727c5fc7794ff0f7947bf:AglimpseintotheattackvectorsofAPT37
+1340b18f94a25d7950a0928cb9ce4d98:Unknownmalware
+138b6bfd4f3cf43f93691b511e15f148:Unknownmalware
+14cd7b6d59808b533a819620fdbea9c9813a9f1614e886534a2d03a41e119608:S.O.V.A.
+1531bba6a8028d38d36c0a91b91159c3:AglimpseintotheattackvectorsofAPT37
+15c74f8c597d2937abae779ee5ef95d7:Unknownmalware
+174ae3db1dd4c61037bc7a5bf71d1366:AglimpseintotheattackvectorsofAPT37
+17bc6298bf72fa76ad6e3f29536e2f13:AglimpseintotheattackvectorsofAPT37
+1803d81e1d0ccb91c752ecb4bc3b6f0c:AglimpseintotheattackvectorsofAPT37
+182cc43b2817250ebd80a116f82a7a410ded22ea12821ca192f8a8d29d3b0b09:S.O.V.A.
+188fb1d3a8bad42c9ed3cde807fe9f4de4899aaa9ba88bc055dbd7a42ba1beb5:S.O.V.A.
+19c0583e57385f574c9986de6a26adae:AglimpseintotheattackvectorsofAPT37
+1de44e8da621cdeb62825d367693c75e:newAPTfoundintheareaofRusso-Ukrainianconflict
+1e05dbe1846c1704b9a7a1db13fdd976:AglimpseintotheattackvectorsofAPT37
+1f4038a9c6266b60f784c37efbb832f5:AglimpseintotheattackvectorsofAPT37
+1fe3a2502e330432f3cf37ca7acbffac:newAPTfoundintheareaofRusso-Ukrainianconflict
+207915d32231466213c7ebc2113fb83c960003d8a72d15d402c22c821d771474:S.O.V.A.
+211b412fe5c4b207eb39384499b93342:AglimpseintotheattackvectorsofAPT37
+21343fd8eda5e491bafa9d953675afcaec9bc87fc97c791559b63411a9c93fa0:S.O.V.A.
+22652b383d9ea880a4644a35cd5fadaf:AglimpseintotheattackvectorsofAPT37
+22652b383d9ea880a4644a35cd5fadaf:Unknownmalware
+237bcbe07219eb24104815205cc01d24:AglimpseintotheattackvectorsofAPT37
+24daf49d81008da00c961091cbfc8438:AglimpseintotheattackvectorsofAPT37
+254430fa6b7bc8613f90607cfbf1359a:QuasarRAT
+2642f43e308564519faa18d394e01e8e:Unknownmalware
+28b807be70e49ebc0c65455f430d6408:AglimpseintotheattackvectorsofAPT37
+2a982b843cf92081fc4202e11a1f7234:AglimpseintotheattackvectorsofAPT37
+2ab575f9785239d59395ec501ceaec2e:AglimpseintotheattackvectorsofAPT37
+2bf05e2526911b3bdb7f77cbbe4155f3:AglimpseintotheattackvectorsofAPT37
+2c1a38a7d8c7c12a71642be916f6462d:Unknownmalware
+2c697d27cd2e455ae18b6744a47eef4f:AglimpseintotheattackvectorsofAPT37
+2cf2805529ebc68884979e582e12cf8d:AglimpseintotheattackvectorsofAPT37
+2fbc0241f68a4e0d3ef666cd23ad6907:Unknownmalware
+2ffcb634118aaa6154395374f0c66010:AglimpseintotheattackvectorsofAPT37
+31793153b12f1187287007578017abd4:AglimpseintotheattackvectorsofAPT37
+31da11dbf80715138261904b2249a7f8:AglimpseintotheattackvectorsofAPT37
+31e0439e6ef1dd29c0db6d96bac59446:Clop
+32031a03a5302c16d28028dbe3cc911e:Unknownmalware
+328dc6e7acce35abaaf3811bac2bc838:AglimpseintotheattackvectorsofAPT37
+3388dde5bfe7284ec9a7a01a3bd84a8a:Unknownmalware
+34d3e5306cff0bfe831ccd89d095ef33:AglimpseintotheattackvectorsofAPT37
+353370ade2a2491c29f20f07860cf492:AglimpseintotheattackvectorsofAPT37
+38d9ff50b68144a9a40d1e7e3d06adb0:AglimpseintotheattackvectorsofAPT37
+3a23ee36f792e241772e81aeeccf8aa8:AglimpseintotheattackvectorsofAPT37
+3a4f4b1fb30fbb70c14dea600a56ca68:AglimpseintotheattackvectorsofAPT37
+3b52f149e220da28bf9cd719570979ce:AglimpseintotheattackvectorsofAPT37
+3c3fc3f47abf0ec7a3ab797b21b123e2:AglimpseintotheattackvectorsofAPT37
+3c687fb0a1921a53f9c607938f25fdd1:QuasarRAT
+3db1edc5b5550f54abdcb5520cf91d75:Vidar
+3dd12d67844b047486740405ae96f1a4:AglimpseintotheattackvectorsofAPT37
+3fe6722cd256d6d5e1d5f5003d6a01a5:AglimpseintotheattackvectorsofAPT37
+40ebd1557ea9f8f855c10af807ea6188:Unknownmalware
+43905bff6b7bdac9698c9109764e7ac3ffddddf59b9d278c648dfd8e6b1403ac:XWorm
+43c8ada7cb7c046893dd96aef195856ec94f62823ca1a2987adf31899788c92d:BitterRAT
+441adf67527915c09cfe29727b111a6a:AglimpseintotheattackvectorsofAPT37
+4431b6302b7d5b1098a61469bdfca982:Clop
+45b64a90d9342d7046b5008355085fa23bdfe2843f82c60c557139135c23e44e:S.O.V.A.
+45bd3001517f5e913ddde83827f4cc29:AglimpseintotheattackvectorsofAPT37
+49186f8de7fd462a7f6703c9b8e6df04:Unknownmalware
+493f24d7e8543ad526e6e30cd6e23b7d71d4391d2534d48cd54099697e85e53f:S.O.V.A.
+4987ed60bb047d4ca660142b05556125:AglimpseintotheattackvectorsofAPT37
+498b20e20af190c6650f03e8adf9a5b7:AglimpseintotheattackvectorsofAPT37
+4d27d6b01f85a4b40650e6bc7cc18ed3:AglimpseintotheattackvectorsofAPT37
+4d88008dd3eedf40defa061dcf1920aa4c5ef9d55ef7ba6041d46a630bccb8ea:Unidentified001
+4e54c1e8694e170244e4b7892bdb3ff0:Unknownmalware
+4e5902809c2d4b55dc13e686249a2ea9:Unknownmalware
+4f16706287452fe3c5ff0980100f068330625174dec45f23a3169cc760c8c922:S.O.V.A.
+4f40f875c733f996f62900ecad6fcf4d:Unknownmalware
+52e793b9acdb66509008a0ba0475bb3f:Kimsuky
+532ec6d88c728afecfcf8fbb38fb8add:AglimpseintotheattackvectorsofAPT37
+54004dfaa48ca5fa91e3304fb99559a2395301c570026450882d6aad89132a02:(18.12.407)
+5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290:3CXDesktopAppmacOSDMGInstallerhashes
+546bc8d7b0386e95c231dff26cc755fc241bdea33243691625ec63a0a3a9487e:S.O.V.A.
+549162b9ec4c80f9a0ca410ff29c8e98:AglimpseintotheattackvectorsofAPT37
+54a99efd1b9adec5dc0096c624f21660:AglimpseintotheattackvectorsofAPT37
+556c3ebebadeaa04e09e05447ab6cffa9481b18625dc3a0eae590e275e6ed53a:S.O.V.A.
+561b29a5650ff7fe6e63fa19c29ee240:AglimpseintotheattackvectorsofAPT37
+59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983:3CXDesktopAppMSIInstallerSHA256hashes
+5a8bdfb0008767cdb05dfcc3223e9a70:AglimpseintotheattackvectorsofAPT37
+5c67c9266e4267d1bf0862bf2c7bd2a5:AglimpseintotheattackvectorsofAPT37
+5d88209f02852e9023c1963e68da2806:Unknownmalware
+5d99efa36f34aa6b43cd81e77544961c5c8d692c96059fef92c2df2624550734:(18.12.416)
+5e2e5b71503adedf786bc69f3849750f:AglimpseintotheattackvectorsofAPT37
+5e52f75d17c80dd104ce0da05fdfc362:Clop
+5e95023c6ac3f3fefe00cfc2b4b1d093:AglimpseintotheattackvectorsofAPT37
+5efddbdcf40ba01f1571140bad72dccb:SideWinder
+5f2dcb1e51c8d574f43c8f7c7f84d9fa:AglimpseintotheattackvectorsofAPT37
+601ad7c2874feac89a1d32d2b40c17256c5f2ecd1440f6bdb6a300f9821271e0:S.O.V.A.
+612deae8800cfd8427dc17cc1e8ff934:Unknownmalware
+615715495cbc3e52a7cef9e7cfe4b5a6e4343c4caa36f7ee41d786789bc7aa93:S.O.V.A.
+624567dae70fc684b2a80b5f0f1de46d:AglimpseintotheattackvectorsofAPT37
+62ac8afc16d45c18a99b44745daf1a62a462b32cb664c3d3e2bf15ceefc45d9c:S.O.V.A.
+632104e97870c1177c211f5e2d963b75:AglimpseintotheattackvectorsofAPT37
+641dd9f95db7f9c223b37effce5713b0:Unidentified001
+66de574ab3558614e486681813dc1104b7384870e49eba38660ee82a0c73bec0:S.O.V.A.
+67cc91e889b4a597a6486db0e92fa4d1:AglimpseintotheattackvectorsofAPT37
+681a21cb83e82da88f42f9fb0dd764b6:AglimpseintotheattackvectorsofAPT37
+684a61eedb2ec26d663c3d42a107f281:AglimpseintotheattackvectorsofAPT37
+6ab401c83095129a182b9be0359d602d:AglimpseintotheattackvectorsofAPT37
+6ac4b333e6d7f64aee5c32e20d624f2e:AglimpseintotheattackvectorsofAPT37
+6ba64921b6bec546cd2843e931a133cc06a8ec4eb25b1675f4d0313c180d5a17:AgentTesla
+6bd63cf73cab3305686f2ee41d69bd42:AglimpseintotheattackvectorsofAPT37
+6d3145569c1c4634073a97a16b56a78e4430053cbdab14e302457b0abfc388f3:S.O.V.A.
+6d78c5319a11c39296a576859deb5e396a1bd8621f631e95e9079bf89ced110a:S.O.V.A.
+6da10cc37edee7e16c520f2f95cd9304:AglimpseintotheattackvectorsofAPT37
+6db5f68b74c8ba397104da419fcc831d:AglimpseintotheattackvectorsofAPT37
+6dc7795dde643aae9ced8e22db335ad1:AglimpseintotheattackvectorsofAPT37
+6f7e57ed7239905fafc3947160b5fc89ad615772d2a694299999d2fe080453f4:S.O.V.A.
+7058661c3f944f868e5a47c4440daa9b:AglimpseintotheattackvectorsofAPT37
+71389f565a5ebe573c94d688fa6f23ea:AglimpseintotheattackvectorsofAPT37
+715cd8f5ce329b92ed0361a50ce7cc90e7b34746380542c040b85d09d3a4fcff:ISFB
+715d408b45e5334a985e7e6279fa80ac:AglimpseintotheattackvectorsofAPT37
+717dab257423d5fd93d0d02f3ff242e7:AglimpseintotheattackvectorsofAPT37
+72633ea297b9e621e099dd070019ecd623ee93c62b4f9d47f24726816f69cc7d:S.O.V.A.
+72a38aa3e128d2ffca141a41a4101dca:AglimpseintotheattackvectorsofAPT37
+73715c82e31702f56858226557f98444:AglimpseintotheattackvectorsofAPT37
+74b780ed98cac6b72fd82d3260e216cd19968ba0d470f3934e618272f174c41a:S.O.V.A.
+74bc2d0b6680faa1a5a76b27e5479cbc:
+75fe480a0669e80369eaf640857c27cd:AglimpseintotheattackvectorsofAPT37
+765f45198cb8039079a28289eab761c5:newAPTfoundintheareaofRusso-Ukrainianconflict
+77a6f57ccefeda14d5faf44cc37b69da:AglimpseintotheattackvectorsofAPT37
+788008b98d8bff8f880b888c29ddddfa7b02e1a49243caf97ee3af8d3646e890:SpyNote
+790ab8a82d14f2723114d2c547e53f66:Unknownmalware
+798b0858ab6953cc58507fbd3ab11c70:XWorm
+79d5af9d4826f66090e4daf6029ed643:AglimpseintotheattackvectorsofAPT37
+79d5af9d4826f66090e4daf6029ed643:Unknownmalware
+79e158af8ded991ee95a0f10654576ce:AglimpseintotheattackvectorsofAPT37
+7a25ce566fba6df2f6520d2b200b62e2:Unknownmalware
+7b60dc663e1025e8892b96fa9fc34f00:AglimpseintotheattackvectorsofAPT37
+7c0e5627fd25c40374bc22035d3fadd8:newAPTfoundintheareaofRusso-Ukrainianconflict
+7c370a0b1fef5dfad829a8b6368b9114:
+7c53f15614d5f9cf2791cb31811893a7:AglimpseintotheattackvectorsofAPT37
+7cba0c911b74d889f05f8b954926aa67:AglimpseintotheattackvectorsofAPT37
+7f030cbf7ce41b9eb15693ee92b637a5:AglimpseintotheattackvectorsofAPT37
+802bf381dd7f7f6cea077ab2a1814027:AglimpseintotheattackvectorsofAPT37
+804f74149244cf400a28d13b684bb8d32535f31860f69b977f0cc386108c089f:S.O.V.A.
+8113798acc4d5690712d28b39a7bb13a:AglimpseintotheattackvectorsofAPT37
+820d302655d5cd5dd67859f7a5cb74fe:AglimpseintotheattackvectorsofAPT37
+82187ad3f0c6c225e2fba0c867280cc9:
+821ec39800471963a4ccef10b587b8d6:Unknownmalware
+82d58de096f53e4df84d6f67975a8dda:Unknownmalware
+85e9bdb40322b52c1faa450722276a86:CrimsonRAT
+85fbc743bb686688ce05cf3289507bf7:Ursnif
+8635a69131f07f61225891a7d5ec8ace:Unknownmalware
+865b0585b5021785cf3798d2deac092a:Unknownmalware
+87aaf50fc5024b5e18f47c50147528b4:AglimpseintotheattackvectorsofAPT37
+87c3e8e4308aac42fed82de86b0d4cb6:AglimpseintotheattackvectorsofAPT37
+881ccfd6c11b774b80b304ab78efef53:AglimpseintotheattackvectorsofAPT37
+882d4d6528404c3ceacee099f59bfab4:AglimpseintotheattackvectorsofAPT37
+886702585a3951882801b9eecb76c604:AglimpseintotheattackvectorsofAPT37
+89d1888d36ff615adf46c317c606905e:AglimpseintotheattackvectorsofAPT37
+8a1f4a512fe9edbcc62ba4b1c3e08f0a:CrimsonRAT
+8a5e7f281b51c2b9e364c26e3f699019:AglimpseintotheattackvectorsofAPT37
+8a74a931e6ed4ae477547707da2fd76c:AglimpseintotheattackvectorsofAPT37
+8bd774fbc6f846992abda69ddabc3fb7:Clop
+8c2f5e7432f1e6ad22002991772d589b:newAPTfoundintheareaofRusso-Ukrainianconflict
+8c3bb54dcd4704a0f0b307863345c5d1:AglimpseintotheattackvectorsofAPT37
+8c4cbe900cf69c739882cef844b1ac11:AglimpseintotheattackvectorsofAPT37
+8cda6f0501d45174e6128eaf96a05dac:Unknownmalware
+8d7141882a95be5dcfa8ce90d7079541:AglimpseintotheattackvectorsofAPT37
+8db5578f5245c805c785ae38ea8a1363:AglimpseintotheattackvectorsofAPT37
+8e03be6f58d97dd0ab31b37343a23e30b0bb6dc27589dce1cf7984db2cdfb43e:S.O.V.A.
+8eb56493d984b3c2fa4c2dedb6871dd7:AglimpseintotheattackvectorsofAPT37
+8f04196a2affe10bebd9774bd0cdcfb8bb1079c40557f967e9f5d352fef0857b:Mirai
+8f411a46490016ac5d126b83cee65022:QuasarRAT
+8faabae5e6766a6a93a56014cca5c295:AglimpseintotheattackvectorsofAPT37
+914521cb6b4846b2c0e85588d5224ba2:AglimpseintotheattackvectorsofAPT37
+92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61:3CXDesktopAppmacOSSHA256hashes
+9203e23be95a8c5c34903dd61bdbcd0d:Unidentified001
+920ccffa488d2b0e9aa19acc5f31fc3a:AglimpseintotheattackvectorsofAPT37
+92974d1677fa840fcc3d6599df86d38f:AglimpseintotheattackvectorsofAPT37
+93094e8a36e0330cb5a49b7689687c0d12dc1858d6364ad42394aff8387bf1f7:S.O.V.A.
+93675086f33fb0708982eafea5568f05:AglimpseintotheattackvectorsofAPT37
+93817f6dfe3a7596eeef049eda9c8b18:AglimpseintotheattackvectorsofAPT37
+93e94b673c6d1ea6d615c0102dc77610:AglimpseintotheattackvectorsofAPT37
+9bf4576a1381c15c08060ca6cfd59949:AglimpseintotheattackvectorsofAPT37
+9bf4576a1381c15c08060ca6cfd59949:Unknownmalware
+9c6d553682813724424a7fcc7af8729d:AglimpseintotheattackvectorsofAPT37
+9d85c8378b5f1edefb1e9837b3abb74f:AglimpseintotheattackvectorsofAPT37
+9d8c438b710b314b2dc2e003b2f177b7:QuasarRAT
+9e19fe5c3cf3e81f347dd78cf3c2e0c2:newAPTfoundintheareaofRusso-Ukrainianconflict
+9e1a2b331fd1e4ee77880d8f62025cd1:AglimpseintotheattackvectorsofAPT37
+9e7099b32f6bd36724a71f6c3cb21d17:AglimpseintotheattackvectorsofAPT37
+9ebbe0a1b79e6f13bfca014f878ddeec:AdobeSetup.msi(BatLoader)
+9f4186242fd9479571daf9ea59a81342:Unknownmalware
+a0f20cd73ab21c559431425a99543a1c:Unknownmalware
+a13fb4e11b31d109a1b145f20ea4b929:AglimpseintotheattackvectorsofAPT37
+a372e8dfd1940ef4f9e74095a8bf3bd7:AglimpseintotheattackvectorsofAPT37
+a48ac5efd350341beab9a4fdfb7f68d7:AglimpseintotheattackvectorsofAPT37
+a5ce8fe31da94fdea9c25f3abcdd5982:AglimpseintotheattackvectorsofAPT37
+a60a61bf844bc181d4540c9fac53203250a982e7c3ad6153869f01e19cc36203:(18.12.416)
+a6638f0b820902e69d81541c67386d68153f56c986da5e9d05b149cd2d8240c0:S.O.V.A.
+a6b30fc17d6ff9aa84fb93c3f05a4171:AglimpseintotheattackvectorsofAPT37
+a85dc5403cb1fe7d0ae692a431e1eae3:AglimpseintotheattackvectorsofAPT37
+a8bcbb34e11d7b23721ec07eadb5ddc5:AglimpseintotheattackvectorsofAPT37
+aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868:3CXDesktopAppMSIInstallerSHA256hashes
+aa68044e16a115af4ea1de3d062c4e41:AglimpseintotheattackvectorsofAPT37
+aac869f05f219ae6508ad279a97120d1:CrimsonRAT
+ab0dc3964a203eea96a233c8d068de95:AglimpseintotheattackvectorsofAPT37
+ac51f29d609c73cce8db67c86aa49ba0:AglimpseintotheattackvectorsofAPT37
+ac7f8e5245f9736a1323509a537e54eb:AglimpseintotheattackvectorsofAPT37
+acf9bad00bc1d2649ad918b0524c7761:AglimpseintotheattackvectorsofAPT37
+ad6150d59f5a77ad1a9a05bcbb77b6746d10e15efcd84a4afec99169e5bdaa10:S.O.V.A.
+af89179ef2c8365ca413fed8553159fa:AglimpseintotheattackvectorsofAPT37
+afdc59ec36ac950de08169162783accd:AglimpseintotheattackvectorsofAPT37
+afe7f87478ba6dfca15839f958e9b2ef:Clop
+aff9dae78f13a7e13244cf022de01470272b00e4f6961a40a61c9e9c9b8ca7ed:Unknownmalware
+b1d2c6233d56ef3aeaa08cff7a7d2971:AglimpseintotheattackvectorsofAPT37
+b2ce0ba21ae1e982a3a33a676c958bec:AglimpseintotheattackvectorsofAPT37
+b2d7c047dc1c7fb7074111128594c36e:AglimpseintotheattackvectorsofAPT37
+b34761f5272c9109c47780f415d28631:AglimpseintotheattackvectorsofAPT37
+b39182a535f41699280ca088eef0f258:Unknownmalware
+b4adb4fede9025f6dd85faac072a02e7:AglimpseintotheattackvectorsofAPT37
+b5fe7385acde76459ebc61edaf6b510f9c6d42b4c54cba565b232670985f4bce:S.O.V.A.
+b6c4137868e2c305241093e967b2d60b:AglimpseintotheattackvectorsofAPT37
+b7275a3931fb85f723a4ceec9478c89e:AglimpseintotheattackvectorsofAPT37
+b792c7ad94e2dd02df3cbe1b678eb875:Unknownmalware
+b7a15611412bfe44d7ef6ccff4b55788:Kimsuky
+b7b1095620b8629c73191d5c05afc446:AglimpseintotheattackvectorsofAPT37
+b7c94b8a0562ad87bd7f5764dd5b416f6cd267dec46f5157160477eb68a8bcc7:S.O.V.A.
+b840485840480d42b3b8e576eecdf2ee:AglimpseintotheattackvectorsofAPT37
+b86c695822013483fa4e2dfdf712c5ee777d7b99cbad8c2fa2274b133481eadb:3CXDesktopAppmacOSSHA256hashes
+b9f423b42df0df0cb5209973345d267c:AglimpseintotheattackvectorsofAPT37
+ba068724f569d98d56fcfb473449c8df:BitterRAT
+bb182e47e1ffc0e8335b3263112ffdb1:AglimpseintotheattackvectorsofAPT37
+bb3ef37dca965c8fb9f3fa44c2cc2d59:Unidentified001
+bbaf483c2b6f67f22eb6e1fa00f200e9c1e201b0110070acaefd416cf846b1aa:S.O.V.A.
+bbcc8ce7492115e5970d0b47f9432f07:ISFB
+bca3f0b4a5a1cbcd3efa1ca0df7f0d4b:AglimpseintotheattackvectorsofAPT37
+bd8d4d9e7eba11f4290582ef94f9941e:Unknownmalware
+bf39239f0b1526c68de99294e9c8ef5f:Unknownmalware
+c09939e972432968976efc22f556bd0f:AglimpseintotheattackvectorsofAPT37
+c0bfb9f408263c1bc574a08fa164a61f:AglimpseintotheattackvectorsofAPT37
+c0d25429f924016765711cd860fd03f9:AglimpseintotheattackvectorsofAPT37
+c1b6390f0ef992571fa9ed3c47eb0883:AglimpseintotheattackvectorsofAPT37
+c23c17756e5ccf9543ea4fb9eb342fde:AglimpseintotheattackvectorsofAPT37
+c29d11961b9662a8cb1c7edd47d94ae5:AglimpseintotheattackvectorsofAPT37
+c29d11961b9662a8cb1c7edd47d94ae5:Unknownmalware
+c3325c43b6eea2510f9c9f1df7b7ce22:AglimpseintotheattackvectorsofAPT37
+c5f954436e9623204ed961b9b33e769d:AglimpseintotheattackvectorsofAPT37
+c623dbe17f278fd3a72c5681102a74d8:Kimsuky
+c97a32c7555fc81f296fee0a65fec079:AglimpseintotheattackvectorsofAPT37
+c9e84fae8578d34ab6b65d5c44e54fb2:Unknownmalware
+cad325d8c6fa8c2d73aa73177b96947dd1a572b663b8f7cbb7e2cb804a8ded04:AgentTesla
+cae4d578b1bdaa4e193095f035cecbc6:AglimpseintotheattackvectorsofAPT37
+caedf21246e5920e1015959f9fc9029f:Unknownmalware
+cb33ef9c824d16ff23af4e01f017e648:AglimpseintotheattackvectorsofAPT37
+cd12cb026f70700b6d7d3122360c52e8:LucaStealer
+ce8d77af445e3a7c7e56a6ea53af8c0d:newAPTfoundintheareaofRusso-Ukrainianconflict
+cf012ca48b5e1f6743be7e0d10cdfd2e:AglimpseintotheattackvectorsofAPT37
+cfd73942f61fbb14dded15f3d0c92f4a:AglimpseintotheattackvectorsofAPT37
+d020d573d28e3febb899446e3a65e025:AglimpseintotheattackvectorsofAPT37
+d32ccdcf79932dd9d7eaf4fd75bfade2:AglimpseintotheattackvectorsofAPT37
+d431c37057303e5609f0bffa83874402:AglimpseintotheattackvectorsofAPT37
+d45674f941be3cca2fbc1af42778043cc18cd86d95a2ecb9e6f0e212ed4c74ae:(18.12.407)
+d4bb07f5a9462612cd0e8a9290e27fc8:Unknownmalware
+d4d31a2b1deb7ea73d658430263f1a09:BitterRAT
+d5ad2c1790c715d88b5e05ca4329417d:AglimpseintotheattackvectorsofAPT37
+d5cad5cc6147eb82ec39c58b08348e61c2391fcf6aee1038744091dc0814a70f:S.O.V.A.
+d942353d15077352dcae83dd04869e1a:AglimpseintotheattackvectorsofAPT37
+dbadfd1fb9aa563fefc1005934470c0284cf7a6b42411f37fc476936aeb08ee5:S.O.V.A.
+dcc7bb850d931e3da18f3868a6a7c092:BitterRAT
+dcd04daa033f25e662b75edc4764657db033782c3191baa973d6c2da3f0f0d95:S.O.V.A.
+dd5cee48cdd586045c5fb059a1120e15:Clop
+dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc:
+de66f8a8b32941597f13a3a782d4256dbaccadc1533229270847b7cd1640172e:Unidentified001
+deed5eb8b19dae07720e97b485a5f1e4:AglimpseintotheattackvectorsofAPT37
+e08da72431a91099ef721333af8f2a4c:SpyNote
+e0cf0881de0fe35732bb02c1f4df02a3:QuasarRAT
+e32f59fd5acbe01d2171ba6c2f24e3ca:AglimpseintotheattackvectorsofAPT37
+e3879ea3f695706dfc3fc1fb68c6241d:AglimpseintotheattackvectorsofAPT37
+e557693cc879beeb1a455cac02724ea7:AglimpseintotheattackvectorsofAPT37
+e5865d8cee159ac02ee53ef52f4058ac:AglimpseintotheattackvectorsofAPT37
+e5c509a33db926f3087c3a52546b71f2:AglimpseintotheattackvectorsofAPT37
+e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec:3CXDesktopAppmacOSDMGInstallerhashes
+e7104d3e388530a43623981138112e03:AglimpseintotheattackvectorsofAPT37
+e73b6c906f1070d569a0e9b70304be01:AglimpseintotheattackvectorsofAPT37
+e8ab4f80ebad24260869e89bca69957d:AglimpseintotheattackvectorsofAPT37
+e8ef56d0f67f44eb433a6aaa57abe991:BitterRAT
+e9230cf7615338ab037719646d67351b:AglimpseintotheattackvectorsofAPT37
+e9562655c36d46f4b6534f189ae453a0:AglimpseintotheattackvectorsofAPT37
+e9c42b55b2bfb18bb62858fa306c0aca8aad41764ffe7eac76def46ef83470e8:S.O.V.A.
+e9cd4c60582a587416c4807c890f8a5b:AglimpseintotheattackvectorsofAPT37
+eb7a6e3dc8bbc26f208c511ec7ee1d4c:AglimpseintotheattackvectorsofAPT37
+ebaf3c6818bfc619ca2876abd6979f6d:newAPTfoundintheareaofRusso-Ukrainianconflict
+ebdf159a1ca1f8f7c9dddd69c11f2d13:Unknownmalware
+ecb7af5771f4fe36a3065dc4d5516d84:newAPTfoundintheareaofRusso-Ukrainianconflict
+edb87c2cabcc402173fa0153f4e8ae26:AglimpseintotheattackvectorsofAPT37
+ee06a0d6e5645248db88c279ec0e8624:AglimpseintotheattackvectorsofAPT37
+ee71e50f5c24475a08456cc6486e12da:Unknownmalware
+eecf78848dde0d41075e35d3aa404697:AglimpseintotheattackvectorsofAPT37
+ef5aa1dfbfc4c9128a971e006da0cb8b:AglimpseintotheattackvectorsofAPT37
+f07a3d146f32bfa8f53e5cae7178559e:AglimpseintotheattackvectorsofAPT37
+f0b7abea21984790d2906adf9653c542:AglimpseintotheattackvectorsofAPT37
+f11b9fb8208b9949859785810f251334:AglimpseintotheattackvectorsofAPT37
+f2be2c1e80769a45761d0b69a46a627f:AglimpseintotheattackvectorsofAPT37
+f31587897bd39f51debe148a4f9402346431eb85d9a0def8bfc5adeacadac635:S.O.V.A.
+f38d52965f2a38a4debc53f9e0dd40f9:Unknownmalware
+f3a263ff80fa866f6afbf9ccd6c0b9cf8c6d221a78fd43d182a505079c7747d9:S.O.V.A.
+f3f4cf7876817b1e8a2d49fe9bd7b206:AglimpseintotheattackvectorsofAPT37
+f48414d08a3470eb2bd1c97ca548eeae:Kimsuky
+f59d2a3c925f331aae7437dd7ac1a7c8:Clop
+f5b4bd285e955d64f23e1ada3735dc4a37fe16dde9d7674d99a8cb033df2deb6:S.O.V.A.
+f68896d4dbb535e0bac2d51448be3cd959d3ab1d64284826d9d4199f8251639e:S.O.V.A.
+f7a73eaf15ee8d8f3257a359af5987eb:AglimpseintotheattackvectorsofAPT37
+f96fa367261df9cc2b021318ce361ec6:AglimpseintotheattackvectorsofAPT37
+fa797b29229613f054378c8a32fcefbc:AglimpseintotheattackvectorsofAPT37
+fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405:
+faf6139671f07db49056f4e0470ab188:AglimpseintotheattackvectorsofAPT37
+fb60a976bbed174effa6081a35abee87:AglimpseintotheattackvectorsofAPT37
+fb94682598137ea15c9accdc28edfbb4b7530e0491feefdf73669c557ff0d490:Unidentified001
+fbc339cd3f4d39af108b4fdb70202b22:AglimpseintotheattackvectorsofAPT37
+fd79e8fa5e3801101a1305b6aba7a5e7fdc852ed9036d6d9a5210be414a5cc5a:Emotet
+fee3db5db8817e82b1af4cedafd2f346:newAPTfoundintheareaofRusso-Ukrainianconflict
+ff2ccc12007bbf3f5934a5dfdc8430ee:AglimpseintotheattackvectorsofAPT37
+ffba3072600a1f06d260137f82371227:AglimpseintotheattackvectorsofAPT37

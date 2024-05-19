@@ -1,121 +1,209 @@
-0be11b4f34ede748892ea49e473d82db:German Embassy Lure: Likely Part of Campaign Against NATO Aligned Ministries of Foreign Affairs
-1c6cad0ed66cf8fd438974e1eac0bc6dd9119f84892930cb71cb56a5e985f0a4:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-23f4f604f1a05c4abf2ac02f976b746b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-2a5de691243f2b91f164c3021c157fbd783b4f3e7d5f5950182e52ec868cd40b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-2ccb9759800154de817bf779a52d48f8:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-2d841cb153bebcfdee5c54472b017af2:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-2e30520f8536a27dd59eabbcb8e3532a:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-3273a29d15334efddd8276af53c317fb:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-32ffe48d1a8ced49c53033eb65eff6f3:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-336c12441b7a678280562729c974a840:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-349ca242bc6d2652d84146f5f91c3dbb:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-35a432e40da597c7ab63ff16b09d19d8:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-35cf6faf442d325961935f660e2ab5a0:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-3b93b524db66f8bb3df8279a141734bb:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-3c20617f089fe5cc9ba12c43c6c072f5:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-3e3f72f99062255d6320d5e686f0e212:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-3f26a13f023ad0dcd7f2aa4e7771bba74910ee227b4b36ff72edc5f07336f115:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-3ff3250e07ad74fa419e4a8d6564357b22683d152cd8e9f106c8da3751ea9ff3:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4028eadf4c27b4007930606551e3a32b2af23d746d5b866cc1c6587e7fd0d776:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-407738e565b4e9dafb07b782ebcf46b0:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-42722b7d04f58dcb8bd80fe41c7ea09e:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-436587bad5e061a7e594f9971d89c468:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-446f3d71591afa37bbd604e2e400ae8b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4495cb72708f486b734de6b6c6402aba:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-45b79949276c9cb9cf5dc72597dc1006:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-479315620c9a5a62a745ab586ba7b78c:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4b511567cfa8dbaa32e11baf3268f074:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4c1c2db989e0e881232c7748593d291e:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4ca4f582418b2cc0626700511a6315c0:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4cd0f3219e98ac2e9021b06af70ed643:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-4ec4ceda84c580054f191caa09916c68:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-50f57a4a4bf2c4b504954a36d48c99e7:German Embassy Lure: Likely Part of Campaign Against NATO Aligned Ministries of Foreign Affairs
-5392fb400bd671d4b185fb35a9b23fd3:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-56e8066bf83ff6fe0cec92aede90f6722260e0a3f169fc163ed88589bffd7451:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-5d6cba7909980a7b424b133fbac634ac:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-5e1389b494edc86e17ff1783ed6b9d37:German Embassy Lure: Likely Part of Campaign Against NATO Aligned Ministries of Foreign Affairs
-5fdee67c82f5480edfa54afc5a9dc834:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-601f44cc102ae5a113c0b5fe5d18350db8a24d780c0ff289880cc45de28e2b80:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-61514ac639721a51e98c47f2ac3afe81:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-64c690f175a2d2fe38d3d7c0d0ddbb6e:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-666da297066a2596cacb13b3da9572bf:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-67a4556b021578e0a421fdc251f07e04:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-683acdb559bbc7fb64431d1f579a8104:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-694cdb49879f1321abb4605adf634935:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-69ef9a9e8d0506d957248e983d22b0d5:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-6f79ef58b354fd33824c96625590c244:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-724079649f690ca1ee80b8b3125b58b9:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-76811232ede58de2faf6aca8395f8427:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-7d7fd05b262342a9e8237ce14ec41c3b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-7ebd5f3e800dcd0510cfcbe2351d3838:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-806250c466824a027e3e85461dc672db:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-827d507aa3bde0ef903ca5dec60cdec8:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-82eaf69de710abdc5dea7cd5cb56cf04:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-830fca78440780aef448c862eee2a8ac:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-831d41ba2a0036540536c2f884d089f9:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-83ca636253fd1eb898b244855838e2281f257bbe8ead428b69528fc50b60ae9c:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-8406f74ac2c57807735a9b86f61da9f9:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-858174c8f4a45e9564382d4480831c6b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-85c5b6c408e4bdb87da6764a75008adf:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-87847445f9524671022d70f2a812728f:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-878cf1de91f3ae543fd290c31adcbda4:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-881b7846f8384c12c7481b23011d8e45:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-8849a3273e0362c45b4928375d196714224ec22cb1d2df5d029bf57349860347:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-8c5c8e7b3f8ab6651b906356535bf45992d6984d8ed8bd600a1a056a00e5afcb:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-8f1c40bd3ab33d517839ca17591d8666:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-8fc03800c1179a18fbd58d746596fa7d:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-8fdf3b7dc6d88594b8b5173c1aa2bc82:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-9033dc5bac76542b9b752064a56c6ee4:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-949d4b01f31256e5e9c2b04e557dcca0a25fc2f6aa3618936befc7525e1df788:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-94b6f76da938ef855a91011f16252d59:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-9aa90d767ba0a3f057653aadcb75e579:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-9bb7addd96f99a29658aca9800b66046823c5ef0755e29012983db6f06a999cf:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-9bc6d6af590e7d94869dee1d33cc1cae:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-9f04525835f998d454ed68cfc7fcb6b0907f2130ae6c6ab7495d41aa36ad8ccf:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-a08a99e5224e1baf569fda816c991045:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-a28de396aa91b7faca35e861b634c502:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-a45ca19435c2976a29300128dc410fd4:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ac4fb6d0bfc871be6f68bfa647fc0125:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ad1dc51a66201689d442499f70b78dea:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-b354111afc9c6c26c1475e761d347144:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-b601fce4181b275954e3f35b18996c92:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-b745626b36b841ed03eddfb08e6bb061:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-b860198feca7398bc79a8ec69afc65ed:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ba7af4f98d85e5847c08cf6cefdf35dc:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-bef722484288e24258dd33922b1a7148:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c2e577c71d591999ad5c581e49343093:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c528b6398c86f8bdcfa3f9de7837ebfe:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c56d7b86e59c5c737ee7537d7cf13df1:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c5c93ba36e079892c1123fe9dffd660f:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c7a89a215e74104682880def469d4758:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c979e8651c1f40d685be2f66e8c2c610:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-c9ae8bfd08f57d955465f23a5f1c09a4:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ca72fa64ed0a9c22d341a557c6e7c1b6a7264b0c4de0b6f717dd44bddf550bca:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-caab341a35badbc65046bd02efa9ad2fe2671eb80ece0f2fa9cf70f5d7f4bedc:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-cb0f7f216e8965f40a724bc15db7510b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-cd2813f0260d63ad5adf0446253c2172:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-cd2813f0260d63ad5adf0446253c2576:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ce67bb99bc1e26f6cb1f968bc1b1ec21:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-d098fe9674b6b4cb540699c5eb452cb5:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-d1392095086c07bd8d2ef174cb5f6ca8:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-d81263e6872cc805e6cf4ca05d86df4e:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-d817f36361f7ac80aba95f98fe5d337d:German Embassy Lure: Likely Part of Campaign Against NATO Aligned Ministries of Foreign Affairs
-d8e748b1b609d376f57343b2bde94b29:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-da06e7c32f070a9bb96b720ef332b50b:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-db4c48921537d67635bb210a9cb5bb52:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-dde2d3347b76070fff14f6c0412f95ba:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-e4e86c273a2b67a605f5d4686783e0cc:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-e52871d82de01b7e7f134c776703f696:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-e68cd991777118d76e7bce163d8a2bc1:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-e80a85250263d58cc1a1dc39d6cf3942:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ec0d46b2aa7adfdff10a671a77aeb2ae:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ed648c366b6e564fc636c072bbcac907:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ef00c92fa005c2f61ec23d5278a8fa25:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-f289b565839794fe4f450ed0c9343b8fb699f97544d9af2a60851abc8b4656e0:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-f5ab04a920302931a8bd063f27b745cc:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-f667939000c941e5b9dc91303c98b7fc:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-f6857841a255b3b4e4eded7a66438696:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-fc53c75289309ffb7f65a3513e7519eb:German Embassy Lure: Likely Part of Campaign Against NATO Aligned Ministries of Foreign Affairs
-fe031a93c84aa3d01e2223a6bb988fa0:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-fe1e2d676c91f899b706682b70176983:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
-ff005f1ff98ec1cd678785baa0386bd1:Diving Deep into UNC4841 Operations Following Barracuda ESG Zero-Day Remediation (CVE-2023-2868)
+04c5e1d07c51b549972739f9b5faad59:IRATA
+05c6c40bb523cdac5158e3f43e4ae590d16b135f3c64e3b71615a86b6feeff89:IRATA
+087660dc2a6b875e634ec97e02989bda25dacd024de28c35bcf0597c654046e0:Remcos
+0be11b4f34ede748892ea49e473d82db:LikelyPartofCampaignAgainstNATOAlignedMinistriesofForeignAffairs
+0c65cc63943ef047c4604d51017264cb699337750d110c3b9558c3b6d9b218d0:Remcos
+0caad1a288815daed34c428ec855cd746a3e572924e8a30629af59740e5fab65:MimiKatz
+0cb7e136fab3d08fcecac55b3b08aa16:Unknownmalware
+0fa91325446fd53a3bc2b1dee29cfce3:Konni
+168bcc063501d191d82aaa3a32741a12:Konni
+19dc387bffdc0a22f640bd38af320db4:Konni
+1c6cad0ed66cf8fd438974e1eac0bc6dd9119f84892930cb71cb56a5e985f0a4:
+1cc038dc09e9ecbd7b1a5cb6590f3d9b:CobaltStrike
+1dc956e63de5d215affd069b51583b48ef32a0632016c5fbce6482b8fcc3e877:Remcos
+1e10940366a9a3e444464162fc8dbe1dc2ca4a42efd5fe1c30bdb86ac881cde0:Remcos
+23f4f604f1a05c4abf2ac02f976b746b:
+2470f5cd9fcdd5fee479668698bb2b5d09e8319caf8ead338a8c776dba14064b:Remcos
+27e58cdcb9690e440bd7af2e95b0413bd99e89611a34e920c0e5dac5e86367e1:Remcos
+2a5de691243f2b91f164c3021c157fbd783b4f3e7d5f5950182e52ec868cd40b:
+2c2b800c2e20f5f3ae0332bf59f8df13:Konni
+2ccb9759800154de817bf779a52d48f8:
+2d841cb153bebcfdee5c54472b017af2:
+2e30520f8536a27dd59eabbcb8e3532a:
+319f8ac9e3a2459891acd4e9e47210ef:CobaltStrike
+3273a29d15334efddd8276af53c317fb:
+32ffe48d1a8ced49c53033eb65eff6f3:
+336c12441b7a678280562729c974a840:
+349ca242bc6d2652d84146f5f91c3dbb:
+35a432e40da597c7ab63ff16b09d19d8:
+35cf6faf442d325961935f660e2ab5a0:
+3602ff8f63f20b7a3861adfc56d69546:BitterRAT
+3b93b524db66f8bb3df8279a141734bb:
+3c20617f089fe5cc9ba12c43c6c072f5:
+3c3be58d9d278ce54efc76401c10ded4:IRATA
+3d18e2341ac5507fcd77c3a6c2e325d7:JanelaRAT
+3e3f72f99062255d6320d5e686f0e212:
+3f26a13f023ad0dcd7f2aa4e7771bba74910ee227b4b36ff72edc5f07336f115:
+3f9772d59aa3dbdb843f8ab898860be5f4170046bc2a0f527e1b33d3c415bd9c:Remcos
+3ff3250e07ad74fa419e4a8d6564357b22683d152cd8e9f106c8da3751ea9ff3:
+4028eadf4c27b4007930606551e3a32b2af23d746d5b866cc1c6587e7fd0d776:
+407738e565b4e9dafb07b782ebcf46b0:
+410ef267cd56b74c6a7578947efb3b66:BitterRAT
+4210b958674a093d0b21705233e1bc8dad204b4bc00ee178bc695d3c050e0b21:Remcos
+42722b7d04f58dcb8bd80fe41c7ea09e:
+436587bad5e061a7e594f9971d89c468:
+446f3d71591afa37bbd604e2e400ae8b:
+4495cb72708f486b734de6b6c6402aba:
+45265d0fe7060780c2bc58d403dce020:Unknownmalware
+45b79949276c9cb9cf5dc72597dc1006:
+479315620c9a5a62a745ab586ba7b78c:
+49342179b439a993b69af1a4b07c0adc03bfbdb1d96c65698e78249bf3022c77:Remcos
+4b511567cfa8dbaa32e11baf3268f074:
+4b6d407069f37adff5ba309c92be0757:IRATA
+4c1c2db989e0e881232c7748593d291e:
+4ca4f582418b2cc0626700511a6315c0:
+4cd0f3219e98ac2e9021b06af70ed643:
+4ec4ceda84c580054f191caa09916c68:
+4f138cd5c06d63316037e0622fa6c9e91a6798c78a45730777296c332dc4b98c:Remcos
+4f4cfd4a601f3d3800fd981e9e3516b208ec4d986276d61dbef46f8e72831816:IRATA
+50f3db3dc8ef4ee255514877f5715d26d1838699cf80d057cd046c4ef1ffb6b2:Remcos
+50f57a4a4bf2c4b504954a36d48c99e7:LikelyPartofCampaignAgainstNATOAlignedMinistriesofForeignAffairs
+5323834444ae9db2d971ac08cdf579e7:CrimsonRAT
+5392fb400bd671d4b185fb35a9b23fd3:
+56dac53199a24ad9de59ae15f3180dc4:IRATA
+56e8066bf83ff6fe0cec92aede90f6722260e0a3f169fc163ed88589bffd7451:
+590da524db05fb24e743fcf8910ced273715fa101e4979213378fb803411b412:Remcos
+5d6cba7909980a7b424b133fbac634ac:
+5e1389b494edc86e17ff1783ed6b9d37:LikelyPartofCampaignAgainstNATOAlignedMinistriesofForeignAffairs
+5fdee67c82f5480edfa54afc5a9dc834:
+601f44cc102ae5a113c0b5fe5d18350db8a24d780c0ff289880cc45de28e2b80:
+6067131445517c32eceba112dac3b798367cd73fc4f048313a7e3b9672a807e9:IRATA
+61514ac639721a51e98c47f2ac3afe81:
+61ebcf7f2ea90a057a46e3fd4d9212063639b01b6e5e4c90ae3447b76f52e323:Remcos
+64c690f175a2d2fe38d3d7c0d0ddbb6e:
+666da297066a2596cacb13b3da9572bf:
+672e5ef425b05ba05cbb78bd5ae06b52:IRATA
+67a4556b021578e0a421fdc251f07e04:
+682f821b4daa22d6629825e83159e98f:Unknownmalware
+683acdb559bbc7fb64431d1f579a8104:
+694cdb49879f1321abb4605adf634935:
+69ef9a9e8d0506d957248e983d22b0d5:
+6af097ee174e137043a8caad109b32f2:Unknownmalware
+6be6fcf7eb78ac0331eca23460449dfe:BitterRAT
+6c62f525906410a4e77a16ca86751549b5b1ba51e6a4ff45836419c1835e5200:Remcos
+6f79ef58b354fd33824c96625590c244:
+724079649f690ca1ee80b8b3125b58b9:
+76811232ede58de2faf6aca8395f8427:
+7a797d1aba52cb0869e6cab8e7c6a48e:Unknownmalware
+7a92cdbe30cd28ca14b2906dd91834501a7801749206664262e5cea6152f52b1:Remcos
+7bb106966f6f8733bb4cc5bf2ab2bab4:Unknownmalware
+7d7fd05b262342a9e8237ce14ec41c3b:
+7ebd5f3e800dcd0510cfcbe2351d3838:
+806250c466824a027e3e85461dc672db:
+8167261af1cde7e03bd2ddf43ebde21bda4af66216d2c4ee9ca1c967e580f7a5:Remcos
+81d76c398555e57f2fd240873ad5e4574be217c7a2ccc401062ae080fa2c4730:Remcos
+827d507aa3bde0ef903ca5dec60cdec8:
+82eaf69de710abdc5dea7cd5cb56cf04:
+830fca78440780aef448c862eee2a8ac:
+831d41ba2a0036540536c2f884d089f9:
+83ca636253fd1eb898b244855838e2281f257bbe8ead428b69528fc50b60ae9c:
+8406f74ac2c57807735a9b86f61da9f9:
+858174c8f4a45e9564382d4480831c6b:
+85c5b6c408e4bdb87da6764a75008adf:
+8715aba6fc905ba789eb615e649795f1:Unknownmalware
+87494546833f3274a896371ba977e1d2f7980c0111a3ffd7daa94acbe8aa37bc:Remcos
+87847445f9524671022d70f2a812728f:
+878cf1de91f3ae543fd290c31adcbda4:
+881b7846f8384c12c7481b23011d8e45:
+8849a3273e0362c45b4928375d196714224ec22cb1d2df5d029bf57349860347:
+88a7f9b4d302c3981f8e143fdf053989:BitterRAT
+8c5c8e7b3f8ab6651b906356535bf45992d6984d8ed8bd600a1a056a00e5afcb:
+8f1c40bd3ab33d517839ca17591d8666:
+8fc03800c1179a18fbd58d746596fa7d:
+8fdf3b7dc6d88594b8b5173c1aa2bc82:
+9033dc5bac76542b9b752064a56c6ee4:
+90468e4bdf61cf146030515ed3e15d81:Konni
+91741818480b13eaac1d5547b488142fe2df86b8eb51b62b31acbfd5fef53f47:Remcos
+949d4b01f31256e5e9c2b04e557dcca0a25fc2f6aa3618936befc7525e1df788:
+94b6f76da938ef855a91011f16252d59:
+9aa90d767ba0a3f057653aadcb75e579:
+9bb69ea4bc80f3f5fc628f794eb4a4024f8f3a4a748335e925adfb8f5b5e97fe:Konni
+9bb7addd96f99a29658aca9800b66046823c5ef0755e29012983db6f06a999cf:
+9bc6d6af590e7d94869dee1d33cc1cae:
+9f04525835f998d454ed68cfc7fcb6b0907f2130ae6c6ab7495d41aa36ad8ccf:
+a08a99e5224e1baf569fda816c991045:
+a28de396aa91b7faca35e861b634c502:
+a3094acaadd484c6bf7d3117879dd832a6c9008cda4f6bf5c23b81a296c83532:IRATA
+a35a7f92158f4486ab01a955d52d07dc:Unknownmalware
+a37efc1da858f50d7a7116b99cb799b8522516a21b876e9207caeeb42ab16a6b:Remcos
+a45ca19435c2976a29300128dc410fd4:
+a5b799a913cf8d77a3486c6e6a2bdc1ee89a512102ed7eecfde842e7648ba93f:Remcos
+a793babcdb65000d960b995b2a802da3:Unknownmalware
+a9e6685644937ba4d5ff6128e35ee056:IRATA
+ac3a6ad13ede048573f561b04558c5b3e0e84a2a4af280b559794087018e369d:Remcos
+ac4fb6d0bfc871be6f68bfa647fc0125:
+ad1dc51a66201689d442499f70b78dea:
+af551138bc3952708e41adf9d4ec58556eb243e02730d720b893246bdb857234:Remcos
+b12f86a3f140445fb6e4dbf242bcccd4d8cd4fba8733e94698cf1ce6c9c4f56c:IRATA
+b354111afc9c6c26c1475e761d347144:
+b601fce4181b275954e3f35b18996c92:
+b745626b36b841ed03eddfb08e6bb061:
+b860198feca7398bc79a8ec69afc65ed:
+b8677089b9c6a2c1f1172a4a95328116:Unknownmalware
+b86c38ae5c24c55831d7f8ca3cbeb814:Konni
+ba7af4f98d85e5847c08cf6cefdf35dc:
+bac40329e542d9b0b7bf444e64857846:Remcos
+bc3fb948dc956f79dbc7aac06442d6ef:Konni
+bd9df3adf1e6c84fcab2206d63d2f02e3f1ce1b715c09459d21ff47c09cac2f8:Remcos
+bef722484288e24258dd33922b1a7148:
+bf82f37c4f8fdd3b7572bd60a0f86e7d89356921728708434d07d6a2b0cbf7d4:Remcos
+bf86527f04d43718f77d8670e8996e90:CrimsonRAT
+c25831d9db394113c32cbfc414dbf40230074381c893794fe94eebe29d798021:Remcos
+c2e577c71d591999ad5c581e49343093:
+c528b6398c86f8bdcfa3f9de7837ebfe:
+c56d7b86e59c5c737ee7537d7cf13df1:
+c5c93ba36e079892c1123fe9dffd660f:
+c62ce8c67fd75aebebca0503ba564165:IRATA
+c7a89a215e74104682880def469d4758:
+c979e8651c1f40d685be2f66e8c2c610:
+c9ae8bfd08f57d955465f23a5f1c09a4:
+ca72fa64ed0a9c22d341a557c6e7c1b6a7264b0c4de0b6f717dd44bddf550bca:
+caab341a35badbc65046bd02efa9ad2fe2671eb80ece0f2fa9cf70f5d7f4bedc:
+cb0f7f216e8965f40a724bc15db7510b:
+ccc9494310731383e0af5074278d2d8c:CrimsonRAT
+cd2813f0260d63ad5adf0446253c2172:
+cd2813f0260d63ad5adf0446253c2576:
+ce67bb99bc1e26f6cb1f968bc1b1ec21:
+d098fe9674b6b4cb540699c5eb452cb5:
+d0fcc47ea3b8e25c3f3e9c560e185a45:IRATA
+d1392095086c07bd8d2ef174cb5f6ca8:
+d345ca95f13e6034c2486afc77f6c8d3adff4b02030fd7477bc548185ae557b3:DUCKTAIL
+d34b6ab46f320027fc4b552058bfdea0:IRATA
+d81263e6872cc805e6cf4ca05d86df4e:
+d817f36361f7ac80aba95f98fe5d337d:LikelyPartofCampaignAgainstNATOAlignedMinistriesofForeignAffairs
+d8e748b1b609d376f57343b2bde94b29:
+da06e7c32f070a9bb96b720ef332b50b:
+db31a36e1684c568fa3529d60a59ba29:Konni
+db4c48921537d67635bb210a9cb5bb52:
+dde2d3347b76070fff14f6c0412f95ba:
+decab5c7e9a8d42e09aa6df39385c95dc603285374a76d8c8e08a025bb7e1dd9:IRATA
+dfe5b1e4a8ab5817516b537ec38340ba8ed7d975cdc2b027216e7d5d5de1fb10:Remcos
+e0452b81b45a3a36dbabe7522d5ca942635448283f32c35f05d13990480a21ea:IRATA
+e1ae9cb6769a71809895f96df1d372ed7f1811b3dcff4a9ae998ef30603a5c5d:IRATA
+e4e86c273a2b67a605f5d4686783e0cc:
+e52871d82de01b7e7f134c776703f696:
+e5847696b00aa1069c5ee91abaec0188d6f7b556de231d88a46d061f4f2e8875:IRATA
+e5da419608fcf10dd33a0292a84e2453bfe44301d4e2fa28cf9d286a091cb107:Remcos
+e63794351a4cbd5a14a5dd264911b5e2ce21020b48eeba7d3fee00e8e55990e6:Remcos
+e68cd991777118d76e7bce163d8a2bc1:
+e80a85250263d58cc1a1dc39d6cf3942:
+e842b6dff73f8cc125170bafb505357263972cefc0d7187207295a207a6a3bdf:Remcos
+ea7d55e6964aa852bc7ae6f1c3349a55:Remcos
+ec0d46b2aa7adfdff10a671a77aeb2ae:
+ed648c366b6e564fc636c072bbcac907:
+ee94e40a684b6b16984895dd4894d65cda876d339f2629339910f734d53e97ae:Remcos
+ef00c92fa005c2f61ec23d5278a8fa25:
+f257f9be19c4b18f0581d36056a4b0e8032586b60aae3115c78b81a5758a8768:IRATA
+f289b565839794fe4f450ed0c9343b8fb699f97544d9af2a60851abc8b4656e0:
+f5ab04a920302931a8bd063f27b745cc:
+f5c6e8b64cf0e89fdec3471aa76c5ac9:CobaltStrike
+f667939000c941e5b9dc91303c98b7fc:
+f68256f674c2a32ec928ba8eb2abe3eb:JanelaRAT
+f6857841a255b3b4e4eded7a66438696:
+fb31acd1db9c2ee062126cf37296e713:IRATA
+fc53c75289309ffb7f65a3513e7519eb:LikelyPartofCampaignAgainstNATOAlignedMinistriesofForeignAffairs
+fe031a93c84aa3d01e2223a6bb988fa0:
+fe1e2d676c91f899b706682b70176983:
+ff005f1ff98ec1cd678785baa0386bd1:
+ff2dd1aaec69b73c7ef30ef59698a252367e196982b372fd58c274cf7255cb08:Remcos
+ff4067b4865c9b49da2f28ac12ca5c1a:Konni
