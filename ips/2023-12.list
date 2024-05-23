@@ -213,28 +213,28 @@
 102.51.3.108:Mozi
 102.51.35.199:Mozi
 102.85.47.179:Mozi
-103.116.52.127:32 64 arm bashlite gafgyt intel motorola powerpc renesas
+103.116.52.127:gafgyt renesas
 103.136.42.221:recordbreaker
 103.14.48.18:Mirai
 103.178.235.42:Mirai
 103.180.148.159:Mirai
-103.214.68.66:32 arm bashlite gafgyt intel Mirai motorola powerpc renesas shellscript sparc
+103.214.68.66:gafgyt Mirai renesas sparc
 103.228.36.104:NoTag
-103.37.61.26:x86-32
+103.37.61.26:NoTag
 103.76.128.34:NoTag
 103.77.209.64:Mirai
 103.77.240.57:Mirai
-103.78.0.111:gafgyt Mirai shellscript
+103.78.0.111:gafgyt Mirai
 103.81.24.84:Hajime
-103.82.135.30:32 64 arm intel Mirai renesas script sparc
+103.82.135.30:Mirai renesas sparc
 103.82.26.41:VenomRAT
 104.148.143.158:Hajime
-104.223.106.133:encrypted GuLoader RAT RemcosRAT
-104.223.33.150:encrypted GuLoader
+104.223.106.133:GuLoader RAT RemcosRAT
+104.223.33.150:GuLoader
 104.234.30.182:Grandoreiro Payload
-104.236.198.159:ddos Mirai shellscript
+104.236.198.159:Mirai
 104.243.32.185:NoTag
-104.37.185.125:64 Gh0stRAT
+104.37.185.125:Gh0stRAT
 104.49.178.39:Mozi
 106.110.206.79:Hajime
 106.110.214.69:Hajime
@@ -284,8 +284,8 @@
 106.41.83.73:Hajime
 106.75.2.57:NoTag
 107.148.41.146:NoTag
-107.150.18.101:encrypted GuLoader
-107.150.18.214:encrypted GuLoader
+107.150.18.101:GuLoader
+107.150.18.214:GuLoader
 108.21.247.248:Hajime
 108.6.184.196:Hajime
 109.107.182.3:dropped-by-PrivateLoader PrivateLoader RisePro
@@ -1047,7 +1047,7 @@
 117.95.244.129:Hajime
 117.95.48.67:Hajime
 117.95.59.13:NoTag
-118.107.43.171:64
+118.107.43.171:NoTag
 118.169.133.155:Hajime
 118.232.129.74:Hajime
 118.232.194.140:Hajime
@@ -1081,7 +1081,7 @@
 121.141.103.21:Hajime
 121.144.52.82:Hajime
 121.149.55.54:Hajime
-121.190.90.250:CoinMiner shellscript
+121.190.90.250:CoinMiner
 121.202.197.27:Mozi
 121.224.150.105:Hajime
 121.224.88.27:Hajime
@@ -1326,7 +1326,7 @@
 123.245.4.100:Hajime
 123.245.5.110:Hajime
 123.245.64.25:Hajime
-123.249.25.73:32 younglotus
+123.249.25.73:younglotus
 123.4.47.201:Mozi
 123.5.145.137:Mozi
 123.5.185.176:Mozi
@@ -1453,7 +1453,7 @@
 138.201.196.248:Stealc
 138.68.144.100:L3MONMANAGER
 138.68.95.14:Mirai
-139.162.3.239:32 arm intel Mirai motorola powerpc renesas sparc
+139.162.3.239:Mirai renesas sparc
 139.224.188.165:CobaltStrike
 139.47.11.25:Hajime
 139.47.12.16:Hajime
@@ -1466,21 +1466,21 @@
 14.46.205.231:Hajime
 14.54.81.193:Hajime
 141.237.182.56:Hajime
-141.98.10.47:64-bit Mirai x86-64
+141.98.10.47:Mirai
 143.110.162.255:Havoc
-144.202.114.131:32
-146.19.191.205:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas script sparc
+144.202.114.131:NoTag
+146.19.191.205:gafgyt Mirai renesas sparc
 146.70.124.102:SimpleHelp_C&C_server
-146.70.79.70:encrypted GuLoader
+146.70.79.70:GuLoader
 149.28.90.119:CobaltStrike
 15.204.49.148:dropped-by-PrivateLoader Glupteba Rhadamanthys Stealc
-15.235.44.224:32 Mirai sparc
+15.235.44.224:Mirai sparc
 152.136.128.162:CobaltStrike
 152.160.185.29:Mozi
-154.0.31.161:64
+154.0.31.161:NoTag
 154.82.92.47:VIPER
 154.91.65.81:NoTag
-154.92.16.100:32 VenomRAT
+154.92.16.100:VenomRAT
 157.230.116.255:js Walletdrainer
 158.180.47.184:NoTag
 158.220.89.102:VenomRAT
@@ -1508,8 +1508,8 @@
 161.230.111.54:Hajime
 162.156.180.90:Hajime
 162.244.210.198:AsyncRAT
-162.33.179.225:32
-163.5.64.76:32 64 arm intel Mirai motorola powerpc shellscript sparc
+162.33.179.225:NoTag
+163.5.64.76:Mirai sparc
 164.155.231.101:NoTag
 164.90.234.37:Mirai
 166.0.255.125:Mirai
@@ -1543,14 +1543,14 @@
 171.250.255.131:Hajime
 171.250.83.11:Hajime
 172.105.29.23:NoTag
-172.111.10.188:script
+172.111.10.188:NoTag
 172.113.47.136:Hajime
 172.118.202.233:Hajime
-172.245.142.51:32 RemcosRAT
-172.245.208.126:doc FormBook GuLoader 
+172.245.142.51:RemcosRAT
+172.245.208.126:FormBook GuLoader
 172.245.208.4:NoTag
 172.32.168.71:Mozi
-172.82.128.201:AgentTesla doc 
+172.82.128.201:AgentTesla
 172.86.75.98:Amadey
 173.207.157.68:Hajime
 174.18.81.204:Hajime
@@ -1621,7 +1621,7 @@
 175.31.252.185:Hajime
 175.31.252.31:NoTag
 175.31.254.231:Hajime
-176.105.227.244:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas sparc
+176.105.227.244:gafgyt Mirai renesas sparc
 176.124.198.17:Stealc
 176.63.243.39:Hajime
 176.97.210.229:NoTag
@@ -1657,14 +1657,14 @@
 178.162.227.180:
 178.206.230.94:Hajime
 178.226.108.26:Mirai Mozi
-178.236.247.164:32 LummaStealer
+178.236.247.164:LummaStealer
 179.160.111.212:Mozi
 179.219.39.195:Hajime
 179.99.66.247:Hajime
 18.117.184.102:NoTag
 18.157.174.191:NoTag
 18.169.215.64:NoTag
-18.228.173.219:c2 CL geo Grandoreiro Payload
+18.228.173.219:c2 CL Grandoreiro Payload
 180.103.151.231:Hajime
 180.103.164.122:Hajime
 180.103.164.131:Hajime
@@ -1745,7 +1745,7 @@
 180.125.101.131:Hajime
 180.125.208.172:Hajime
 180.177.242.17:Hajime
-180.97.195.158:hfs 
+180.97.195.158:hfs
 181.191.130.34:Mozi
 181.191.130.76:Mozi
 181.191.131.77:Mozi
@@ -1814,28 +1814,28 @@
 183.62.201.27:Hajime
 183.62.201.28:Hajime
 183.80.156.30:Hajime
-184.105.191.94:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas sparc
+184.105.191.94:gafgyt Mirai renesas sparc
 185.109.48.27:NoTag
 185.118.14.208:Hajime
 185.16.38.38:AsyncRAT
 185.162.235.206:
-185.172.128.121:32 64 Amadey Phonk
-185.172.128.32:32 64 CoinMiner
+185.172.128.121:Amadey Phonk
+185.172.128.32:CoinMiner
 185.172.128.53:dropped-by-PrivateLoader Stealc
 185.172.128.5:Amadey
 185.172.128.79:Stealc
-185.172.128.8:32 Arechclient2
-185.196.8.195:32 64 Amadey
+185.172.128.8:Arechclient2
+185.196.8.195:Amadey
 185.196.8.248:NoTag
 185.196.9.102:Mirai
 185.201.78.51:Hajime
-185.216.13.58:32 purecrypter
-185.221.198.96:32 LummaStealer
-185.225.17.6:url zip
+185.216.13.58:purecrypter
+185.221.198.96:LummaStealer
+185.225.17.6:url
 185.228.72.8:VenomRAT
-185.234.247.107:32 DCRat
-185.255.114.18:encrypted GuLoader
-185.29.11.62:encrypted GuLoader
+185.234.247.107:DCRat
+185.255.114.18:GuLoader
+185.29.11.62:GuLoader
 185.36.81.138:NoTag
 185.81.157.150:NoTag
 185.81.157.152:AsyncRAT
@@ -1876,10 +1876,10 @@
 189.223.120.163:Hajime
 189.253.9.191:Hajime
 191.25.225.39:Mozi
-192.227.183.144:32 AgentTesla
+192.227.183.144:AgentTesla
 192.229.221.95:NoTag
-192.3.241.235:AgentTesla AZORult 
-193.111.248.62:ascii
+192.3.241.235:AgentTesla AZORult
+193.111.248.62:NoTag
 193.116.249.150:Hajime
 193.117.208.148:CobaltStrike Meterpreter
 193.222.96.23:NoTag
@@ -1887,26 +1887,26 @@
 193.233.132.30:recordbreaker
 193.233.132.34:dropped-by-PrivateLoader RedLineStealer
 193.233.132.4:dropped-by-PrivateLoader Redline RedLineStealer
-193.233.132.59:64 RedLineStealer
+193.233.132.59:RedLineStealer
 193.233.203.76:Mirai
-193.25.214.212:encrypted GuLoader
-193.3.19.247:32 Phorpiex
-193.34.212.17:AsyncRAT iso
-193.42.33.65:32 RedLineStealer
+193.25.214.212:GuLoader
+193.3.19.247:Phorpiex
+193.34.212.17:AsyncRAT
+193.42.33.65:RedLineStealer
 194.213.3.23:AsyncRAT
 194.255.147.12:Hajime
-194.33.191.102:32 RedLineStealer
-195.133.75.131:dropped-by-Stealc encrypted
+194.33.191.102:RedLineStealer
+195.133.75.131:dropped-by-Stealc
 195.20.16.154:recordbreaker
 195.35.25.136:Havoc
 196.119.156.20:Hajime
 196.151.238.89:Mozi
 196.219.82.114:Hajime
 197.44.210.17:Hajime
-198.12.81.254:32 AgentTesla
+198.12.81.254:AgentTesla
 198.46.174.147:NoTag
-198.46.178.135:doc 
-198.98.61.218:32 Mirai sparc
+198.46.178.135:NoTag
+198.98.61.218:Mirai sparc
 199.83.103.177:NoTag
 2.155.31.122:Hajime
 2.155.98.239:Hajime
@@ -1950,10 +1950,10 @@
 203.251.130.188:Hajime
 203.251.134.15:Hajime
 203.69.53.26:Hajime
-204.44.78.196:encrypted GuLoader RAT RemcosRAT
+204.44.78.196:GuLoader RAT RemcosRAT
 207.188.148.20:Hajime
 207.188.165.132:Hajime
-207.32.217.176:64
+207.32.217.176:NoTag
 208.115.233.154:NoTag
 208.167.255.173:Mirai
 208.169.94.235:Hajime
@@ -1967,18 +1967,18 @@
 211.223.149.46:Hajime
 211.51.224.122:Hajime
 212.143.156.85:Hajime
-212.162.149.96:encrypted GuLoader
+212.162.149.96:GuLoader
 212.225.196.177:Hajime
 213.170.208.252:Hajime
-213.232.235.84:32 64 arm bashlite gafgyt intel motorola powerpc renesas sparc
-216.219.94.57:32 arm intel Mirai script
+213.232.235.84:gafgyt renesas sparc
+216.219.94.57:Mirai
 216.244.203.133:Mozi
 216.244.203.135:Mozi
 216.244.203.47:Mozi
 216.244.203.74:Mozi
 216.244.203.7:Mozi
 216.244.203.97:Mozi
-217.196.98.10:32 LummaStealer
+217.196.98.10:LummaStealer
 218.146.176.24:Hajime
 218.149.51.211:Hajime
 218.157.39.232:Hajime
@@ -2397,7 +2397,7 @@
 223.9.42.21:Hajime
 223.9.45.71:NoTag
 223.9.46.254:Hajime
-23.145.120.49:zip
+23.145.120.49:NoTag
 23.224.99.242:NoTag
 23.224.99.243:NoTag
 23.224.99.244:NoTag
@@ -2408,12 +2408,12 @@
 23.225.35.236:NoTag
 23.225.35.237:NoTag
 23.225.35.238:NoTag
-23.227.196.27:Loki 
-23.88.35.65:gafgyt Mirai shellscript
+23.227.196.27:Loki
+23.88.35.65:gafgyt Mirai
 23.94.0.77:CobaltStrike
-23.94.239.93:doc  RAT RemcosRAT vbs
+23.94.239.93:RAT RemcosRAT vbs
 23.95.235.86:NoTag
-24.144.70.95:32 LummaStealer
+24.144.70.95:LummaStealer
 27.106.179.129:Mozi
 27.139.34.183:Hajime
 27.202.160.59:Mozi
@@ -2432,8 +2432,8 @@
 31.172.83.170:NoTag
 31.190.225.251:Hajime
 31.220.108.125:NoTag
-34.65.169.28:x86-32
-34.82.253.169:encrypted GuLoader
+34.65.169.28:NoTag
+34.82.253.169:GuLoader
 35.177.103.239:NoTag
 36.104.222.161:Hajime
 36.104.222.74:Hajime
@@ -2511,7 +2511,7 @@
 37.191.74.170:Hajime
 37.222.84.203:Hajime
 37.223.91.13:Hajime
-37.44.238.75:32 64 arm bashlite gafgyt Mirai motorola powerpc renesas sparc
+37.44.238.75:gafgyt Mirai renesas sparc
 37.53.80.238:Hajime
 37.6.135.106:Hajime
 37.6.143.212:Hajime
@@ -2592,33 +2592,33 @@
 42.242.122.65:Hajime
 42.243.189.11:Hajime
 43.129.239.195:Beacon Cobalt Strike CobaltStrike
-43.136.234.140:64
+43.136.234.140:NoTag
 43.139.120.183:CobaltStrike
 43.139.92.184:CobaltStrike
 43.142.244.86:gophish
 43.252.199.176:Hajime
 45.129.2.67:mimikatz Supershell
-45.13.119.81:32 64-bit arm Mirai motorola powerpc sparc x86-64
-45.138.174.199:64
-45.140.146.194:64
+45.13.119.81:Mirai sparc
+45.138.174.199:NoTag
+45.140.146.194:NoTag
 45.141.150.132:Mirai
 45.142.182.95:Mirai
-45.153.184.199:32 RemcosRAT Rhadamanthys Smoke Loader
+45.153.184.199:RemcosRAT Rhadamanthys Smoke Loader
 45.164.141.103:Mozi
-45.197.44.206:32
-45.197.44.209:32
-45.197.46.193:32
-45.197.47.193:32 UPX
-45.67.228.183:64
+45.197.44.206:NoTag
+45.197.44.209:NoTag
+45.197.46.193:NoTag
+45.197.47.193:UPX
+45.67.228.183:NoTag
 45.67.230.91:MuddyC2Go_C&C_server
 45.76.5.218:Mirai
 45.95.146.126:Mirai
-45.95.146.38:32 arm Mirai motorola powerpc renesas sparc x86-32
+45.95.146.38:Mirai renesas sparc
 45.95.146.55:NoTag
-45.95.146.86:Mirai x86-32
-45.95.146.97:Mirai x86-32
-45.95.147.171:64-bit x86-64
-45.95.147.172:x86-32
+45.95.146.86:Mirai
+45.95.146.97:Mirai
+45.95.147.171:NoTag
+45.95.147.172:NoTag
 45.95.147.173:Mirai
 46.100.166.120:Hajime
 46.101.193.178:NoTag
@@ -2773,17 +2773,17 @@
 49.89.86.238:Hajime
 49.89.87.89:Hajime
 5.160.164.30:NoTag
-5.181.156.131:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas script sparc
-5.181.156.243:DarkGate url zip
+5.181.156.131:gafgyt Mirai renesas sparc
+5.181.156.243:DarkGate url
 5.181.159.29:NoTag
-5.181.21.33:32 64 arm intel motorola powerpc renesas Tsunami
-5.181.80.139:32 arm intel Mirai motorola powerpc renesas
+5.181.21.33:renesas Tsunami
+5.181.80.139:Mirai renesas
 5.235.232.240:Hajime
 5.239.123.72:Hajime
 5.239.23.42:NoTag
-5.249.162.146:32 Mirai sparc
+5.249.162.146:Mirai sparc
 5.252.176.77:Meterpreter sliver
-5.42.65.125:32 Amadey Glupteba Smoke Loader
+5.42.65.125:Amadey Glupteba Smoke Loader
 5.42.65.54:Stealc
 5.42.66.36:Stealc
 5.42.66.57:Stealc
@@ -2800,7 +2800,7 @@
 51.68.44.22:NoTag
 51.89.212.151:NoTag
 52.196.149.49:m365stealer
-54.233.106.185:c2 CL geo Grandoreiro Payload
+54.233.106.185:c2 CL Grandoreiro Payload
 54.93.211.218:NoTag
 58.208.102.155:Hajime
 58.208.106.23:Hajime
@@ -2935,8 +2935,8 @@
 62.210.207.211:Havoc
 62.234.175.104:VenomRAT
 62.84.96.105:dropped-by-PrivateLoader Rhadamanthys
-64.188.18.200:encrypted GuLoader
-64.188.19.16:encrypted GuLoader
+64.188.18.200:GuLoader
+64.188.19.16:GuLoader
 64.225.6.171:NoTag
 64.237.218.227:Hajime
 64.67.247.197:Hajime
@@ -2947,7 +2947,7 @@
 66.228.60.47:Havoc QuasarRAT
 67.1.186.206:Hajime
 67.215.209.154:Hajime
-69.12.64.151:encrypted GuLoader RAT RemcosRAT
+69.12.64.151:GuLoader RAT RemcosRAT
 71.104.88.244:Hajime
 71.167.14.125:Hajime
 72.133.152.230:Hajime
@@ -2959,7 +2959,7 @@
 73.150.47.202:Hajime
 73.88.104.85:Hajime
 74.204.149.56:Hajime
-74.208.103.29:64
+74.208.103.29:NoTag
 75.196.213.69:Hajime
 77.105.166.156:NoTag
 77.222.180.82:Hajime
@@ -2971,10 +2971,10 @@
 77.254.36.5:Hajime
 77.54.32.102:Hajime
 77.69.245.76:Hajime
-77.91.124.172:32
-77.91.68.21:32 LummaStealer
+77.91.124.172:NoTag
+77.91.68.21:LummaStealer
 77.91.76.36:Stealc
-77.91.76.37:32 64 Amadey
+77.91.76.37:Amadey
 78.38.89.229:Hajime
 78.46.250.172:Vidar
 78.99.73.220:Hajime
@@ -2999,7 +2999,7 @@
 81.183.168.53:Hajime
 81.183.179.135:Hajime
 81.183.189.53:NoTag
-81.70.153.38:32 CobaltStrike
+81.70.153.38:CobaltStrike
 82.118.21.69:AgentTesla FormBook
 82.157.254.217:GhostRat
 82.194.54.63:Hajime
@@ -3018,16 +3018,16 @@
 84.1.57.116:Hajime
 84.2.212.54:Hajime
 84.54.51.246:Mirai
-84.54.51.26:script
-84.54.51.31:ascii
+84.54.51.26:NoTag
+84.54.51.31:NoTag
 85.110.202.117:Mozi
 85.130.205.97:Hajime
 85.130.238.118:Hajime
 85.130.78.68:Hajime
-85.195.105.118:doc  RAT RemcosRAT
+85.195.105.118:RAT RemcosRAT
 85.209.176.216:dropped-by-PrivateLoader RedLineStealer
-85.209.176.46:cloudeye encrypted GuLoader
-85.209.176.59:32 N-W0rm
+85.209.176.46:cloudeye GuLoader
+85.209.176.59:N-W0rm
 85.245.52.236:Hajime
 85.72.246.21:Hajime
 85.72.250.131:Hajime
@@ -3042,10 +3042,10 @@
 87.17.213.244:Hajime
 87.19.51.236:Hajime
 87.21.27.41:Hajime
-87.242.89.170:32 64 arm bashlite gafgyt intel motorola powerpc renesas script sparc
+87.242.89.170:gafgyt renesas sparc
 87.251.64.208:NoTag
 87.61.247.223:Hajime
-88.151.192.77:64
+88.151.192.77:NoTag
 88.212.254.174:NoTag
 88.247.179.46:Hajime
 89.104.67.191:NoTag
@@ -3058,63 +3058,63 @@
 89.23.113.13:Mirai
 89.23.96.228:bookinggoogledrive RedLineStealer
 89.23.98.143:NoTag
-89.23.98.92:bookinggoogledrive RedLineStealer stealer
+89.23.98.92:bookinggoogledrive RedLineStealer
 89.42.136.108:Hajime
 90.58.19.254:Hajime
 91.202.45.223:Hajime
-91.212.121.90:script
+91.212.121.90:NoTag
 91.215.85.209:NoTag
 91.220.222.40:Hajime
 91.239.148.93:Arechclient2 CoinMiner
 91.245.98.225:Mozi
 91.82.191.36:Hajime
-91.92.240.144:32
+91.92.240.144:NoTag
 91.92.240.244:AgentTesla FormBook
 91.92.241.143:Mirai
 91.92.241.241:AgentTesla
 91.92.241.90:AgentTesla
-91.92.242.251:64 zgRAT
+91.92.242.251:zgRAT
 91.92.242.81:AgentTesla
 91.92.242.91:AgentTesla vbs
-91.92.243.247:32 RedLineStealer
+91.92.243.247:RedLineStealer
 91.92.244.13:NoTag
 91.92.244.16:NoTag
 91.92.244.25:gafgyt Mirai
-91.92.244.30:ascii Mirai
+91.92.244.30:Mirai
 91.92.245.76:dropped-by-PrivateLoader Redline RedLineStealer
-91.92.246.196:32
-91.92.246.39:mars stealer
-91.92.247.123:32 AsyncRAT
+91.92.246.196:NoTag
+91.92.246.39:mars
+91.92.247.123:AsyncRAT
 91.92.247.124:Mirai
-91.92.247.96:32 AsyncRAT RedLineStealer
+91.92.247.96:AsyncRAT RedLineStealer
 91.92.249.96:Mirai
 91.92.250.149:NoTag
-91.92.250.161:32 dropped-by-PrivateLoader Glupteba Socks5Systemz Stealc
+91.92.250.161:dropped-by-PrivateLoader Glupteba Socks5Systemz Stealc
 91.92.250.236:AgentTesla
-91.92.251.244:encrypted GuLoader
-91.92.253.11:32 AgentTesla doc FormBook hta
-91.92.253.122:xworm
-91.92.253.236:32 AgentTesla doc 
+91.92.251.244:GuLoader
+91.92.253.11:AgentTesla FormBook hta
+91.92.253.122:NoTag
+91.92.253.236:AgentTesla
 91.92.253.245:AgentTesla js
 91.92.253.29:AgentTesla
-91.92.254.27:AgentTesla ascii Encoded
+91.92.254.27:AgentTesla Encoded
 91.98.159.176:Hajime
 92.154.109.85:Hajime
 92.85.48.31:Hajime
 93.104.208.94:NoTag
 93.118.124.49:Hajime
-93.123.85.102:32 arm Mirai motorola powerpc renesas sparc x86-32
+93.123.85.102:Mirai renesas sparc
 93.123.85.109:Mirai
 93.123.85.111:NoTag
-93.123.85.116:64-bit gafgyt x86-32 x86-64
+93.123.85.116:gafgyt
 93.123.85.124:Mirai
 93.123.85.35:NoTag
-93.123.85.41:32 arm Mirai motorola renesas x86-32
-93.123.85.42:Mirai x86-32
+93.123.85.41:Mirai renesas
+93.123.85.42:Mirai
 93.123.85.43:Mirai
-93.123.85.65:32 Mirai sparc
-93.123.85.79:32 arm intel Mirai motorola powerpc renesas sparc
-93.123.85.91:script
+93.123.85.65:Mirai sparc
+93.123.85.79:Mirai renesas sparc
+93.123.85.91:NoTag
 93.123.85.97:Mirai
 93.140.5.9:NoTag
 93.151.246.19:Hajime
@@ -3123,14 +3123,14 @@
 93.184.203.49:Hajime
 93.56.68.13:Hajime
 93.84.101.89:Mozi
-94.103.124.211:32 Mirai sparc
-94.103.124.222:ascii
+94.103.124.211:Mirai sparc
+94.103.124.222:NoTag
 94.110.69.242:Mozi
 94.131.109.65:MuddyC2Go_C&C_server
 94.131.3.160:GoSOCKS5proxy_C&C_server
 94.131.98.14:MuddyC2Go_C&C_server
 94.139.165.153:Hajime
-94.142.139.228:32 64 arm bashlite gafgyt intel Mirai motorola renesas
+94.142.139.228:gafgyt Mirai renesas
 94.156.64.100:CobaltStrike Metasploit
 94.156.71.160:BlankGrabber CoinMiner CoinMiner.XMRig
 94.183.252.232:Hajime

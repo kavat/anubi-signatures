@@ -5,7 +5,7 @@
 1.171.92.251:Hajime
 1.173.36.33:Hajime
 1.190.142.126:Mozi
-1.20.201.110:arm Mirai Mozi
+1.20.201.110:Mirai Mozi
 1.22.212.83:Mirai Mozi
 1.22.224.147:Mirai Mozi
 1.22.72.88:Mozi
@@ -21,7 +21,7 @@
 1.52.167.14:Hajime
 1.54.67.83:Mozi
 1.55.205.16:NoTag
-1.59.181.50:arm Mirai Mozi
+1.59.181.50:Mirai Mozi
 1.68.193.161:Mozi
 1.69.111.171:Mozi
 1.69.65.154:Hajime
@@ -44,13 +44,13 @@
 1.70.14.75:Hajime
 1.70.143.79:Hajime
 1.70.161.111:Hajime
-1.70.161.118:arm Mirai Mozi
+1.70.161.118:Mirai Mozi
 1.70.163.21:Hajime
 1.70.167.149:Mirai Mozi
 1.70.174.93:Hajime
 1.70.188.251:Hajime
 1.70.189.3:Hajime
-1.70.70.28:arm Mirai Mozi
+1.70.70.28:Mirai Mozi
 1.70.8.212:Hajime
 1.70.80.204:Hajime
 1.70.80.93:Hajime
@@ -104,7 +104,7 @@
 101.67.214.206:Mirai Mozi
 101.70.61.170:NoTag
 101.75.182.111:Mozi
-101.75.189.148:arm Mozi
+101.75.189.148:Mozi
 102.156.169.145:Mirai Mozi
 102.158.89.189:Mirai Mozi
 102.182.212.206:Mozi
@@ -179,7 +179,7 @@
 103.110.13.45:Mozi
 103.113.155.245:Hajime
 103.129.229.20:Mozi
-103.133.106.39:FormBook 
+103.133.106.39:FormBook
 103.133.124.168:Mozi
 103.136.72.131:Mirai Mozi
 103.138.137.134:Mozi
@@ -188,14 +188,14 @@
 103.146.140.253:NoTag
 103.148.58.242:NoTag
 103.148.96.33:Mirai Mozi
-103.151.227.87:arm Mozi
+103.151.227.87:Mozi
 103.155.30.205:Mozi
-103.155.81.71:doc 
+103.155.81.71:NoTag
 103.161.176.37:Mirai
 103.161.232.249:Mirai
 103.164.138.86:Mirai
 103.164.240.111:Mozi
-103.170.118.195:Loki 
+103.170.118.195:Loki
 103.170.255.139:FormBook
 103.173.137.79:Mirai Mozi
 103.175.16.13:BUMBLEBEE inst
@@ -206,17 +206,17 @@
 103.177.185.72:NoTag
 103.177.185.81:Mozi
 103.179.10.95:NoTag
-103.179.188.48:Mirai shellscript
+103.179.188.48:Mirai
 103.186.72.89:Mozi
-103.189.202.201:32 FormBook
+103.189.202.201:FormBook
 103.195.141.241:Hajime
-103.20.235.243:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
+103.20.235.243:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
 103.203.110.84:NoTag
 103.217.123.140:Mozi
 103.221.78.148:Mirai Mozi
 103.221.80.130:Mirai Mozi
 103.227.118.45:Hajime
-103.232.53.243:AgentTesla 
+103.232.53.243:AgentTesla
 103.24.109.23:Mozi
 103.242.156.17:Mozi
 103.245.205.142:Hajime
@@ -278,13 +278,13 @@
 103.94.236.30:Mirai Mozi
 104.11.158.229:Mirai Mozi
 104.156.149.33:NetSupport
-104.156.232.97:dll Geofenced obama255 Qakbot USA
+104.156.232.97:Geofenced obama255 Qakbot USA
 104.167.3.87:Mirai
 104.187.106.187:Hajime
 104.193.255.117:gafgyt
-104.225.129.157:dll Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
-104.238.190.98:dll Geofenced obama255 Qakbot USA
-104.244.74.239:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas script sparc
+104.225.129.157:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
+104.238.190.98:Geofenced obama255 Qakbot USA
+104.244.74.239:gafgyt Mirai renesas sparc
 104.244.74.252:Mirai
 104.248.91.138:AuroraStealer
 104.37.175.217:NoTag
@@ -311,8 +311,8 @@
 106.111.204.23:Hajime
 106.118.213.30:Mirai Mozi
 106.127.184.44:Mirai Mozi
-106.35.59.15:arm Mirai Mozi
-106.35.59.70:arm Mozi
+106.35.59.15:Mirai Mozi
+106.35.59.70:Mozi
 106.4.242.245:Mirai Mozi
 106.41.26.133:Hajime
 106.41.27.236:Hajime
@@ -326,7 +326,7 @@
 106.56.108.211:Mirai Mozi
 106.56.108.65:Mirai Mozi
 106.56.113.92:Mirai Mozi
-106.56.40.164:arm Mozi
+106.56.40.164:Mozi
 106.56.92.78:Mirai Mozi
 106.57.195.109:Hajime
 106.57.7.104:Hajime
@@ -339,9 +339,9 @@
 106.60.47.181:Mirai Mozi
 107.167.6.70:Mirai
 107.175.202.148:AgentTesla
-107.175.202.165:AgentTesla 
-107.175.202.201:AgentTesla doc 
-107.189.29.121:Mirai x86-32
+107.175.202.165:AgentTesla
+107.175.202.201:AgentTesla
+107.189.29.121:Mirai
 107.189.8.247:Mirai
 108.188.136.130:Hajime
 108.214.225.76:Hajime
@@ -354,8 +354,8 @@
 109.127.90.14:Hajime
 109.161.16.211:Mozi
 109.205.213.3:Mirai
-109.206.243.119:32 64 arm intel Mirai motorola powerpc renesas script sparc
-109.206.243.193:AgentTesla encrypted
+109.206.243.119:Mirai renesas sparc
+109.206.243.193:AgentTesla
 109.206.243.200:gafgyt Mirai
 109.206.243.208:RedLineStealer
 109.227.82.212:Mozi
@@ -366,14 +366,14 @@
 110.17.59.91:Mirai
 110.177.106.0:Hajime
 110.177.107.153:Hajime
-110.177.146.8:arm Mozi
-110.178.34.25:arm Mozi
+110.177.146.8:Mozi
+110.178.34.25:Mozi
 110.178.36.190:Hajime
 110.178.42.161:Hajime
 110.178.51.195:Hajime
-110.178.52.179:arm Mirai Mozi
+110.178.52.179:Mirai Mozi
 110.178.74.6:Mozi
-110.178.77.67:arm Mirai Mozi
+110.178.77.67:Mirai Mozi
 110.180.151.132:Hajime
 110.180.159.128:Mirai Mozi
 110.180.172.216:Hajime
@@ -383,13 +383,13 @@
 110.181.114.132:Mirai Mozi
 110.181.115.87:Hajime
 110.181.116.26:Hajime
-110.181.233.87:arm Mirai Mozi
+110.181.233.87:Mirai Mozi
 110.181.236.2:Hajime
 110.181.73.238:Hajime
 110.181.74.183:Hajime
 110.181.74.202:Hajime
-110.181.78.112:arm Mirai Mozi
-110.182.10.169:arm Mirai Mozi
+110.181.78.112:Mirai Mozi
+110.182.10.169:Mirai Mozi
 110.182.100.103:Hajime
 110.182.112.152:Hajime
 110.182.119.182:Hajime
@@ -406,7 +406,7 @@
 110.182.190.199:Hajime
 110.182.212.197:Hajime
 110.182.213.115:Hajime
-110.182.213.75:arm Mirai Mozi
+110.182.213.75:Mirai Mozi
 110.182.227.36:Hajime
 110.182.236.82:Hajime
 110.182.238.183:Hajime
@@ -422,12 +422,12 @@
 110.182.74.57:Hajime
 110.182.96.76:Hajime
 110.183.17.22:Hajime
-110.183.17.89:arm Mirai Mozi
+110.183.17.89:Mirai Mozi
 110.183.19.176:Hajime
 110.183.19.219:Hajime
 110.183.19.230:Hajime
 110.183.20.174:Hajime
-110.183.23.104:arm Mirai Mozi
+110.183.23.104:Mirai Mozi
 110.183.23.179:Hajime
 110.183.23.192:Mozi
 110.183.24.128:Hajime
@@ -440,49 +440,49 @@
 110.183.53.198:Hajime
 110.183.53.234:Hajime
 110.183.55.251:Hajime
-110.183.56.141:arm Mirai Mozi
+110.183.56.141:Mirai Mozi
 110.183.58.255:Hajime
 110.183.58.79:Hajime
 110.228.114.123:Mozi
 110.232.67.216:Hajime
-110.243.28.173:arm Mozi
+110.243.28.173:Mozi
 110.255.158.32:Mirai Mozi
 110.47.13.138:Hajime
 110.82.142.171:NoTag
 110.82.49.245:Mozi
 110.82.51.20:Mozi
-110.86.160.50:arm Mirai Mozi
-110.86.161.172:arm Mozi
+110.86.160.50:Mirai Mozi
+110.86.161.172:Mozi
 110.86.161.61:Mozi
 110.86.182.79:Mirai Mozi
 111.121.218.72:Mirai Mozi
 111.165.111.165:Mozi
 111.166.236.155:Mirai Mozi
-111.170.125.18:arm Mirai Mozi
+111.170.125.18:Mirai Mozi
 111.170.126.108:Mirai Mozi
 111.172.156.14:Mirai Mozi
-111.173.117.71:32 younglotus
-111.174.184.209:arm Mirai Mozi
+111.173.117.71:younglotus
+111.174.184.209:Mirai Mozi
 111.174.189.208:Mirai Mozi
-111.176.180.163:arm Mirai Mozi
-111.176.182.162:arm Mirai Mozi
+111.176.180.163:Mirai Mozi
+111.176.182.162:Mirai Mozi
 111.179.132.161:Mirai
 111.179.148.249:Mirai Mozi
 111.179.163.193:Mirai
-111.179.183.199:arm Mozi
+111.179.183.199:Mozi
 111.224.146.169:Mirai Mozi
 111.227.40.116:Mirai Mozi
 111.242.188.130:Mirai Mozi
 111.242.194.54:Mirai Mozi
-111.242.195.114:arm Mirai Mozi
+111.242.195.114:Mirai Mozi
 111.242.224.94:Mirai Mozi
 111.242.244.23:Mirai Mozi
-111.242.246.110:arm Mirai Mozi
+111.242.246.110:Mirai Mozi
 111.243.131.1:Mirai Mozi
 111.243.190.174:Hajime
 111.246.226.23:Mirai Mozi
-111.246.233.141:arm Mirai Mozi
-111.246.233.54:arm Mirai Mozi
+111.246.233.141:Mirai Mozi
+111.246.233.54:Mirai Mozi
 111.249.170.134:Mirai Mozi
 111.249.210.35:Mirai Mozi
 111.55.141.4:Mozi
@@ -529,9 +529,9 @@
 111.70.29.33:Hajime
 111.78.72.11:Mozi
 111.79.226.61:Mozi
-111.90.143.191:CobaltStrike cobaltstrike-stager dll
-111.90.146.117:32 arm intel Mirai motorola powerpc renesas script sparc
-111.90.151.38:ascii script
+111.90.143.191:CobaltStrike cobaltstrike-stager
+111.90.146.117:Mirai renesas sparc
+111.90.151.38:NoTag
 111.92.117.121:NoTag
 111.92.117.18:Mozi
 111.92.117.51:NoTag
@@ -554,7 +554,7 @@
 111.92.76.251:Mozi
 111.92.78.151:Mozi
 111.92.80.58:Mozi
-112.102.171.207:arm Mozi
+112.102.171.207:Mozi
 112.103.130.43:Mirai Mozi
 112.113.130.10:Hajime
 112.113.132.195:Mozi
@@ -565,11 +565,11 @@
 112.113.198.224:Hajime
 112.116.103.54:Mirai
 112.116.103.7:Mirai Mozi
-112.117.138.227:arm Mirai Mozi
+112.117.138.227:Mirai Mozi
 112.117.138.49:Mirai
 112.122.128.207:Mirai Mozi
 112.122.128.44:Mirai Mozi
-112.122.129.37:arm Mirai Mozi
+112.122.129.37:Mirai Mozi
 112.122.63.47:Mozi
 112.135.227.209:Mozi
 112.135.233.178:Mirai Mozi
@@ -593,7 +593,7 @@
 112.234.98.249:Mirai Mozi
 112.235.165.220:Mirai Mozi
 112.236.1.36:Mirai Mozi
-112.236.128.28:arm Mozi
+112.236.128.28:Mozi
 112.236.171.8:Mirai Mozi
 112.236.65.41:Mirai Mozi
 112.237.158.92:Mozi
@@ -653,7 +653,7 @@
 112.242.6.50:Mozi
 112.242.64.102:Mozi
 112.242.85.49:Mozi
-112.243.214.253:arm Mozi
+112.243.214.253:Mozi
 112.244.195.77:Mirai Mozi
 112.244.200.248:Mirai Mozi
 112.246.100.242:Mozi
@@ -737,7 +737,7 @@
 112.249.17.135:Mozi
 112.249.187.196:Mozi
 112.249.196.113:Mozi
-112.249.240.106:arm Mozi
+112.249.240.106:Mozi
 112.249.27.149:Mozi
 112.249.72.144:Mozi
 112.251.120.124:Mozi
@@ -751,10 +751,10 @@
 112.255.235.126:Mozi
 112.31.210.173:Mirai Mozi
 112.72.179.11:Mozi
-112.78.161.238:arm Mirai Mozi
-112.78.164.222:arm Mirai Mozi
+112.78.161.238:Mirai Mozi
+112.78.164.222:Mirai Mozi
 112.78.42.90:Hajime
-112.87.188.168:arm Mirai Mozi
+112.87.188.168:Mirai Mozi
 112.93.169.59:Mozi
 112.93.211.66:Mozi
 112.93.240.151:Mozi
@@ -772,7 +772,7 @@
 113.110.236.148:Mozi
 113.110.236.223:Mozi
 113.110.247.170:Mozi
-113.110.77.130:arm Mirai Mozi
+113.110.77.130:Mirai Mozi
 113.111.51.184:Mozi
 113.116.148.84:Mozi
 113.116.149.206:Mozi
@@ -786,8 +786,8 @@
 113.116.36.184:NoTag
 113.116.41.114:Mozi
 113.116.6.137:NoTag
-113.116.88.162:arm Mirai Mozi
-113.116.88.19:arm Mozi
+113.116.88.162:Mirai Mozi
+113.116.88.19:Mozi
 113.118.12.224:Mozi
 113.118.132.117:Mirai Mozi
 113.118.132.37:Mozi
@@ -796,7 +796,7 @@
 113.118.197.56:Mozi
 113.118.7.115:Mozi
 113.161.177.45:Hajime
-113.17.177.8:arm Mozi
+113.17.177.8:Mozi
 113.174.115.130:Hajime
 113.193.89.206:Mozi
 113.195.169.141:Mozi
@@ -822,7 +822,7 @@
 113.226.235.161:Mozi
 113.227.11.220:Mozi
 113.227.156.112:Mirai Mozi
-113.227.238.173:arm Mirai Mozi
+113.227.238.173:Mirai Mozi
 113.228.143.25:Mozi
 113.228.144.60:Mirai Mozi
 113.229.54.21:Mozi
@@ -832,7 +832,7 @@
 113.233.186.71:Mirai Mozi
 113.234.49.34:Mirai Mozi
 113.236.98.121:Mozi
-113.237.192.228:arm Mirai Mozi
+113.237.192.228:Mirai Mozi
 113.239.116.220:Mozi
 113.239.88.73:Mozi
 113.24.131.113:Mirai Mozi
@@ -842,25 +842,25 @@
 113.24.157.186:Hajime
 113.24.157.26:Hajime
 113.24.165.102:Hajime
-113.24.166.157:arm Mirai Mozi
+113.24.166.157:Mirai Mozi
 113.24.166.70:Hajime
 113.24.166.98:Hajime
 113.24.184.164:Hajime
 113.24.186.84:Hajime
 113.240.31.143:Mozi
-113.243.22.178:arm Mirai Mozi
-113.245.183.90:arm Mirai Mozi
+113.243.22.178:Mirai Mozi
+113.245.183.90:Mirai Mozi
 113.245.218.231:Mirai Mozi
 113.245.218.46:Mirai Mozi
 113.245.248.148:Mirai Mozi
 113.246.130.136:Mirai Mozi
-113.246.131.49:arm Mirai Mozi
-113.246.132.230:arm Mirai Mozi
+113.246.131.49:Mirai Mozi
+113.246.132.230:Mirai Mozi
 113.248.169.102:Mirai Mozi
 113.25.128.231:Mirai Mozi
 113.25.204.167:Hajime
 113.251.232.140:Mirai Mozi
-113.251.232.184:arm Mirai Mozi
+113.251.232.184:Mirai Mozi
 113.251.233.68:NoTag
 113.251.234.210:Mozi
 113.251.235.138:Mirai Mozi
@@ -879,7 +879,7 @@
 113.26.211.188:Hajime
 113.26.226.128:Hajime
 113.26.228.191:Hajime
-113.26.236.120:arm Mirai Mozi
+113.26.236.120:Mirai Mozi
 113.26.238.143:Hajime
 113.26.57.208:Hajime
 113.26.58.52:Hajime
@@ -919,14 +919,14 @@
 113.89.174.90:Mozi
 113.89.41.9:Mozi
 113.89.52.41:Mozi
-113.89.7.44:arm Mozi
+113.89.7.44:Mozi
 113.90.12.28:Mozi
 113.90.12.32:Mozi
 113.90.179.239:Mirai Mozi
-113.90.185.25:arm Mirai Mozi
-113.90.190.127:arm Mozi
+113.90.185.25:Mirai Mozi
+113.90.190.127:Mozi
 113.90.190.215:Mirai Mozi
-113.90.190.244:arm Mirai Mozi
+113.90.190.244:Mirai Mozi
 113.90.227.101:Mozi
 113.90.245.0:Mozi
 113.90.27.65:Mozi
@@ -935,7 +935,7 @@
 113.94.31.28:Mozi
 113.94.31.5:Mozi
 113.94.48.83:NoTag
-113.99.80.51:arm Mozi
+113.99.80.51:Mozi
 114.100.85.66:NoTag
 114.129.234.36:Mozi
 114.134.25.56:Mozi
@@ -988,23 +988,23 @@
 114.228.141.232:Mozi
 114.228.156.149:Hajime
 114.228.172.209:Mozi
-114.228.242.254:arm Mozi
-114.228.252.73:arm Mozi
+114.228.242.254:Mozi
+114.228.252.73:Mozi
 114.228.29.115:Mozi
-114.228.84.58:arm Mozi
+114.228.84.58:Mozi
 114.228.90.133:Mozi
-114.229.56.31:arm Mirai Mozi
+114.229.56.31:Mirai Mozi
 114.230.90.31:Hajime
 114.231.216.58:Mozi
 114.233.160.5:Mozi
 114.233.161.96:Mozi
-114.237.155.241:arm Mirai Mozi
+114.237.155.241:Mirai Mozi
 114.237.52.252:Hajime
 114.237.54.226:Hajime
 114.238.0.119:Mozi
 114.238.11.143:Mozi
 114.238.147.43:Mozi
-114.238.55.201:arm Mirai Mozi
+114.238.55.201:Mirai Mozi
 114.239.1.93:Hajime
 114.239.103.239:Hajime
 114.239.108.64:Hajime
@@ -1018,8 +1018,8 @@
 114.239.25.203:Hajime
 114.239.250.227:Hajime
 114.239.250.42:Hajime
-114.239.37.79:arm Mozi
-114.239.48.81:arm Mirai Mozi
+114.239.37.79:Mozi
+114.239.48.81:Mirai Mozi
 114.239.51.236:Hajime
 114.239.67.216:Hajime
 114.239.76.64:Hajime
@@ -1057,9 +1057,9 @@
 115.201.46.244:Mirai Mozi
 115.202.115.229:Mirai Mozi
 115.203.108.52:Mozi
-115.203.110.121:arm Mirai Mozi
+115.203.110.121:Mirai Mozi
 115.204.232.33:Mozi
-115.204.57.56:arm Mozi
+115.204.57.56:Mozi
 115.205.186.128:Mozi
 115.206.160.90:Mozi
 115.206.163.137:Mozi
@@ -1079,35 +1079,35 @@
 115.213.187.145:Mozi
 115.213.200.31:Mozi
 115.214.105.70:Mozi
-115.214.13.156:arm Mirai Mozi
+115.214.13.156:Mirai Mozi
 115.214.3.123:Mozi
-115.215.176.160:arm Mozi
+115.215.176.160:Mozi
 115.215.177.243:Mirai Mozi
-115.215.178.147:arm Mirai Mozi
+115.215.178.147:Mirai Mozi
 115.215.179.46:Mirai Mozi
-115.215.180.56:arm Mirai Mozi
+115.215.180.56:Mirai Mozi
 115.216.213.159:Mozi
-115.224.112.26:arm Mirai Mozi
-115.224.113.65:arm Mozi
+115.224.112.26:Mirai Mozi
+115.224.113.65:Mozi
 115.224.116.167:Mirai
 115.224.15.102:Mirai Mozi
 115.224.15.59:Mirai
-115.224.85.251:arm Mirai Mozi
+115.224.85.251:Mirai Mozi
 115.225.1.3:Mirai Mozi
 115.225.198.139:Mirai Mozi
 115.226.116.227:Mirai Mozi
 115.226.215.208:Mozi
-115.227.155.164:arm Mirai Mozi
+115.227.155.164:Mirai Mozi
 115.227.182.230:Mirai Mozi
 115.227.214.115:Mirai Mozi
 115.229.255.122:Mozi
 115.229.255.26:Mirai Mozi
-115.229.255.49:arm Mozi
-115.230.36.213:arm Mozi
+115.229.255.49:Mozi
+115.230.36.213:Mozi
 115.230.49.17:Mozi
 115.230.65.144:Mirai Mozi
 115.230.65.18:Mirai Mozi
-115.230.68.174:arm Mozi
+115.230.68.174:Mozi
 115.230.74.20:Mozi
 115.230.75.74:Mirai
 115.230.76.167:Mirai Mozi
@@ -1118,7 +1118,7 @@
 115.237.179.70:Mirai Mozi
 115.237.228.166:Mirai Mozi
 115.46.101.183:Mirai Mozi
-115.46.116.239:arm Mirai Mozi
+115.46.116.239:Mirai Mozi
 115.47.163.203:Mozi
 115.48.0.161:Mozi
 115.48.132.196:Mozi
@@ -1233,7 +1233,7 @@
 115.50.223.67:Mozi
 115.50.229.78:Mozi
 115.50.231.200:Mozi
-115.50.239.19:arm Mirai Mozi
+115.50.239.19:Mirai Mozi
 115.50.249.203:Mozi
 115.50.25.208:Mozi
 115.50.251.58:Mozi
@@ -1290,7 +1290,7 @@
 115.51.219.209:Mozi
 115.51.223.236:Mozi
 115.51.25.33:Mozi
-115.51.3.196:arm Mirai Mozi
+115.51.3.196:Mirai Mozi
 115.51.5.173:Mozi
 115.51.5.77:Mozi
 115.51.92.239:Mozi
@@ -1329,7 +1329,7 @@
 115.53.49.204:Mozi
 115.53.52.34:Mozi
 115.53.60.193:Mozi
-115.53.76.223:arm Mozi
+115.53.76.223:Mozi
 115.54.106.232:Mozi
 115.54.107.11:Mozi
 115.54.107.27:Mozi
@@ -1358,7 +1358,7 @@
 115.54.222.122:Mozi
 115.54.223.168:Mozi
 115.54.228.111:Mozi
-115.54.229.232:arm Mozi
+115.54.229.232:Mozi
 115.54.234.162:Mozi
 115.54.250.69:Mozi
 115.54.255.63:Mirai Mozi
@@ -1376,7 +1376,7 @@
 115.55.102.16:Mozi
 115.55.103.67:Mozi
 115.55.11.57:Mozi
-115.55.113.52:arm Mirai Mozi
+115.55.113.52:Mirai Mozi
 115.55.118.80:Mozi
 115.55.128.127:Mozi
 115.55.128.176:Mozi
@@ -1505,9 +1505,9 @@
 115.56.134.207:Mozi
 115.56.134.250:Mozi
 115.56.135.157:Mozi
-115.56.136.93:arm Mirai Mozi
-115.56.136.95:arm Mozi
-115.56.139.160:arm Mozi
+115.56.136.93:Mirai Mozi
+115.56.136.95:Mozi
+115.56.139.160:Mozi
 115.56.139.247:Mozi
 115.56.14.141:Mozi
 115.56.144.214:Mozi
@@ -1518,7 +1518,7 @@
 115.56.15.242:Mozi
 115.56.15.24:Mozi
 115.56.150.114:Mozi
-115.56.150.88:arm Mozi
+115.56.150.88:Mozi
 115.56.151.102:Mozi
 115.56.154.143:Mozi
 115.56.155.34:Mozi
@@ -1666,7 +1666,7 @@
 115.61.13.7:Mozi
 115.61.135.45:Mozi
 115.61.139.246:NoTag
-115.61.15.182:arm Mirai Mozi
+115.61.15.182:Mirai Mozi
 115.61.16.98:Mozi
 115.61.17.142:Mozi
 115.61.17.25:Mozi
@@ -1747,7 +1747,7 @@
 115.63.29.233:Mozi
 115.63.30.107:Mozi
 115.63.30.28:Mozi
-115.63.35.36:arm Mirai Mozi
+115.63.35.36:Mirai Mozi
 115.63.37.175:Mozi
 115.63.39.85:Mozi
 115.63.49.74:Mozi
@@ -1789,7 +1789,7 @@
 116.112.26.121:Mirai Mozi
 116.112.26.193:Mirai Mozi
 116.112.30.66:Mirai Mozi
-116.132.132.96:arm Mirai Mozi
+116.132.132.96:Mirai Mozi
 116.16.125.241:Mirai Mozi
 116.16.125.38:Mirai Mozi
 116.16.188.108:Mozi
@@ -1828,7 +1828,7 @@
 116.53.47.177:Mirai Mozi
 116.55.118.7:Hajime
 116.55.173.23:Hajime
-116.55.177.233:arm Mirai Mozi
+116.55.177.233:Mirai Mozi
 116.55.177.251:Mirai Mozi
 116.55.64.182:Hajime
 116.55.76.122:Hajime
@@ -1855,8 +1855,8 @@
 116.75.209.19:Mozi
 116.75.91.175:Mozi
 117.1.127.220:Hajime
-117.10.41.125:arm Mirai Mozi
-117.11.42.176:arm Mirai Mozi
+117.10.41.125:Mirai Mozi
+117.11.42.176:Mirai Mozi
 117.132.194.33:Mozi
 117.132.194.59:Mozi
 117.193.104.249:Mozi
@@ -3770,13 +3770,13 @@
 117.255.77.218:Mozi
 117.255.79.220:Mozi
 117.26.113.15:Mirai Mozi
-117.26.113.233:arm Mirai Mozi
-117.26.113.55:arm Mirai Mozi
-117.26.195.144:arm Mirai Mozi
-117.26.208.218:arm Mozi
-117.26.222.10:arm Mirai Mozi
+117.26.113.233:Mirai Mozi
+117.26.113.55:Mirai Mozi
+117.26.195.144:Mirai Mozi
+117.26.208.218:Mozi
+117.26.222.10:Mirai Mozi
 117.26.66.191:Mirai Mozi
-117.26.67.68:arm Mirai Mozi
+117.26.67.68:Mirai Mozi
 117.26.89.150:Mirai Mozi
 117.29.230.37:Mirai Mozi
 117.3.203.26:Hajime
@@ -3801,11 +3801,11 @@
 117.81.46.51:Hajime
 117.81.95.107:Hajime
 117.82.116.202:Hajime
-117.82.12.104:arm Mirai Mozi
-117.82.13.23:arm Mirai Mozi
-117.82.165.131:arm Mirai Mozi
+117.82.12.104:Mirai Mozi
+117.82.13.23:Mirai Mozi
+117.82.165.131:Mirai Mozi
 117.82.209.178:Hajime
-117.84.68.241:arm Mozi
+117.84.68.241:Mozi
 117.86.49.111:Mozi
 117.87.71.244:Mozi
 117.88.230.100:Mozi
@@ -3836,12 +3836,12 @@
 118.174.69.24:Mirai Mozi
 118.175.250.123:Mirai Mozi
 118.175.251.50:Mirai Mozi
-118.248.36.241:arm Mirai Mozi
+118.248.36.241:Mirai Mozi
 118.249.100.37:Mozi
 118.249.120.221:Mozi
 118.249.178.240:Mozi
 118.249.80.41:Mozi
-118.250.105.31:arm Mozi
+118.250.105.31:Mozi
 118.250.106.193:Mirai Mozi
 118.250.106.241:Mozi
 118.250.106.29:Mirai Mozi
@@ -3850,8 +3850,8 @@
 118.250.56.24:Mirai Mozi
 118.253.77.183:Mirai Mozi
 118.253.80.18:Mirai Mozi
-118.253.80.80:arm Mozi
-118.253.80.98:arm Mirai Mozi
+118.253.80.80:Mozi
+118.253.80.98:Mirai Mozi
 118.33.23.58:Hajime
 118.40.48.16:Hajime
 118.41.80.231:Hajime
@@ -3863,19 +3863,19 @@
 118.79.121.94:Mozi
 118.79.73.70:Mozi
 118.81.169.49:NoTag
-119.1.132.87:arm Mirai Mozi
+119.1.132.87:Mirai Mozi
 119.1.133.135:Hajime
 119.1.135.215:Hajime
 119.100.172.67:Mirai Mozi
-119.100.172.9:arm Mirai Mozi
+119.100.172.9:Mirai Mozi
 119.102.33.146:Mirai Mozi
-119.102.60.109:arm Mirai Mozi
-119.102.79.105:arm Mirai Mozi
+119.102.60.109:Mirai Mozi
+119.102.79.105:Mirai Mozi
 119.102.88.203:Mirai Mozi
 119.102.92.120:Mirai
-119.102.93.127:arm Mirai Mozi
+119.102.93.127:Mirai Mozi
 119.112.227.198:Mozi
-119.113.66.190:arm Mirai Mozi
+119.113.66.190:Mirai Mozi
 119.114.132.28:Mozi
 119.114.52.95:Mozi
 119.119.93.97:Mirai Mozi
@@ -3889,8 +3889,8 @@
 119.123.130.204:Mozi
 119.123.172.175:Mozi
 119.123.202.91:NoTag
-119.123.224.9:arm Mirai Mozi
-119.123.226.153:arm Mirai Mozi
+119.123.224.9:Mirai Mozi
+119.123.226.153:Mirai Mozi
 119.123.239.162:Mozi
 119.125.134.179:Mozi
 119.125.134.250:Mozi
@@ -3909,11 +3909,11 @@
 119.162.79.155:Mozi
 119.163.169.155:Mozi
 119.165.17.41:Mozi
-119.165.39.121:arm Mirai Mozi
+119.165.39.121:Mirai Mozi
 119.165.98.60:Mozi
 119.166.172.194:Mozi
 119.167.31.207:Mozi
-119.167.36.198:arm Mirai Mozi
+119.167.36.198:Mirai Mozi
 119.170.251.62:Hajime
 119.176.137.167:Mirai Mozi
 119.178.145.232:Mozi
@@ -3958,17 +3958,17 @@
 119.180.220.57:Mozi
 119.180.227.112:Mozi
 119.180.33.32:Mozi
-119.181.124.69:arm Mirai Mozi
-119.182.77.227:arm Mirai Mozi
+119.181.124.69:Mirai Mozi
+119.182.77.227:Mirai Mozi
 119.183.100.43:Mirai
 119.183.229.169:Mirai Mozi
 119.183.26.0:Mozi
-119.183.4.181:arm Mozi
+119.183.4.181:Mozi
 119.183.52.188:Mozi
 119.184.11.1:Mozi
 119.184.12.157:Mozi
 119.184.31.101:Mozi
-119.184.50.180:arm Mirai Mozi
+119.184.50.180:Mirai Mozi
 119.185.156.66:Mozi
 119.185.165.141:Mozi
 119.185.178.148:Mozi
@@ -4004,16 +4004,16 @@
 119.56.144.94:Mozi
 119.88.184.136:Mozi
 119.98.132.140:Mirai Mozi
-119.98.134.203:arm Mirai Mozi
-119.98.141.0:arm Mozi
+119.98.134.203:Mirai Mozi
+119.98.141.0:Mozi
 119.99.122.60:Mirai Mozi
-119.99.175.145:arm Mirai Mozi
+119.99.175.145:Mirai Mozi
 119.99.182.81:Mirai Mozi
 119.99.232.156:Mirai Mozi
 119.99.234.2:Mirai Mozi
-119.99.246.254:arm Mirai Mozi
-119.99.248.95:arm Mirai Mozi
-119.99.250.41:arm Mirai Mozi
+119.99.246.254:Mirai Mozi
+119.99.248.95:Mirai Mozi
+119.99.250.41:Mirai Mozi
 12.172.117.103:Hajime
 120.211.101.246:Mozi
 120.211.101.248:Mozi
@@ -4101,7 +4101,7 @@
 121.11.189.164:Mozi
 121.121.120.213:Hajime
 121.121.214.188:Hajime
-121.122.95.39:arm Mirai Mozi
+121.122.95.39:Mirai Mozi
 121.136.249.137:Mozi
 121.149.3.169:Hajime
 121.202.138.204:Mozi
@@ -4113,20 +4113,20 @@
 121.202.205.162:Mirai Mozi
 121.202.207.176:Mozi
 121.202.249.236:Mirai Mozi
-121.205.215.43:arm Mozi
-121.205.222.176:arm Mirai Mozi
+121.205.215.43:Mozi
+121.205.222.176:Mirai Mozi
 121.205.230.110:Mirai Mozi
 121.205.230.242:Mozi
-121.205.252.221:arm Mirai Mozi
-121.205.253.132:arm Mozi
-121.205.253.133:arm Mirai Mozi
-121.205.253.31:arm Mirai Mozi
+121.205.252.221:Mirai Mozi
+121.205.253.132:Mozi
+121.205.253.133:Mirai Mozi
+121.205.253.31:Mirai Mozi
 121.206.37.228:Mirai Mozi
 121.206.37.249:Mirai Mozi
 121.224.171.201:Mirai Mozi
 121.224.178.26:Hajime
 121.224.186.228:Hajime
-121.224.220.137:arm Mirai Mozi
+121.224.220.137:Mirai Mozi
 121.224.38.98:Hajime
 121.225.114.136:Mozi
 121.225.115.7:Mozi
@@ -4143,11 +4143,11 @@
 121.227.88.117:Hajime
 121.228.201.51:Mozi
 121.228.25.233:Hajime
-121.229.149.108:arm Mirai Mozi
+121.229.149.108:Mirai Mozi
 121.230.116.149:Mozi
 121.231.117.107:Mirai Mozi
 121.231.126.139:Hajime
-121.231.147.92:arm Mirai Mozi
+121.231.147.92:Mirai Mozi
 121.231.189.249:Mozi
 121.231.200.254:Hajime
 121.231.30.151:Hajime
@@ -4159,7 +4159,7 @@
 121.231.84.43:Hajime
 121.231.99.50:Hajime
 121.232.39.99:Mirai
-121.232.46.192:arm Mirai Mozi
+121.232.46.192:Mirai Mozi
 121.233.170.22:Hajime
 121.233.222.25:Hajime
 121.234.178.11:Hajime
@@ -4181,24 +4181,24 @@
 121.25.243.8:Mirai Mozi
 121.33.160.68:Mozi
 121.61.150.53:Mirai Mozi
-121.61.98.190:arm Mozi
-121.61.99.239:arm Mirai Mozi
+121.61.98.190:Mozi
+121.61.99.239:Mirai Mozi
 122.116.172.205:Hajime
 122.116.98.172:Hajime
 122.117.223.173:Hajime
 122.117.31.35:Mirai Mozi
-122.140.135.199:arm Mirai Mozi
+122.140.135.199:Mirai Mozi
 122.142.225.230:Mirai Mozi
 122.142.227.213:Mirai Mozi
 122.157.78.24:Mirai Mozi
-122.188.132.169:arm Mozi
+122.188.132.169:Mozi
 122.188.132.173:Mirai Mozi
 122.188.132.231:Mirai Mozi
 122.188.138.46:Mozi
 122.189.13.248:Mirai Mozi
 122.189.140.187:Mozi
 122.189.25.29:Mirai Mozi
-122.191.176.207:arm Mozi
+122.191.176.207:Mozi
 122.191.177.100:Mirai Mozi
 122.191.185.117:Mirai Mozi
 122.191.185.11:Mirai Mozi
@@ -4206,16 +4206,16 @@
 122.191.25.204:Mozi
 122.194.9.239:Mozi
 122.199.120.98:Mozi
-122.201.190.155:arm Mirai Mozi
+122.201.190.155:Mirai Mozi
 122.227.114.144:Mirai
 122.230.16.89:Mirai Mozi
 122.230.242.78:Mozi
 122.230.29.122:Mozi
 122.230.36.19:Mozi
 122.230.51.80:Mozi
-122.231.221.150:arm Mozi
+122.231.221.150:Mozi
 122.231.241.218:Mirai Mozi
-122.231.252.36:arm Mirai Mozi
+122.231.252.36:Mirai Mozi
 122.232.146.50:Mozi
 122.232.190.16:NoTag
 122.232.195.63:Mirai Mozi
@@ -4224,22 +4224,22 @@
 122.232.248.27:Mirai Mozi
 122.233.188.149:Mozi
 122.233.25.188:Mirai Mozi
-122.234.191.176:arm Mozi
-122.235.245.187:arm Mozi
+122.234.191.176:Mozi
+122.235.245.187:Mozi
 122.236.198.178:Mirai Mozi
 122.237.17.195:Mozi
 122.237.39.219:Mozi
 122.239.168.187:Mozi
 122.239.186.20:Mozi
-122.241.17.80:arm Mozi
-122.241.18.18:arm Mozi
+122.241.17.80:Mozi
+122.241.18.18:Mozi
 122.241.215.99:Mirai Mozi
 122.241.223.17:Mozi
 122.241.226.117:Mirai Mozi
 122.241.226.142:Mirai Mozi
-122.241.23.235:arm Mozi
+122.241.23.235:Mozi
 122.241.230.43:Mozi
-122.241.242.123:arm Mirai Mozi
+122.241.242.123:Mirai Mozi
 122.241.35.159:Mirai Mozi
 122.241.40.47:Mozi
 122.247.50.108:Mirai Mozi
@@ -4357,7 +4357,7 @@
 123.12.195.96:Mozi
 123.12.195.9:Mozi
 123.12.199.92:Mozi
-123.12.220.241:arm Mirai Mozi
+123.12.220.241:Mirai Mozi
 123.12.224.125:Mozi
 123.12.226.25:Mozi
 123.12.228.214:Mozi
@@ -4385,7 +4385,7 @@
 123.12.43.82:Mozi
 123.12.45.69:Mozi
 123.12.96.91:Mozi
-123.128.124.61:arm Mirai Mozi
+123.128.124.61:Mirai Mozi
 123.129.128.119:Mozi
 123.129.130.175:Mozi
 123.129.131.189:Mozi
@@ -4402,7 +4402,7 @@
 123.13.113.228:Mozi
 123.13.142.5:Mozi
 123.13.150.133:Mozi
-123.13.159.140:arm Mirai Mozi
+123.13.159.140:Mirai Mozi
 123.13.164.120:Mozi
 123.13.165.117:Mozi
 123.13.165.180:Mozi
@@ -4422,7 +4422,7 @@
 123.13.34.92:Mozi
 123.13.53.241:Mozi
 123.13.56.148:Mozi
-123.13.58.61:arm Mozi
+123.13.58.61:Mozi
 123.13.63.144:Mirai Mozi
 123.13.72.249:Mozi
 123.13.87.102:Mozi
@@ -4517,24 +4517,24 @@
 123.14.94.36:Mozi
 123.14.97.55:Mozi
 123.146.231.134:Mozi
-123.15.169.196:arm Mirai Mozi
+123.15.169.196:Mirai Mozi
 123.154.45.98:Mirai Mozi
-123.156.48.64:arm Mirai Mozi
+123.156.48.64:Mirai Mozi
 123.156.51.29:Mirai Mozi
 123.159.124.157:Mirai Mozi
 123.159.125.145:Mirai Mozi
-123.159.52.11:arm Mirai Mozi
-123.159.68.55:arm Mirai Mozi
+123.159.52.11:Mirai Mozi
+123.159.68.55:Mirai Mozi
 123.159.70.252:Mirai Mozi
 123.159.8.167:Mozi
 123.172.235.108:Hajime
-123.172.249.238:arm Mozi
+123.172.249.238:Mozi
 123.172.80.49:Hajime
 123.173.110.222:Hajime
-123.173.5.186:arm Mirai Mozi
+123.173.5.186:Mirai Mozi
 123.173.68.165:Hajime
 123.173.75.148:Hajime
-123.173.75.174:arm Mirai Mozi
+123.173.75.174:Mirai Mozi
 123.173.75.247:Hajime
 123.173.75.79:Hajime
 123.173.76.142:Hajime
@@ -4550,13 +4550,13 @@
 123.175.68.138:Hajime
 123.175.88.171:Hajime
 123.175.91.216:Hajime
-123.175.92.89:arm Mozi
+123.175.92.89:Mozi
 123.175.95.71:Hajime
-123.182.134.17:arm Mirai Mozi
+123.182.134.17:Mirai Mozi
 123.185.35.40:Hajime
 123.185.40.222:Mirai Mozi
 123.185.8.60:Hajime
-123.185.9.92:arm Mozi
+123.185.9.92:Mozi
 123.187.109.72:Mirai Mozi
 123.195.146.163:Hajime
 123.195.205.208:Mirai Mozi
@@ -4582,7 +4582,7 @@
 123.4.200.167:Mozi
 123.4.201.143:Mirai Mozi
 123.4.202.65:Mozi
-123.4.207.84:arm Mirai Mozi
+123.4.207.84:Mirai Mozi
 123.4.210.110:Mozi
 123.4.211.194:Mozi
 123.4.215.143:Mozi
@@ -4685,7 +4685,7 @@
 123.8.53.191:Mozi
 123.8.57.101:Mozi
 123.8.73.216:Mozi
-123.8.74.152:arm Mirai Mozi
+123.8.74.152:Mirai Mozi
 123.8.74.73:Mozi
 123.8.76.173:Mozi
 123.8.78.228:Mozi
@@ -4715,7 +4715,7 @@
 123.9.202.61:Mozi
 123.9.206.184:Mozi
 123.9.218.117:Mozi
-123.9.218.59:arm Mirai Mozi
+123.9.218.59:Mirai Mozi
 123.9.25.158:Mozi
 123.9.252.171:Mirai Mozi
 123.9.44.53:Mozi
@@ -4736,7 +4736,7 @@
 124.129.236.37:Mozi
 124.129.80.67:NoTag
 124.130.242.16:Mozi
-124.130.68.38:arm Mirai Mozi
+124.130.68.38:Mirai Mozi
 124.131.112.188:Mozi
 124.131.119.205:Mozi
 124.131.132.197:Mozi
@@ -4764,11 +4764,11 @@
 124.153.20.102:Hajime
 124.161.124.35:Mozi
 124.161.124.76:Mozi
-124.163.153.2:arm Mirai Mozi
+124.163.153.2:Mirai Mozi
 124.228.55.121:Mirai Mozi
 124.228.55.43:Mirai
 124.230.97.106:Mirai Mozi
-124.230.97.18:arm Mozi
+124.230.97.18:Mozi
 124.234.157.224:Hajime
 124.234.179.73:Hajime
 124.234.181.165:Hajime
@@ -4780,7 +4780,7 @@
 124.234.203.130:Hajime
 124.234.203.181:Hajime
 124.234.218.32:Hajime
-124.234.239.21:arm Mirai Mozi
+124.234.239.21:Mirai Mozi
 124.234.245.144:Hajime
 124.234.245.149:Hajime
 124.234.247.143:Hajime
@@ -4790,12 +4790,12 @@
 124.235.106.232:Mirai Mozi
 124.235.106.87:Hajime
 124.235.131.15:Hajime
-124.235.169.232:arm Mirai Mozi
+124.235.169.232:Mirai Mozi
 124.235.169.248:Mirai Mozi
 124.235.175.37:Hajime
 124.235.184.3:Hajime
 124.235.207.247:Hajime
-124.235.215.173:arm Mozi
+124.235.215.173:Mozi
 124.235.240.249:Hajime
 124.235.244.190:Hajime
 124.235.248.252:Hajime
@@ -4809,7 +4809,7 @@
 124.71.228.145:NoTag
 124.89.226.74:Mozi
 124.91.221.0:Mozi
-124.91.97.166:arm Mirai Mozi
+124.91.97.166:Mirai Mozi
 124.94.174.62:Mirai Mozi
 124.94.224.14:Mozi
 124.95.246.102:Mirai Mozi
@@ -4822,33 +4822,33 @@
 125.105.130.227:Mirai Mozi
 125.105.131.90:Mirai Mozi
 125.105.133.136:Mozi
-125.105.151.167:arm Mirai Mozi
+125.105.151.167:Mirai Mozi
 125.105.207.101:Mirai Mozi
 125.105.221.132:Mirai Mozi
 125.105.223.37:Mirai Mozi
 125.105.251.29:Mirai Mozi
-125.106.101.46:arm Mirai Mozi
-125.106.126.59:arm Mirai Mozi
-125.106.132.104:arm Mozi
-125.106.136.147:arm Mirai Mozi
+125.106.101.46:Mirai Mozi
+125.106.126.59:Mirai Mozi
+125.106.132.104:Mozi
+125.106.136.147:Mirai Mozi
 125.106.15.105:Mozi
 125.106.37.33:Mozi
 125.106.45.60:Mirai Mozi
 125.106.51.65:Mirai Mozi
-125.106.61.185:arm Mozi
+125.106.61.185:Mozi
 125.106.65.115:Mirai Mozi
 125.106.77.39:Mirai Mozi
 125.106.79.25:Mirai Mozi
 125.106.8.210:Mirai Mozi
 125.106.9.176:Mirai
-125.106.99.57:arm Mirai Mozi
+125.106.99.57:Mirai Mozi
 125.117.88.196:Mozi
 125.118.216.150:Mirai Mozi
 125.119.65.192:NoTag
 125.119.72.161:Mirai Mozi
-125.120.243.82:arm Mirai Mozi
+125.120.243.82:Mirai Mozi
 125.120.27.231:Mozi
-125.120.99.64:arm Mozi
+125.120.99.64:Mozi
 125.121.142.255:Mozi
 125.122.238.247:Mirai Mozi
 125.122.239.138:Mirai Mozi
@@ -4858,7 +4858,7 @@
 125.125.99.47:NoTag
 125.126.115.255:Mozi
 125.126.142.83:Mirai Mozi
-125.126.145.43:arm Mozi
+125.126.145.43:Mozi
 125.126.225.27:Mirai Mozi
 125.126.228.74:Mozi
 125.126.252.37:Mozi
@@ -4868,7 +4868,7 @@
 125.14.150.139:Hajime
 125.228.110.81:Hajime
 125.228.225.100:Hajime
-125.229.115.222:arm Mirai Mozi
+125.229.115.222:Mirai Mozi
 125.229.117.140:Hajime
 125.229.139.45:Hajime
 125.24.81.147:Mirai Mozi
@@ -4883,7 +4883,7 @@
 125.40.130.29:Mozi
 125.40.130.72:Mozi
 125.40.131.55:Mozi
-125.40.137.38:arm Mirai Mozi
+125.40.137.38:Mirai Mozi
 125.40.145.98:Mozi
 125.40.147.134:Mozi
 125.40.150.113:Mozi
@@ -4894,7 +4894,7 @@
 125.40.214.203:Mozi
 125.40.226.254:Mozi
 125.40.73.21:Mozi
-125.40.74.231:arm Mozi
+125.40.74.231:Mozi
 125.40.9.103:Mozi
 125.41.1.159:Mozi
 125.41.10.31:Mozi
@@ -4953,7 +4953,7 @@
 125.42.244.235:Mirai Mozi
 125.42.244.30:Mozi
 125.42.245.10:Mozi
-125.42.245.60:arm Mirai Mozi
+125.42.245.60:Mirai Mozi
 125.42.26.66:Mozi
 125.42.28.162:Mozi
 125.42.28.222:Mozi
@@ -4965,7 +4965,7 @@
 125.43.167.222:Mozi
 125.43.184.234:Mozi
 125.43.214.101:Mirai Mozi
-125.43.215.84:arm Mirai Mozi
+125.43.215.84:Mirai Mozi
 125.43.223.105:Mozi
 125.43.24.15:Mozi
 125.43.24.90:Mozi
@@ -5148,32 +5148,32 @@
 125.47.96.135:Mozi
 125.47.97.118:Mozi
 125.69.137.24:Mozi
-125.78.225.45:arm Mirai Mozi
+125.78.225.45:Mirai Mozi
 125.78.228.193:Mirai Mozi
 125.80.220.185:Mirai Mozi
 125.82.180.232:Mirai Mozi
-125.82.180.239:arm Mirai Mozi
+125.82.180.239:Mirai Mozi
 125.82.181.54:Mirai Mozi
-125.82.182.189:arm Mirai Mozi
+125.82.182.189:Mirai Mozi
 125.82.182.218:Mirai Mozi
 125.90.254.101:Mozi
 125.99.1.53:Mozi
 125.99.145.203:Mozi
 125.99.2.23:Mozi
-128.254.207.196:dll Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
-128.254.207.60:dll Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
+128.254.207.196:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
+128.254.207.60:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
 13.52.103.68:NoTag
-130.193.40.103:64-bit Mirai x86-64
+130.193.40.103:Mirai
 130.204.92.105:Hajime
 134.65.62.64:NoTag
-135.125.177.90:dll Geofenced obama255 Qakbot USA
+135.125.177.90:Geofenced obama255 Qakbot USA
 136.185.3.98:Hajime
 138.255.36.134:Mirai Mozi
 138.255.36.20:Mirai Mozi
 138.255.36.247:Mirai Mozi
 138.255.36.28:Mirai Mozi
 138.68.76.71:gafgyt
-139.144.16.247:xworm
+139.144.16.247:NoTag
 139.190.239.16:Mozi
 139.190.239.85:Mozi
 139.203.146.83:Mozi
@@ -5204,24 +5204,24 @@
 140.99.221.199:NoTag
 141.95.16.111:NoTag
 141.98.6.232:RedLineStealer
-141.98.6.81:32 arm intel Mirai motorola powerpc renesas script sparc
+141.98.6.81:Mirai renesas sparc
 142.11.211.80:AsyncRAT Powershell
-142.93.203.178:Mirai shellscript
-143.198.68.62: sliver
+142.93.203.178:Mirai
+143.198.68.62:sliver
 144.178.142.143:Hajime
 144.202.39.248:gafgyt
-146.0.36.62:32 64 arm bashlite gafgyt intel motorola powerpc renesas shellscript sparc
-146.19.191.229:Mirai shellscript
-146.190.207.64:ascii Encoded
+146.0.36.62:gafgyt renesas sparc
+146.19.191.229:Mirai
+146.190.207.64:Encoded
 146.190.231.52:gafgyt Mirai
-146.59.185.74:32 arm Mirai shellscript
-146.66.220.59:gafgyt Mirai shellscript
-147.135.248.250:dll Geofenced obama251 Qakbot ua-ps USA
-149.102.243.204:dll Geofenced obama250 Qakbot Quakbot ua-ps USA
-149.102.249.66:dll Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
-149.102.255.183:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
-149.56.67.131:Mirai shellscript
-15.235.107.59:Mirai shellscript
+146.59.185.74:Mirai
+146.66.220.59:gafgyt Mirai
+147.135.248.250:Geofenced obama251 Qakbot ua-ps USA
+149.102.243.204:Geofenced obama250 Qakbot Quakbot ua-ps USA
+149.102.249.66:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
+149.102.255.183:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
+149.56.67.131:Mirai
+15.235.107.59:Mirai
 150.117.81.192:Hajime
 150.255.59.36:Mozi
 151.233.180.90:Mozi
@@ -5230,29 +5230,29 @@
 151.26.67.248:Hajime
 151.41.130.160:Mozi
 151.41.174.227:Mozi
-151.42.139.198:arm Mirai Mozi
+151.42.139.198:Mirai Mozi
 151.42.177.242:Mozi
-151.42.31.200:arm Mirai Mozi
+151.42.31.200:Mirai Mozi
 151.53.235.184:Hajime
-151.67.191.250:arm Mirai Mozi
+151.67.191.250:Mirai Mozi
 151.73.252.222:Mozi
 152.169.84.49:Hajime
 152.252.15.203:Mirai Mozi
-152.252.34.86:arm Mirai Mozi
+152.252.34.86:Mirai Mozi
 152.252.50.230:Mozi
 152.252.87.66:Mirai Mozi
 153.101.240.233:Mozi
 153.35.63.84:Mirai Mozi
-153.37.200.225:arm Mozi
+153.37.200.225:Mozi
 154.13.6.69:Mirai
-154.47.17.180:dll Geofenced obama251 Qakbot Quakbot ua-ps USA
+154.47.17.180:Geofenced obama251 Qakbot Quakbot ua-ps USA
 154.64.225.69:Mirai
-154.91.202.45:doc 
-155.138.132.190:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
+154.91.202.45:NoTag
+155.138.132.190:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
 155.93.177.118:Hajime
 156.247.1.180:Mozi
 156.96.155.249:NoTag
-157.0.83.85:arm Mirai Mozi
+157.0.83.85:Mirai Mozi
 157.211.105.0:Mozi
 157.211.137.20:Mozi
 157.211.140.60:Mozi
@@ -5261,10 +5261,10 @@
 157.211.169.37:Mozi
 157.211.173.77:Mozi
 157.211.21.84:Mozi
-157.230.247.140:Mirai shellscript
+157.230.247.140:Mirai
 157.254.195.181:Mirai
-158.160.0.32:Mirai x86-32
-158.160.13.185:64-bit Mirai x86-64
+158.160.0.32:Mirai
+158.160.13.185:Mirai
 158.220.103.2:Mirai
 158.255.82.116:Mozi
 158.255.82.117:Mozi
@@ -5287,7 +5287,7 @@
 160.178.248.162:Mozi
 160.179.203.117:Mozi
 160.179.210.173:Mozi
-162.19.130.46:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
+162.19.130.46:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
 163.123.142.141:Rhadamanthys
 163.125.123.12:Mozi
 163.125.17.81:Mozi
@@ -5307,7 +5307,7 @@
 163.179.138.151:Mirai Mozi
 163.179.139.70:Mozi
 163.179.142.137:Mirai Mozi
-163.179.142.176:arm Mirai Mozi
+163.179.142.176:Mirai Mozi
 163.179.160.53:Mirai Mozi
 163.179.161.81:Mirai Mozi
 163.179.164.133:Mirai Mozi
@@ -5348,24 +5348,24 @@
 163.179.255.209:Mirai Mozi
 163.53.83.163:Mirai Mozi
 165.227.40.189:Mirai
-165.232.114.41:Mirai shellscript
+165.232.114.41:Mirai
 165.255.82.114:Mozi
 165.255.82.84:Mozi
 167.114.77.24:NoTag
-167.71.11.62:ascii Encoded
+167.71.11.62:Encoded
 167.71.141.10:additionalpayload RaccoonStealer RaccoonV2 recordbreaker
 167.71.210.63:Mirai
 167.99.47.96:additionalpayloads RaccoonStealer RaccoonV2 recordbreaker
 170.130.165.232:NoTag
-170.187.152.163:Mirai shellscript
+170.187.152.163:Mirai
 170.78.232.21:Mozi
-171.109.158.5:arm Mozi
-171.112.38.143:arm Mirai Mozi
-171.112.46.34:arm Mirai Mozi
+171.109.158.5:Mozi
+171.112.38.143:Mirai Mozi
+171.112.46.34:Mirai Mozi
 171.123.142.130:Mirai Mozi
 171.123.180.81:Mirai Mozi
 171.123.214.14:Mirai Mozi
-171.123.236.18:arm Mirai Mozi
+171.123.236.18:Mirai Mozi
 171.123.49.207:Mozi
 171.123.92.165:Mirai Mozi
 171.125.164.109:Mirai Mozi
@@ -5382,35 +5382,35 @@
 171.249.40.164:Hajime
 171.35.161.168:Mirai Mozi
 171.35.50.209:Mirai Mozi
-171.35.51.185:arm Mirai Mozi
-171.36.5.45:arm Mirai Mozi
-171.37.31.118:arm Mozi
+171.35.51.185:Mirai Mozi
+171.36.5.45:Mirai Mozi
+171.37.31.118:Mozi
 171.38.138.229:NoTag
 171.38.147.235:Mirai
 171.38.149.120:Mirai Mozi
 171.38.193.132:Mirai Mozi
-171.38.193.158:arm Mirai Mozi
+171.38.193.158:Mirai Mozi
 171.38.193.50:Mirai
 171.38.195.74:Mirai
 171.38.216.101:Hajime
 171.38.217.86:Mirai
 171.38.218.111:Mirai Mozi
 171.38.219.175:Mirai
-171.38.220.209:arm Mirai Mozi
+171.38.220.209:Mirai Mozi
 171.42.127.57:Mirai Mozi
 171.44.204.110:Hajime
 171.80.83.217:Mozi
-171.81.126.125:arm Mirai Mozi
+171.81.126.125:Mirai Mozi
 171.83.203.97:Mirai Mozi
 171.83.226.48:Mirai Mozi
 171.83.236.132:Mozi
-171.83.236.22:arm Mirai Mozi
-171.83.236.83:arm Mirai Mozi
+171.83.236.22:Mirai Mozi
+171.83.236.83:Mirai Mozi
 171.83.240.59:Mirai Mozi
-171.83.240.97:arm Mirai Mozi
+171.83.240.97:Mirai Mozi
 172.101.79.132:Mozi
-172.245.191.46:ascii FormBook 
-172.245.214.178:encrypted FormBook 
+172.245.191.46:FormBook
+172.245.214.178:FormBook
 172.32.137.109:NoTag
 172.36.20.240:Mozi
 172.36.54.8:NoTag
@@ -5419,27 +5419,27 @@
 172.43.84.3:NoTag
 172.45.37.207:NoTag
 172.45.37.226:NoTag
-172.81.61.224:dll 
-172.96.137.33:dll Geofenced obama256 Qakbot qbot Quakbot ua-ps USA
+172.81.61.224:NoTag
+172.96.137.33:Geofenced obama256 Qakbot qbot Quakbot ua-ps USA
 172.97.190.198:Mozi
 172.98.14.94:gafgyt
 174.84.188.20:Mozi
 175.0.164.134:Mirai Mozi
 175.0.212.207:Mirai
 175.0.39.17:Mirai Mozi
-175.0.60.216:arm Mirai Mozi
+175.0.60.216:Mirai Mozi
 175.0.62.163:Hajime
-175.0.63.165:arm Mirai Mozi
+175.0.63.165:Mirai Mozi
 175.0.63.246:Mirai Mozi
 175.0.63.58:Mirai Mozi
 175.0.81.165:Mirai Mozi
-175.0.83.76:arm Mirai Mozi
-175.0.98.155:arm Mirai Mozi
+175.0.83.76:Mirai Mozi
+175.0.98.155:Mirai Mozi
 175.10.145.190:Mozi
 175.10.146.40:Mirai Mozi
 175.10.158.24:Mozi
 175.10.49.31:Mirai Mozi
-175.10.49.48:arm Mirai Mozi
+175.10.49.48:Mirai Mozi
 175.10.89.139:Mirai Mozi
 175.106.39.27:Mozi
 175.107.0.138:Mozi
@@ -5472,14 +5472,14 @@
 175.11.10.63:Mirai Mozi
 175.11.105.181:Mirai Mozi
 175.11.105.230:Mirai Mozi
-175.11.11.238:arm Mozi
+175.11.11.238:Mozi
 175.11.132.247:Mozi
 175.11.168.214:Mirai Mozi
 175.11.169.36:Mirai Mozi
 175.11.170.65:Mirai
-175.11.244.228:arm Mirai Mozi
+175.11.244.228:Mirai Mozi
 175.11.246.109:Mirai Mozi
-175.11.52.22:arm Mirai Mozi
+175.11.52.22:Mirai Mozi
 175.11.65.122:Mirai Mozi
 175.11.65.90:Mirai Mozi
 175.11.66.148:Hajime
@@ -5487,11 +5487,11 @@
 175.11.8.94:Mirai Mozi
 175.113.50.250:Hajime
 175.140.197.9:Hajime
-175.148.146.79:arm Mirai Mozi
+175.148.146.79:Mirai Mozi
 175.148.188.126:Mirai Mozi
 175.149.110.30:Mozi
 175.160.156.23:Mirai Mozi
-175.160.4.241:arm Mirai Mozi
+175.160.4.241:Mirai Mozi
 175.166.2.115:Mozi
 175.167.13.156:Mozi
 175.170.247.172:Mozi
@@ -5500,21 +5500,21 @@
 175.172.193.225:Mirai Mozi
 175.172.216.224:Mirai Mozi
 175.201.185.49:Hajime
-175.21.156.52:arm Mirai Mozi
-175.3.188.70:arm Mirai Mozi
+175.21.156.52:Mirai Mozi
+175.3.188.70:Mirai Mozi
 175.3.188.72:Mirai Mozi
-175.3.230.233:arm Mirai Mozi
+175.3.230.233:Mirai Mozi
 175.3.233.8:Mirai
 175.30.111.126:Mirai Mozi
 175.30.112.136:Mozi
 175.30.112.146:Hajime
 175.30.113.212:Hajime
-175.30.68.183:arm Mozi
+175.30.68.183:Mozi
 175.30.68.232:Hajime
 175.30.69.51:Hajime
 175.30.81.62:Hajime
 175.31.170.18:Hajime
-175.31.200.127:arm Mozi
+175.31.200.127:Mozi
 175.31.202.187:Hajime
 175.31.228.193:Hajime
 175.31.246.102:Hajime
@@ -5523,21 +5523,21 @@
 175.31.254.92:Hajime
 175.44.4.104:Mozi
 175.44.42.221:Mozi
-175.44.42.248:arm Mirai Mozi
+175.44.42.248:Mirai Mozi
 175.44.46.7:Mirai Mozi
-175.8.161.163:arm Mirai Mozi
+175.8.161.163:Mirai Mozi
 175.8.60.103:Mirai Mozi
 175.8.60.169:Mirai Mozi
 175.8.86.192:Mozi
 175.9.141.2:Mirai Mozi
 175.9.168.238:Mirai Mozi
-175.9.170.136:arm Mirai Mozi
+175.9.170.136:Mirai Mozi
 175.9.171.39:Mozi
 175.9.192.20:Mirai Mozi
 175.9.195.145:Mirai Mozi
 175.9.195.192:Mirai Mozi
 175.9.52.167:Hajime
-175.9.53.117:arm Mozi
+175.9.53.117:Mozi
 175.9.53.171:Mirai Mozi
 175.9.54.150:Hajime
 175.9.55.153:Mirai Mozi
@@ -5567,10 +5567,10 @@
 177.212.121.168:Mirai Mozi
 177.224.220.5:Hajime
 177.24.31.13:Mozi
-177.91.18.248:arm Mirai Mozi
-177.91.22.65:arm Mirai Mozi
+177.91.18.248:Mirai Mozi
+177.91.22.65:Mirai Mozi
 177.91.67.163:Mirai Mozi
-178.128.164.227:gafgyt shellscript
+178.128.164.227:gafgyt
 178.141.100.151:NoTag
 178.141.105.123:Mozi
 178.141.106.224:Mirai Mozi
@@ -5609,11 +5609,11 @@
 178.251.45.182:Mozi
 178.34.177.78:Hajime
 178.36.223.254:Hajime
-178.62.44.152:cryptojacking miner shellscript
+178.62.44.152:cryptojacking miner
 178.62.73.175:additionalpayloads RaccoonStealer RaccoonV2 recordbreaker
 178.93.87.41:Mozi
 178.95.197.164:Mozi
-179.117.88.221:arm Mirai Mozi
+179.117.88.221:Mirai Mozi
 179.133.142.51:Mirai Mozi
 179.133.86.14:Mirai Mozi
 179.148.129.172:Mirai Mozi
@@ -5638,10 +5638,10 @@
 180.108.152.117:Hajime
 180.108.164.65:Hajime
 180.108.176.61:Hajime
-180.108.206.197:arm Mirai Mozi
+180.108.206.197:Mirai Mozi
 180.108.208.171:Hajime
 180.108.87.59:Hajime
-180.109.35.184:arm Mirai Mozi
+180.109.35.184:Mirai Mozi
 180.110.0.198:Mozi
 180.110.249.112:Mozi
 180.111.228.156:Mozi
@@ -5658,7 +5658,7 @@
 180.115.218.198:Mozi
 180.115.221.64:Mozi
 180.115.230.182:Mozi
-180.115.84.18:arm Mirai Mozi
+180.115.84.18:Mirai Mozi
 180.115.85.179:Mirai Mozi
 180.115.85.45:Hajime
 180.116.1.3:Mozi
@@ -5667,7 +5667,7 @@
 180.116.124.254:Hajime
 180.116.125.145:Hajime
 180.116.143.160:Mozi
-180.116.147.207:arm Mirai Mozi
+180.116.147.207:Mirai Mozi
 180.116.162.39:Mozi
 180.116.163.108:Mirai Mozi
 180.116.169.90:Hajime
@@ -5677,7 +5677,7 @@
 180.116.241.98:Hajime
 180.116.27.187:Mirai Mozi
 180.116.5.215:Mozi
-180.116.70.18:arm Mirai Mozi
+180.116.70.18:Mirai Mozi
 180.116.70.234:Hajime
 180.116.8.211:Mirai Mozi
 180.117.192.48:Hajime
@@ -5690,13 +5690,13 @@
 180.119.163.30:Hajime
 180.119.167.183:Hajime
 180.119.198.119:Hajime
-180.119.7.30:arm Mirai Mozi
+180.119.7.30:Mirai Mozi
 180.120.224.97:Mozi
 180.123.10.226:Mirai
 180.124.13.194:Mozi
 180.124.25.161:Mozi
-180.125.208.41:arm Mirai Mozi
-180.125.210.119:arm Mirai Mozi
+180.125.208.41:Mirai Mozi
+180.125.210.119:Mirai Mozi
 180.125.65.214:Mozi
 180.137.148.12:Mirai
 180.15.201.187:Mozi
@@ -5744,7 +5744,7 @@
 182.112.29.245:Mozi
 182.112.30.88:Mozi
 182.112.33.39:Mirai Mozi
-182.112.39.101:arm Mirai Mozi
+182.112.39.101:Mirai Mozi
 182.112.46.102:Mozi
 182.112.54.96:Mozi
 182.112.57.47:Mozi
@@ -5790,9 +5790,9 @@
 182.113.7.68:Mozi
 182.114.11.76:Mozi
 182.114.114.85:Mozi
-182.114.139.104:arm Mozi
+182.114.139.104:Mozi
 182.114.14.58:Mozi
-182.114.162.106:arm Mirai Mozi
+182.114.162.106:Mirai Mozi
 182.114.192.48:Mozi
 182.114.193.12:Mozi
 182.114.195.119:Mozi
@@ -5825,7 +5825,7 @@
 182.114.8.238:Mozi
 182.114.94.218:NoTag
 182.115.131.34:Mozi
-182.115.179.29:arm Mirai Mozi
+182.115.179.29:Mirai Mozi
 182.115.190.72:Mozi
 182.115.200.114:Mozi
 182.115.204.192:Mozi
@@ -5834,7 +5834,7 @@
 182.116.104.252:NoTag
 182.116.106.249:Mozi
 182.116.108.157:NoTag
-182.116.109.201:arm Mirai Mozi
+182.116.109.201:Mirai Mozi
 182.116.11.219:Mozi
 182.116.110.0:Mozi
 182.116.114.1:Mozi
@@ -5882,7 +5882,7 @@
 182.116.95.139:Mozi
 182.116.98.100:Mirai Mozi
 182.116.98.23:Mozi
-182.116.98.34:arm Mirai Mozi
+182.116.98.34:Mirai Mozi
 182.116.99.93:Mirai Mozi
 182.117.0.99:Mozi
 182.117.1.234:Mozi
@@ -5890,7 +5890,7 @@
 182.117.10.103:Mozi
 182.117.11.13:Mozi
 182.117.112.26:Mozi
-182.117.113.114:arm Mirai Mozi
+182.117.113.114:Mirai Mozi
 182.117.116.169:Mozi
 182.117.118.76:Mozi
 182.117.121.239:Mozi
@@ -5903,7 +5903,7 @@
 182.117.134.109:Mozi
 182.117.134.97:Mozi
 182.117.135.20:Mozi
-182.117.14.58:arm Mirai Mozi
+182.117.14.58:Mirai Mozi
 182.117.15.143:Mozi
 182.117.153.169:Mozi
 182.117.155.184:Mozi
@@ -6013,9 +6013,9 @@
 182.120.162.71:Mozi
 182.120.32.87:Mozi
 182.120.33.146:Mozi
-182.120.33.237:arm Mirai Mozi
-182.120.34.244:arm Mirai Mozi
-182.120.38.168:arm Mirai Mozi
+182.120.33.237:Mirai Mozi
+182.120.34.244:Mirai Mozi
+182.120.38.168:Mirai Mozi
 182.120.39.111:Mirai Mozi
 182.120.39.204:Mirai Mozi
 182.120.49.9:Mozi
@@ -6559,21 +6559,21 @@
 182.59.247.60:Mozi
 182.59.253.29:Mozi
 182.59.71.190:Mozi
-182.88.212.164:arm Mirai Mozi
+182.88.212.164:Mirai Mozi
 182.88.215.62:Mozi
 182.96.153.227:Mirai Mozi
 182.96.239.123:Mirai Mozi
 183.100.104.213:Hajime
 183.128.106.166:Mozi
 183.128.32.151:Mozi
-183.130.159.103:arm Mirai Mozi
+183.130.159.103:Mirai Mozi
 183.130.172.39:Mirai Mozi
 183.130.177.112:Mirai Mozi
 183.133.88.250:Mirai Mozi
-183.136.26.84:arm Mozi
+183.136.26.84:Mozi
 183.14.214.159:Mozi
 183.14.215.202:Mozi
-183.142.16.219:arm Mozi
+183.142.16.219:Mozi
 183.142.20.35:Mozi
 183.143.2.184:Mirai Mozi
 183.143.247.19:Mirai Mozi
@@ -6581,41 +6581,41 @@
 183.144.226.160:Mirai Mozi
 183.144.232.106:Mirai Mozi
 183.144.245.224:Mirai Mozi
-183.145.220.111:arm Mirai Mozi
+183.145.220.111:Mirai Mozi
 183.145.227.108:Mirai Mozi
 183.145.229.209:Mirai Mozi
 183.145.34.29:Mirai Mozi
-183.146.102.2:arm Mozi
+183.146.102.2:Mozi
 183.146.11.84:Mozi
-183.149.38.204:arm Mozi
+183.149.38.204:Mozi
 183.149.53.176:Mozi
 183.15.121.151:NoTag
 183.150.177.159:Mozi
 183.150.190.157:Mirai Mozi
 183.150.194.19:Mirai Mozi
 183.150.195.178:Mirai Mozi
-183.150.196.184:arm Mozi
-183.150.197.136:arm Mozi
+183.150.196.184:Mozi
+183.150.197.136:Mozi
 183.150.199.94:Mirai Mozi
-183.150.204.191:arm Mirai Mozi
+183.150.204.191:Mirai Mozi
 183.150.221.130:Mirai Mozi
 183.150.222.163:Mirai Mozi
 183.150.44.131:Mirai Mozi
 183.150.45.33:Mirai Mozi
 183.150.48.49:Mirai Mozi
 183.150.52.90:Mirai Mozi
-183.150.58.41:arm Mirai Mozi
-183.150.59.172:arm Mozi
+183.150.58.41:Mirai Mozi
+183.150.59.172:Mozi
 183.150.73.157:Mirai Mozi
-183.150.74.160:arm Mirai Mozi
+183.150.74.160:Mirai Mozi
 183.150.74.243:Mirai Mozi
 183.150.76.100:Mirai Mozi
 183.150.77.100:Mirai Mozi
 183.150.84.114:Mirai Mozi
 183.150.86.32:Mirai Mozi
 183.151.115.9:Mozi
-183.151.204.146:arm Mozi
-183.151.208.36:arm Mozi
+183.151.204.146:Mozi
+183.151.208.36:Mozi
 183.151.40.254:Mirai Mozi
 183.151.40.50:Mirai
 183.151.41.144:Mirai Mozi
@@ -6623,20 +6623,20 @@
 183.151.47.103:Mozi
 183.151.53.218:Mirai Mozi
 183.151.64.249:Mirai Mozi
-183.151.64.96:arm Mirai Mozi
-183.151.86.69:arm Mozi
+183.151.64.96:Mirai Mozi
+183.151.86.69:Mozi
 183.151.87.88:Mirai Mozi
-183.151.93.182:arm Mirai Mozi
+183.151.93.182:Mirai Mozi
 183.153.190.30:Mozi
 183.153.239.25:Mozi
-183.153.36.230:arm Mozi
+183.153.36.230:Mozi
 183.155.83.15:Mozi
 183.156.243.46:Mirai Mozi
 183.156.45.212:Mozi
 183.157.42.213:Mozi
 183.157.6.17:Mirai Mozi
 183.159.152.101:Mozi
-183.159.87.179:arm Mozi
+183.159.87.179:Mozi
 183.16.100.158:Mozi
 183.16.100.76:Mozi
 183.16.101.122:Mozi
@@ -6662,46 +6662,46 @@
 183.92.205.95:Mirai Mozi
 183.95.10.212:Mirai Mozi
 183.95.145.187:Mozi
-183.95.4.139:arm Mirai Mozi
-185.106.92.187: Vidar
+183.95.4.139:Mirai Mozi
+185.106.92.187:Vidar
 185.106.92.23:Vidar
-185.106.94.88:NetSupport Powershell RAT RemoteAdmin stager
+185.106.94.88:NetSupport Powershell RAT RemoteAdmin
 185.108.164.118:Hajime
-185.117.89.76:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
+185.117.89.76:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
 185.118.51.135:Mozi
 185.131.52.250:Mirai
 185.156.34.33:Mozi
 185.163.45.39:Mirai
 185.165.175.73:Mozi
-185.172.114.157:gafgyt shellscript
+185.172.114.157:gafgyt
 185.174.83.237:Mozi
 185.174.83.93:Mozi
 185.185.69.85:NoTag
 185.190.40.183:Hajime
 185.224.128.110:Mirai
 185.225.73.130:gafgyt
-185.225.73.47:reverse base64 xworm
+185.225.73.47:reverse base64
 185.225.74.131:Mirai
 185.225.74.155:Mirai
 185.225.74.160:Mirai
 185.225.74.175:Mirai
-185.225.74.178:Mirai shellscript
+185.225.74.178:Mirai
 185.225.74.193:Mirai
 185.225.74.227:gafgyt Mirai
 185.225.74.231:Mirai
 185.236.228.145:gafgyt Mirai
 185.240.97.239:Hajime
 185.241.208.181:AsyncRAT Powershell
-185.241.208.207:64-bit x86-64
+185.241.208.207:NoTag
 185.241.208.97:AsyncRAT Powershell
-185.246.220.136:64-bit Mirai x86-64
-185.250.240.25:dll Geofenced obama256 Qakbot Quakbot TA570 USA
-185.250.243.136:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
+185.246.220.136:Mirai
+185.250.240.25:Geofenced obama256 Qakbot Quakbot TA570 USA
+185.250.243.136:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
 185.254.37.108:NoTag
-185.254.37.66:encrypted
+185.254.37.66:NoTag
 185.254.37.81:Mirai
-185.33.87.23:dll Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
-185.39.18.107:dll Geofenced obama256 Qakbot qbot Quakbot ua-ps USA
+185.33.87.23:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
+185.39.18.107:Geofenced obama256 Qakbot qbot Quakbot ua-ps USA
 185.6.58.18:Mirai Mozi
 185.64.208.141:Hajime
 185.66.91.157:NoTag
@@ -6709,11 +6709,11 @@
 185.81.157.135:AsyncRAT RAT
 186.156.186.32:Hajime
 186.182.3.26:Hajime
-186.216.112.109:arm Mirai Mozi
+186.216.112.109:Mirai Mozi
 186.216.116.191:Mirai Mozi
 186.235.184.255:Mirai Mozi
-186.235.184.67:arm Mirai Mozi
-186.235.186.13:arm Mirai Mozi
+186.235.184.67:Mirai Mozi
+186.235.186.13:Mirai Mozi
 186.235.186.92:Mirai Mozi
 186.4.78.224:Mozi
 186.45.133.250:Mozi
@@ -6732,10 +6732,10 @@
 187.56.24.238:Hajime
 188.124.228.98:Hajime
 188.127.254.243:Mirai
-188.140.0.99:arm Mirai Mozi
+188.140.0.99:Mirai Mozi
 188.140.122.41:Mirai Mozi
 188.140.75.163:Mirai Mozi
-188.166.218.175:gafgyt Mirai shellscript
+188.166.218.175:gafgyt Mirai
 188.173.113.41:Hajime
 188.213.79.224:Hajime
 188.219.23.230:Hajime
@@ -6751,26 +6751,26 @@
 189.249.64.214:Hajime
 189.89.81.120:Hajime
 189.89.82.12:Hajime
-190.109.227.104:arm Mirai Mozi
+190.109.227.104:Mirai Mozi
 190.109.227.107:Mirai Mozi
-190.109.227.130:arm Mirai Mozi
-190.109.227.131:arm Mirai Mozi
+190.109.227.130:Mirai Mozi
+190.109.227.131:Mirai Mozi
 190.109.227.149:Mirai Mozi
-190.109.227.152:arm Mirai Mozi
-190.109.227.167:arm Mirai Mozi
+190.109.227.152:Mirai Mozi
+190.109.227.167:Mirai Mozi
 190.109.227.16:Hajime
 190.109.227.196:Mirai Mozi
 190.109.227.22:Mirai Mozi
 190.109.227.251:Mirai Mozi
 190.109.227.38:Hajime
-190.109.227.3:arm Mirai Mozi
+190.109.227.3:Mirai Mozi
 190.109.227.52:Mirai Mozi
 190.109.227.66:Mirai Mozi
 190.109.227.78:Mirai Mozi
 190.109.227.88:Mirai Mozi
 190.109.227.97:Mirai Mozi
 190.109.228.124:Hajime
-190.109.228.131:arm Mirai Mozi
+190.109.228.131:Mirai Mozi
 190.109.228.142:Mirai Mozi
 190.109.228.161:Mirai Mozi
 190.109.228.164:Mirai Mozi
@@ -6778,57 +6778,57 @@
 190.109.228.177:Mirai Mozi
 190.109.228.186:Mirai Mozi
 190.109.228.188:Mirai Mozi
-190.109.228.22:arm Mirai Mozi
+190.109.228.22:Mirai Mozi
 190.109.228.240:Hajime
 190.109.228.38:Mirai
-190.109.228.43:arm Mirai Mozi
-190.109.228.44:arm Mirai Mozi
-190.109.228.46:arm Mirai Mozi
-190.109.228.56:arm Mirai Mozi
+190.109.228.43:Mirai Mozi
+190.109.228.44:Mirai Mozi
+190.109.228.46:Mirai Mozi
+190.109.228.56:Mirai Mozi
 190.109.228.58:Mirai Mozi
 190.109.228.68:Hajime
-190.109.228.69:arm Mirai Mozi
+190.109.228.69:Mirai Mozi
 190.109.228.94:Mozi
-190.109.229.114:arm Mirai Mozi
-190.109.229.120:arm Mirai Mozi
+190.109.229.114:Mirai Mozi
+190.109.229.120:Mirai Mozi
 190.109.229.148:Mirai Mozi
 190.109.229.14:Hajime
-190.109.229.151:arm Mirai Mozi
+190.109.229.151:Mirai Mozi
 190.109.229.225:Mirai Mozi
 190.109.229.232:Mirai Mozi
-190.109.229.237:arm Mirai Mozi
+190.109.229.237:Mirai Mozi
 190.109.229.31:Mirai Mozi
-190.109.229.59:arm Mirai Mozi
-190.109.229.60:arm Mirai Mozi
-190.109.229.65:arm Mirai Mozi
+190.109.229.59:Mirai Mozi
+190.109.229.60:Mirai Mozi
+190.109.229.65:Mirai Mozi
 190.109.229.78:Mirai Mozi
 190.109.229.93:Mirai Mozi
 190.109.230.151:Hajime
-190.109.230.177:arm Mirai Mozi
+190.109.230.177:Mirai Mozi
 190.109.230.233:Mirai Mozi
-190.109.230.236:arm Mirai Mozi
-190.109.230.239:arm Mirai Mozi
-190.109.230.244:arm Mirai Mozi
+190.109.230.236:Mirai Mozi
+190.109.230.239:Mirai Mozi
+190.109.230.244:Mirai Mozi
 190.109.230.251:Mirai Mozi
 190.109.230.36:Mirai Mozi
-190.109.230.4:arm Mirai Mozi
-190.109.230.68:arm Mirai Mozi
-190.109.231.115:arm Mirai Mozi
-190.109.231.155:arm Mirai Mozi
+190.109.230.4:Mirai Mozi
+190.109.230.68:Mirai Mozi
+190.109.231.115:Mirai Mozi
+190.109.231.155:Mirai Mozi
 190.109.231.165:Mirai Mozi
 190.109.231.168:Mirai Mozi
-190.109.231.169:arm Mirai Mozi
+190.109.231.169:Mirai Mozi
 190.109.231.170:Mirai Mozi
-190.109.231.177:arm Mirai Mozi
+190.109.231.177:Mirai Mozi
 190.109.231.179:Hajime
-190.109.231.189:arm Mirai Mozi
-190.109.231.190:arm Mirai Mozi
-190.109.231.215:arm Mirai Mozi
+190.109.231.189:Mirai Mozi
+190.109.231.190:Mirai Mozi
+190.109.231.215:Mirai Mozi
 190.109.231.236:Mozi
-190.109.231.59:arm Mirai Mozi
+190.109.231.59:Mirai Mozi
 190.109.231.6:Mozi
 190.109.231.70:Mirai Mozi
-190.109.231.77:arm Mirai Mozi
+190.109.231.77:Mirai Mozi
 190.109.231.87:Hajime
 190.109.231.88:Hajime
 190.109.232.151:Mirai Mozi
@@ -6837,7 +6837,7 @@
 190.109.232.169:Mirai Mozi
 190.109.232.177:Mirai Mozi
 190.109.232.181:Mirai Mozi
-190.109.232.184:arm Mirai Mozi
+190.109.232.184:Mirai Mozi
 190.109.232.224:Mirai Mozi
 190.109.232.245:Mirai Mozi
 190.109.232.252:Hajime
@@ -6863,7 +6863,7 @@
 190.214.21.58:Hajime
 190.34.203.234:Mirai Mozi
 190.36.244.213:Mozi
-190.5.252.253:arm Mozi
+190.5.252.253:Mozi
 190.74.31.107:Mozi
 190.75.103.248:Mirai Mozi
 190.75.145.232:Mozi
@@ -6880,64 +6880,64 @@
 191.199.158.235:Mozi
 191.249.74.82:Hajime
 191.25.148.164:Mirai Mozi
-191.9.200.237:arm Mirai Mozi
-191.9.219.93:arm Mirai Mozi
-192.210.162.147:32 64 arm intel Mirai motorola powerpc renesas shellscript sparc
-192.227.183.170:dll FormBook
-192.3.101.148:AgentTesla FormBook 
+191.9.200.237:Mirai Mozi
+191.9.219.93:Mirai Mozi
+192.210.162.147:Mirai renesas sparc
+192.227.183.170:FormBook
+192.3.101.148:AgentTesla FormBook
 192.3.109.131:AsyncRAT Powershell
-192.3.179.140:FormBook 
-192.3.179.147:AgentTesla doc 
+192.3.179.140:FormBook
+192.3.179.147:AgentTesla
 192.3.202.72:AgentTesla
-192.95.55.65:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
+192.95.55.65:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
 192.99.180.181:AsyncRAT Powershell
-193.109.85.62:dll Stealc
-193.151.146.131:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas script sparc
+193.109.85.62:Stealc
+193.151.146.131:gafgyt Mirai renesas sparc
 193.153.243.210:NoTag
-193.200.17.207:dll Geofenced Obama249 Qakbot Quakbot ua-ps USA
-193.201.9.240:Amadey dropped-by-amadey
+193.200.17.207:Geofenced Obama249 Qakbot Quakbot ua-ps USA
+193.201.9.240:Amadey
 193.201.9.43:Amadey
 193.201.9.67:Amadey dropped-by-PrivateLoader
 193.233.134.117:dropped-by-smokeloader Vidar
 193.233.20.35:Amadey RedLineStealer
-193.243.147.185:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
-193.3.19.154:Amadey dll dropped-by-amadey RedLineStealer
+193.243.147.185:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
+193.3.19.154:Amadey RedLineStealer
 193.3.19.157:Amadey dropped-by-PrivateLoader RedLineStealer
 193.3.19.158:Amadey dropped-by-PrivateLoader RedLineStealer
 193.3.19.251:dropped-by-PrivateLoader
-193.35.18.108:32 Mirai
+193.35.18.108:Mirai
 193.35.18.243:Mirai
-193.35.18.249:Mirai x86-32
+193.35.18.249:Mirai
 193.35.18.37:Mirai
 193.35.18.56:Mirai
-193.35.18.57:gafgyt shellscript
-193.42.33.80:AgentTesla ascii Encoded
-193.42.38.141:dll Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
+193.35.18.57:gafgyt
+193.42.33.80:AgentTesla Encoded
+193.42.38.141:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
 193.47.61.47:NoTag
 194.104.156.12:gafgyt
 194.110.247.198:Mirai
 194.132.232.36:Mozi
 194.15.36.24:Mirai
 194.15.36.76:Mirai
-194.165.59.51:dll Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
-194.169.175.190:Mirai x86-32
+194.165.59.51:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
+194.169.175.190:Mirai
 194.208.52.223:Hajime
 194.208.56.60:Hajime
-194.34.132.186:gafgyt Mirai shellscript
+194.34.132.186:gafgyt Mirai
 194.49.94.24:Mirai
 194.55.224.149:Mirai
 194.55.224.182:Mirai
-194.55.224.35:Mirai shellscript
+194.55.224.35:Mirai
 194.87.197.237:gafgyt
 195.178.120.137:AsyncRAT Powershell
 195.178.120.37:Mirai
-195.201.40.91: recordbreaker
-195.201.81.165:Loader SmokeLoaderPayload
+195.201.40.91:recordbreaker
+195.201.81.165:SmokeLoaderPayload
 195.22.237.98:Hajime
 195.58.39.13:Mirai
 195.58.39.189:Mirai
-195.58.39.195:Mirai shellscript
-195.58.39.231:gafgyt shellscript
+195.58.39.195:Mirai
+195.58.39.231:gafgyt
 195.58.39.97:Mirai
 196.206.111.57:Hajime
 196.41.39.154:Hajime
@@ -6953,10 +6953,10 @@
 197.246.87.131:Mozi
 198.23.188.135:AgentTesla
 198.244.189.90:gafgyt
-198.244.205.7:CoinMiner dll
-198.50.143.1:dll Geofenced obama256 Qakbot Quakbot TA570 USA
-198.58.102.19:ascii Metasploit  Powershell ps1
-198.98.58.200:32 64 arm intel Mirai motorola powerpc renesas shellscript sparc
+198.244.205.7:CoinMiner
+198.50.143.1:Geofenced obama256 Qakbot Quakbot TA570 USA
+198.58.102.19:Metasploit Powershell
+198.98.58.200:Mirai renesas sparc
 2.140.160.41:Mirai Mozi
 2.142.168.192:Mirai Mozi
 2.177.138.157:Mozi
@@ -6966,9 +6966,9 @@
 2.196.169.51:Mozi
 2.42.146.20:Hajime
 2.94.249.83:Mozi
-20.205.3.43:x86-32
-20.206.70.41:apk Spynote
-20.211.5.151:AsyncRAT  VenomRAT
+20.205.3.43:NoTag
+20.206.70.41:Spynote
+20.211.5.151:AsyncRAT VenomRAT
 200.109.57.113:Hajime
 200.110.59.100:Mozi
 200.115.61.137:Hajime
@@ -6976,7 +6976,7 @@
 200.84.203.166:Mozi
 200.91.181.23:Mozi
 201.103.248.229:Hajime
-201.131.163.246:arm Mirai Mozi
+201.131.163.246:Mirai Mozi
 201.150.177.105:Mozi
 201.191.178.247:Mozi
 201.20.122.114:Hajime
@@ -7010,7 +7010,7 @@
 202.166.220.109:Hajime
 202.178.113.189:Mozi
 202.40.182.11:Hajime
-202.55.132.183:Loki 
+202.55.132.183:Loki
 202.98.71.245:Mozi
 203.115.84.117:Mozi
 203.115.85.176:Mozi
@@ -7022,23 +7022,23 @@
 203.192.224.76:Mozi
 203.194.111.142:Mirai Mozi
 203.212.203.190:Mozi
-203.96.177.111:dll Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
-204.44.109.81:Mirai shellscript
-204.44.71.71:Mirai shellscript
+203.96.177.111:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
+204.44.109.81:Mirai
+204.44.71.71:Mirai
 205.185.117.59:Mirai
-205.185.121.73:Mirai shellscript
+205.185.121.73:Mirai
 205.250.196.140:Mozi
-206.189.155.244:Mirai shellscript
-206.53.48.21:dll Geofenced Obama249 Qakbot Quakbot ua-ps USA
-207.154.242.206:Mirai shellscript
+206.189.155.244:Mirai
+206.53.48.21:Geofenced Obama249 Qakbot Quakbot ua-ps USA
+207.154.242.206:Mirai
 207.210.27.122:Mirai Mozi
 208.67.107.146:RAT RemcosRAT
 209.141.36.87:Mirai
-209.141.41.167:Mirai shellscript
+209.141.41.167:Mirai
 209.141.52.88:Mirai
 209.169.176.53:NoTag
-209.182.225.14:dll Geofenced obama255 Qakbot USA
-209.182.225.155:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
+209.182.225.14:Geofenced obama255 Qakbot USA
+209.182.225.155:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
 210.179.221.215:Hajime
 210.18.175.228:Mozi
 210.89.58.100:Mozi
@@ -7058,28 +7058,28 @@
 212.113.119.255:Amadey RedLineStealer
 212.28.237.203:Hajime
 212.55.89.251:Mozi
-212.86.109.106:dll Stealc
-212.87.204.13:encrypted RAT RemcosRAT
+212.86.109.106:Stealc
+212.87.204.13:RAT RemcosRAT
 212.87.204.52:Mirai
 213.141.154.246:Hajime
-213.226.123.16:Amadey dll
-213.232.115.140:Mirai x86-32
+213.226.123.16:Amadey
+213.232.115.140:Mirai
 213.25.20.247:Hajime
 213.33.204.186:Hajime
 213.66.51.122:Mozi
 213.7.31.160:Hajime
-216.120.201.169:dll Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
-216.146.25.178:dll Geofenced obama256 Qakbot Quakbot TA570 USA
-216.238.80.217:dll Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
+216.120.201.169:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
+216.146.25.178:Geofenced obama256 Qakbot Quakbot TA570 USA
+216.238.80.217:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
 216.239.68.31:Mozi
 216.239.78.103:Mozi
 216.239.78.41:Mozi
 216.239.78.66:Mozi
-216.240.140.185:Cobalt Strike 
+216.240.140.185:Cobalt Strike
 218.0.183.14:Mirai Mozi
 218.0.240.117:Mirai Mozi
 218.0.81.223:Mirai
-218.0.99.226:arm Mirai Mozi
+218.0.99.226:Mirai Mozi
 218.157.62.171:Hajime
 218.164.47.88:Mirai Mozi
 218.164.52.222:Mirai Mozi
@@ -7111,21 +7111,21 @@
 218.72.194.79:Mirai
 218.72.212.229:Mozi
 218.72.216.100:Mirai Mozi
-218.72.217.35:arm Mozi
+218.72.217.35:Mozi
 218.72.219.23:Mozi
 218.72.221.158:Mozi
 218.72.223.113:Mirai Mozi
-218.72.223.133:arm Mozi
-218.72.223.240:arm Mozi
+218.72.223.133:Mozi
+218.72.223.240:Mozi
 218.72.241.214:Mirai Mozi
 218.72.244.19:Mirai Mozi
-218.72.89.24:arm Mozi
-218.72.94.117:arm Mozi
+218.72.89.24:Mozi
+218.72.94.117:Mozi
 218.73.2.211:Mirai Mozi
 218.74.106.186:Mozi
 218.74.67.233:Mirai Mozi
 218.74.76.25:Mirai Mozi
-218.74.97.196:arm Mirai Mozi
+218.74.97.196:Mirai Mozi
 218.76.112.127:Mirai Mozi
 218.81.116.140:Mozi
 218.91.128.202:Hajime
@@ -7150,7 +7150,7 @@
 219.154.118.191:Mozi
 219.154.118.231:Mozi
 219.154.118.243:Mozi
-219.154.118.41:arm Mirai Mozi
+219.154.118.41:Mirai Mozi
 219.154.118.76:Mozi
 219.154.122.118:Mozi
 219.154.122.147:Mozi
@@ -7236,7 +7236,7 @@
 219.156.177.20:Mozi
 219.156.18.245:Mozi
 219.156.182.231:Mozi
-219.156.199.144:arm Mirai Mozi
+219.156.199.144:Mirai Mozi
 219.156.22.140:Mozi
 219.156.23.39:Mozi
 219.156.24.165:Mozi
@@ -7319,33 +7319,33 @@
 220.127.157.153:Hajime
 220.132.243.6:Hajime
 220.132.89.208:Hajime
-220.133.39.15:arm Mirai Mozi
+220.133.39.15:Mirai Mozi
 220.135.239.152:Hajime
 220.161.16.210:Mozi
-220.161.160.109:arm Mirai Mozi
+220.161.160.109:Mirai Mozi
 220.161.160.4:Mirai Mozi
 220.161.17.106:Mirai Mozi
-220.163.198.120:arm Mirai Mozi
+220.163.198.120:Mirai Mozi
 220.163.198.55:Hajime
 220.163.220.191:Hajime
 220.167.226.159:Mirai Mozi
 220.175.65.198:Mirai
 220.176.17.216:Mirai Mozi
-220.184.160.142:arm Mirai Mozi
+220.184.160.142:Mirai Mozi
 220.187.107.98:Mirai Mozi
 220.187.211.132:Mirai Mozi
 220.187.232.161:Mirai Mozi
 220.189.147.25:Mirai Mozi
 220.191.56.88:Mirai Mozi
-220.200.35.43:arm Mirai Mozi
-220.200.35.90:arm Mozi
+220.200.35.43:Mirai Mozi
+220.200.35.90:Mozi
 220.201.17.165:Mirai Mozi
 220.201.173.129:Mozi
 220.201.175.171:Mirai Mozi
 220.80.59.125:Hajime
 220.90.64.141:Hajime
 221.0.163.203:Mirai Mozi
-221.0.210.169:arm Mozi
+221.0.210.169:Mozi
 221.1.148.21:Mozi
 221.1.154.226:Mirai Mozi
 221.1.224.207:Mozi
@@ -7379,7 +7379,7 @@
 221.14.63.169:Mozi
 221.15.103.239:Mozi
 221.15.103.57:Mozi
-221.15.107.225:arm Mirai Mozi
+221.15.107.225:Mirai Mozi
 221.15.126.222:Mozi
 221.15.146.156:Mozi
 221.15.161.51:Mozi
@@ -7432,7 +7432,7 @@
 221.15.94.169:Mozi
 221.15.98.176:Mozi
 221.159.45.64:Hajime
-221.2.177.163:arm Mirai Mozi
+221.2.177.163:Mirai Mozi
 221.202.232.37:Mirai Mozi
 221.205.121.176:NoTag
 221.214.146.6:Mozi
@@ -7448,18 +7448,18 @@
 221.230.198.111:Hajime
 221.232.1.220:Mirai Mozi
 221.232.11.18:Mirai Mozi
-221.232.2.10:arm Mirai Mozi
+221.232.2.10:Mirai Mozi
 221.232.241.211:Mirai Mozi
 221.233.212.98:Mirai Mozi
-221.235.70.157:arm Mozi
+221.235.70.157:Mozi
 221.235.75.141:Mirai Mozi
 221.235.75.85:Mirai Mozi
 221.235.78.248:Mozi
 221.3.58.129:Mozi
-222.132.23.245:arm Mirai Mozi
+222.132.23.245:Mirai Mozi
 222.133.109.234:Mozi
 222.133.118.28:Mozi
-222.133.66.50:arm Mozi
+222.133.66.50:Mozi
 222.134.163.180:Mozi
 222.134.172.20:Mozi
 222.134.173.118:Mozi
@@ -7467,7 +7467,7 @@
 222.134.173.217:Mozi
 222.134.173.56:Mozi
 222.134.174.221:Mozi
-222.135.113.74:arm Mirai Mozi
+222.135.113.74:Mirai Mozi
 222.135.134.224:Mozi
 222.136.125.2:Mozi
 222.136.132.48:Mozi
@@ -7525,7 +7525,7 @@
 222.137.68.236:Mozi
 222.137.69.130:Mozi
 222.137.70.39:Mozi
-222.137.71.225:arm Mirai Mozi
+222.137.71.225:Mirai Mozi
 222.137.77.30:Mozi
 222.137.79.245:Mozi
 222.137.84.47:Mozi
@@ -7574,7 +7574,7 @@
 222.138.48.182:Mozi
 222.138.52.29:Mirai Mozi
 222.138.85.195:Mozi
-222.138.96.16:arm Mozi
+222.138.96.16:Mozi
 222.139.101.91:Mozi
 222.139.104.136:Mozi
 222.139.106.25:Mozi
@@ -7657,7 +7657,7 @@
 222.141.141.167:Mozi
 222.141.186.158:Mozi
 222.141.189.196:Mozi
-222.141.190.49:arm Mirai Mozi
+222.141.190.49:Mirai Mozi
 222.141.190.81:Mozi
 222.141.213.145:Mozi
 222.141.213.174:Mozi
@@ -7752,7 +7752,7 @@
 222.241.49.201:Hajime
 222.241.49.59:Hajime
 222.241.50.103:Mirai Mozi
-222.241.51.138:arm Mirai Mozi
+222.241.51.138:Mirai Mozi
 222.243.33.12:Mirai Mozi
 222.243.39.83:Mirai Mozi
 222.245.2.33:Hajime
@@ -7771,7 +7771,7 @@
 222.246.125.51:Hajime
 222.246.125.53:Hajime
 222.246.126.75:Hajime
-222.246.210.180:arm Mirai Mozi
+222.246.210.180:Mirai Mozi
 222.246.40.197:Hajime
 222.246.42.88:Hajime
 222.246.43.121:Hajime
@@ -7782,10 +7782,10 @@
 222.93.144.44:Hajime
 222.93.145.158:Hajime
 222.93.177.117:Mirai Mozi
-222.93.248.173:arm Mirai Mozi
+222.93.248.173:Mirai Mozi
 222.93.9.67:Hajime
 222.98.24.223:Hajime
-223.10.12.157:arm Mirai Mozi
+223.10.12.157:Mirai Mozi
 223.10.16.91:Hajime
 223.10.20.2:Hajime
 223.10.35.104:Hajime
@@ -7804,7 +7804,7 @@
 223.12.186.186:Hajime
 223.122.122.229:Mirai Mozi
 223.13.1.213:Mirai Mozi
-223.13.26.167:arm Mozi
+223.13.26.167:Mozi
 223.13.27.153:Hajime
 223.13.27.207:Hajime
 223.13.27.251:Hajime
@@ -7847,9 +7847,9 @@
 223.151.75.28:Hajime
 223.154.248.119:Mirai Mozi
 223.198.242.147:Mozi
-223.221.107.238:arm Mirai Mozi
-223.221.18.113:arm Mirai Mozi
-223.221.21.251:arm Mirai Mozi
+223.221.107.238:Mirai Mozi
+223.221.18.113:Mirai Mozi
+223.221.21.251:Mirai Mozi
 223.244.88.205:Mozi
 223.73.110.232:Mozi
 223.74.150.120:NoTag
@@ -7866,7 +7866,7 @@
 223.8.2.40:Hajime
 223.8.201.204:Hajime
 223.8.203.176:Hajime
-223.8.208.65:arm Mozi
+223.8.208.65:Mozi
 223.8.209.140:Hajime
 223.8.209.93:Hajime
 223.8.210.218:Hajime
@@ -7882,7 +7882,7 @@
 223.8.47.61:Hajime
 223.8.48.29:Hajime
 223.8.49.106:Hajime
-223.8.7.180:arm Mozi
+223.8.7.180:Mozi
 223.8.99.44:Hajime
 223.9.121.24:Hajime
 223.9.127.49:Mirai Mozi
@@ -7890,37 +7890,37 @@
 223.9.146.225:Hajime
 223.9.45.83:Hajime
 223.9.47.226:Mirai Mozi
-23.147.226.84:Mirai shellscript
-23.227.202.68:dll Stealc
+23.147.226.84:Mirai
+23.227.202.68:Stealc
 23.236.169.237:NoTag
-23.94.148.17:doc 
+23.94.148.17:NoTag
 23.94.236.79:Mirai
 24.106.91.27:Mirai Mozi
 24.121.33.154:Mozi
 24.152.45.146:Mirai Mozi
 24.90.22.121:Mozi
 26.21.223.99:Mozi
-27.111.74.205:arm Mozi
+27.111.74.205:Mozi
 27.153.130.247:Mozi
-27.153.132.13:arm Mirai Mozi
+27.153.132.13:Mirai Mozi
 27.153.140.201:Mirai Mozi
 27.155.32.96:Mirai Mozi
-27.156.139.105:arm Mozi
+27.156.139.105:Mozi
 27.156.139.150:Mirai Mozi
 27.156.176.109:Mirai Mozi
 27.158.226.5:Mozi
 27.16.132.46:Mirai Mozi
 27.16.135.46:Mozi
-27.16.241.148:arm Mirai Mozi
-27.16.241.159:arm Mirai Mozi
-27.184.231.147:arm Mirai Mozi
-27.184.24.120:arm Mozi
+27.16.241.148:Mirai Mozi
+27.16.241.159:Mirai Mozi
+27.184.231.147:Mirai Mozi
+27.184.24.120:Mozi
 27.184.247.27:Mozi
 27.184.50.240:Mirai Mozi
-27.184.8.178:arm Mirai Mozi
-27.187.249.1:arm Mirai Mozi
+27.184.8.178:Mirai Mozi
+27.187.249.1:Mirai Mozi
 27.19.199.236:Hajime
-27.19.232.11:arm Mirai Mozi
+27.19.232.11:Mirai Mozi
 27.190.192.159:Mozi
 27.190.193.35:Mirai Mozi
 27.191.27.21:Mirai Mozi
@@ -7936,7 +7936,7 @@
 27.194.221.102:NoTag
 27.197.133.29:Mirai Mozi
 27.197.38.213:Mirai Mozi
-27.197.83.148:arm Mirai Mozi
+27.197.83.148:Mirai Mozi
 27.202.12.172:Mozi
 27.202.139.204:Mozi
 27.202.139.75:Mozi
@@ -7949,10 +7949,10 @@
 27.202.34.75:Mozi
 27.202.36.120:Mozi
 27.203.147.100:Mozi
-27.203.158.178:arm Mirai Mozi
-27.203.213.17:arm Mirai Mozi
-27.203.245.174:arm Mozi
-27.203.40.87:arm Mozi
+27.203.158.178:Mirai Mozi
+27.203.213.17:Mirai Mozi
+27.203.245.174:Mozi
+27.203.40.87:Mozi
 27.204.242.109:Mozi
 27.206.104.122:Mozi
 27.206.105.227:Mirai Mozi
@@ -7985,8 +7985,8 @@
 27.208.142.175:Mirai Mozi
 27.208.187.212:Mirai Mozi
 27.208.66.90:Mozi
-27.209.159.122:arm Mozi
-27.209.214.244:arm Mozi
+27.209.159.122:Mozi
+27.209.214.244:Mozi
 27.210.144.195:Mozi
 27.210.172.49:NoTag
 27.210.189.52:Mozi
@@ -8122,7 +8122,7 @@
 27.220.15.47:Mozi
 27.220.168.253:Mozi
 27.220.197.42:Mozi
-27.220.2.44:arm Mirai Mozi
+27.220.2.44:Mirai Mozi
 27.220.247.230:Mozi
 27.220.25.108:Mozi
 27.220.253.178:Mozi
@@ -8133,7 +8133,7 @@
 27.220.88.239:Mozi
 27.221.246.129:Mozi
 27.222.149.217:Mozi
-27.222.156.30:arm Mirai Mozi
+27.222.156.30:Mirai Mozi
 27.222.232.210:Mozi
 27.223.160.216:Mozi
 27.223.44.165:Mozi
@@ -8141,7 +8141,7 @@
 27.35.164.32:Mozi
 27.37.165.122:Mozi
 27.37.217.108:Mozi
-27.37.50.253:arm Mozi
+27.37.50.253:Mozi
 27.39.155.180:NoTag
 27.4.169.134:Mozi
 27.4.204.13:Mozi
@@ -8188,7 +8188,7 @@
 27.41.27.186:Mirai Mozi
 27.41.27.23:Mirai Mozi
 27.41.27.76:Mirai Mozi
-27.41.49.181:arm Mirai Mozi
+27.41.49.181:Mirai Mozi
 27.41.49.4:Mozi
 27.41.52.145:Mirai Mozi
 27.41.52.59:Mirai Mozi
@@ -8206,7 +8206,7 @@
 27.44.105.30:Mirai Mozi
 27.44.107.209:Mirai Mozi
 27.44.160.211:Mirai Mozi
-27.44.168.63:arm Mirai Mozi
+27.44.168.63:Mirai Mozi
 27.45.10.194:Mirai
 27.45.10.236:Mirai Mozi
 27.45.11.113:Mirai Mozi
@@ -8236,12 +8236,12 @@
 27.45.118.100:Mirai Mozi
 27.45.118.188:Mirai Mozi
 27.45.12.132:Mirai Mozi
-27.45.122.63:arm Mirai Mozi
+27.45.122.63:Mirai Mozi
 27.45.123.42:Mozi
 27.45.14.139:Mirai Mozi
 27.45.14.15:Mirai Mozi
 27.45.14.233:Mirai Mozi
-27.45.17.87:arm Mirai Mozi
+27.45.17.87:Mirai Mozi
 27.45.32.116:Mirai Mozi
 27.45.32.121:Mirai Mozi
 27.45.32.154:Mirai Mozi
@@ -8257,7 +8257,7 @@
 27.45.35.202:Mirai Mozi
 27.45.37.36:Mirai Mozi
 27.45.39.250:Mirai Mozi
-27.45.51.88:arm Mirai Mozi
+27.45.51.88:Mirai Mozi
 27.45.57.95:Mirai Mozi
 27.45.8.13:Mirai Mozi
 27.45.8.169:Mirai Mozi
@@ -8276,7 +8276,7 @@
 27.45.92.169:Mirai Mozi
 27.45.93.217:Mirai Mozi
 27.45.94.178:Mirai Mozi
-27.45.96.9:arm Mozi
+27.45.96.9:Mozi
 27.46.54.11:Mirai Mozi
 27.46.54.205:Mirai Mozi
 27.46.55.241:Mirai Mozi
@@ -8302,7 +8302,7 @@
 31.163.129.237:Mirai Mozi
 31.170.184.1:Mozi
 31.181.250.254:Mozi
-31.192.235.146:ascii AsyncRAT Encoded hta  RAT
+31.192.235.146:AsyncRAT Encoded hta RAT
 31.208.229.194:Mirai Mozi
 31.209.27.5:Mirai Mozi
 31.214.243.39:Mirai
@@ -8310,13 +8310,13 @@
 31.220.3.140:Mirai
 31.222.202.229:gafgyt
 31.23.183.86:Mozi
-31.41.244.251:dll Stealc
+31.41.244.251:Stealc
 31.44.57.7:Hajime
-35.182.32.110:AgentTesla 
-36.100.16.239:arm Mirai Mozi
+35.182.32.110:AgentTesla
+36.100.16.239:Mirai Mozi
 36.100.192.87:Mirai Mozi
-36.100.25.67:arm Mozi
-36.100.92.134:arm Mirai Mozi
+36.100.25.67:Mozi
+36.100.92.134:Mirai Mozi
 36.20.22.247:Mozi
 36.22.91.203:Mirai Mozi
 36.225.88.151:Mirai Mozi
@@ -8325,7 +8325,7 @@
 36.229.207.33:Hajime
 36.232.110.122:Mirai Mozi
 36.232.126.35:Mirai Mozi
-36.232.68.28:arm Mirai Mozi
+36.232.68.28:Mirai Mozi
 36.233.1.124:Mirai Mozi
 36.233.23.82:Mirai Mozi
 36.233.30.223:Mirai Mozi
@@ -8340,9 +8340,9 @@
 36.251.137.137:Mozi
 36.251.42.71:Mirai Mozi
 36.26.100.109:Mozi
-36.26.134.235:arm Mirai Mozi
+36.26.134.235:Mirai Mozi
 36.26.141.143:Mirai Mozi
-36.26.148.12:arm Mozi
+36.26.148.12:Mozi
 36.37.158.30:Hajime
 36.43.65.35:Mirai Mozi
 36.45.192.81:Mirai Mozi
@@ -8366,9 +8366,9 @@
 37.117.245.5:Hajime
 37.13.99.78:Mirai Mozi
 37.148.108.17:Mozi
-37.220.87.68:dll recordbreaker
+37.220.87.68:recordbreaker
 37.221.65.77:gafgyt Mirai
-37.221.92.198:Mirai shellscript
+37.221.92.198:Mirai
 37.221.92.199:Mirai
 37.221.92.205:Mirai
 37.27.9.242:Mirai
@@ -8463,9 +8463,9 @@
 39.65.104.135:Mozi
 39.65.142.152:NoTag
 39.65.171.244:Mirai Mozi
-39.66.199.33:arm Mirai Mozi
+39.66.199.33:Mirai Mozi
 39.66.78.196:Mozi
-39.67.48.176:arm Mirai Mozi
+39.67.48.176:Mirai Mozi
 39.68.144.73:Mirai Mozi
 39.68.172.72:Mirai Mozi
 39.68.41.166:Mirai Mozi
@@ -8502,14 +8502,14 @@
 39.79.150.244:Mozi
 39.79.42.14:Mozi
 39.80.35.242:Mirai Mozi
-39.80.62.179:arm Mirai Mozi
-39.81.229.133:arm Mirai Mozi
+39.80.62.179:Mirai Mozi
+39.81.229.133:Mirai Mozi
 39.81.35.206:Mozi
 39.81.36.4:Mozi
 39.81.39.86:Mozi
 39.82.229.189:Mozi
 39.83.194.61:Mozi
-39.85.237.114:arm Mirai Mozi
+39.85.237.114:Mirai Mozi
 39.86.113.189:Mozi
 39.86.212.242:Mozi
 39.86.31.223:Mozi
@@ -8542,7 +8542,7 @@
 39.90.151.217:Mozi
 39.90.157.249:Mozi
 39.90.176.143:Mozi
-39.90.180.104:arm Mirai Mozi
+39.90.180.104:Mirai Mozi
 39.90.183.154:Mirai Mozi
 39.90.183.186:Mozi
 39.90.184.238:Mozi
@@ -8558,7 +8558,7 @@
 41.216.182.214:gafgyt Mirai
 42.114.24.87:Hajime
 42.177.105.78:Mozi
-42.194.164.247:ascii  sh
+42.194.164.247:NoTag
 42.197.129.222:NoTag
 42.224.0.32:Mozi
 42.224.104.230:Mozi
@@ -8616,7 +8616,7 @@
 42.224.209.141:Mozi
 42.224.21.250:Mozi
 42.224.23.164:Mozi
-42.224.23.5:arm Mirai Mozi
+42.224.23.5:Mirai Mozi
 42.224.232.109:NoTag
 42.224.237.34:Mozi
 42.224.24.205:Mozi
@@ -8792,7 +8792,7 @@
 42.230.123.61:Mozi
 42.230.152.137:Mozi
 42.230.157.192:Mozi
-42.230.168.73:arm Mozi
+42.230.168.73:Mozi
 42.230.171.130:Mozi
 42.230.186.65:Mozi
 42.230.187.163:Mozi
@@ -8894,8 +8894,8 @@
 42.233.190.161:Mozi
 42.233.190.68:Mozi
 42.233.191.41:Mozi
-42.233.234.222:arm Mirai Mozi
-42.233.252.126:arm Mirai Mozi
+42.233.234.222:Mirai Mozi
+42.233.252.126:Mirai Mozi
 42.233.56.50:Mozi
 42.233.72.150:Mozi
 42.233.80.235:Mozi
@@ -9086,9 +9086,9 @@
 42.239.95.69:Mozi
 42.243.134.133:Hajime
 42.243.143.184:Hajime
-42.243.172.154:arm Mirai Mozi
+42.243.172.154:Mirai Mozi
 42.243.172.169:Mirai Mozi
-42.243.172.212:arm Mirai Mozi
+42.243.172.212:Mirai Mozi
 42.243.172.48:Hajime
 42.243.27.104:Mozi
 42.248.161.193:Hajime
@@ -9097,30 +9097,30 @@
 42.52.48.147:Mozi
 42.52.48.159:Mozi
 42.54.153.51:Mirai Mozi
-42.55.144.187:arm Mozi
+42.55.144.187:Mozi
 42.56.5.102:Mirai Mozi
 42.57.239.90:Mozi
 42.84.27.110:Mozi
 42.85.113.117:Mozi
 42.86.111.121:Mozi
 42.87.111.184:Mirai Mozi
-42.98.234.97:arm Mirai Mozi
-43.137.10.95:AsyncRAT 
+42.98.234.97:Mirai Mozi
+43.137.10.95:AsyncRAT
 43.139.212.236:NoTag
-43.153.37.45:32 64 arm bashlite gafgyt powerpc shellscript sparc
+43.153.37.45:gafgyt sparc
 43.154.97.109:NoTag
 43.249.225.245:Mozi
 45.11.0.184:Mirai
 45.115.254.152:Hajime
-45.12.109.103:Mirai shellscript
+45.12.109.103:Mirai
 45.12.253.178:Mirai
 45.120.16.232:Mozi
-45.125.67.156:dll Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
+45.125.67.156:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
 45.128.232.144:gafgyt
 45.128.232.167:Mirai
-45.131.111.251:Mirai shellscript
+45.131.111.251:Mirai
 45.131.79.240:Mirai
-45.131.79.243:Mirai shellscript
+45.131.79.243:Mirai
 45.132.88.184:gafgyt
 45.134.11.110:gafgyt
 45.136.245.146:Mirai
@@ -9131,15 +9131,15 @@
 45.138.74.247:payloads viaSmokeLoader Vidar
 45.148.116.48:Mirai
 45.148.119.123:Mirai
-45.15.156.143:dll recordbreaker
-45.15.156.198:dll
-45.15.156.233:dll recordbreaker
+45.15.156.143:recordbreaker
+45.15.156.198:NoTag
+45.15.156.233:recordbreaker
 45.15.157.136:Vidar
 45.15.159.42:CoinMiner Rhadamanthys
 45.150.128.182:gafgyt
 45.158.22.165:Mirai
-45.159.248.242:dll Stealc
-45.159.249.33:dll Geofenced obama250 Qakbot Quakbot ua-ps USA
+45.159.248.242:Stealc
+45.159.249.33:Geofenced obama250 Qakbot Quakbot ua-ps USA
 45.166.21.177:Hajime
 45.168.123.23:Mirai Mozi
 45.169.14.10:Mozi
@@ -9151,37 +9151,37 @@
 45.187.101.247:Mirai Mozi
 45.187.101.252:Mirai Mozi
 45.187.193.39:Mirai Mozi
-45.231.209.46:arm Mirai Mozi
-45.234.96.119:arm Mirai Mozi
-45.234.96.161:arm Mirai Mozi
-45.59.170.43:dll Geofenced obama255 Qakbot USA
-45.59.170.48:dll Geofenced Obama249 Qakbot Quakbot ua-ps USA
-45.59.170.61:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
-45.61.137.151:dll Stealc
+45.231.209.46:Mirai Mozi
+45.234.96.119:Mirai Mozi
+45.234.96.161:Mirai Mozi
+45.59.170.43:Geofenced obama255 Qakbot USA
+45.59.170.48:Geofenced Obama249 Qakbot Quakbot ua-ps USA
+45.59.170.61:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
+45.61.137.151:Stealc
 45.61.187.67:NoTag
-45.63.69.116:dll Geofenced Obama249 Qakbot ua-ps USA
+45.63.69.116:Geofenced Obama249 Qakbot ua-ps USA
 45.66.230.173:Mirai
-45.66.230.36:32 arm intel Mirai motorola powerpc renesas script sparc
-45.66.248.187:dll Geofenced obama250 Qakbot Quakbot ua-ps USA
-45.66.248.25:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
-45.79.8.118:32 arm Mirai motorola x86-32
+45.66.230.36:Mirai renesas sparc
+45.66.248.187:Geofenced obama250 Qakbot Quakbot ua-ps USA
+45.66.248.25:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
+45.79.8.118:Mirai
 45.80.158.237:AsyncRAT Powershell
 45.80.69.193:LummaStealer
 45.82.69.203:NoTag
 45.86.243.2:Hajime
-45.86.86.98:Mirai shellscript
+45.86.86.98:Mirai
 45.88.66.237:Mirai
-45.88.66.43:AgentTesla ascii
-45.88.66.68:gafgyt shellscript
-45.88.67.75:xworm
-45.88.67.91:1fb5168d70e6f17e81df66eb20260539 534dea827f40e5e0727fcee72c884c61 docx Lokibot
-45.92.126.10:Mirai shellscript
+45.88.66.43:AgentTesla
+45.88.66.68:gafgyt
+45.88.67.75:NoTag
+45.88.67.91:1fb5168d70e6f17e81df66eb20260539 534dea827f40e5e0727fcee72c884c61 Lokibot
+45.92.126.10:Mirai
 45.93.31.28:Mirai
 45.95.146.114:Mirai
 45.95.146.13:Mirai
 45.95.169.181:Mirai
-45.95.18.115:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
-45.95.233.60:dll Stealc
+45.95.18.115:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
+45.95.233.60:Stealc
 46.0.242.26:Hajime
 46.100.49.235:Hajime
 46.100.49.91:Hajime
@@ -9214,11 +9214,11 @@
 47.87.136.213:Mirai
 47.87.139.248:Mirai
 47.87.141.16:Mirai
-47.87.142.47:ascii
+47.87.142.47:NoTag
 47.87.161.172:gafgyt
-47.87.163.214:gafgyt Mirai shellscript
+47.87.163.214:gafgyt Mirai
 47.87.218.20:gafgyt
-49.157.47.120:Mirai shellscript
+49.157.47.120:Mirai
 49.189.171.60:Hajime
 49.64.118.76:Hajime
 49.64.78.248:Hajime
@@ -9296,19 +9296,19 @@
 5.161.206.28:AveMariaRAT
 5.181.159.78:Mirai mirai botnet scan payload
 5.181.80.134:Mirai
-5.181.80.147:ascii
+5.181.80.147:NoTag
 5.201.176.241:Hajime
 5.205.167.18:Mirai Mozi
-5.206.227.132:gafgyt shellscript
+5.206.227.132:gafgyt
 5.227.66.231:Hajime
 5.252.118.166:gafgyt
 5.252.118.57:NoTag
-5.252.23.94:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
-5.42.221.124:dll Geofenced obama250 Qakbot Quakbot ua-ps USA
+5.252.23.94:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
+5.42.221.124:Geofenced obama250 Qakbot Quakbot ua-ps USA
 5.59.107.34:Mozi
-5.75.159.229:dll recordbreaker
-5.75.169.249:payloads viaSmokeLoader xworm
-5.75.232.223:dll Stealc
+5.75.159.229:recordbreaker
+5.75.169.249:payloads viaSmokeLoader
+5.75.232.223:Stealc
 5.8.18.159:GootLoader
 5.8.8.80:Amadey
 5.8.8.83:LaplasClipper
@@ -9316,28 +9316,28 @@
 50.7.177.59:Mirai
 50.7.177.60:Mirai
 50.79.86.229:Hajime
-51.161.204.236:dll Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
-51.161.64.200:32 DCRat FormBook
+51.161.204.236:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
+51.161.64.200:DCRat FormBook
 51.178.28.246:Mirai
-51.195.39.73:shellscript
-51.222.199.244:dll Geofenced obama250 Qakbot Quakbot ua-ps USA
-51.222.96.42:dll Geofenced obama255 Qakbot USA
-51.254.78.3:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
-51.75.127.173:stealer Stealerium
+51.195.39.73:NoTag
+51.222.199.244:Geofenced obama250 Qakbot Quakbot ua-ps USA
+51.222.96.42:Geofenced obama255 Qakbot USA
+51.254.78.3:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
+51.75.127.173:Stealerium
 51.75.210.218:NoTag
-51.83.193.0:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
-52.41.71.133:FormBook 
-57.128.168.187:gafgyt Mirai shellscript
+51.83.193.0:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
+52.41.71.133:FormBook
+57.128.168.187:gafgyt Mirai
 58.208.109.19:Hajime
 58.208.115.224:Hajime
 58.208.233.121:Mirai Mozi
-58.208.233.42:arm Mirai Mozi
+58.208.233.42:Mirai Mozi
 58.208.98.143:Hajime
 58.209.15.3:Hajime
 58.209.157.7:Hajime
 58.209.47.57:Mirai Mozi
 58.209.88.86:Hajime
-58.216.76.206:arm Mirai Mozi
+58.216.76.206:Mirai Mozi
 58.216.82.34:Mozi
 58.217.67.207:Mozi
 58.23.83.75:Mozi
@@ -9376,7 +9376,7 @@
 58.252.203.72:Mirai Mozi
 58.253.154.219:NoTag
 58.255.129.88:Mozi
-58.255.131.158:arm Mirai Mozi
+58.255.131.158:Mirai Mozi
 58.255.138.134:Mirai Mozi
 58.255.138.13:Mirai Mozi
 58.255.18.158:Mirai Mozi
@@ -9384,7 +9384,7 @@
 58.255.19.178:Mirai Mozi
 58.255.19.82:Mirai Mozi
 58.255.211.207:Mirai Mozi
-58.255.212.173:arm Mozi
+58.255.212.173:Mozi
 58.255.212.20:Mozi
 58.255.212.66:Mirai Mozi
 58.255.214.176:NoTag
@@ -9406,7 +9406,7 @@
 58.47.65.238:Hajime
 58.47.67.185:Hajime
 58.48.197.139:Hajime
-58.49.102.26:arm Mirai Mozi
+58.49.102.26:Mirai Mozi
 58.54.155.159:Mozi
 59.1.129.221:Hajime
 59.12.239.50:Mirai Mozi
@@ -9417,7 +9417,7 @@
 59.15.253.210:Mozi
 59.17.132.24:Hajime
 59.174.116.18:Hajime
-59.174.92.139:arm Mirai Mozi
+59.174.92.139:Mirai Mozi
 59.175.19.1:Hajime
 59.180.138.74:Mozi
 59.180.160.29:Mozi
@@ -9438,10 +9438,10 @@
 59.40.187.221:Mirai Mozi
 59.40.187.85:Mozi
 59.55.83.241:Mozi
-59.58.105.17:arm Mirai Mozi
-59.58.109.36:arm Mirai Mozi
+59.58.105.17:Mirai Mozi
+59.58.109.36:Mirai Mozi
 59.59.67.107:Mirai Mozi
-59.60.122.64:arm Mirai Mozi
+59.60.122.64:Mirai Mozi
 59.88.130.10:Mozi
 59.88.139.87:Mirai Mozi
 59.88.224.101:Mozi
@@ -9925,20 +9925,20 @@
 60.161.61.57:Mozi
 60.162.115.126:Mirai Mozi
 60.162.118.130:Mirai Mozi
-60.162.118.62:arm Mozi
+60.162.118.62:Mozi
 60.162.12.78:Mirai Mozi
 60.162.192.235:Mirai Mozi
 60.162.192.64:Mirai Mozi
 60.162.195.43:Mirai Mozi
 60.162.199.43:Mozi
 60.162.204.15:Mozi
-60.162.207.117:arm Mozi
-60.162.208.252:arm Mozi
+60.162.207.117:Mozi
+60.162.208.252:Mozi
 60.162.209.145:Mirai
-60.162.212.151:arm Mozi
+60.162.212.151:Mozi
 60.162.212.91:Mozi
 60.162.213.230:Mirai Mozi
-60.162.213.87:arm Mozi
+60.162.213.87:Mozi
 60.162.218.137:Mirai Mozi
 60.162.219.187:Mozi
 60.162.222.145:Mirai Mozi
@@ -9947,36 +9947,36 @@
 60.163.244.223:Mozi
 60.169.222.245:Mozi
 60.176.11.61:Mirai Mozi
-60.176.11.66:arm Mirai Mozi
+60.176.11.66:Mirai Mozi
 60.177.171.78:Mozi
-60.177.227.108:arm Mozi
+60.177.227.108:Mozi
 60.179.126.1:Mirai Mozi
-60.179.47.60:arm Mozi
+60.179.47.60:Mozi
 60.180.172.192:Mozi
 60.183.121.244:Mozi
-60.183.159.131:arm Mozi
+60.183.159.131:Mozi
 60.183.2.247:Mirai Mozi
 60.183.2.8:Mirai Mozi
 60.183.76.146:Mozi
-60.184.129.72:arm Mirai Mozi
-60.184.188.86:arm Mozi
+60.184.129.72:Mirai Mozi
+60.184.188.86:Mozi
 60.185.124.208:Mirai Mozi
-60.185.127.44:arm Mirai Mozi
+60.185.127.44:Mirai Mozi
 60.185.166.85:Mozi
-60.185.2.155:arm Mirai Mozi
+60.185.2.155:Mirai Mozi
 60.185.212.185:NoTag
 60.185.56.19:Mirai Mozi
-60.186.163.183:arm Mirai Mozi
+60.186.163.183:Mirai Mozi
 60.186.78.185:Mozi
 60.187.126.16:Mozi
 60.187.32.131:Mozi
-60.189.27.88:arm Mirai Mozi
+60.189.27.88:Mirai Mozi
 60.189.88.172:Mozi
 60.189.89.99:Mozi
-60.189.91.105:arm Mirai Mozi
+60.189.91.105:Mirai Mozi
 60.189.91.176:Mozi
 60.189.92.22:Mozi
-60.189.93.16:arm Mirai Mozi
+60.189.93.16:Mirai Mozi
 60.20.238.198:Mirai Mozi
 60.209.190.229:Mozi
 60.211.30.100:Mozi
@@ -9984,7 +9984,7 @@
 60.211.74.129:Mozi
 60.212.100.94:Mozi
 60.212.124.32:Mozi
-60.212.176.56:arm Mozi
+60.212.176.56:Mozi
 60.212.236.188:Mirai Mozi
 60.212.37.241:Mozi
 60.214.239.220:Mozi
@@ -9999,7 +9999,7 @@
 60.23.73.221:Mozi
 60.243.218.46:Mozi
 60.243.240.228:Mozi
-60.25.193.76:arm Mirai Mozi
+60.25.193.76:Mirai Mozi
 61.0.64.129:Mozi
 61.0.64.17:Mirai Mozi
 61.0.64.215:Mozi
@@ -10164,9 +10164,9 @@
 61.168.178.96:Mozi
 61.168.181.97:Mozi
 61.168.52.226:Mozi
-61.170.209.213:arm Mirai Mozi
+61.170.209.213:Mirai Mozi
 61.176.224.183:Mirai Mozi
-61.176.6.74:arm Mirai Mozi
+61.176.6.74:Mirai Mozi
 61.241.223.140:Mozi
 61.3.100.103:Mozi
 61.3.100.107:Mozi
@@ -10407,7 +10407,7 @@
 61.52.86.33:Mozi
 61.52.88.44:NoTag
 61.52.9.100:Mozi
-61.52.9.244:arm Mirai Mozi
+61.52.9.244:Mirai Mozi
 61.53.1.61:Mozi
 61.53.10.245:Mirai Mozi
 61.53.10.25:Mozi
@@ -10509,36 +10509,36 @@
 61.54.72.149:NoTag
 61.54.72.66:Mozi
 61.7.175.96:Hajime
-62.108.40.105:AZORult 
+62.108.40.105:AZORult
 62.122.96.35:Hajime
 62.211.85.161:Hajime
 62.219.239.154:Hajime
 64.226.111.37:gafgyt
 64.227.64.50:additionalpayload RaccoonStealer RaccoonV2 recordbreaker
 64.237.206.127:Mozi
-64.44.156.162:encrypted RAT RemcosRAT
-65.108.20.233:dll Stealc
-65.109.2.12:dll Stealc
-65.109.226.91:dll Stealc
-65.109.240.97:dropped-by-amadey
+64.44.156.162:RAT RemcosRAT
+65.108.20.233:Stealc
+65.109.2.12:Stealc
+65.109.226.91:Stealc
+65.109.240.97:NoTag
 65.21.177.234:AsyncRAT
 65.99.190.149:Mozi
 66.75.88.177:Hajime
 66.97.180.24:Mozi
 67.49.82.144:Hajime
 69.63.60.251:Mozi
-70.34.218.85:dll Geofenced obama251 Qakbot ua-ps USA
+70.34.218.85:Geofenced obama251 Qakbot ua-ps USA
 71.190.219.115:Hajime
 71.247.210.26:Hajime
-72.240.94.119:arm Mirai Mozi
-72.241.81.250:arm Mirai Mozi
+72.240.94.119:Mirai Mozi
+72.241.81.250:Mirai Mozi
 73.226.60.16:Hajime
-74.119.193.49:dll Geofenced obama251 Qakbot ua-ps USA
-74.208.206.241:Mirai shellscript
-75.109.116.120:arm Mirai Mozi
+74.119.193.49:Geofenced obama251 Qakbot ua-ps USA
+74.208.206.241:Mirai
+75.109.116.120:Mirai Mozi
 75.109.116.80:NoTag
-75.152.50.207:arm Mirai Mozi
-75.152.69.145:arm Mirai Mozi
+75.152.50.207:Mirai Mozi
+75.152.69.145:Mirai Mozi
 75.187.154.101:Mozi
 76.128.234.13:Hajime
 76.94.65.41:Hajime
@@ -10549,13 +10549,13 @@
 77.53.185.49:Mozi
 77.53.90.144:Mozi
 77.65.45.186:Hajime
-77.68.15.30:ascii
-77.91.100.135:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
-77.91.122.37:32 64 arm bashlite gafgyt intel motorola powerpc renesas shellscript
+77.68.15.30:NoTag
+77.91.100.135:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
+77.91.122.37:gafgyt renesas
 77.91.124.203:Amadey
-77.91.124.207:Amadey dll dropped-by-amadey RedLineStealer
+77.91.124.207:Amadey RedLineStealer
 77.91.124.242:NoTag
-77.91.78.112:32 Mirai
+77.91.78.112:Mirai
 77.91.78.114:Mirai
 77.91.78.160:NoTag
 77.91.78.2:Mirai
@@ -10588,10 +10588,10 @@
 79.137.194.41:RedLineStealer Smoke Loader
 79.137.199.51:NoTag
 79.137.202.153:Mirai
-79.137.207.119:gafgyt Mirai shellscript
-79.137.248.245:dll recordbreaker
+79.137.207.119:gafgyt Mirai
+79.137.248.245:recordbreaker
 79.137.250.51:Mozi
-79.141.174.253:dll Geofenced obama251 Qakbot ua-ps USA
+79.141.174.253:Geofenced obama251 Qakbot ua-ps USA
 79.186.49.242:Mirai Mozi
 79.34.219.164:Mirai Mozi
 79.53.170.212:Hajime
@@ -10599,17 +10599,17 @@
 79.9.77.82:Hajime
 80.178.100.107:Mozi
 80.178.222.97:Mirai
-80.66.79.48:dll Stealc
+80.66.79.48:Stealc
 80.66.79.86:Amadey
 80.78.70.19:Mirai Mozi
 80.85.241.84:Amadey Smoke Loader
 80.91.113.187:Hajime
 80.98.228.233:Hajime
 81.161.229.106:Mirai
-81.161.229.181:32 arm intel Mirai motorola powerpc renesas shellscript sparc
-81.161.229.36:32 arm intel Mirai motorola powerpc renesas script
+81.161.229.181:Mirai renesas sparc
+81.161.229.36:Mirai renesas
 81.17.28.78:DanaBot
-81.182.185.198:arm Mirai Mozi
+81.182.185.198:Mirai Mozi
 81.213.63.75:Mozi
 81.214.242.45:Mozi
 81.233.155.65:Hajime
@@ -10618,17 +10618,17 @@
 82.151.125.199:NoTag
 82.151.125.28:Mozi
 82.151.125.82:Mozi
-83.217.11.10:dll recordbreaker
-83.217.11.6:dll
+83.217.11.10:recordbreaker
+83.217.11.6:NoTag
 83.229.115.93:gafgyt
 83.233.56.71:NoTag
 83.234.218.38:Hajime
-83.243.231.139:arm Mirai Mozi
+83.243.231.139:Mirai Mozi
 83.250.127.4:Mozi
 83.252.61.95:Mozi
 83.4.111.123:Hajime
 83.57.213.147:Hajime
-84.252.121.242:encrypted RAT RemcosRAT
+84.252.121.242:RAT RemcosRAT
 84.33.66.175:Mozi
 84.53.198.136:Mozi
 84.53.216.187:Mozi
@@ -10640,45 +10640,45 @@
 85.108.231.111:Mozi
 85.108.242.28:NoTag
 85.109.3.94:Mozi
-85.11.155.254:arm Mirai Mozi
+85.11.155.254:Mirai Mozi
 85.141.179.223:Mozi
 85.164.33.29:Mirai Mozi
 85.164.89.228:Mirai Mozi
 85.173.27.19:Mozi
 85.175.179.136:Mozi
 85.187.246.146:Hajime
-85.192.63.15:dll recordbreaker
+85.192.63.15:recordbreaker
 85.195.89.91:NoTag
 85.197.191.208:Mozi
-85.204.116.121:gafgyt shellscript
-85.208.136.105:Mirai shellscript
+85.204.116.121:gafgyt
+85.208.136.105:Mirai
 85.208.136.203:NoTag
 85.217.144.143:dropped-by-PrivateLoader LgoogLoader
 85.217.144.14:NoTag
 85.217.144.182:Mirai
 85.217.144.208:Mirai
 85.239.33.24:NoTag
-85.239.53.73:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
+85.239.53.73:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
 85.239.55.238:gafgyt
 85.252.40.223:Mirai Mozi
-85.252.78.53:arm Mirai Mozi
+85.252.78.53:Mirai Mozi
 85.31.45.42:NoTag
 85.62.105.226:Hajime
 85.96.16.88:Mozi
 86.124.131.19:Mozi
-87.121.113.160:Mirai shellscript
-87.121.113.2:Mirai shellscript
-87.121.113.72:32 arm Mirai shellscript sparc
+87.121.113.160:Mirai
+87.121.113.2:Mirai
+87.121.113.72:Mirai sparc
 87.121.221.107:Mirai
 87.121.221.229:Mirai
 87.16.90.56:Hajime
 87.21.61.131:Hajime
 87.227.65.25:Mirai Mozi
-87.236.146.236:dll Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
-87.236.146.34:dll Geofenced obama250 Qakbot Quakbot ua-ps USA
-87.236.146.93:dll Geofenced obama251 Qakbot ua-ps USA
+87.236.146.236:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
+87.236.146.34:Geofenced obama250 Qakbot Quakbot ua-ps USA
+87.236.146.93:Geofenced obama251 Qakbot ua-ps USA
 87.236.82.113:Hajime
-87.237.52.145:shellscript
+87.237.52.145:NoTag
 87.4.54.27:Hajime
 88.110.184.3:Hajime
 88.147.72.77:Mozi
@@ -10702,13 +10702,13 @@
 90.176.171.4:Hajime
 90.188.5.234:Hajime
 90.224.165.209:Mozi
-91.193.19.217:dll Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
-91.199.147.177:dll Geofenced Obama249 Qakbot ua-ps USA
+91.193.19.217:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
+91.199.147.177:Geofenced Obama249 Qakbot ua-ps USA
 91.210.224.40:RedLineStealer
 91.212.121.97:gafgyt Mirai
-91.215.85.222:DhlCredit Gozi isfb Ursnif
+91.215.85.222:DhlCredit Gozi Ursnif
 91.218.183.90:NoTag
-91.219.236.18:dll
+91.219.236.18:NoTag
 91.229.208.230:Mozi
 91.229.90.107:Mirai
 91.86.53.244:Hajime
@@ -10724,16 +10724,16 @@
 93.143.238.254:Hajime
 93.67.158.67:Hajime
 94.1.158.55:Hajime
-94.131.10.39:dll Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
-94.131.100.149:dll Geofenced obama256 Qakbot qbot Quakbot TA570 ua-ps USA
-94.131.101.15:dll Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
-94.131.117.30:dll Geofenced Obama249 Qakbot Quakbot ua-ps USA
-94.131.117.45:dll Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
-94.131.12.213:dll Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
-94.140.115.190:DhlCredit Gozi isfb Ursnif
-94.142.138.174:dll recordbreaker
-94.142.138.224:dll recordbreaker
-94.142.138.240:dll Stealc
+94.131.10.39:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA
+94.131.100.149:Geofenced obama256 Qakbot qbot Quakbot TA570 ua-ps USA
+94.131.101.15:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
+94.131.117.30:Geofenced Obama249 Qakbot Quakbot ua-ps USA
+94.131.117.45:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA
+94.131.12.213:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA
+94.140.115.190:DhlCredit Gozi Ursnif
+94.142.138.174:recordbreaker
+94.142.138.224:recordbreaker
+94.142.138.240:Stealc
 94.158.247.123:Mirai
 94.194.157.123:Hajime
 94.74.128.50:Hajime
@@ -10747,15 +10747,15 @@
 95.155.216.29:Mozi
 95.165.14.238:Mozi
 95.179.147.220:Mirai
-95.179.162.104:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
-95.214.25.155:Mirai x86-32
+95.179.162.104:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
+95.214.25.155:Mirai
 95.214.27.119:Mirai
-95.214.27.161:Mirai script
-95.214.27.202:32 intel Mirai
+95.214.27.161:Mirai
+95.214.27.202:Mirai
 95.214.27.248:Mirai
 95.214.27.76:Mirai
-95.216.153.86:dll
-95.216.191.178:dropped-by-amadey
+95.216.153.86:NoTag
+95.216.191.178:NoTag
 95.229.87.15:Hajime
 95.234.167.4:Hajime
 95.251.172.44:Hajime
@@ -10774,8 +10774,8 @@
 96.246.139.49:Hajime
 96.90.66.189:Mozi
 98.149.241.174:Hajime
-98.159.98.113:32 arm intel Mirai motorola powerpc renesas shellscript sparc
-98.159.98.71:32 arm intel Mirai motorola powerpc renesas shellscript sparc
+98.159.98.113:Mirai renesas sparc
+98.159.98.71:Mirai renesas sparc
 98.174.34.92:Hajime
 98.227.194.36:Hajime
 99.230.0.167:Hajime

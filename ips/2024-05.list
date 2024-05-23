@@ -10,17 +10,17 @@
 1.55.182.8:Mozi
 1.58.139.135:Mozi
 1.62.86.168:Mozi
-1.69.115.40:arm Mirai Mozi
+1.69.115.40:Mirai Mozi
 1.70.10.182:Hajime
 1.70.126.108:Hajime
 1.70.13.89:Hajime
 1.70.142.84:Hajime
-1.70.169.208:arm Mirai Mozi
+1.70.169.208:Mirai Mozi
 1.70.173.130:Mozi
-1.70.174.166:arm Mirai Mozi
+1.70.174.166:Mirai Mozi
 1.70.174.53:Hajime
 1.70.9.13:Hajime
-1.70.9.55:arm Mirai Mozi
+1.70.9.55:Mirai Mozi
 1.70.99.189:Hajime
 100.10.37.131:tor
 100.10.60.29:tor
@@ -61,7 +61,7 @@
 102.182.199.43:tor
 102.212.243.82:Mozi
 102.215.67.135:Hajime
-102.216.34.48:arm Mirai Mozi
+102.216.34.48:Mirai Mozi
 102.217.38.77:tor
 102.219.85.85:tor
 102.22.243.124:Mozi
@@ -113,22 +113,22 @@
 103.110.181.43:Mozi
 103.113.71.186:tor
 103.114.160.250:Mirai
-103.116.247.143:32 younglotus
+103.116.247.143:younglotus
 103.126.161.54:tor
 103.127.97.181:tor
 103.129.222.46:tor
 103.133.127.171:Mozi
 103.139.91.3:Mirai Mozi
-103.142.244.19:apk ready.apk Spynote
-103.145.22.195:apk ready.apk Spynote
-103.145.22.201:apk ready.apk Spynote
-103.145.22.213:apk ready.apk Spynote
-103.145.22.228:apk ready.apk Spynote
-103.146.202.41:apk c2 L3mon Manager
-103.146.23.249:Mirai shellscript
-103.148.125.26:apk ready.apk Spynote
-103.148.125.8:apk ready.apk Spynote
-103.149.86.202:32 Mirai renesas shellscript
+103.142.244.19:ready.apk Spynote
+103.145.22.195:ready.apk Spynote
+103.145.22.201:ready.apk Spynote
+103.145.22.213:ready.apk Spynote
+103.145.22.228:ready.apk Spynote
+103.146.202.41:c2 L3mon Manager
+103.146.23.249:Mirai
+103.148.125.26:ready.apk Spynote
+103.148.125.8:ready.apk Spynote
+103.149.86.202:Mirai renesas
 103.15.222.150:Mirai
 103.153.69.150:gafgyt
 103.153.69.151:NoTag
@@ -145,17 +145,17 @@
 103.168.147.251:tor
 103.172.134.26:tor
 103.174.253.222:tor
-103.174.73.185:Mirai Moobot shellscript
+103.174.73.185:Mirai Moobot
 103.175.16.53:tor
 103.178.153.23:tor
-103.182.19.148:ascii doc Encoded RAT RemcosRAT
+103.182.19.148:Encoded RAT RemcosRAT
 103.183.2.202:Backdoor donutmarte exploit payload.bin
 103.183.2.203:Backdoor donutmarte exploit payload.bin
 103.183.2.204:Backdoor donutmarte exploit payload.bin
 103.183.2.205:Backdoor donutmarte exploit payload.bin
 103.183.2.206:Backdoor donutmarte exploit payload.bin
 103.186.116.171:RemcosRAT RTF
-103.186.117.21:doc  RemcosRAT RTF
+103.186.117.21:RemcosRAT RTF
 103.186.221.105:Mozi
 103.192.59.171:Mozi
 103.193.179.233:tor
@@ -177,7 +177,7 @@
 103.215.229.250:tor
 103.219.153.27:tor
 103.222.40.118:CoinMiner XMRIG
-103.228.37.56:Mirai Moobot shellscript
+103.228.37.56:Mirai Moobot
 103.234.72.8:hacktool
 103.235.66.238:Hajime
 103.237.172.118:Hajime
@@ -202,16 +202,16 @@
 103.70.115.107:tor
 103.74.9.218:Mozi
 103.75.116.113:tor
-103.77.208.150:Mirai Moobot shellscript
+103.77.208.150:Mirai Moobot
 103.87.136.158:Hajime
 103.91.180.13:Mozi
 103.91.180.28:Mozi
 103.97.125.208:tor
 103.97.125.218:tor
-103.99.62.12:apk ready.apk
-103.99.62.1:apk ready.apk Spynote
-103.99.62.45:apk ready.apk
-103.99.62.6:apk ready.apk
+103.99.62.12:ready.apk
+103.99.62.1:ready.apk Spynote
+103.99.62.45:ready.apk
+103.99.62.6:ready.apk
 104.1.91.206:tor
 104.131.11.214:tor
 104.131.72.61:tor
@@ -228,9 +228,9 @@
 104.168.205.106:tor
 104.168.28.159:tor
 104.168.28.24:tor
-104.168.33.34:AgentTesla doc 
+104.168.33.34:AgentTesla
 104.168.35.199:tor
-104.168.5.8:ascii doc Encoded RAT RemcosRAT
+104.168.5.8:Encoded RAT RemcosRAT
 104.171.212.18:tor
 104.184.255.246:tor
 104.192.1.138:tor
@@ -239,7 +239,7 @@
 104.200.17.42:tor
 104.205.240.24:tor
 104.207.158.50:tor
-104.218.178.195:arm Mirai Mozi
+104.218.178.195:Mirai Mozi
 104.219.232.126:tor
 104.219.236.100:tor
 104.219.236.134:tor
@@ -293,8 +293,8 @@
 105.158.21.130:Mozi
 105.159.187.186:Mozi
 106.0.38.51:Mozi
-106.111.46.108:arm Mirai Mozi
-106.112.179.121:arm Mirai Mozi
+106.111.46.108:Mirai Mozi
+106.112.179.121:Mirai Mozi
 106.138.49.3:tor
 106.138.54.42:tor
 106.138.54.43:tor
@@ -305,14 +305,14 @@
 106.138.69.25:tor
 106.138.69.32:tor
 106.41.124.238:Mozi
-106.41.137.227:arm Mirai Mozi
+106.41.137.227:Mirai Mozi
 106.41.138.94:Mirai Mozi
 106.41.140.56:NoTag
-106.41.58.199:arm Mirai Mozi
-106.41.58.209:arm Mirai Mozi
+106.41.58.199:Mirai Mozi
+106.41.58.209:Mirai Mozi
 106.51.54.48:Mirai Mozi
-106.56.108.16:arm Mirai Mozi
-106.58.126.86:arm Mirai Mozi
+106.56.108.16:Mirai Mozi
+106.58.126.86:Mirai Mozi
 106.70.251.222:tor
 107.139.200.10:tor
 107.140.222.107:tor
@@ -325,8 +325,8 @@
 107.155.81.178:tor
 107.161.154.64:tor
 107.172.13.143:tor
-107.172.130.130:AgentTesla doc
-107.172.148.210:ascii doc Encoded hta RAT RemcosRAT
+107.172.130.130:AgentTesla
+107.172.148.210:Encoded hta RAT RemcosRAT
 107.172.157.34:tor
 107.172.209.143:tor
 107.172.29.62:tor
@@ -341,17 +341,17 @@
 107.173.18.44:tor
 107.173.203.25:tor
 107.173.25.246:tor
-107.173.4.20:AgentTesla ascii doc Encoded vbs
+107.173.4.20:AgentTesla Encoded vbs
 107.173.41.111:tor
-107.173.58.73:encrypted GuLoader
+107.173.58.73:GuLoader
 107.173.89.174:tor
 107.174.115.28:tor
 107.174.138.172:tor
-107.174.20.217:encrypted GuLoader RAT RemcosRAT
-107.174.20.236:encrypted GuLoader RAT RemcosRAT
+107.174.20.217:GuLoader RAT RemcosRAT
+107.174.20.236:GuLoader RAT RemcosRAT
 107.174.231.197:tor
 107.174.33.155:tor
-107.175.101.131:encrypted GuLoader RAT RemcosRAT
+107.175.101.131:GuLoader RAT RemcosRAT
 107.175.136.39:tor
 107.175.245.182:tor
 107.175.28.214:tor
@@ -387,7 +387,7 @@
 107.189.13.254:tor
 107.189.13.91:tor
 107.189.14.106:tor
-107.189.14.17:gafgyt shellscript
+107.189.14.17:gafgyt
 107.189.14.43:tor
 107.189.14.4:tor
 107.189.2.108:tor
@@ -439,7 +439,7 @@
 108.181.124.143:tor
 108.181.132.245:tor
 108.181.133.69:tor
-108.181.160.104:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas sparc
+108.181.160.104:gafgyt Mirai renesas sparc
 108.181.22.201:tor
 108.181.27.205:tor
 108.181.33.185:tor
@@ -510,7 +510,7 @@
 109.238.11.6:tor
 109.245.65.243:tor
 109.248.147.172:tor
-109.248.207.133:shellscript
+109.248.207.133:NoTag
 109.250.171.106:tor
 109.250.171.34:tor
 109.250.188.11:tor
@@ -564,32 +564,32 @@
 109.91.141.229:tor
 109.92.177.220:tor
 110.178.36.187:Mirai Mozi
-110.178.39.173:arm Mirai Mozi
+110.178.39.173:Mirai Mozi
 110.178.47.78:Mirai Mozi
-110.178.73.145:arm Mirai Mozi
+110.178.73.145:Mirai Mozi
 110.179.121.133:Mirai Mozi
-110.180.137.126:arm Mirai Mozi
-110.180.140.234:arm Mirai Mozi
+110.180.137.126:Mirai Mozi
+110.180.140.234:Mirai Mozi
 110.180.149.94:Hajime
-110.180.150.86:arm Mirai Mozi
+110.180.150.86:Mirai Mozi
 110.180.165.161:Mirai Mozi
-110.180.201.68:arm Mirai Mozi
+110.180.201.68:Mirai Mozi
 110.181.110.230:Mirai Mozi
-110.181.238.248:arm Mirai Mozi
+110.181.238.248:Mirai Mozi
 110.182.103.109:Hajime
-110.182.214.33:arm Mirai Mozi
-110.182.224.93:arm Mirai Mozi
+110.182.214.33:Mirai Mozi
+110.182.224.93:Mirai Mozi
 110.182.245.224:Hajime
-110.182.250.177:arm Mirai Mozi
-110.182.40.221:arm Mirai Mozi
-110.182.47.28:arm Mirai Mozi
-110.182.63.165:arm Mirai Mozi
+110.182.250.177:Mirai Mozi
+110.182.40.221:Mirai Mozi
+110.182.47.28:Mirai Mozi
+110.182.63.165:Mirai Mozi
 110.182.81.112:Hajime
-110.182.99.124:arm Mirai Mozi
-110.183.16.219:arm Mirai Mozi
+110.182.99.124:Mirai Mozi
+110.183.16.219:Mirai Mozi
 110.183.28.27:Mirai
-110.183.30.164:arm Mirai Mozi
-110.183.48.10:arm Mirai Mozi
+110.183.30.164:Mirai Mozi
+110.183.48.10:Mirai Mozi
 110.183.49.203:Mirai Mozi
 110.183.51.149:Mirai Mozi
 110.183.58.70:Hajime
@@ -598,13 +598,13 @@
 110.24.32.145:Mirai Mozi
 110.24.32.192:Mirai
 110.243.26.150:Mirai Mozi
-110.89.47.99:arm Mirai Mozi
+110.89.47.99:Mirai Mozi
 110.90.122.245:CoinMiner
 110.93.196.173:Hajime
 111.220.90.53:Mozi
 111.223.130.79:Mozi
 111.223.165.42:Mozi
-111.229.239.195:CobaltStrike Meterpreter Netcat ps1 trojan
+111.229.239.195:CobaltStrike Meterpreter Netcat trojan
 111.229.98.133:rar
 111.55.137.152:Mozi
 111.69.37.214:tor
@@ -649,7 +649,7 @@
 112.240.173.244:Mozi
 112.240.184.252:Mozi
 112.240.192.171:Mozi
-112.240.233.132:arm Mirai Mozi
+112.240.233.132:Mirai Mozi
 112.242.100.32:Mozi
 112.242.134.130:Mozi
 112.242.136.101:Mozi
@@ -660,7 +660,7 @@
 112.242.221.144:Mozi
 112.242.43.175:Mozi
 112.245.178.187:Mozi
-112.245.254.130:arm Mirai Mozi
+112.245.254.130:Mirai Mozi
 112.245.255.88:Mozi
 112.246.61.62:Mozi
 112.247.10.14:Mozi
@@ -717,17 +717,17 @@
 112.253.121.223:Mozi
 112.254.132.247:Mozi
 112.254.193.142:Mozi
-112.254.55.83:arm Mirai Mozi
+112.254.55.83:Mirai Mozi
 112.255.118.50:Mozi
 112.4.110.22:NoTag
 112.4.110.42:NoTag
 112.93.136.240:Mozi
-113.110.244.216:arm Mirai Mozi
-113.116.107.7:arm Mirai Mozi
-113.116.205.24:arm Mirai Mozi
-113.116.206.141:arm Mirai Mozi
-113.116.206.215:arm Mirai Mozi
-113.116.206.21:arm Mirai Mozi
+113.110.244.216:Mirai Mozi
+113.116.107.7:Mirai Mozi
+113.116.205.24:Mirai Mozi
+113.116.206.141:Mirai Mozi
+113.116.206.215:Mirai Mozi
+113.116.206.21:Mirai Mozi
 113.118.134.3:NoTag
 113.12.7.50:Mozi
 113.160.185.79:NoTag
@@ -742,27 +742,27 @@
 113.20.28.243:tor
 113.218.200.141:Mirai Mozi
 113.218.203.112:Mirai Mozi
-113.221.24.107:arm Mirai Mozi
-113.221.24.246:arm Mirai Mozi
-113.221.26.254:arm Mirai Mozi
-113.221.27.28:arm Mirai Mozi
-113.221.27.44:arm Mirai Mozi
-113.221.27.84:arm Mirai Mozi
-113.221.27.96:arm Mirai Mozi
+113.221.24.107:Mirai Mozi
+113.221.24.246:Mirai Mozi
+113.221.26.254:Mirai Mozi
+113.221.27.28:Mirai Mozi
+113.221.27.44:Mirai Mozi
+113.221.27.84:Mirai Mozi
+113.221.27.96:Mirai Mozi
 113.221.31.14:Mirai Mozi
 113.221.78.207:Mirai Mozi
 113.224.173.223:Mozi
 113.224.229.127:Mozi
 113.225.115.233:Mozi
 113.225.8.66:Mozi
-113.227.210.2:arm Mirai Mozi
+113.227.210.2:Mirai Mozi
 113.228.104.78:Mozi
 113.228.133.250:Mozi
-113.228.144.165:apk bad-apks piom srdl trojan
-113.228.144.187:apk bad-apks piom srdl trojan
-113.228.145.66:apk bad-apks piom srdl trojan
-113.228.147.130:apk bad-apks piom srdl trojan
-113.228.147.147:apk bad-apks piom srdl trojan
+113.228.144.165:bad-apks piom srdl trojan
+113.228.144.187:bad-apks piom srdl trojan
+113.228.145.66:bad-apks piom srdl trojan
+113.228.147.130:bad-apks piom srdl trojan
+113.228.147.147:bad-apks piom srdl trojan
 113.228.149.246:Mozi
 113.228.150.105:Mozi
 113.228.86.8:Mozi
@@ -781,7 +781,7 @@
 113.231.121.226:Mirai Mozi
 113.231.13.111:Mirai Mozi
 113.231.214.38:Mozi
-113.231.217.163:arm Mirai Mozi
+113.231.217.163:Mirai Mozi
 113.231.249.196:Mozi
 113.231.251.18:Mozi
 113.231.71.29:Mozi
@@ -811,56 +811,56 @@
 113.239.251.18:Mozi
 113.239.64.251:Mozi
 113.24.134.58:Mirai Mozi
-113.24.160.15:arm Mirai Mozi
+113.24.160.15:Mirai Mozi
 113.24.163.216:Hajime
-113.24.165.71:arm Mirai Mozi
-113.24.186.62:arm Mirai Mozi
-113.24.191.144:arm Mirai Mozi
-113.243.22.200:arm Mirai Mozi
-113.243.23.158:arm Mirai Mozi
-113.25.209.47:arm Mirai Mozi
-113.26.152.238:arm Mirai Mozi
+113.24.165.71:Mirai Mozi
+113.24.186.62:Mirai Mozi
+113.24.191.144:Mirai Mozi
+113.243.22.200:Mirai Mozi
+113.243.23.158:Mirai Mozi
+113.25.209.47:Mirai Mozi
+113.26.152.238:Mirai Mozi
 113.26.169.145:Mirai Mozi
-113.26.193.124:arm Mirai Mozi
-113.26.214.165:arm Mirai Mozi
-113.26.50.133:arm Mirai Mozi
+113.26.193.124:Mirai Mozi
+113.26.214.165:Mirai Mozi
+113.26.50.133:Mirai Mozi
 113.26.82.43:Mirai Mozi
 113.26.85.161:Hajime
-113.26.85.183:arm Mirai Mozi
-113.26.90.2:arm Mirai Mozi
-113.26.92.41:arm Mirai Mozi
-113.27.33.207:arm Mirai Mozi
+113.26.85.183:Mirai Mozi
+113.26.90.2:Mirai Mozi
+113.26.92.41:Mirai Mozi
+113.27.33.207:Mirai Mozi
 113.27.34.238:Mirai Mozi
-113.27.81.248:arm Mirai Mozi
+113.27.81.248:Mirai Mozi
 113.69.154.89:Mozi
 113.69.155.219:Mozi
 113.69.159.149:Mozi
-113.90.25.27:arm Mirai Mozi
+113.90.25.27:Mirai Mozi
 113.94.31.119:Mozi
 113.94.31.124:Mozi
 113.94.31.19:Mozi
 113.94.31.70:Mozi
 113.99.201.30:Mozi
 114.198.24.167:tor
-114.218.211.41:arm Mirai Mozi
+114.218.211.41:Mirai Mozi
 114.220.154.25:Mozi
-114.220.79.226:arm Mirai Mozi
-114.226.105.15:arm Mirai Mozi
+114.220.79.226:Mirai Mozi
+114.226.105.15:Mirai Mozi
 114.226.245.81:Mirai Mozi
-114.227.244.97:arm Mirai Mozi
+114.227.244.97:Mirai Mozi
 114.227.48.7:Hajime
-114.227.57.189:arm Mirai Mozi
+114.227.57.189:Mirai Mozi
 114.228.73.50:Mirai Mozi
 114.23.164.80:tor
-114.230.23.104:arm Mirai Mozi
-114.230.88.3:arm Mirai Mozi
-114.231.242.195:arm Mirai Mozi
-114.237.109.232:arm Mirai Mozi
+114.230.23.104:Mirai Mozi
+114.230.88.3:Mirai Mozi
+114.231.242.195:Mirai Mozi
+114.237.109.232:Mirai Mozi
 114.34.165.141:tor
 114.35.245.150:tor
 114.35.64.203:tor
 114.55.100.165:CobaltStrike coralraider ShellCodeRunner supershell-c2
-114.69.235.183:arm Mirai Mozi
+114.69.235.183:Mirai Mozi
 114.83.168.43:Mozi
 115.160.162.10:NoTag
 115.196.139.196:Mozi
@@ -989,7 +989,7 @@
 115.50.186.122:Mozi
 115.50.189.164:Mozi
 115.50.189.74:Mozi
-115.50.19.115:arm Mirai Mozi
+115.50.19.115:Mirai Mozi
 115.50.20.51:Mozi
 115.50.201.73:Mozi
 115.50.207.5:Mozi
@@ -1343,7 +1343,7 @@
 115.56.123.7:Mozi
 115.56.127.114:Mozi
 115.56.127.174:Mozi
-115.56.128.115:arm Mirai Mozi
+115.56.128.115:Mirai Mozi
 115.56.128.199:Mozi
 115.56.145.17:Mozi
 115.56.145.247:Mozi
@@ -1545,7 +1545,7 @@
 115.63.243.12:Mozi
 115.63.251.48:Mozi
 115.63.26.179:Mozi
-115.63.40.247:arm Mirai Mozi
+115.63.40.247:Mirai Mozi
 115.63.41.95:Mozi
 115.63.44.34:Mozi
 115.63.48.139:Mozi
@@ -1599,7 +1599,7 @@
 116.203.50.182:tor
 116.203.64.212:tor
 116.203.73.143:tor
-116.21.205.1:arm Mirai Mozi
+116.21.205.1:Mirai Mozi
 116.226.11.170:Mirai Mozi
 116.226.38.63:Mirai Mozi
 116.234.186.53:Mozi
@@ -1610,10 +1610,10 @@
 116.255.5.89:tor
 116.31.153.223:Mozi
 116.52.17.91:Mozi
-116.53.9.31:arm Mirai Mozi
+116.53.9.31:Mirai Mozi
 116.54.38.160:Mozi
 116.55.64.101:Mirai Mozi
-116.55.78.228:arm Mirai Mozi
+116.55.78.228:Mirai Mozi
 116.58.51.90:Hajime
 116.72.218.203:Mozi
 116.72.49.137:Mozi
@@ -1642,9 +1642,9 @@
 117.194.174.74:Mozi
 117.194.175.1:Mozi
 117.194.175.239:Mozi
-117.194.199.237:arm Mirai Mozi
+117.194.199.237:Mirai Mozi
 117.194.199.80:Mozi
-117.194.206.37:arm Mirai Mozi
+117.194.206.37:Mirai Mozi
 117.194.208.135:Mozi
 117.194.208.193:Mozi
 117.194.208.226:Mozi
@@ -1802,7 +1802,7 @@
 117.197.169.44:Mozi
 117.197.170.58:Mozi
 117.197.171.40:Mozi
-117.197.171.53:arm Mirai Mozi
+117.197.171.53:Mirai Mozi
 117.197.172.104:Mozi
 117.197.173.34:Mozi
 117.197.175.75:Mozi
@@ -2840,39 +2840,39 @@
 117.204.56.186:Mirai Mozi
 117.204.56.223:Mirai Mozi
 117.204.56.232:Mirai Mozi
-117.204.57.18:arm Mirai Mozi
+117.204.57.18:Mirai Mozi
 117.204.57.73:Mirai Mozi
 117.204.58.153:Mozi
 117.204.58.64:Mirai Mozi
 117.204.59.202:Mirai
-117.204.59.46:arm Mirai Mozi
+117.204.59.46:Mirai Mozi
 117.204.61.144:Mirai Mozi
 117.204.61.155:Mirai Mozi
-117.204.61.222:arm Mirai Mozi
+117.204.61.222:Mirai Mozi
 117.204.62.171:Mirai Mozi
-117.204.62.88:arm Mirai Mozi
+117.204.62.88:Mirai Mozi
 117.204.63.204:Mirai Mozi
-117.204.63.236:arm Mirai Mozi
+117.204.63.236:Mirai Mozi
 117.204.63.90:Mirai Mozi
-117.204.73.177:arm Mirai Mozi
+117.204.73.177:Mirai Mozi
 117.204.73.34:Mirai Mozi
-117.204.73.49:arm Mirai Mozi
+117.204.73.49:Mirai Mozi
 117.204.73.7:Mirai Mozi
-117.204.74.160:arm Mirai Mozi
+117.204.74.160:Mirai Mozi
 117.204.74.170:Mirai Mozi
-117.204.74.24:arm Mirai Mozi
+117.204.74.24:Mirai Mozi
 117.204.74.44:Mozi
 117.204.74.59:Mozi
 117.204.75.11:Mirai Mozi
 117.204.77.89:Mirai Mozi
 117.204.78.127:Mozi
 117.204.78.221:Mirai Mozi
-117.204.78.61:arm Mirai Mozi
+117.204.78.61:Mirai Mozi
 117.204.79.141:Mirai
 117.204.79.173:Mirai Mozi
 117.204.79.228:Mirai Mozi
 117.204.79.48:Mirai Mozi
-117.204.79.77:arm Mirai Mozi
+117.204.79.77:Mirai Mozi
 117.205.128.191:Mozi
 117.205.128.207:Mozi
 117.205.128.233:Mozi
@@ -3116,7 +3116,7 @@
 117.208.237.6:Mozi
 117.208.239.231:Mozi
 117.208.80.237:Mozi
-117.208.91.72:arm Mirai Mozi
+117.208.91.72:Mirai Mozi
 117.208.93.159:Mozi
 117.209.11.172:Mozi
 117.209.13.241:Mozi
@@ -3227,7 +3227,7 @@
 117.211.47.41:Mozi
 117.211.47.66:Mozi
 117.211.47.86:Mozi
-117.211.6.241:arm Mirai Mozi
+117.211.6.241:Mirai Mozi
 117.212.100.57:Mozi
 117.212.102.202:Mozi
 117.212.140.70:Mozi
@@ -3787,9 +3787,9 @@
 117.235.103.202:Mozi
 117.235.103.227:Mozi
 117.235.103.30:Mozi
-117.235.104.118:arm Mirai Mozi
+117.235.104.118:Mirai Mozi
 117.235.105.182:Mozi
-117.235.105.77:arm Mirai Mozi
+117.235.105.77:Mirai Mozi
 117.235.106.174:Mozi
 117.235.108.29:Mozi
 117.235.109.9:Mozi
@@ -4010,7 +4010,7 @@
 117.245.218.211:Mozi
 117.245.219.24:Mozi
 117.245.220.64:Mozi
-117.245.222.177:arm Mirai Mozi
+117.245.222.177:Mirai Mozi
 117.245.222.46:Mozi
 117.245.224.18:Mozi
 117.245.230.78:Mozi
@@ -4167,7 +4167,7 @@
 117.251.168.155:Mozi
 117.251.168.239:Mozi
 117.251.169.63:Mozi
-117.251.171.226:arm Mirai Mozi
+117.251.171.226:Mirai Mozi
 117.251.173.58:Mozi
 117.251.173.7:Mozi
 117.251.175.205:Mozi
@@ -4555,14 +4555,14 @@
 117.255.94.175:Mozi
 117.255.94.179:Mozi
 117.255.95.174:Mozi
-117.26.113.92:arm Mirai Mozi
+117.26.113.92:Mirai Mozi
 117.53.155.113:tor
 117.63.113.127:Mirai Mozi
-117.63.205.61:arm Mirai Mozi
-117.81.223.13:arm Mirai Mozi
+117.63.205.61:Mirai Mozi
+117.81.223.13:Mirai Mozi
 117.91.117.243:Hajime
 117.91.61.99:Mozi
-117.95.221.197:arm Mirai Mozi
+117.95.221.197:Mirai Mozi
 118.160.65.32:tor
 118.160.66.182:tor
 118.160.68.193:tor
@@ -4603,7 +4603,7 @@
 118.173.96.133:Mirai Mozi
 118.174.112.250:Mirai Mozi
 118.201.148.53:Hajime
-118.212.133.42:CoinMiner lnk scr
+118.212.133.42:CoinMiner scr
 118.27.12.40:tor
 118.28.91.110:NoTag
 118.69.157.212:NoTag
@@ -4630,7 +4630,7 @@
 119.115.67.117:Mozi
 119.116.155.73:Mozi
 119.116.162.119:Mozi
-119.117.154.147:arm Mirai Mozi
+119.117.154.147:Mirai Mozi
 119.117.170.60:Mozi
 119.117.247.228:Mozi
 119.117.61.3:Mozi
@@ -4708,12 +4708,12 @@
 119.189.215.124:Mozi
 119.189.215.205:Mozi
 119.189.215.3:Mozi
-119.2.45.38:arm Mirai Mozi
+119.2.45.38:Mirai Mozi
 119.201.228.197:Hajime
 119.245.90.243:tor
 119.247.13.23:tor
 119.247.239.225:tor
-119.36.196.2:arm Mirai Mozi
+119.36.196.2:Mirai Mozi
 119.45.223.112:mimikatz Powershell webshell
 119.59.127.167:tor
 119.91.224.84:fscan
@@ -4722,8 +4722,8 @@
 120.157.84.91:NoTag
 120.209.77.75:Mozi
 120.29.152.106:Hajime
-120.37.232.134:arm Mirai Mozi
-120.37.237.66:arm Mirai Mozi
+120.37.232.134:Mirai Mozi
+120.37.237.66:Mirai Mozi
 120.56.0.58:Mozi
 120.56.1.234:Mozi
 120.56.1.94:Mozi
@@ -4795,28 +4795,28 @@
 121.101.191.106:Hajime
 121.122.88.127:tor
 121.127.33.4:tor
-121.131.70.161:pw-123 trojan zip
+121.131.70.161:pw-123 trojan
 121.139.252.129:tor
 121.149.143.52:Hajime
 121.177.29.204:BitRAT RemcosRAT
 121.202.143.135:NoTag
 121.224.136.200:Mirai
-121.226.131.164:arm Mirai Mozi
-121.226.140.252:arm Mirai Mozi
+121.226.131.164:Mirai Mozi
+121.226.140.252:Mirai Mozi
 121.226.177.228:Mirai Mozi
-121.227.214.207:arm Mirai Mozi
-121.231.156.243:arm Mirai Mozi
-121.234.249.51:arm Mirai Mozi
-121.236.138.4:arm Mirai Mozi
+121.227.214.207:Mirai Mozi
+121.231.156.243:Mirai Mozi
+121.234.249.51:Mirai Mozi
+121.236.138.4:Mirai Mozi
 121.236.81.162:Mirai Mozi
 121.239.56.243:NoTag
-121.239.90.85:arm Mirai Mozi
-121.25.77.101:arm Mirai Mozi
+121.239.90.85:Mirai Mozi
+121.25.77.101:Mirai Mozi
 121.31.133.142:Mirai Mozi
 121.50.43.135:tor
-121.61.145.252:arm Mirai Mozi
-121.61.149.209:arm Mirai Mozi
-121.61.149.239:arm Mirai Mozi
+121.61.145.252:Mirai Mozi
+121.61.149.209:Mirai Mozi
+121.61.149.239:Mirai Mozi
 121.61.248.112:Blackmoon hacktool rar
 121.63.240.24:Mirai Mozi
 121.75.147.137:tor
@@ -4826,7 +4826,7 @@
 122.170.110.131:Backdoor
 122.170.14.246:Mirai Mozi
 122.170.242.166:tor
-122.191.206.202:arm Mirai Mozi
+122.191.206.202:Mirai Mozi
 122.208.194.118:tor
 122.208.194.124:tor
 122.208.194.126:tor
@@ -4834,7 +4834,7 @@
 122.242.15.29:Mozi
 122.246.223.156:Mirai Mozi
 122.51.6.232:blamon CoinMiner
-122.6.72.227:arm Mirai Mozi
+122.6.72.227:Mirai Mozi
 123.10.0.51:Mozi
 123.10.0.5:Mozi
 123.10.1.251:Mozi
@@ -5059,14 +5059,14 @@
 123.14.97.104:Mozi
 123.156.51.58:Mozi
 123.172.238.3:Hajime
-123.172.69.2:arm Mirai Mozi
-123.173.5.215:arm Mirai Mozi
+123.172.69.2:Mirai Mozi
+123.173.5.215:Mirai Mozi
 123.173.89.193:Hajime
-123.175.156.145:arm Mirai Mozi
-123.175.92.230:arm Mirai Mozi
+123.175.156.145:Mirai Mozi
+123.175.92.230:Mirai Mozi
 123.175.97.38:Mirai
-123.185.49.130:arm Mirai Mozi
-123.185.49.90:arm Mirai Mozi
+123.185.49.130:Mirai Mozi
+123.185.49.90:Mirai Mozi
 123.188.125.34:Mozi
 123.188.4.15:Mozi
 123.188.43.222:Mozi
@@ -5142,10 +5142,10 @@
 123.5.149.17:Mozi
 123.5.149.93:Mozi
 123.5.150.117:Mozi
-123.5.155.120:arm Mirai Mozi
+123.5.155.120:Mirai Mozi
 123.5.158.1:Mirai Mozi
-123.5.158.228:arm Mirai Mozi
-123.5.159.165:arm Mirai Mozi
+123.5.158.228:Mirai Mozi
+123.5.159.165:Mirai Mozi
 123.5.161.117:Mozi
 123.5.162.7:Mozi
 123.5.163.234:Mozi
@@ -5232,14 +5232,14 @@
 124.19.92.48:NoTag
 124.221.217.28:Backdoor CobaltStrike donutmarte exploit payload.bin
 124.221.43.13:Backdoor donutmarte exploit payload.bin
-124.234.157.81:arm Mirai Mozi
-124.234.158.191:arm Mirai Mozi
-124.234.182.46:arm Mirai Mozi
-124.234.192.158:arm Mirai Mozi
+124.234.157.81:Mirai Mozi
+124.234.158.191:Mirai Mozi
+124.234.182.46:Mirai Mozi
+124.234.192.158:Mirai Mozi
 124.234.200.127:Mirai Mozi
-124.234.202.193:arm Mirai Mozi
+124.234.202.193:Mirai Mozi
 124.234.219.207:Mirai Mozi
-124.235.249.214:arm Mirai Mozi
+124.235.249.214:Mirai Mozi
 124.235.75.224:Hajime
 124.253.237.104:Mozi
 124.5.233.158:trojan
@@ -5381,7 +5381,7 @@
 125.44.222.219:Mozi
 125.44.23.119:Mozi
 125.44.240.228:Mirai Mozi
-125.44.242.53:arm Mirai Mozi
+125.44.242.53:Mirai Mozi
 125.44.243.193:Mozi
 125.44.244.103:Mozi
 125.44.245.51:Mozi
@@ -5417,7 +5417,7 @@
 125.45.60.62:Mozi
 125.45.63.130:Mozi
 125.45.65.105:Mozi
-125.45.9.208:arm Mirai Mozi
+125.45.9.208:Mirai Mozi
 125.45.9.61:Mirai Mozi
 125.45.97.107:Mozi
 125.45.99.187:Mozi
@@ -5442,8 +5442,8 @@
 125.47.111.3:Mozi
 125.47.117.64:Mozi
 125.47.195.168:Mozi
-125.47.195.52:arm Mirai Mozi
-125.47.203.147:arm Mirai Mozi
+125.47.195.52:Mirai Mozi
+125.47.203.147:Mirai Mozi
 125.47.220.60:Mozi
 125.47.221.101:Mozi
 125.47.226.54:Mozi
@@ -5495,7 +5495,7 @@
 128.140.81.180:tor
 128.140.99.183:tor
 128.199.107.104:HyperBro scr trojan
-128.199.111.140:apk c2 L3mon Manager
+128.199.111.140:c2 L3mon Manager
 128.199.131.168:tor
 128.199.146.186:tor
 128.232.18.58:tor
@@ -5762,7 +5762,7 @@
 139.255.78.211:Hajime
 139.59.1.92:dropped-by-smokeloader
 139.59.172.4:tor
-139.59.32.225:apk HookBot
+139.59.32.225:HookBot
 139.59.56.19:tor
 139.59.58.109:tor
 139.84.165.103:tor
@@ -5775,7 +5775,7 @@
 139.9.27.132:NoTag
 139.99.134.168:tor
 139.99.155.81:tor
-139.99.162.245:AgentTesla ascii doc Encoded
+139.99.162.245:AgentTesla Encoded
 139.99.172.11:tor
 139.99.238.17:tor
 139.99.6.201:tor
@@ -5785,13 +5785,13 @@
 14.153.213.180:Mozi
 14.153.214.63:Mozi
 14.153.214.67:Mozi
-14.153.215.167:arm Mirai Mozi
+14.153.215.167:Mirai Mozi
 14.154.160.52:Mozi
 14.155.205.103:Mozi
-14.155.206.157:arm Mirai Mozi
+14.155.206.157:Mirai Mozi
 14.155.207.25:Mirai Mozi
-14.155.217.232:arm Mirai Mozi
-14.155.221.46:arm Mirai Mozi
+14.155.217.232:Mirai Mozi
+14.155.221.46:Mirai Mozi
 14.157.141.195:Mozi
 14.157.24.150:CoinMiner
 14.157.25.30:CoinMiner
@@ -5860,12 +5860,12 @@
 140.83.50.92:tor
 141.11.109.151:AsyncRAT Ransomware
 141.11.86.155:tor
-141.11.92.115:Mirai shellscript
+141.11.92.115:Mirai
 141.136.0.3:tor
 141.136.174.203:tor
 141.136.192.61:tor
 141.14.220.177:tor
-141.144.230.252:apk c2 L3mon Manager
+141.144.230.252:c2 L3mon Manager
 141.144.231.173:tor
 141.144.246.74:tor
 141.144.247.137:tor
@@ -5897,13 +5897,13 @@
 141.43.203.237:tor
 141.79.10.16:tor
 141.94.199.35:tor
-141.98.11.102:Mirai shellscript
+141.98.11.102:Mirai
 141.98.11.131:tor
 141.98.11.62:tor
 141.98.119.106:tor
 141.98.136.79:tor
 141.98.234.128:tor
-141.98.7.146:Mirai x86-32
+141.98.7.146:Mirai
 141.98.7.170:NoTag
 141.98.7.172:Mirai
 141.98.8.102:tor
@@ -5945,7 +5945,7 @@
 143.47.57.133:tor
 143.89.144.173:tor
 143.89.37.231:tor
-144.126.134.25:bat cmd DBatLoader RemcosRAT xworm
+144.126.134.25:bat cmd DBatLoader RemcosRAT
 144.126.156.152:tor
 144.126.156.29:tor
 144.168.44.18:tor
@@ -6012,7 +6012,7 @@
 144.76.56.43:tor
 144.76.81.198:tor
 144.76.86.5:tor
-144.91.106.189:apk c2 L3mon Manager
+144.91.106.189:c2 L3mon Manager
 144.91.125.15:tor
 144.91.125.239:tor
 144.91.66.153:tor
@@ -6063,15 +6063,15 @@
 146.59.35.38:tor
 146.59.44.132:tor
 146.70.111.19:tor
-146.70.113.136:encrypted GuLoader RAT RemcosRAT
-146.70.113.187:ddos Mirai shellscript
+146.70.113.136:GuLoader RAT RemcosRAT
+146.70.113.187:Mirai
 146.70.120.58:tor
 146.70.164.210:tor
 146.70.51.75:tor
 146.70.57.10:tor
 146.70.57.18:tor
 146.70.79.36:CobaltStrike
-146.70.79.44:encrypted GuLoader
+146.70.79.44:GuLoader
 146.70.80.101:tor
 146.70.80.18:tor
 146.70.80.19:tor
@@ -6100,9 +6100,9 @@
 147.45.116.145:tor
 147.45.198.80:dropped-by-smokeloader RedLineStealer
 147.45.41.105:tor
-147.45.47.115:32 CoinMiner
+147.45.47.115:CoinMiner
 147.45.47.150:NoTag
-147.45.50.86:AsyncRAT lnk VenomRAT
+147.45.50.86:AsyncRAT VenomRAT
 147.45.68.83:tor
 147.45.77.162:tor
 147.45.77.219:tor
@@ -6112,10 +6112,10 @@
 147.78.102.3:tor
 147.78.102.59:tor
 147.78.102.71:NoTag
-147.78.103.102:32 arm intel Mirai motorola powerpc renesas sparc
-147.78.103.155:ddos Mirai
-147.78.103.181:32 Mirai sparc
-147.78.103.213:32 arm intel Mirai motorola powerpc renesas shellscript sparc x86-32
+147.78.103.102:Mirai renesas sparc
+147.78.103.155:Mirai
+147.78.103.181:Mirai sparc
+147.78.103.213:Mirai renesas sparc
 148.113.162.135:tor
 148.113.2.105:tor
 148.113.2.108:tor
@@ -6185,7 +6185,7 @@
 149.56.45.200:tor
 149.62.200.106:NoTag
 149.88.80.171:hacktool linpeas
-149.88.85.61:apk ready.apk Spynote
+149.88.85.61:ready.apk Spynote
 15.204.11.248:tor
 15.204.11.249:tor
 15.204.14.102:tor
@@ -6254,7 +6254,7 @@
 152.173.140.2:NoTag
 152.246.158.80:Mozi
 152.247.27.48:Mozi
-152.32.243.152:encrypted ps1 XenoRAT
+152.32.243.152:XenoRAT
 152.44.42.95:tor
 152.53.0.121:tor
 152.53.15.127:tor
@@ -6312,7 +6312,7 @@
 154.19.167.24:Backdoor donutmarte exploit payload.bin
 154.19.167.35:Backdoor donutmarte exploit payload.bin
 154.19.167.8:Backdoor donutmarte exploit payload.bin
-154.197.110.169:ddos Mirai
+154.197.110.169:Mirai
 154.198.247.73:shell trojan msfShellbin XMRIG
 154.204.60.149:tor
 154.212.146.164:Backdoor donutmarte exploit payload.bin
@@ -6322,7 +6322,7 @@
 154.40.47.195:Backdoor shell
 154.53.164.140:tor
 154.73.65.111:Hajime
-154.9.255.107:apk ready.apk Spynote
+154.9.255.107:ready.apk Spynote
 154.91.195.27:Backdoor donutmarte exploit payload.bin
 154.91.195.60:Backdoor donutmarte exploit payload.bin
 154.91.83.219:Crypter trojan Zusy
@@ -6344,7 +6344,7 @@
 157.147.128.249:tor
 157.211.111.42:Mozi
 157.245.184.13:tor
-157.245.23.86:apk c2 L3mon Manager
+157.245.23.86:c2 L3mon Manager
 157.245.67.229:NoTag
 157.245.84.78:tor
 157.245.96.142:tor
@@ -6369,7 +6369,7 @@
 158.101.204.117:tor
 158.101.28.192:ngrok open-dir
 158.140.230.233:tor
-158.160.8.110:shellscript
+158.160.8.110:NoTag
 158.174.112.253:tor
 158.174.145.139:tor
 158.178.202.50:tor
@@ -6679,7 +6679,7 @@
 160.251.46.239:tor
 161.34.68.10:tor
 161.35.129.51:tor
-161.35.56.10:apk c2 L3mon Manager
+161.35.56.10:c2 L3mon Manager
 161.43.195.146:NoTag
 161.43.196.13:NoTag
 161.43.200.117:NoTag
@@ -6687,9 +6687,9 @@
 161.43.207.55:NoTag
 161.43.207.65:NoTag
 161.53.160.104:tor
-161.97.102.40:apk c2 L3mon Manager
+161.97.102.40:c2 L3mon Manager
 161.97.132.254:tor
-161.97.152.170:apk c2 L3mon Manager
+161.97.152.170:c2 L3mon Manager
 161.97.184.88:tor
 161.97.67.106:tor
 162.157.210.69:tor
@@ -6706,7 +6706,7 @@
 162.231.171.29:tor
 162.237.207.53:tor
 162.243.173.63:tor
-162.245.190.151:encrypted GuLoader
+162.245.190.151:GuLoader
 162.247.153.131:tor
 162.247.72.192:tor
 162.247.72.199:tor
@@ -6732,7 +6732,7 @@
 162.251.117.10:tor
 162.251.119.10:tor
 162.251.119.2:tor
-162.251.122.108:encrypted GuLoader RAT RemcosRAT
+162.251.122.108:GuLoader RAT RemcosRAT
 162.251.156.68:tor
 162.251.166.210:tor
 162.251.5.152:tor
@@ -6764,8 +6764,8 @@
 164.132.226.30:tor
 164.132.23.184:tor
 164.132.75.248:tor
-164.155.241.15:apk ready.apk Spynote
-164.155.241.223:apk ready.apk Spynote
+164.155.241.15:ready.apk Spynote
+164.155.241.223:ready.apk Spynote
 164.215.103.126:tor
 164.68.106.94:tor
 164.68.113.149:tor
@@ -6795,7 +6795,7 @@
 166.140.147.185:NoTag
 166.70.207.2:tor
 166.84.6.10:tor
-167.114.127.92:Mirai shellscript
+167.114.127.92:Mirai
 167.114.36.23:tor
 167.160.166.205:GuLoader RAT RemcosRAT
 167.172.105.175:Mirai
@@ -6871,7 +6871,7 @@
 171.25.193.80:tor
 171.25.193.9:tor
 171.36.157.2:Mirai Mozi
-171.36.88.43:arm Mirai Mozi
+171.36.88.43:Mirai Mozi
 171.38.150.102:Mirai Mozi
 171.42.72.191:Mirai Mozi
 171.44.222.64:Mirai Mozi
@@ -6884,7 +6884,7 @@
 172.104.182.84:tor
 172.104.214.41:tor
 172.104.226.248:tor
-172.104.238.185:apk c2 L3mon Manager
+172.104.238.185:c2 L3mon Manager
 172.104.243.155:tor
 172.105.121.169:AsyncRAT
 172.105.161.162:tor
@@ -6922,10 +6922,10 @@
 172.233.50.150:tor
 172.233.91.158:tor
 172.234.18.228:tor
-172.234.239.209:ascii doc Encoded RAT RemcosRAT
+172.234.239.209:Encoded RAT RemcosRAT
 172.234.30.98:tor
 172.234.33.174:tor
-172.235.133.243:ascii doc Encoded RAT RemcosRAT
+172.235.133.243:Encoded RAT RemcosRAT
 172.235.36.50:tor
 172.241.140.247:tor
 172.241.140.249:tor
@@ -6934,11 +6934,11 @@
 172.241.23.114:tor
 172.241.251.132:tor
 172.245.106.179:tor
-172.245.123.18:AgentTesla doc
-172.245.123.8:AgentTesla ascii doc Encoded hta
+172.245.123.18:AgentTesla
+172.245.123.8:AgentTesla Encoded hta
 172.245.134.171:tor
 172.245.174.201:tor
-172.245.208.36:doc GuLoader 
+172.245.208.36:GuLoader
 172.245.214.70:tor
 172.245.23.98:tor
 172.245.55.112:tor
@@ -6953,8 +6953,8 @@
 172.86.74.6:tor
 172.86.75.186:tor
 172.93.102.139:tor
-172.93.222.102:doc RAT RemcosRAT
-172.93.222.124:encrypted GuLoader RAT RemcosRAT
+172.93.222.102:RAT RemcosRAT
+172.93.222.124:GuLoader RAT RemcosRAT
 172.93.222.243:NoTag
 172.96.172.157:tor
 172.98.195.205:tor
@@ -6981,7 +6981,7 @@
 173.255.228.134:tor
 173.255.236.85:tor
 173.255.245.116:tor
-173.44.139.198:Mirai shellscript
+173.44.139.198:Mirai
 173.52.94.197:tor
 173.73.134.86:tor
 173.73.202.94:tor
@@ -7020,11 +7020,11 @@
 174.89.234.81:tor
 174.92.39.131:tor
 175.0.23.237:Mozi
-175.0.253.128:arm Mirai Mozi
-175.0.253.24:arm Mirai Mozi
+175.0.253.128:Mirai Mozi
+175.0.253.24:Mirai Mozi
 175.0.94.163:Mirai Mozi
 175.10.12.93:Mirai
-175.10.89.226:arm Mirai Mozi
+175.10.89.226:Mirai Mozi
 175.107.36.118:Mozi
 175.107.36.221:Mozi
 175.107.37.101:Mozi
@@ -7042,8 +7042,8 @@
 175.107.40.232:NoTag
 175.107.40.252:Mozi
 175.107.41.99:NoTag
-175.13.186.204:arm Mirai Mozi
-175.13.187.134:arm Mirai Mozi
+175.13.186.204:Mirai Mozi
+175.13.187.134:Mirai Mozi
 175.13.191.104:Mirai Mozi
 175.146.231.173:Mozi
 175.147.97.141:Mozi
@@ -7079,7 +7079,7 @@
 175.173.67.42:Mozi
 175.173.88.73:Mozi
 175.173.94.100:Mozi
-175.174.13.73:arm Mirai Mozi
+175.174.13.73:Mirai Mozi
 175.174.48.159:Mozi
 175.174.51.163:Mozi
 175.174.72.130:Mozi
@@ -7087,35 +7087,35 @@
 175.175.232.16:Mozi
 175.210.139.112:Hajime
 175.212.206.103:tor
-175.30.110.92:arm Mirai Mozi
+175.30.110.92:Mirai Mozi
 175.30.113.242:Mirai Mozi
-175.30.74.96:arm Mirai Mozi
+175.30.74.96:Mirai Mozi
 175.30.76.109:Mirai Mozi
 175.30.91.53:Mirai Mozi
-175.31.169.46:arm Mirai Mozi
-175.31.169.95:arm Mirai Mozi
+175.31.169.46:Mirai Mozi
+175.31.169.95:Mirai Mozi
 175.31.188.183:Mirai Mozi
-175.31.201.201:arm Mirai Mozi
+175.31.201.201:Mirai Mozi
 175.31.246.121:Mirai Mozi
-175.31.246.132:arm Mirai Mozi
-175.31.246.170:arm Mirai Mozi
+175.31.246.132:Mirai Mozi
+175.31.246.170:Mirai Mozi
 175.31.252.144:Mirai Mozi
-175.31.254.23:arm Mirai Mozi
+175.31.254.23:Mirai Mozi
 175.44.158.230:Mirai Mozi
 175.8.31.205:Mozi
-175.9.245.50:arm Mirai Mozi
+175.9.245.50:Mirai Mozi
 176.10.107.180:tor
 176.10.232.207:tor
 176.103.63.227:tor
 176.107.176.31:tor
 176.109.220.92:tor
 176.109.222.204:tor
-176.111.174.109:32
+176.111.174.109:NoTag
 176.117.59.117:tor
 176.118.193.106:tor
 176.118.193.33:tor
 176.119.203.63:tor
-176.120.75.222:shellscript
+176.120.75.222:NoTag
 176.121.81.51:tor
 176.123.1.144:tor
 176.123.1.67:tor
@@ -7130,7 +7130,7 @@
 176.198.159.33:tor
 176.223.141.106:tor
 176.31.35.149:tor
-176.32.38.160:gafgyt shellscript
+176.32.38.160:gafgyt
 176.37.170.214:Hajime
 176.58.100.98:tor
 176.58.101.9:tor
@@ -7139,7 +7139,7 @@
 176.79.52.112:tor
 176.79.60.107:tor
 176.79.63.30:tor
-176.82.228.77:arm Mirai Mozi
+176.82.228.77:Mirai Mozi
 176.9.123.122:tor
 176.9.161.22:tor
 176.9.23.30:tor
@@ -7154,7 +7154,7 @@
 176.96.137.196:tor
 176.96.137.199:tor
 176.97.114.202:tor
-176.97.210.36:Mirai shellscript
+176.97.210.36:Mirai
 176.97.70.16:tor
 177.10.160.78:Hajime
 177.100.221.219:tor
@@ -7165,7 +7165,7 @@
 177.163.252.101:Mozi
 177.200.193.81:tor
 177.26.49.78:Mozi
-177.44.41.94:arm Mirai Mozi
+177.44.41.94:Mirai Mozi
 177.52.24.178:Hajime
 177.66.164.70:tor
 177.8.227.138:Hajime
@@ -7199,7 +7199,7 @@
 178.162.154.226:tor
 178.162.194.210:tor
 178.162.209.56:tor
-178.162.210.148:AgentTesla zip
+178.162.210.148:AgentTesla
 178.162.221.18:tor
 178.165.126.221:tor
 178.169.136.50:Hajime
@@ -7242,9 +7242,9 @@
 178.215.224.107:tor
 178.215.228.25:tor
 178.215.228.78:tor
-178.215.236.101:64-bit Mirai x86-64
+178.215.236.101:Mirai
 178.215.236.112:Mirai Moobot
-178.215.236.182:c2 gafgyt Moobot shellscript
+178.215.236.182:c2 gafgyt Moobot
 178.215.236.229:Encoded GuLoader
 178.218.144.113:tor
 178.218.144.18:tor
@@ -7338,7 +7338,7 @@
 179.108.106.120:tor
 179.118.199.209:NoTag
 179.125.61.254:Hajime
-179.145.202.100:arm Mirai Mozi
+179.145.202.100:Mirai Mozi
 179.150.79.141:Mozi
 179.189.254.54:Hajime
 179.26.41.175:tor
@@ -7374,8 +7374,8 @@
 179.43.182.252:tor
 179.43.182.33:tor
 179.43.182.58:tor
-179.43.188.106:Mirai shellscript
-179.43.188.110:ddos Mirai shellscript
+179.43.188.106:Mirai
+179.43.188.110:Mirai
 179.48.251.188:tor
 179.61.251.13:tor
 179.61.251.251:tor
@@ -7384,7 +7384,7 @@
 18.101.10.142:tor
 18.118.173.86:tor
 18.130.146.107:tor
-18.139.227.135:apk c2 L3mon Manager
+18.139.227.135:c2 L3mon Manager
 18.18.82.17:tor
 18.18.82.18:tor
 18.18.82.19:tor
@@ -7400,12 +7400,12 @@
 180.107.37.68:Mirai Mozi
 180.114.84.178:Mozi
 180.116.250.76:Hajime
-180.124.156.240:apk Backdoor PrivateLoader Sality trojan UPX
+180.124.156.240:Backdoor PrivateLoader Sality trojan UPX
 180.149.44.156:tor
 180.150.226.99:tor
 180.150.77.240:tor
 180.156.194.12:Mozi
-180.225.203.220:lnk scr
+180.225.203.220:scr
 180.39.41.251:tor
 180.80.144.44:tor
 180.88.70.28:Mozi
@@ -7442,7 +7442,7 @@
 182.112.30.101:Mozi
 182.112.31.74:Mozi
 182.112.32.133:Mozi
-182.112.33.107:arm Mirai Mozi
+182.112.33.107:Mirai Mozi
 182.112.34.74:Mozi
 182.112.4.50:Mozi
 182.112.4.67:Mozi
@@ -7507,7 +7507,7 @@
 182.113.44.183:Mozi
 182.113.45.182:Mozi
 182.113.5.228:Mozi
-182.114.191.36:arm Mirai Mozi
+182.114.191.36:Mirai Mozi
 182.114.194.11:Mozi
 182.114.195.54:Mozi
 182.114.196.122:Mozi
@@ -7549,7 +7549,7 @@
 182.116.118.154:Mozi
 182.116.118.15:Mozi
 182.116.118.33:Mozi
-182.116.119.42:arm Mirai Mozi
+182.116.119.42:Mirai Mozi
 182.116.12.14:Mozi
 182.116.12.37:Mozi
 182.116.12.99:Mozi
@@ -7727,7 +7727,7 @@
 182.120.43.91:Mozi
 182.120.45.32:Mozi
 182.120.46.135:Mirai Mozi
-182.120.46.143:arm Mirai Mozi
+182.120.46.143:Mirai Mozi
 182.120.48.250:Mozi
 182.120.50.55:Mozi
 182.120.51.148:Mozi
@@ -7834,7 +7834,7 @@
 182.122.216.91:Mozi
 182.122.218.244:Mozi
 182.122.236.8:Mozi
-182.122.53.244:arm Mirai Mozi
+182.122.53.244:Mirai Mozi
 182.123.161.248:Mozi
 182.123.162.253:Mozi
 182.123.167.117:Mozi
@@ -7913,7 +7913,7 @@
 182.126.116.123:Mozi
 182.126.117.123:Mozi
 182.126.117.199:Mozi
-182.126.118.237:arm Mirai Mozi
+182.126.118.237:Mirai Mozi
 182.126.118.53:Mozi
 182.126.120.169:Mozi
 182.126.121.115:Mozi
@@ -8018,15 +8018,15 @@
 182.127.64.58:Mozi
 182.127.69.231:Mozi
 182.127.71.254:Mozi
-182.150.181.13:arm Mirai Mozi
+182.150.181.13:Mirai Mozi
 182.181.194.139:Mozi
 182.183.254.69:Mozi
-182.202.15.254:arm Mirai Mozi
+182.202.15.254:Mirai Mozi
 182.239.84.87:NoTag
 182.239.84.88:NoTag
-182.240.231.202:arm Mirai Mozi
+182.240.231.202:Mirai Mozi
 182.242.173.91:Mozi
-182.243.157.74:arm Mirai Mozi
+182.243.157.74:Mirai Mozi
 182.253.115.155:Hajime
 182.253.115.156:Hajime
 182.56.127.125:Mozi
@@ -8068,15 +8068,15 @@
 182.64.41.80:tor
 182.65.151.178:tor
 182.84.197.99:Hajime
-182.88.97.66:arm Mirai Mozi
+182.88.97.66:Mirai Mozi
 182.90.23.203:Mirai
 182.90.68.37:Mozi
 182.90.77.72:Mozi
-183.153.115.23:CoinMiner zip
+183.153.115.23:CoinMiner
 183.188.142.23:Mirai Mozi
-183.234.226.215:lnk scr
+183.234.226.215:scr
 183.30.206.106:Mirai Mozi
-183.81.33.83:32 64 arm intel Mirai motorola powerpc renesas script sparc
+183.81.33.83:Mirai renesas sparc
 184.105.48.40:tor
 184.174.38.53:tor
 184.180.131.206:NoTag
@@ -8105,7 +8105,7 @@
 185.100.87.253:tor
 185.100.87.41:tor
 185.100.87.61:tor
-185.101.94.253:Banker trojan zip
+185.101.94.253:Banker trojan
 185.103.110.14:tor
 185.103.110.21:tor
 185.103.110.65:tor
@@ -8199,7 +8199,7 @@
 185.15.92.64:tor
 185.15.92.66:tor
 185.150.189.243:tor
-185.150.26.232:Mirai shellscript
+185.150.26.232:Mirai
 185.153.197.227:tor
 185.153.219.46:tor
 185.154.110.142:tor
@@ -8235,7 +8235,7 @@
 185.165.190.111:tor
 185.17.133.75:Mozi
 185.17.136.101:tor
-185.17.144.140:apk c2 L3mon Manager
+185.17.144.140:c2 L3mon Manager
 185.170.114.25:tor
 185.172.128.142:Arechclient2 SectopRAT
 185.172.128.159:dropped-by-PrivateLoader Stealc
@@ -8303,7 +8303,7 @@
 185.195.71.9:tor
 185.196.220.204:tor
 185.196.220.82:tor
-185.196.8.112:apk HookBot
+185.196.8.112:HookBot
 185.196.9.58:Mirai
 185.198.26.149:tor
 185.198.56.195:tor
@@ -8318,7 +8318,7 @@
 185.207.107.216:tor
 185.207.107.98:tor
 185.208.148.21:Mozi
-185.208.172.225:apk c2 L3mon Manager
+185.208.172.225:c2 L3mon Manager
 185.21.100.50:tor
 185.21.216.197:tor
 185.21.217.32:tor
@@ -8336,15 +8336,15 @@
 185.216.68.128:tor
 185.216.68.160:tor
 185.216.68.40:tor
-185.216.70.110:32 arm intel Mirai motorola renesas
-185.216.70.142:Mirai shellscript
-185.216.70.149:32 arm intel Mirai motorola powerpc renesas
-185.216.70.152:ddos Mirai
-185.216.70.156:ddos Mirai
-185.216.70.173:shellscript
-185.216.70.37:ddos Mirai
-185.216.70.79:gafgyt Mirai shellscript
-185.216.70.81:Mirai shellscript
+185.216.70.110:Mirai renesas
+185.216.70.142:Mirai
+185.216.70.149:Mirai renesas
+185.216.70.152:Mirai
+185.216.70.156:Mirai
+185.216.70.173:NoTag
+185.216.70.37:Mirai
+185.216.70.79:gafgyt Mirai
+185.216.70.81:Mirai
 185.217.0.85:tor
 185.217.95.25:tor
 185.218.88.66:tor
@@ -8566,7 +8566,7 @@
 185.220.103.7:tor
 185.220.103.8:tor
 185.220.103.9:tor
-185.222.58.62:encrypted GuLoader RAT RemcosRAT
+185.222.58.62:GuLoader RAT RemcosRAT
 185.223.53.3:tor
 185.225.114.22:tor
 185.225.114.53:tor
@@ -8661,7 +8661,7 @@
 185.254.99.26:tor
 185.26.120.79:tor
 185.26.156.186:tor
-185.29.9.120:encrypted GuLoader RAT RemcosRAT
+185.29.9.120:GuLoader RAT RemcosRAT
 185.32.183.225:tor
 185.32.222.237:tor
 185.34.33.2:tor
@@ -8730,7 +8730,7 @@
 185.91.127.20:Mirai
 185.91.69.218:tor
 185.92.221.195:tor
-185.93.68.111:apk ready.apk Spynote
+185.93.68.111:ready.apk Spynote
 185.94.29.162:tor
 185.94.29.93:tor
 186.148.245.119:Mozi
@@ -8755,7 +8755,7 @@
 187.207.43.94:tor
 187.207.94.94:tor
 187.255.26.160:tor
-187.61.90.200:arm Mirai Mozi
+187.61.90.200:Mirai Mozi
 188.100.41.137:tor
 188.100.41.176:tor
 188.100.41.235:tor
@@ -8763,11 +8763,11 @@
 188.112.180.135:tor
 188.115.173.235:tor
 188.116.27.219:tor
-188.121.101.202:Mirai shellscript
+188.121.101.202:Mirai
 188.126.83.38:tor
 188.127.197.42:tor
-188.127.225.225:ascii doc Encoded RAT RemcosRAT
-188.127.251.27:ascii doc Encoded RAT RemcosRAT
+188.127.225.225:Encoded RAT RemcosRAT
+188.127.251.27:Encoded RAT RemcosRAT
 188.136.238.40:tor
 188.136.248.199:tor
 188.136.251.226:tor
@@ -8785,7 +8785,7 @@
 188.165.136.211:tor
 188.165.200.97:tor
 188.165.26.13:tor
-188.166.160.193:apk c2 L3mon Manager
+188.166.160.193:c2 L3mon Manager
 188.166.87.136:tor
 188.166.99.107:tor
 188.170.32.148:NoTag
@@ -8851,7 +8851,7 @@
 188.68.56.100:tor
 188.68.56.181:tor
 188.68.58.105:tor
-188.75.79.53:Mirai shellscript
+188.75.79.53:Mirai
 188.84.180.46:tor
 188.84.181.100:tor
 188.86.44.90:tor
@@ -8866,7 +8866,7 @@
 190.103.68.229:Mozi
 190.103.69.173:Mozi
 190.109.205.237:Hajime
-190.109.227.212:arm Mirai Mozi
+190.109.227.212:Mirai Mozi
 190.109.250.19:Mozi
 190.110.206.134:Hajime
 190.120.229.98:tor
@@ -8946,32 +8946,32 @@
 192.184.253.198:tor
 192.184.93.11:tor
 192.196.207.222:tor
-192.207.62.45:MrBlack x86-32
+192.207.62.45:MrBlack
 192.210.175.137:tor
 192.210.206.188:tor
 192.210.233.239:tor
 192.210.255.181:tor
 192.211.48.226:tor
-192.227.173.67:AgentTesla doc
+192.227.173.67:AgentTesla
 192.227.186.86:tor
 192.227.193.56:tor
 192.227.213.246:tor
 192.234.196.169:tor
 192.24.207.200:tor
-192.3.101.142:AgentTesla ascii doc Encoded vbs
+192.3.101.142:AgentTesla Encoded vbs
 192.3.105.226:tor
 192.3.105.227:tor
 192.3.105.228:tor
 192.3.105.229:tor
-192.3.109.149:doc GuLoader
-192.3.109.164:AgentTesla doc
-192.3.111.153:ascii AveMariaRAT doc Encoded RAT vbs
+192.3.109.149:GuLoader
+192.3.109.164:AgentTesla
+192.3.111.153:AveMariaRAT Encoded RAT vbs
 192.3.173.87:tor
-192.3.179.142:doc  RAT RemcosRAT
-192.3.216.154:AgentTesla doc GuLoader 
-192.3.216.156:doc FormBook
+192.3.179.142:RAT RemcosRAT
+192.3.216.154:AgentTesla GuLoader
+192.3.216.156:FormBook
 192.3.216.188:FormBook
-192.3.239.30:AgentTesla doc
+192.3.239.30:AgentTesla
 192.3.252.222:tor
 192.3.64.142:FormBook Guloader-Formbook
 192.34.87.86:tor
@@ -9040,7 +9040,7 @@
 192.42.116.27:tor
 192.42.116.28:tor
 192.42.253.215:tor
-192.53.120.83:ascii doc Encoded hta RAT RemcosRAT
+192.53.120.83:Encoded hta RAT RemcosRAT
 192.53.171.194:tor
 192.68.11.203:tor
 192.70.90.208:NoTag
@@ -9144,13 +9144,13 @@
 193.233.133.109:tor
 193.233.133.42:tor
 193.233.202.71:tor
-193.233.203.237:Mirai shellscript
+193.233.203.237:Mirai
 193.237.217.92:tor
 193.239.232.230:tor
 193.239.254.115:Hajime
 193.239.86.133:tor
 193.239.86.147:tor
-193.239.86.163:encrypted GuLoader RAT RemcosRAT
+193.239.86.163:GuLoader RAT RemcosRAT
 193.24.209.157:tor
 193.251.62.153:NoTag
 193.26.115.18:tor
@@ -9248,15 +9248,15 @@
 194.36.147.51:tor
 194.39.207.224:tor
 194.4.71.60:tor
-194.48.251.225:encrypted GuLoader
+194.48.251.225:GuLoader
 194.5.250.250:tor
 194.55.13.49:tor
 194.55.13.50:tor
 194.59.30.223:Mirai
-194.59.30.95:AsyncRAT Downloader script trojan VenomRAT
-194.59.31.149:encrypted GuLoader RAT RemcosRAT
+194.59.30.95:AsyncRAT Downloader trojan VenomRAT
+194.59.31.149:GuLoader RAT RemcosRAT
 194.59.31.163:attack shell TomcatByPass 
-194.59.31.206:encrypted GuLoader
+194.59.31.206:GuLoader
 194.61.121.11:tor
 194.62.184.12:tor
 194.62.187.100:tor
@@ -9290,7 +9290,7 @@
 195.133.52.5:tor
 195.133.53.215:tor
 195.133.53.229:tor
-195.15.201.129:CoinMiner XMRIG zip
+195.15.201.129:CoinMiner XMRIG
 195.15.242.113:tor
 195.15.242.29:tor
 195.15.242.99:tor
@@ -9326,7 +9326,7 @@
 195.201.91.243:tor
 195.201.94.113:tor
 195.205.30.250:tor
-195.211.101.219:apk c2 L3mon Manager
+195.211.101.219:c2 L3mon Manager
 195.213.156.215:tor
 195.22.110.230:Mozi
 195.22.245.159:Mozi
@@ -9367,7 +9367,7 @@
 195.63.156.41:tor
 195.63.159.247:tor
 195.80.151.242:tor
-195.85.207.101:apk HookBot
+195.85.207.101:HookBot
 195.88.74.206:tor
 195.88.75.18:tor
 195.9.14.86:Hajime
@@ -9390,7 +9390,7 @@
 196.189.38.197:Mozi
 196.190.14.74:Mozi
 196.190.17.40:Mirai Mozi
-196.191.231.12:arm Mirai Mozi
+196.191.231.12:Mirai Mozi
 196.43.113.182:Hajime
 196.45.130.38:Hajime
 196.64.74.146:Mozi
@@ -9403,8 +9403,8 @@
 198.12.71.224:tor
 198.12.80.138:tor
 198.12.81.135:AsyncRAT
-198.12.81.162:doc FormBook
-198.12.81.178:ascii doc Encoded hta RAT RemcosRAT
+198.12.81.162:FormBook
+198.12.81.178:Encoded hta RAT RemcosRAT
 198.12.97.252:tor
 198.13.39.173:tor
 198.140.141.51:tor
@@ -9430,7 +9430,7 @@
 198.23.174.106:tor
 198.23.188.141:AgentTesla
 198.23.211.171:tor
-198.23.227.134:ascii doc Encoded RAT RemcosRAT
+198.23.227.134:Encoded RAT RemcosRAT
 198.23.235.168:tor
 198.23.246.136:tor
 198.24.164.98:tor
@@ -9453,7 +9453,7 @@
 198.46.131.156:tor
 198.46.131.157:tor
 198.46.131.158:tor
-198.46.143.196:apk HookBot
+198.46.143.196:HookBot
 198.46.166.157:tor
 198.46.215.32:tor
 198.50.128.237:tor
@@ -9509,7 +9509,7 @@
 199.195.253.156:tor
 199.195.253.180:tor
 199.195.253.247:tor
-199.195.254.188:shellscript
+199.195.254.188:NoTag
 199.241.137.60:tor
 199.58.103.177:tor
 199.58.81.140:tor
@@ -9546,7 +9546,7 @@
 2.243.115.181:tor
 2.243.13.57:tor
 2.243.59.76:tor
-2.248.201.112:arm Mirai Mozi
+2.248.201.112:Mirai Mozi
 2.29.67.129:tor
 2.47.197.48:tor
 2.54.83.23:NoTag
@@ -9576,8 +9576,8 @@
 2.70.77.189:tor
 2.71.64.171:tor
 2.87.77.84:Hajime
-20.15.225.122:apk c2 L3mon Manager ua-wget
-20.151.70.137:gafgyt shellscript
+20.15.225.122:c2 L3mon Manager ua-wget
+20.151.70.137:gafgyt
 20.160.225.224:tor
 20.224.145.181:tor
 20.243.140.243:tor
@@ -9586,7 +9586,7 @@
 200.122.181.78:tor
 200.187.93.158:NoTag
 200.35.49.74:Hajime
-200.54.37.90:apk c2 L3mon Manager
+200.54.37.90:c2 L3mon Manager
 200.6.88.136:Mozi
 200.69.57.4:Hajime
 200.90.94.227:Mozi
@@ -10036,12 +10036,12 @@
 202.61.241.225:tor
 202.61.248.18:tor
 202.61.252.121:tor
-202.79.165.160:apk AS152194 Banker trojan Trojan-Banker.AndroidOS
-202.79.165.162:apk AS152194 Banker trojan Trojan-Banker.AndroidOS
-202.79.165.170:apk AS152194 Banker trojan Trojan-Banker.AndroidOS
+202.79.165.160:AS152194 Banker trojan Trojan-Banker.AndroidOS
+202.79.165.162:AS152194 Banker trojan Trojan-Banker.AndroidOS
+202.79.165.170:AS152194 Banker trojan Trojan-Banker.AndroidOS
 202.91.32.7:tor
 202.94.246.210:tor
-202.95.1.245:apk ready.apk Spynote
+202.95.1.245:ready.apk Spynote
 203.112.212.154:Hajime
 203.115.101.18:Hajime
 203.12.12.233:tor
@@ -10204,7 +10204,7 @@
 206.217.136.47:tor
 206.217.139.100:tor
 206.237.98.52:tor
-206.238.197.245:32
+206.238.197.245:NoTag
 206.238.199.146:exploit marte
 206.238.199.221:Backdoor donutmarte exploit payload.bin
 206.238.199.59:Backdoor donutmarte exploit payload.bin
@@ -10287,7 +10287,7 @@
 209.141.55.26:tor
 209.141.59.116:tor
 209.141.62.71:tor
-209.145.58.200:encrypted GuLoader
+209.145.58.200:GuLoader
 209.148.46.45:tor
 209.162.229.229:NoTag
 209.205.191.129:tor
@@ -10303,17 +10303,17 @@
 209.51.188.48:tor
 209.58.145.210:tor
 209.58.160.138:tor
-209.58.169.94:apk c2 L3mon Manager
+209.58.169.94:c2 L3mon Manager
 209.58.180.236:tor
 209.58.180.90:tor
-209.90.234.58:encrypted GuLoader RemcosRAT
+209.90.234.58:GuLoader RemcosRAT
 209.97.130.15:tor
 210.10.132.45:Mozi
 210.165.80.18:tor
 210.223.41.251:tor
 210.84.12.33:tor
 211.223.126.127:Hajime
-211.51.88.118:CoinMiner shellscript
+211.51.88.118:CoinMiner
 212.107.232.167:Hajime
 212.111.40.177:tor
 212.114.16.232:tor
@@ -10442,7 +10442,7 @@
 213.95.190.181:tor
 216.146.25.98:tor
 216.146.27.106:tor
-216.173.119.170:apk Ermac
+216.173.119.170:Ermac
 216.197.207.48:tor
 216.205.161.171:tor
 216.218.219.41:tor
@@ -10454,7 +10454,7 @@
 216.244.203.24:Mozi
 216.250.247.164:tor
 216.250.247.165:tor
-216.250.247.185:32 arm bashlite gafgyt intel Mirai motorola powerpc renesas sparc
+216.250.247.185:gafgyt Mirai renesas sparc
 216.73.159.101:tor
 216.73.159.106:tor
 216.73.159.75:tor
@@ -10506,7 +10506,7 @@
 217.180.225.55:tor
 217.182.73.157:tor
 217.182.75.0:tor
-217.182.77.206:shellscript
+217.182.77.206:NoTag
 217.194.154.18:tor
 217.196.147.77:tor
 217.197.106.252:tor
@@ -10573,10 +10573,10 @@
 218.61.230.177:Mozi
 218.79.112.97:Mozi
 218.79.119.4:Mozi
-218.91.143.163:arm Mirai Mozi
+218.91.143.163:Mirai Mozi
 218.91.88.77:Mirai Mozi
 219.133.165.133:NoTag
-219.139.29.186:arm Mirai Mozi
+219.139.29.186:Mirai Mozi
 219.154.148.103:Mozi
 219.154.154.201:Mozi
 219.154.173.51:Mozi
@@ -10692,7 +10692,7 @@
 219.157.29.248:Mozi
 219.157.30.74:Mozi
 219.157.38.138:Mozi
-219.157.39.81:arm Mirai Mozi
+219.157.39.81:Mirai Mozi
 219.157.48.199:Mozi
 219.157.48.20:Mozi
 219.157.49.50:Mozi
@@ -10710,12 +10710,12 @@
 220.108.59.168:tor
 220.108.60.173:tor
 220.133.11.95:CoinMiner Generic php ramnit trojan worm
-220.143.25.168:arm Mirai Mozi
-220.143.36.191:arm Mirai Mozi
-220.143.48.25:arm Mirai Mozi
-220.143.7.158:arm Mirai Mozi
-220.158.233.185:Mirai shellscript
-220.170.216.107:arm Mirai Mozi
+220.143.25.168:Mirai Mozi
+220.143.36.191:Mirai Mozi
+220.143.48.25:Mirai Mozi
+220.143.7.158:Mirai Mozi
+220.158.233.185:Mirai
+220.170.216.107:Mirai Mozi
 220.175.65.12:Mozi
 220.192.252.32:Mozi
 220.201.145.131:Mozi
@@ -10760,7 +10760,7 @@
 221.14.169.245:Mozi
 221.14.172.43:Mozi
 221.14.174.239:Mirai Mozi
-221.14.175.55:arm Mirai Mozi
+221.14.175.55:Mirai Mozi
 221.14.197.110:Mozi
 221.14.204.104:Mozi
 221.14.205.83:Mozi
@@ -10847,7 +10847,7 @@
 221.214.145.61:Mozi
 221.214.157.168:Mozi
 221.3.87.156:Mozi
-221.7.231.145:arm Mirai Mozi
+221.7.231.145:Mirai Mozi
 222.129.237.129:CoinMiner ink scr
 222.130.139.27:CoinMiner ink scr
 222.133.101.147:Mozi
@@ -10878,7 +10878,7 @@
 222.137.147.29:Mozi
 222.137.147.85:Mozi
 222.137.147.98:Mozi
-222.137.148.118:arm Mirai Mozi
+222.137.148.118:Mirai Mozi
 222.137.149.59:Mozi
 222.137.15.112:Mozi
 222.137.15.136:Mozi
@@ -10942,12 +10942,12 @@
 222.138.205.59:Mozi
 222.138.21.138:Mozi
 222.138.21.6:Mozi
-222.138.219.41:arm Mirai Mozi
+222.138.219.41:Mirai Mozi
 222.138.22.127:Mozi
 222.138.22.199:Mozi
 222.138.23.235:Mozi
 222.138.23.7:Mozi
-222.138.232.39:arm Mirai Mozi
+222.138.232.39:Mirai Mozi
 222.138.73.153:Mozi
 222.138.73.32:Mozi
 222.138.78.98:Mozi
@@ -11104,65 +11104,65 @@
 222.142.255.144:Mozi
 222.142.255.212:Mozi
 222.145.24.21:NoTag
-222.168.225.188:arm Mirai Mozi
-222.185.18.63:arm Mirai Mozi
+222.168.225.188:Mirai Mozi
+222.185.18.63:Mirai Mozi
 222.186.175.34:craxsrat
 222.219.45.142:Mirai Mozi
 222.241.48.200:Hajime
-222.241.50.51:arm Mirai Mozi
+222.241.50.51:Mirai Mozi
 222.245.0.196:Mirai Mozi
 222.245.0.227:Mirai Mozi
-222.246.112.44:arm Mirai Mozi
+222.246.112.44:Mirai Mozi
 222.246.114.164:Hajime
 222.246.115.55:Hajime
 222.246.208.188:Mirai Mozi
 222.252.15.21:NoTag
 222.65.118.231:Mozi
 222.93.229.56:Mozi
-223.10.27.236:arm Mirai Mozi
+223.10.27.236:Mirai Mozi
 223.10.52.154:Mirai Mozi
 223.104.50.182:NoTag
 223.108.219.134:NoTag
 223.108.58.13:NoTag
 223.108.58.15:NoTag
-223.12.112.114:arm Mirai Mozi
+223.12.112.114:Mirai Mozi
 223.12.157.77:Mirai Mozi
-223.12.176.62:arm Mirai Mozi
-223.12.196.252:arm Mirai Mozi
-223.12.204.95:arm Mirai Mozi
-223.13.25.197:arm Mirai Mozi
-223.13.33.226:arm Mirai Mozi
+223.12.176.62:Mirai Mozi
+223.12.196.252:Mirai Mozi
+223.12.204.95:Mirai Mozi
+223.13.25.197:Mirai Mozi
+223.13.33.226:Mirai Mozi
 223.13.34.239:Hajime
-223.13.63.131:arm Mirai Mozi
-223.13.83.251:arm Mirai Mozi
+223.13.63.131:Mirai Mozi
+223.13.83.251:Mirai Mozi
 223.13.86.187:Hajime
 223.13.89.196:Mozi
-223.13.93.253:arm Mirai Mozi
-223.15.10.139:arm Mirai Mozi
-223.15.22.192:arm Mirai Mozi
+223.13.93.253:Mirai Mozi
+223.15.10.139:Mirai Mozi
+223.15.22.192:Mirai Mozi
 223.15.24.68:Mirai Mozi
 223.151.225.186:Mirai Mozi
-223.151.226.116:arm Mirai Mozi
+223.151.226.116:Mirai Mozi
 223.151.227.165:Mirai Mozi
 223.151.231.54:Mirai
 223.151.72.39:Mirai Mozi
-223.151.74.152:arm Mirai Mozi
+223.151.74.152:Mirai Mozi
 223.204.80.224:tor
 223.204.84.10:tor
 223.206.208.63:tor
 223.206.8.27:tor
 223.25.71.54:tor
-223.8.1.110:arm Mirai Mozi
-223.8.1.74:arm Mirai Mozi
-223.8.196.117:arm Mirai Mozi
-223.8.206.188:arm Mirai Mozi
-223.8.216.154:arm Mirai Mozi
-223.8.218.96:arm Mirai Mozi
-223.8.239.126:arm Mirai Mozi
+223.8.1.110:Mirai Mozi
+223.8.1.74:Mirai Mozi
+223.8.196.117:Mirai Mozi
+223.8.206.188:Mirai Mozi
+223.8.216.154:Mirai Mozi
+223.8.218.96:Mirai Mozi
+223.8.239.126:Mirai Mozi
 223.8.9.158:Hajime
-223.8.9.237:arm Mirai Mozi
-223.9.145.164:arm Mirai Mozi
-223.9.151.200:arm Mirai Mozi
+223.8.9.237:Mirai Mozi
+223.9.145.164:Mirai Mozi
+223.9.151.200:Mirai Mozi
 23.105.163.117:tor
 23.105.172.1:tor
 23.105.174.243:tor
@@ -11255,16 +11255,16 @@
 23.184.48.131:tor
 23.21.13.30:tor
 23.21.56.126:tor
-23.224.233.76:apk HookBot
-23.226.128.138:doc RAT RemcosRAT
-23.226.57.18:android Spynote
-23.226.57.2:android Spynote
-23.226.57.43:android Spynote
+23.224.233.76:HookBot
+23.226.128.138:RAT RemcosRAT
+23.226.57.18:Spynote
+23.226.57.2:Spynote
+23.226.57.43:Spynote
 23.227.168.106:tor
 23.227.186.186:tor
 23.227.186.194:tor
 23.227.196.70:dropped-by-smokeloader Smoke Loader
-23.227.202.187:encrypted GuLoader RAT RemcosRAT
+23.227.202.187:GuLoader RAT RemcosRAT
 23.236.122.62:tor
 23.236.143.194:tor
 23.236.143.34:tor
@@ -11320,7 +11320,7 @@
 23.94.166.66:tor
 23.94.211.25:tor
 23.94.220.202:tor
-23.94.36.162:doc FormBook
+23.94.36.162:FormBook
 23.94.54.107:OriginLogger RedLineStealer
 23.94.60.158:tor
 23.94.85.226:tor
@@ -11356,7 +11356,7 @@
 24.246.25.51:tor
 24.4.7.49:tor
 24.49.115.19:tor
-24.53.139.167:arm Mirai Mozi
+24.53.139.167:Mirai Mozi
 24.53.51.144:tor
 24.79.76.213:tor
 24.89.20.176:Hajime
@@ -11733,7 +11733,7 @@
 27.147.174.61:Hajime
 27.147.178.248:Hajime
 27.147.220.151:Hajime
-27.153.143.52:arm Mirai Mozi
+27.153.143.52:Mirai Mozi
 27.157.144.19:Mirai Mozi
 27.157.145.175:Mirai Mozi
 27.157.145.90:Mirai Mozi
@@ -11743,7 +11743,7 @@
 27.193.43.52:Mozi
 27.194.190.187:Mozi
 27.194.72.239:Mozi
-27.196.75.182:arm Mirai Mozi
+27.196.75.182:Mirai Mozi
 27.202.171.57:Mozi
 27.202.186.190:Mozi
 27.202.189.139:Mozi
@@ -11767,7 +11767,7 @@
 27.204.224.147:Mozi
 27.204.226.249:Mozi
 27.204.239.225:Mozi
-27.205.69.85:arm Mirai Mozi
+27.205.69.85:Mirai Mozi
 27.206.129.54:Mozi
 27.206.190.151:Mozi
 27.206.194.117:Mozi
@@ -11864,7 +11864,7 @@
 27.219.123.150:Mozi
 27.219.179.83:Mozi
 27.219.45.50:Mozi
-27.22.200.50:arm Mirai Mozi
+27.22.200.50:Mirai Mozi
 27.220.224.191:Mozi
 27.220.238.34:Mozi
 27.220.82.133:Mozi
@@ -12989,7 +12989,7 @@
 3.121.167.65:tor
 3.129.234.3:tor
 3.131.30.33:marte Metasploit Meterpreter
-3.17.159.152:64 CobaltStrike
+3.17.159.152:CobaltStrike
 3.17.205.125:tor
 3.20.179.249:tor
 3.209.183.86:tor
@@ -13060,18 +13060,18 @@
 35.182.71.209:tor
 35.208.99.65:CVE-2021-44228 java-bytecode log4j log4shell
 35.240.241.135:tor
-36.104.220.43:arm Mirai Mozi
+36.104.220.43:Mirai Mozi
 36.227.202.124:tor
 36.227.204.132:tor
 36.227.229.204:tor
 36.227.231.162:tor
 36.227.239.224:tor
-36.251.13.184:arm Mirai Mozi
+36.251.13.184:Mirai Mozi
 36.37.110.67:Hajime
 36.48.114.132:Hajime
 36.49.35.49:Mirai Mozi
-36.49.50.38:arm Mirai Mozi
-36.49.51.84:arm Mirai Mozi
+36.49.50.38:Mirai Mozi
+36.49.51.84:Mirai Mozi
 36.49.57.59:Mirai Mozi
 36.64.209.97:Hajime
 36.66.151.7:Hajime
@@ -13109,10 +13109,10 @@
 37.120.190.6:tor
 37.120.194.126:tor
 37.120.239.59:tor
-37.13.0.133:arm Mirai Mozi
-37.13.13.16:arm Mirai Mozi
-37.13.244.58:arm Mirai Mozi
-37.13.253.230:arm Mirai Mozi
+37.13.0.133:Mirai Mozi
+37.13.13.16:Mirai Mozi
+37.13.244.58:Mirai Mozi
+37.13.253.230:Mirai Mozi
 37.134.129.71:tor
 37.138.135.150:tor
 37.138.139.184:tor
@@ -13239,8 +13239,8 @@
 38.15.129.36:tor
 38.15.129.37:tor
 38.15.129.38:tor
-38.15.131.137:encrypted GuLoader RAT RemcosRAT
-38.15.131.216:encrypted GuLoader RAT RemcosRAT
+38.15.131.137:GuLoader RAT RemcosRAT
+38.15.131.216:GuLoader RAT RemcosRAT
 38.15.131.66:tor
 38.15.131.67:tor
 38.15.131.68:tor
@@ -13286,10 +13286,10 @@
 38.45.66.235:tor
 38.45.67.56:tor
 38.47.53.157:tor
-38.51.156.3:arm Mirai Mozi
+38.51.156.3:Mirai Mozi
 38.52.255.238:tor
-38.54.14.201:apk ready.apk Spynote
-38.55.251.253:apk ready.apk Spynote
+38.54.14.201:ready.apk Spynote
+38.55.251.253:ready.apk Spynote
 38.6.224.183:tor
 38.97.116.244:tor
 39.100.107.198:beacon-marte CobaltStrike Viper-c2
@@ -13319,7 +13319,7 @@
 39.74.2.160:Mozi
 39.74.234.225:Mozi
 39.74.245.162:Mozi
-39.74.246.112:arm
+39.74.246.112:NoTag
 39.74.247.129:Mozi
 39.74.247.212:Mozi
 39.74.248.193:Mozi
@@ -13343,17 +13343,17 @@
 39.79.68.75:Mozi
 39.79.98.134:Mozi
 39.80.155.137:Mirai Mozi
-39.80.61.203:arm Mirai Mozi
+39.80.61.203:Mirai Mozi
 39.81.159.8:Mozi
 39.81.168.148:Mozi
 39.81.189.154:Mozi
-39.81.41.20:arm Mirai Mozi
+39.81.41.20:Mirai Mozi
 39.81.44.196:Mozi
 39.81.49.34:Mozi
 39.86.6.137:Mozi
 39.86.65.54:Mozi
 39.87.29.187:Mozi
-39.87.71.117:arm Mirai Mozi
+39.87.71.117:Mirai Mozi
 39.87.72.5:Mozi
 39.87.73.210:Mozi
 39.88.118.172:Mozi
@@ -13611,7 +13611,7 @@
 42.230.184.27:Mozi
 42.230.190.36:Mozi
 42.230.210.95:Mozi
-42.230.213.231:arm Mirai Mozi
+42.230.213.231:Mirai Mozi
 42.230.214.55:Mozi
 42.230.216.234:Mozi
 42.230.217.230:Mozi
@@ -13714,9 +13714,9 @@
 42.233.157.249:Mozi
 42.233.157.7:Mozi
 42.233.189.144:Mozi
-42.233.208.196:arm Mirai Mozi
+42.233.208.196:Mirai Mozi
 42.233.209.44:Mozi
-42.233.215.68:arm Mirai Mozi
+42.233.215.68:Mirai Mozi
 42.233.88.19:Mozi
 42.233.89.232:NoTag
 42.233.91.138:Mozi
@@ -13767,7 +13767,7 @@
 42.235.19.199:Mozi
 42.235.190.148:Mozi
 42.235.20.87:Mozi
-42.235.31.125:arm Mirai Mozi
+42.235.31.125:Mirai Mozi
 42.235.37.39:Mozi
 42.235.37.65:Mozi
 42.235.39.57:Mozi
@@ -13895,7 +13895,7 @@
 42.239.80.142:Mozi
 42.239.85.234:Mozi
 42.239.86.173:Mozi
-42.242.42.110:arm Mirai Mozi
+42.242.42.110:Mirai Mozi
 42.4.109.110:Mozi
 42.4.125.62:Mozi
 42.4.96.111:Mozi
@@ -13947,9 +13947,9 @@
 42.57.186.43:Mozi
 42.57.187.210:Mozi
 42.57.200.175:Mozi
-42.57.217.52:apk bad-apks piom srdl trojan
-42.57.218.33:apk bad-apks piom srdl trojan
-42.57.27.175:apk bad-apks piom srdl trojan
+42.57.217.52:bad-apks piom srdl trojan
+42.57.218.33:bad-apks piom srdl trojan
+42.57.27.175:bad-apks piom srdl trojan
 42.57.30.125:Mozi
 42.58.115.172:Mozi
 42.58.16.222:Mozi
@@ -13968,11 +13968,11 @@
 42.6.49.106:Mozi
 42.6.56.40:Mozi
 42.7.121.226:Mozi
-42.7.135.20:arm Mirai Mozi
+42.7.135.20:Mirai Mozi
 42.7.99.72:Mozi
-42.84.110.77:arm Mirai Mozi
-42.85.127.163:arm Mirai Mozi
-42.85.33.43:arm Mirai Mozi
+42.84.110.77:Mirai Mozi
+42.85.127.163:Mirai Mozi
+42.85.33.43:Mirai Mozi
 42.86.121.127:Mozi
 42.86.123.101:Mozi
 42.86.126.69:Mozi
@@ -13983,10 +13983,10 @@
 42.86.52.135:Mozi
 42.87.138.60:Mozi
 43.139.35.215:CobaltStrike pw-123456
-43.156.240.185:apk c2 L3mon Manager
-43.159.133.236:apk ready.apk Spynote
+43.156.240.185:c2 L3mon Manager
+43.159.133.236:ready.apk Spynote
 43.199.33.246:Backdoor donutmarte exploit payload.bin
-43.204.230.44:apk c2 L3mon Manager
+43.204.230.44:c2 L3mon Manager
 43.228.174.250:tor
 43.240.65.55:NoTag
 43.252.37.14:tor
@@ -14011,7 +14011,7 @@
 45.125.166.58:tor
 45.125.65.112:tor
 45.125.65.45:tor
-45.125.66.68:CHE Geofenced shellscript ua-wget
+45.125.66.68:CHE Geofenced ua-wget
 45.128.133.206:tor
 45.128.153.69:tor
 45.128.153.6:tor
@@ -14033,7 +14033,7 @@
 45.129.13.173:tor
 45.129.182.225:tor
 45.129.199.211:tor
-45.129.96.86:32 LummaStealer
+45.129.96.86:LummaStealer
 45.13.104.185:tor
 45.131.138.227:tor
 45.132.245.7:tor
@@ -14052,7 +14052,7 @@
 45.136.31.178:tor
 45.137.100.160:tor
 45.137.118.70:tor
-45.137.207.137:gafgyt Mirai shellscript
+45.137.207.137:gafgyt Mirai
 45.137.22.179:GuLoader RAT RemcosRAT
 45.138.16.107:tor
 45.138.16.113:tor
@@ -14118,14 +14118,14 @@
 45.145.166.104:tor
 45.145.40.181:tor
 45.145.41.146:tor
-45.146.234.130:ddos Mirai shellscript
-45.147.248.7:Mirai x86-32
+45.146.234.130:Mirai
+45.147.248.7:Mirai
 45.147.7.119:tor
 45.148.120.162:tor
 45.148.121.112:tor
 45.148.122.114:tor
 45.149.186.133:tor
-45.15.157.122:shellscript
+45.15.157.122:NoTag
 45.15.157.177:tor
 45.15.16.132:tor
 45.15.16.197:tor
@@ -14173,7 +14173,7 @@
 45.33.198.201:tor
 45.33.2.253:tor
 45.33.20.42:tor
-45.33.50.155:ascii doc Encoded hta RAT RemcosRAT
+45.33.50.155:Encoded hta RAT RemcosRAT
 45.33.55.238:tor
 45.33.57.83:tor
 45.41.204.203:tor
@@ -14181,7 +14181,7 @@
 45.55.47.232:tor
 45.56.104.167:tor
 45.61.184.47:tor
-45.61.184.56:ddos Mirai
+45.61.184.56:Mirai
 45.61.185.169:NoTag
 45.61.185.172:tor
 45.61.185.194:tor
@@ -14220,7 +14220,7 @@
 45.79.170.82:tor
 45.79.177.21:tor
 45.79.181.228:tor
-45.79.237.45:apk c2 L3mon Manager
+45.79.237.45:c2 L3mon Manager
 45.79.50.161:tor
 45.79.66.123:tor
 45.79.70.219:tor
@@ -14237,7 +14237,7 @@
 45.80.208.110:tor
 45.80.208.225:tor
 45.80.210.20:tor
-45.81.242.12:gafgyt Mirai shellscript
+45.81.242.12:gafgyt Mirai
 45.82.120.134:tor
 45.82.120.86:tor
 45.82.122.152:tor
@@ -14292,7 +14292,7 @@
 45.94.31.180:tor
 45.94.31.54:tor
 45.95.146.29:Mirai
-45.95.146.4:ascii
+45.95.146.4:NoTag
 45.95.169.164:tor
 45.95.169.184:tor
 45.95.169.223:tor
@@ -14349,13 +14349,13 @@
 46.165.253.196:tor
 46.165.254.40:tor
 46.166.165.116:tor
-46.17.44.199:cve-2017-16995 Mirai shellscript trojan trojan.vigorf
+46.17.44.199:cve-2017-16995 Mirai trojan trojan.vigorf
 46.17.63.214:tor
 46.17.96.130:tor
 46.171.144.226:NoTag
 46.182.21.248:tor
 46.183.217.105:tor
-46.183.222.32:encrypted GuLoader RAT RemcosRAT
+46.183.222.32:GuLoader RAT RemcosRAT
 46.195.122.36:tor
 46.195.124.186:tor
 46.195.124.226:tor
@@ -14434,7 +14434,7 @@
 46.38.255.10:tor
 46.38.255.27:tor
 46.39.247.173:Hajime
-46.39.251.94:arm Mirai Mozi
+46.39.251.94:Mirai Mozi
 46.4.103.29:tor
 46.4.183.104:tor
 46.4.32.184:tor
@@ -14468,8 +14468,8 @@
 47.213.80.152:Hajime
 47.220.228.121:tor
 47.245.106.151:tor
-47.57.184.164:apk ready.apk
-47.57.7.44:apk ready.apk Spynote
+47.57.184.164:ready.apk
+47.57.7.44:ready.apk Spynote
 47.72.144.70:tor
 49.12.115.57:RedLineStealer
 49.12.224.203:tor
@@ -14557,7 +14557,7 @@
 5.2.79.179:tor
 5.2.79.190:tor
 5.202.41.109:Hajime
-5.206.227.248:DBatLoader doc
+5.206.227.248:DBatLoader
 5.22.159.135:tor
 5.236.31.97:Hajime
 5.239.240.58:Hajime
@@ -14638,7 +14638,7 @@
 5.39.81.102:tor
 5.42.64.46:Meduza PureLogStealer
 5.42.66.6:tor
-5.42.67.23:32 gcleaner
+5.42.67.23:gcleaner
 5.42.80.232:tor
 5.42.80.233:tor
 5.42.80.234:tor
@@ -14648,7 +14648,7 @@
 5.42.96.3:NoTag
 5.42.96.52:dropped-by-PrivateLoader
 5.42.96.55:NoTag
-5.42.96.64:64 LummaStealer
+5.42.96.64:LummaStealer
 5.42.96.78:dropped-by-PrivateLoader Glupteba Stealc
 5.42.99.64:trojan generic
 5.44.101.19:tor
@@ -14663,7 +14663,7 @@
 5.56.198.130:tor
 5.56.216.42:tor
 5.57.240.135:tor
-5.61.56.227:ddos Mirai
+5.61.56.227:Mirai
 5.63.55.206:tor
 5.75.165.11:tor
 5.75.177.223:tor
@@ -14721,7 +14721,7 @@
 50.230.231.85:tor
 50.243.106.237:NoTag
 50.3.182.133:tor
-50.3.182.152:Mirai shellscript
+50.3.182.152:Mirai
 50.3.182.156:tor
 50.5.65.128:tor
 50.5.85.88:tor
@@ -14855,7 +14855,7 @@
 51.79.65.244:tor
 51.79.67.109:tor
 51.79.71.20:tor
-51.81.135.251:kaiji shellscript
+51.81.135.251:kaiji
 51.81.155.228:tor
 51.81.155.229:tor
 51.81.155.81:tor
@@ -14917,24 +14917,24 @@
 52.73.100.59:tor
 52.77.253.255:disable-defender hacktool
 52.8.68.153:tor
-52.83.32.119:CoinMiner lnk scr
+52.83.32.119:CoinMiner scr
 54.147.202.239:tor
 54.152.222.147:tor
 54.162.154.134:tor
 54.165.108.199:tor
 54.169.149.56:tor
 54.180.244.111:tor
-54.200.196.104:apk c2 L3mon Manager
+54.200.196.104:c2 L3mon Manager
 54.208.238.80:tor
 54.209.163.77:tor
 54.213.206.148:tor
 54.218.255.56:tor
 54.235.106.112:tor
-54.237.80.247:apk c2 L3mon Manager
-54.255.204.248:apk c2 L3mon Manager ua-wget
+54.237.80.247:c2 L3mon Manager
+54.255.204.248:c2 L3mon Manager ua-wget
 54.36.101.21:tor
 54.36.108.162:tor
-54.36.128.153:apk ready.apk Spynote
+54.36.128.153:ready.apk Spynote
 54.36.162.254:tor
 54.36.191.46:tor
 54.36.205.38:tor
@@ -14942,7 +14942,7 @@
 54.36.209.254:tor
 54.36.99.69:tor
 54.37.139.118:tor
-54.37.139.152:apk c2 L3mon Manager
+54.37.139.152:c2 L3mon Manager
 54.37.229.22:tor
 54.37.39.31:tor
 54.38.184.55:tor
@@ -14967,29 +14967,29 @@
 58.179.75.194:tor
 58.185.69.242:tor
 58.185.69.245:tor
-58.216.97.44:arm Mirai Mozi
+58.216.97.44:Mirai Mozi
 58.222.130.34:Mozi
 58.245.68.30:Mozi
 58.47.10.109:Mirai Mozi
-58.47.104.176:arm Mirai Mozi
+58.47.104.176:Mirai Mozi
 58.47.104.17:Mirai Mozi
-58.47.104.71:arm Mirai Mozi
+58.47.104.71:Mirai Mozi
 58.47.16.199:Mirai Mozi
 58.47.19.34:Mirai Mozi
 58.47.25.216:Mirai Mozi
-58.47.28.89:arm Mirai Mozi
+58.47.28.89:Mirai Mozi
 58.47.30.132:Mirai Mozi
 58.47.30.151:Hajime
 58.47.30.28:Mirai Mozi
-58.47.40.212:arm Mirai Mozi
+58.47.40.212:Mirai Mozi
 58.47.41.123:Hajime
 58.47.41.181:Hajime
 58.47.42.113:Mirai Mozi
 58.47.42.164:Mirai Mozi
-58.47.6.30:arm Mirai Mozi
-58.47.65.192:arm Mirai Mozi
+58.47.6.30:Mirai Mozi
+58.47.65.192:Mirai Mozi
 58.47.82.215:Hajime
-58.47.87.183:arm Mirai Mozi
+58.47.87.183:Mirai Mozi
 58.47.91.70:Mirai Mozi
 58.53.46.236:Mirai Mozi
 58.55.135.118:Mozi
@@ -15007,8 +15007,8 @@
 59.154.123.20:NoTag
 59.154.239.132:NoTag
 59.154.252.26:NoTag
-59.173.68.81:arm Mirai Mozi
-59.173.71.223:arm Mirai Mozi
+59.173.68.81:Mirai Mozi
+59.173.71.223:Mirai Mozi
 59.178.101.187:Mozi
 59.178.146.58:Mozi
 59.178.147.183:Mozi
@@ -15282,8 +15282,8 @@
 59.21.92.113:tor
 59.29.233.133:tor
 59.38.92.203:Mozi
-59.47.188.115:arm Mirai Mozi
-59.59.6.86:apk trojan
+59.47.188.115:Mirai Mozi
+59.59.6.86:trojan
 59.88.120.26:Mozi
 59.88.121.166:Mozi
 59.88.121.34:Mozi
@@ -15430,7 +15430,7 @@
 59.89.203.219:Mozi
 59.89.203.220:Mozi
 59.89.203.35:Mozi
-59.89.204.159:arm Mirai Mozi
+59.89.204.159:Mirai Mozi
 59.89.204.182:Mozi
 59.89.204.251:Mozi
 59.89.204.41:Mozi
@@ -16025,7 +16025,7 @@
 59.97.252.83:Mozi
 59.98.127.50:Mozi
 59.98.193.193:Mozi
-59.98.194.6:arm Mirai Mozi
+59.98.194.6:Mirai Mozi
 59.98.198.105:Mozi
 59.98.198.65:Mirai Mozi
 59.98.199.64:Mozi
@@ -16053,12 +16053,12 @@
 59.99.93.208:Mozi
 59.99.95.160:Mozi
 60.16.186.102:Mozi
-60.161.2.217:arm Mirai Mozi
-60.161.22.155:arm Mirai Mozi
-60.161.57.112:arm Mirai Mozi
-60.161.61.61:arm Mirai Mozi
+60.161.2.217:Mirai Mozi
+60.161.22.155:Mirai Mozi
+60.161.57.112:Mirai Mozi
+60.161.61.61:Mirai Mozi
 60.18.107.63:Mozi
-60.18.118.119:apk bad-apks piom srdl trojan
+60.18.118.119:bad-apks piom srdl trojan
 60.18.227.43:Mozi
 60.18.50.162:Mozi
 60.18.61.216:Mozi
@@ -16088,7 +16088,7 @@
 60.241.48.194:tor
 60.243.22.121:tor
 60.246.138.175:Mirai Mozi
-60.246.205.62:arm Mirai Mozi
+60.246.205.62:Mirai Mozi
 60.254.102.211:Mozi
 60.254.103.128:Mozi
 60.254.64.141:Mozi
@@ -16206,7 +16206,7 @@
 61.2.108.78:Mozi
 61.2.109.158:Mozi
 61.2.111.125:Mozi
-61.2.111.209:arm Mirai Mozi
+61.2.111.209:Mirai Mozi
 61.2.111.22:Mozi
 61.2.111.27:Mozi
 61.2.111.62:Mozi
@@ -16329,15 +16329,15 @@
 61.52.216.225:Mozi
 61.52.218.249:Mozi
 61.52.222.214:Mozi
-61.52.225.131:arm Mirai Mozi
-61.52.228.217:arm Mirai Mozi
+61.52.225.131:Mirai Mozi
+61.52.228.217:Mirai Mozi
 61.52.3.123:Mozi
-61.52.32.10:arm Mirai Mozi
+61.52.32.10:Mirai Mozi
 61.52.33.56:Mozi
 61.52.37.43:Mozi
 61.52.38.170:Mozi
 61.52.39.103:Mozi
-61.52.39.134:arm Mirai Mozi
+61.52.39.134:Mirai Mozi
 61.52.41.186:Mozi
 61.52.42.30:Mozi
 61.52.46.132:Mozi
@@ -16396,8 +16396,8 @@
 61.53.150.252:Mozi
 61.53.152.62:Mozi
 61.53.152.81:Mozi
-61.53.153.10:arm Mirai Mozi
-61.53.153.24:arm Mirai Mozi
+61.53.153.10:Mirai Mozi
+61.53.153.24:Mirai Mozi
 61.53.157.110:Mozi
 61.53.159.11:Mozi
 61.53.159.137:Mirai Mozi
@@ -16473,7 +16473,7 @@
 61.54.40.167:Mozi
 61.54.41.31:Mozi
 61.54.42.22:Mozi
-61.54.56.133:arm Mirai Mozi
+61.54.56.133:Mirai Mozi
 61.54.59.166:Mozi
 61.54.63.234:Mozi
 61.54.68.151:Mozi
@@ -16591,12 +16591,12 @@
 64.176.210.130:tor
 64.176.35.93:tor
 64.176.58.60:tor
-64.188.21.131:encrypted GuLoader
-64.188.27.210:encrypted GuLoader
-64.188.27.90:encrypted GuLoader
+64.188.21.131:GuLoader
+64.188.27.210:GuLoader
+64.188.27.90:GuLoader
 64.223.149.100:tor
 64.226.23.78:tor
-64.226.91.55:shellscript
+64.226.91.55:NoTag
 64.227.115.78:tor
 64.227.119.130:tor
 64.227.39.180:tor
@@ -16637,7 +16637,7 @@
 65.108.233.166:tor
 65.108.254.247:tor
 65.108.3.114:tor
-65.108.61.91:apk c2 L3mon Manager
+65.108.61.91:c2 L3mon Manager
 65.108.74.41:tor
 65.108.77.19:tor
 65.108.89.113:tor
@@ -16788,7 +16788,7 @@
 69.197.160.206:tor
 69.209.101.212:tor
 69.237.207.60:tor
-69.247.96.11:arm Mirai Mozi
+69.247.96.11:Mirai Mozi
 69.30.239.126:tor
 69.48.156.120:CoinMiner
 69.64.54.66:NoTag
@@ -16843,7 +16843,7 @@
 71.60.146.138:tor
 71.79.166.226:tor
 71.84.116.82:tor
-72.11.156.201:encrypted GuLoader
+72.11.156.201:GuLoader
 72.14.179.10:tor
 72.167.47.69:tor
 72.2.129.156:tor
@@ -16900,7 +16900,7 @@
 74.215.154.5:tor
 74.48.21.180:tor
 74.48.220.106:tor
-74.50.64.172:Mirai shellscript
+74.50.64.172:Mirai
 74.50.98.172:tor
 74.50.99.117:tor
 74.63.194.162:tor
@@ -16945,7 +16945,7 @@
 77.10.85.32:tor
 77.105.107.21:tor
 77.105.146.42:tor
-77.105.147.129:android banking HookBot Pegasus trojan
+77.105.147.129:banking HookBot Pegasus trojan
 77.109.112.114:tor
 77.109.152.148:tor
 77.109.152.87:tor
@@ -16994,7 +16994,7 @@
 77.237.246.219:tor
 77.237.29.219:NoTag
 77.237.52.14:tor
-77.238.241.33:Mirai x86-32
+77.238.241.33:Mirai
 77.238.243.128:tor
 77.253.223.171:tor
 77.3.104.166:tor
@@ -17032,7 +17032,7 @@
 77.68.24.30:NoTag
 77.68.30.104:tor
 77.68.34.193:NoTag
-77.68.37.125:kaiji shellscript
+77.68.37.125:kaiji
 77.68.67.193:tor
 77.70.95.84:Hajime
 77.73.69.128:tor
@@ -17293,7 +17293,7 @@
 79.57.55.162:tor
 79.57.55.165:tor
 79.57.55.166:tor
-8.210.106.29:apk ready.apk Spynote ua-wget
+8.210.106.29:ready.apk Spynote ua-wget
 8.217.250.82:NoTag
 8.217.60.148:stub
 8.42.76.68:tor
@@ -17384,7 +17384,7 @@
 81.17.60.24:tor
 81.171.17.167:tor
 81.182.184.141:Mirai Mozi
-81.182.189.101:arm Mirai Mozi
+81.182.189.101:Mirai Mozi
 81.182.253.73:tor
 81.2.191.169:tor
 81.2.191.34:tor
@@ -17460,7 +17460,7 @@
 82.168.32.82:tor
 82.168.62.152:tor
 82.172.182.1:tor
-82.176.77.143:apk c2 L3mon Manager ua-wget
+82.176.77.143:c2 L3mon Manager ua-wget
 82.196.11.10:tor
 82.197.160.67:tor
 82.197.68.240:Mirai Moobot
@@ -17539,7 +17539,7 @@
 83.220.108.132:NoTag
 83.220.248.39:Mirai
 83.222.138.227:tor
-83.229.69.242:32 arm intel Mirai renesas script shellscript
+83.229.69.242:Mirai renesas
 83.24.8.216:Hajime
 83.243.88.65:Hajime
 83.249.23.51:tor
@@ -17678,7 +17678,7 @@
 84.240.60.234:tor
 84.242.17.18:tor
 84.245.205.181:tor
-84.247.154.81:32 AsyncRAT
+84.247.154.81:AsyncRAT
 84.247.160.4:tor
 84.247.164.52:tor
 84.247.164.64:tor
@@ -17709,7 +17709,7 @@
 84.54.51.234:NoTag
 84.54.51.237:tor
 84.54.51.45:NoTag
-84.54.51.51:ascii
+84.54.51.51:NoTag
 84.54.51.61:tor
 84.54.51.64:tor
 84.54.51.68:tor
@@ -17767,14 +17767,14 @@
 85.195.253.142:tor
 85.197.41.130:tor
 85.203.39.232:tor
-85.203.4.146:Backdoor FormBook xworm
+85.203.4.146:Backdoor FormBook
 85.208.144.164:tor
 85.208.69.66:tor
 85.209.133.104:Mirai
 85.209.133.112:tor
-85.209.133.178:32 arm Mirai motorola powerpc x86-32
+85.209.133.178:Mirai
 85.209.133.18:malware PureLogStealer trojan vbs VenomRAT
-85.209.133.29:x86-32
+85.209.133.29:NoTag
 85.209.46.236:tor
 85.209.49.222:tor
 85.209.50.10:tor
@@ -17797,7 +17797,7 @@
 85.215.114.1:tor
 85.215.145.68:tor
 85.215.149.148:tor
-85.215.151.215:shellscript
+85.215.151.215:NoTag
 85.215.153.202:tor
 85.215.160.111:tor
 85.215.160.128:tor
@@ -17829,7 +17829,7 @@
 85.238.86.161:tor
 85.239.240.244:AsyncRAT
 85.239.34.239:tor
-85.239.34.249:32 arm Mirai sparc
+85.239.34.249:Mirai sparc
 85.239.34.24:tor
 85.239.34.47:tor
 85.239.34.6:tor
@@ -17901,7 +17901,7 @@
 86.209.134.2:tor
 86.221.95.134:NoTag
 86.38.173.89:Hajime
-86.38.225.41:encrypted GuLoader
+86.38.225.41:GuLoader
 86.56.60.83:tor
 86.59.21.163:tor
 86.86.126.113:tor
@@ -18119,7 +18119,7 @@
 89.116.106.121:tor
 89.116.211.166:tor
 89.116.25.73:tor
-89.116.27.36:apk HookBot
+89.116.27.36:HookBot
 89.117.145.38:tor
 89.12.102.235:tor
 89.12.115.250:tor
@@ -18220,7 +18220,7 @@
 89.36.231.240:tor
 89.39.105.55:tor
 89.39.161.241:tor
-89.41.26.147:encrypted GuLoader RAT RemcosRAT
+89.41.26.147:GuLoader RAT RemcosRAT
 89.44.198.196:tor
 89.44.198.199:tor
 89.45.184.119:tor
@@ -18314,7 +18314,7 @@
 91.132.147.156:tor
 91.132.147.168:tor
 91.132.223.206:tor
-91.134.30.137:ascii
+91.134.30.137:NoTag
 91.135.247.171:Mozi
 91.135.7.214:tor
 91.138.255.158:Mozi
@@ -18413,7 +18413,7 @@
 91.218.194.227:tor
 91.218.195.198:tor
 91.218.20.104:tor
-91.219.150.148:gafgyt shellscript
+91.219.150.148:gafgyt
 91.219.236.101:tor
 91.219.236.77:tor
 91.219.237.160:tor
@@ -18429,7 +18429,7 @@
 91.22.177.89:tor
 91.22.187.136:tor
 91.221.243.173:Mozi
-91.222.173.186:DarkGate ps1 zip
+91.222.173.186:DarkGate
 91.222.78.56:Mirai Mozi
 91.223.82.135:tor
 91.223.82.197:tor
@@ -18447,8 +18447,8 @@
 91.237.156.246:Hajime
 91.242.241.78:tor
 91.244.197.76:tor
-91.245.255.25:encrypted GuLoader
-91.245.255.78:encrypted GuLoader RAT RemcosRAT
+91.245.255.25:GuLoader
+91.245.255.78:GuLoader RAT RemcosRAT
 91.245.255.87:tor
 91.250.81.52:tor
 91.33.88.108:tor
@@ -18504,13 +18504,13 @@
 91.7.45.221:tor
 91.7.45.93:tor
 91.89.218.178:tor
-91.90.195.152:7z lumma
+91.90.195.152:lumma
 91.92.109.126:tor
 91.92.109.43:tor
 91.92.214.214:Hajime
 91.92.240.17:Mirai
-91.92.240.229:gafgyt shellscript
-91.92.243.11:64-bit x86-64
+91.92.240.229:gafgyt
+91.92.243.11:NoTag
 91.92.244.14:tor
 91.92.245.192:CoinMiner diamorphine
 91.92.247.182:Mirai
@@ -18520,7 +18520,7 @@
 91.92.249.26:kryptik Powershell
 91.92.250.185:kryptik Powershell
 91.92.252.201:NoTag
-91.92.252.211:32 64 arm intel Mirai motorola renesas script
+91.92.252.211:Mirai renesas
 91.92.253.182:AsyncRAT
 91.92.254.84:tor
 91.96.113.241:tor
@@ -18657,8 +18657,8 @@
 93.122.207.3:NoTag
 93.123.12.112:tor
 93.123.53.204:Hajime
-93.123.85.120:32 64 arm bashlite gafgyt intel Mirai motorola powerpc renesas sparc
-93.123.85.153:Mirai shellscript
+93.123.85.120:gafgyt Mirai renesas sparc
+93.123.85.153:Mirai
 93.127.251.14:tor
 93.131.155.0:tor
 93.131.208.93:tor
@@ -18833,15 +18833,15 @@
 94.143.137.213:tor
 94.154.159.96:tor
 94.155.21.35:tor
-94.156.144.79:gafgyt shellscript
+94.156.144.79:gafgyt
 94.156.175.120:tor
 94.156.175.85:tor
 94.156.175.86:tor
 94.156.64.211:Meduza
 94.156.64.34:Mirai
 94.156.66.194:Mirai
-94.156.66.201:Mirai shellscript
-94.156.67.181:32 arm gafgyt Mirai shellscript
+94.156.66.201:Mirai
+94.156.67.181:gafgyt Mirai
 94.156.67.241:gafgyt Mirai Moobot
 94.156.67.48:dropped-by-PrivateLoader Stealc
 94.156.68.134:AsyncRAT QuasarRAT RemcosRAT
@@ -18851,23 +18851,23 @@
 94.156.69.121:Mirai
 94.156.69.246:AsyncRAT RemcosRAT
 94.156.69.28:Mirai
-94.156.71.108:Mirai shellscript
-94.156.79.114:android banking HookBot Pegasus trojan
+94.156.71.108:Mirai
+94.156.79.114:banking HookBot Pegasus trojan
 94.156.79.153:Mirai
-94.156.79.214:encrypted GuLoader
+94.156.79.214:GuLoader
 94.156.79.216:AsyncRAT
-94.156.8.169:Mirai shellscript
-94.156.8.175:ascii
-94.156.8.185:64-bit gafgyt Mirai shellscript x86-64
-94.156.8.192:Mirai shellscript
+94.156.8.169:Mirai
+94.156.8.175:NoTag
+94.156.8.185:gafgyt Mirai
+94.156.8.192:Mirai
 94.156.8.210:AgentTesla
-94.156.8.215:32 arm intel Mirai motorola powerpc renesas
+94.156.8.215:Mirai renesas
 94.156.8.229:dropped-by-smokeloader RedLineStealer
-94.156.8.241:shellscript
-94.156.8.30:shellscript
+94.156.8.241:NoTag
+94.156.8.30:NoTag
 94.156.8.62:gafgyt Mirai
 94.156.8.78:Mirai
-94.156.8.95:32 arm intel Mirai powerpc renesas x86-32
+94.156.8.95:Mirai renesas
 94.158.246.117:tor
 94.16.104.103:tor
 94.16.104.159:tor
@@ -19016,7 +19016,7 @@
 95.164.46.204:tor
 95.166.12.135:tor
 95.168.173.143:tor
-95.174.91.180:shellscript
+95.174.91.180:NoTag
 95.176.170.182:tor
 95.176.171.51:tor
 95.176.183.80:tor
@@ -19032,7 +19032,7 @@
 95.211.210.72:tor
 95.211.244.28:tor
 95.211.4.174:tor
-95.214.177.122:apk ready.apk Spynote
+95.214.177.122:ready.apk Spynote
 95.214.52.187:tor
 95.214.53.96:tor
 95.214.55.202:attack shell TomcatByPass 
@@ -19169,7 +19169,7 @@
 97.128.20.194:Mirai Mozi
 97.128.53.8:Mirai Mozi
 97.128.58.86:Mirai Mozi
-97.128.6.156:arm Mirai Mozi
+97.128.6.156:Mirai Mozi
 97.155.130.251:Mozi
 98.115.184.252:tor
 98.115.87.163:tor
