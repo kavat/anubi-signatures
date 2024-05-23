@@ -97,7 +97,7 @@
 103.180.149.83:Mirai
 103.183.115.241:GuLoader
 103.186.117.125:doc
-103.186.117.66:doc opendir RemcosRAT
+103.186.117.66:doc  RemcosRAT
 103.195.236.98:32 arm bashlite gafgyt
 103.242.106.35:arm Mirai Mozi
 103.242.106.45:arm Mirai Mozi
@@ -120,7 +120,7 @@
 103.96.128.3:NoTag
 104.167.221.222:gafgyt Mirai
 104.205.218.9:Mirai Mozi
-104.218.236.114:ascii doc Encoded opendir RAT RemcosRAT vbs
+104.218.236.114:ascii doc Encoded  RAT RemcosRAT vbs
 104.218.48.107:Mirai
 104.223.6.51:encrypted GuLoader
 104.243.46.182:32 Mirai sparc
@@ -143,9 +143,9 @@
 107.161.81.150:AsyncRAT
 107.173.4.15:NoTag
 107.173.4.5:AgentTesla ascii Encoded vbs
-107.174.212.6:doc opendir vbs
+107.174.212.6:doc  vbs
 107.174.212.74:doc FormBook
-107.175.202.154:doc opendir RAT RemcosRAT vbs
+107.175.202.154:doc  RAT RemcosRAT vbs
 107.175.242.91:32 arm intel Mirai motorola powerpc renesas sparc
 107.175.3.10:32 Neshta
 107.175.3.29:Mirai
@@ -3088,7 +3088,7 @@
 163.125.248.170:Mozi
 163.142.91.110:Mozi
 163.197.211.60:Supershell
-163.5.169.28:AsyncRAT opendir VenomRAT
+163.5.169.28:AsyncRAT  VenomRAT
 163.5.64.74:NoTag
 164.163.25.189:arm Mirai Mozi
 164.163.25.241:Mirai Mozi
@@ -3117,7 +3117,7 @@
 172.105.176.100:Mirai
 172.233.242.230:Mirai
 172.234.120.102:ua-wget
-172.234.217.97:ascii doc Encoded opendir RAT RemcosRAT vbs
+172.234.217.97:ascii doc Encoded  RAT RemcosRAT vbs
 172.234.224.39:ascii doc Encoded RAT RemcosRAT vbs
 172.245.135.142:doc vbs
 172.245.191.107:doc RAT RemcosRAT vbs
@@ -3854,7 +3854,7 @@
 204.76.203.131:Mirai
 204.76.203.96:Mirai
 206.189.32.250:Mirai
-207.246.70.132:a2x ascii Autoit opendir
+207.246.70.132:a2x ascii Autoit 
 209.126.7.24:AsyncRAT Meterpreter
 209.42.55.230:NoTag
 210.10.179.5:Mozi
@@ -4314,7 +4314,7 @@
 23.224.176.63:Mirai
 23.94.0.126:CobaltStrike spyware
 23.94.182.87:Supershell
-23.94.206.104:doc GuLoader opendir
+23.94.206.104:doc GuLoader 
 23.94.62.136:Supershell
 24.104.223.95:Mozi
 24.121.20.254:Mozi
@@ -5927,7 +5927,7 @@
 64.64.152.242:NoTag
 64.91.76.97:NoTag
 65.132.139.90:NoTag
-66.103.197.74:Mirai opendir
+66.103.197.74:Mirai 
 66.198.199.18:NoTag
 66.23.130.238:Mozi
 66.23.131.29:Mozi
@@ -5938,7 +5938,7 @@
 69.142.178.141:NoTag
 69.87.234.27:Mozi
 70.166.93.213:NoTag
-70.34.197.128:doc opendir RAT RemcosRAT vbs
+70.34.197.128:doc  RAT RemcosRAT vbs
 70.34.220.238:doc RAT RemcosRAT
 71.89.182.39:Hajime
 72.11.134.234:encrypted GuLoader
@@ -5994,7 +5994,7 @@
 82.153.138.25:monero miner
 82.156.174.51:exploits
 82.208.21.142:linux marte Shellcode Shelma
-83.143.104.148:doc opendir RAT RemcosRAT vbs
+83.143.104.148:doc  RAT RemcosRAT vbs
 83.167.105.77:Hajime
 83.249.245.195:Mozi
 84.32.189.74:
@@ -6030,7 +6030,7 @@
 91.138.255.165:Mozi
 91.161.105.28:Mirai
 91.206.178.118:Stealc
-91.215.85.223:opendir ps1 zgRAT
+91.215.85.223: ps1 zgRAT
 91.228.218.79:NoTag
 91.244.172.63:Mozi
 91.92.240.138:Mirai
@@ -6144,7 +6144,7 @@
 95.134.44.234:Mozi
 95.153.254.32:Mozi
 95.164.63.54:DarkGate
-95.216.228.224:apk opendir spyware
+95.216.228.224:apk  spyware
 95.32.145.135:Mozi
 95.32.148.242:Mozi
 95.32.153.79:NoTag

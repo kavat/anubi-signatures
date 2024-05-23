@@ -221,7 +221,7 @@
 103.27.132.69:NoTag
 103.27.202.85:NoTag
 103.28.86.243:Hajime
-103.29.0.182:doc FormBook opendir PureLogStealer
+103.29.0.182:doc FormBook  PureLogStealer
 103.30.85.58:NoTag
 103.38.70.148:NoTag
 103.4.117.30:NoTag
@@ -6736,9 +6736,9 @@
 154.84.212.18:NoTag
 154.9.235.76:Mirai shellscript
 156.146.26.163:Mirai Mozi
-156.245.13.101:Backdoor Cobalt Strike CobaltStrike opendir sliver sliverc2 Spynote
-156.245.13.36:Backdoor Cobalt Strike CobaltStrike opendir sliver sliverc2 Spynote
-156.245.13.61:Backdoor Cobalt Strike CobaltStrike opendir sliver sliverc2 Spynote
+156.245.13.101:Backdoor Cobalt Strike CobaltStrike  sliver sliverc2 Spynote
+156.245.13.36:Backdoor Cobalt Strike CobaltStrike  sliver sliverc2 Spynote
+156.245.13.61:Backdoor Cobalt Strike CobaltStrike  sliver sliverc2 Spynote
 156.247.1.194:Mozi
 156.251.19.79:NoTag
 156.47.241.69:Mozi
@@ -7031,7 +7031,7 @@
 178.206.11.107:Mozi
 178.206.137.22:Mozi
 178.206.47.49:Mozi
-178.208.87.180:encrypted opendir PureLogStealer zip
+178.208.87.180:encrypted  PureLogStealer zip
 178.210.50.116:NoTag
 178.212.49.26:Hajime
 178.212.51.166:NoTag
@@ -8197,7 +8197,7 @@
 185.70.186.153:Stealc
 185.71.69.198:NoTag
 185.76.80.240:Hajime
-185.81.29.119:Meterpreter opendir
+185.81.29.119:Meterpreter 
 185.94.29.111:Mirai shellscript
 186.123.145.25:Mozi
 186.13.143.17:Hajime
@@ -10113,7 +10113,7 @@
 38.83.91.253:arm Mirai Mozi
 38.89.76.175:gafgyt
 38.9.22.21:Mirai Mozi
-39.103.217.92:Bad-Package datacenter FakeWallet opendir threatactor
+39.103.217.92:Bad-Package datacenter FakeWallet  threatactor
 39.144.150.48:NoTag
 39.144.229.131:Mozi
 39.144.229.228:Mozi
@@ -11113,7 +11113,7 @@
 45.13.227.201:Mirai shellscript
 45.131.111.96:Mirai x86-32
 45.133.174.22:ascii doc Encoded Powershell ps1 RAT RemcosRAT
-45.136.48.212:AgentTesla ascii doc Encoded html opendir RAT RemcosRAT
+45.136.48.212:AgentTesla ascii doc Encoded html  RAT RemcosRAT
 45.139.104.69:NoTag
 45.14.191.106:Hajime
 45.141.215.89:NoTag
@@ -11192,7 +11192,7 @@
 46.52.164.170:NoTag
 46.6.7.24:Hajime
 46.99.218.152:NoTag
-47.111.180.75:malware opendir
+47.111.180.75:malware 
 47.116.25.208:marte Shellcode
 47.222.117.185:arm Mirai Mozi
 47.231.98.112:Mozi
@@ -11244,7 +11244,7 @@
 5.39.88.92:NoTag
 5.42.100.119:gafgyt shellscript
 5.42.102.198:gafgyt Mirai
-5.42.64.17:Glupteba opendir Stealc
+5.42.64.17:Glupteba  Stealc
 5.42.66.10:32 dropped-by-PrivateLoader
 5.43.192.207:Mozi
 5.79.223.184:Mozi
@@ -12730,7 +12730,7 @@
 64.140.105.9:NoTag
 64.140.99.97:NoTag
 64.227.166.207:ua-wget
-64.23.173.19:opendir Powershell
+64.23.173.19: Powershell
 64.23.184.83:Mirai
 64.23.189.94:Mirai
 64.89.206.97:Hajime
@@ -12767,7 +12767,7 @@
 67.78.106.21:Mozi
 68.212.242.117:Mozi
 69.28.91.75:dropped-by-PrivateLoader
-69.30.224.166:ascii Encoded encrypted GuLoader opendir
+69.30.224.166:ascii Encoded encrypted GuLoader 
 69.70.215.126:NoTag
 69.71.167.189:NoTag
 70.119.172.226:Hajime
@@ -13102,7 +13102,7 @@
 91.204.226.55:NoTag
 91.205.131.242:Hajime
 91.215.61.181:NoTag
-91.215.85.18:atera-agent cve-2018-8639 hacktool msi opendir PUA
+91.215.85.18:atera-agent cve-2018-8639 hacktool msi  PUA
 91.216.28.112:NoTag
 91.222.239.89:NoTag
 91.228.147.116:Mirai shellscript
@@ -13280,7 +13280,7 @@
 94.156.79.60:Geofenced script ua-wget USA
 94.156.79.64:GuLoader
 94.156.79.77:arm ascii Mirai
-94.156.8.104:bin opendir
+94.156.8.104:bin 
 94.156.8.110:Mirai
 94.156.8.135:32 Mirai sparc
 94.156.8.14:ascii encodeds encrypted GuLoader

@@ -1547,10 +1547,10 @@
 172.113.47.136:Hajime
 172.118.202.233:Hajime
 172.245.142.51:32 RemcosRAT
-172.245.208.126:doc FormBook GuLoader opendir
+172.245.208.126:doc FormBook GuLoader 
 172.245.208.4:NoTag
 172.32.168.71:Mozi
-172.82.128.201:AgentTesla doc opendir
+172.82.128.201:AgentTesla doc 
 172.86.75.98:Amadey
 173.207.157.68:Hajime
 174.18.81.204:Hajime
@@ -1745,7 +1745,7 @@
 180.125.101.131:Hajime
 180.125.208.172:Hajime
 180.177.242.17:Hajime
-180.97.195.158:hfs opendir
+180.97.195.158:hfs 
 181.191.130.34:Mozi
 181.191.130.76:Mozi
 181.191.131.77:Mozi
@@ -1878,7 +1878,7 @@
 191.25.225.39:Mozi
 192.227.183.144:32 AgentTesla
 192.229.221.95:NoTag
-192.3.241.235:AgentTesla AZORult opendir
+192.3.241.235:AgentTesla AZORult 
 193.111.248.62:ascii
 193.116.249.150:Hajime
 193.117.208.148:CobaltStrike Meterpreter
@@ -1905,7 +1905,7 @@
 197.44.210.17:Hajime
 198.12.81.254:32 AgentTesla
 198.46.174.147:NoTag
-198.46.178.135:doc opendir
+198.46.178.135:doc 
 198.98.61.218:32 Mirai sparc
 199.83.103.177:NoTag
 2.155.31.122:Hajime
@@ -2408,10 +2408,10 @@
 23.225.35.236:NoTag
 23.225.35.237:NoTag
 23.225.35.238:NoTag
-23.227.196.27:Loki opendir
+23.227.196.27:Loki 
 23.88.35.65:gafgyt Mirai shellscript
 23.94.0.77:CobaltStrike
-23.94.239.93:doc opendir RAT RemcosRAT vbs
+23.94.239.93:doc  RAT RemcosRAT vbs
 23.95.235.86:NoTag
 24.144.70.95:32 LummaStealer
 27.106.179.129:Mozi
@@ -3024,7 +3024,7 @@
 85.130.205.97:Hajime
 85.130.238.118:Hajime
 85.130.78.68:Hajime
-85.195.105.118:doc opendir RAT RemcosRAT
+85.195.105.118:doc  RAT RemcosRAT
 85.209.176.216:dropped-by-PrivateLoader RedLineStealer
 85.209.176.46:cloudeye encrypted GuLoader
 85.209.176.59:32 N-W0rm
@@ -3094,7 +3094,7 @@
 91.92.251.244:encrypted GuLoader
 91.92.253.11:32 AgentTesla doc FormBook hta
 91.92.253.122:xworm
-91.92.253.236:32 AgentTesla doc opendir
+91.92.253.236:32 AgentTesla doc 
 91.92.253.245:AgentTesla js
 91.92.253.29:AgentTesla
 91.92.254.27:AgentTesla ascii Encoded

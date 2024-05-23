@@ -128,15 +128,15 @@
 103.109.37.35:Mirai
 103.178.229.177:Mirai
 103.178.229.186:Mirai
-103.183.114.5:AgentTesla ascii doc Encoded opendir vbs
-103.186.65.80:doc GuLoader opendir RAT RemcosRAT
+103.183.114.5:AgentTesla ascii doc Encoded  vbs
+103.186.65.80:doc GuLoader  RAT RemcosRAT
 103.238.234.86:NoTag
 103.252.90.105:script
-103.30.10.177:Loki opendir
-103.30.11.15:Loki opendir
-103.39.124.209:Loki opendir
+103.30.10.177:Loki 
+103.30.11.15:Loki 
+103.39.124.209:Loki 
 103.67.197.87:Mirai
-103.72.68.128:opendir
+103.72.68.128:
 103.77.240.208:Mirai
 104.131.2.131:ascii Mirai x86-32
 104.168.24.242:gafgyt
@@ -149,8 +149,8 @@
 106.111.46.234:Hajime
 106.111.49.136:Hajime
 106.41.28.62:NoTag
-107.172.31.18:AgentTesla FormBook opendir
-107.173.4.18:AgentTesla opendir
+107.172.31.18:AgentTesla FormBook 
+107.173.4.18:AgentTesla 
 107.174.93.107:Mirai
 107.175.3.22:AgentTesla
 107.185.244.88:Hajime
@@ -615,14 +615,14 @@
 14.52.138.39:Hajime
 140.82.31.164:Pikabot tr
 141.98.10.13:FormBook
-141.98.10.49:FormBook opendir
+141.98.10.49:FormBook 
 141.98.10.55:Mirai
 141.98.10.80:ascii
 141.98.11.22:NoTag
 141.98.16.185:Mirai
 141.98.24.40:32 Mirai sparc
 141.98.6.169:32 arm bashlite gafgyt intel motorola powerpc renesas sparc
-141.98.6.91:AgentTesla ascii doc Encoded opendir RAT vbs zgRAT
+141.98.6.91:AgentTesla ascii doc Encoded  RAT vbs zgRAT
 141.98.7.241:NoTag
 142.11.196.42:NoTag
 143.92.58.180:32 Nitol
@@ -728,8 +728,8 @@
 172.105.106.219:Mirai
 172.105.11.91:32 arm intel Mirai motorola powerpc renesas script sparc
 172.105.96.226:Mirai
-172.245.185.28:AgentTesla opendir
-172.245.208.6:FormBook opendir
+172.245.185.28:AgentTesla 
+172.245.208.6:FormBook 
 172.245.244.118:vjw0rm
 172.247.38.213:32 Mirai shellscript sparc
 172.250.4.71:Hajime
@@ -900,7 +900,7 @@
 185.106.94.250:dropped-by-smokeloader Stealc
 185.118.15.13:Hajime
 185.141.78.161:Hajime
-185.147.34.144:AgentTesla doc opendir vbs
+185.147.34.144:AgentTesla doc  vbs
 185.150.191.122:NoTag
 185.150.26.253:Mirai
 185.172.128.69:dropped-by-PrivateLoader
@@ -977,9 +977,9 @@
 191.96.106.40:
 192.142.226.153:
 192.159.99.32:NoTag
-192.3.232.37:doc opendir vbs zgRAT
-192.3.64.154:AgentTesla ascii doc Encoded opendir vbs
-192.3.95.205:FormBook opendir
+192.3.232.37:doc  vbs zgRAT
+192.3.64.154:AgentTesla ascii doc Encoded  vbs
+192.3.95.205:FormBook 
 192.53.122.30:Mirai
 193.111.248.204:ascii
 193.142.146.226:
@@ -1120,7 +1120,7 @@
 213.222.62.225:Hajime
 213.232.114.116:32 dropped-by-smokeloader RaccoonStealer recordbreaker
 216.128.135.12:Pikabot tr ua-curl
-216.238.110.110:hta opendir RaccoonStealer vbs
+216.238.110.110:hta  RaccoonStealer vbs
 216.244.203.129:Mozi
 216.244.203.134:Mozi
 216.244.203.136:Mozi
@@ -1272,7 +1272,7 @@
 23.239.26.165:armv4l armv5l armv6l botnet gafgyt i586 i686 m68k mipsel Mirai powerpc qbot sh4 sparc x86
 23.88.37.159:IcedID tr ua-curl
 23.95.106.3:32 FormBook
-23.95.106.4:AgentTesla opendir
+23.95.106.4:AgentTesla 
 24.112.21.152:Hajime
 24.135.96.42:Hajime
 24.152.38.26:Mirai
@@ -1346,7 +1346,7 @@
 38.25.193.98:Hajime
 38.25.231.139:Hajime
 38.25.247.183:Hajime
-38.255.37.50:Loki opendir
+38.255.37.50:Loki 
 38.92.49.110:32 Mirai sparc
 39.39.24.24:Mozi
 39.40.243.190:Mozi
@@ -1457,7 +1457,7 @@
 45.66.230.22:32 64 AgentTesla NanoCore
 45.76.233.103:Pikabot
 45.77.121.232:
-45.79.191.142:doc docx Loki opendir
+45.79.191.142:doc docx Loki 
 45.81.39.10:Mirai
 45.81.39.123:AgentTesla
 45.81.39.44:script
@@ -1474,9 +1474,9 @@
 46.12.68.243:Hajime
 46.12.91.69:Hajime
 46.120.68.95:Hajime
-46.183.221.4:Loki opendir
-46.183.221.87:Loki opendir
-46.183.223.121:Loki opendir
+46.183.221.4:Loki 
+46.183.221.87:Loki 
+46.183.223.121:Loki 
 46.209.250.68:NoTag
 46.237.87.18:Hajime
 46.238.228.206:Hajime
@@ -1607,7 +1607,7 @@
 65.108.145.212:Pikabot tr ua-curl
 65.108.81.144:Pikabot tr ua-curl
 65.20.77.120:recordbreaker
-66.228.35.206:Loki opendir
+66.228.35.206:Loki 
 66.42.96.41:Pikabot tr ua-curl
 66.84.120.109:Hajime
 67.1.162.40:Hajime
@@ -1709,7 +1709,7 @@
 83.34.129.4:Hajime
 83.4.98.199:Hajime
 84.2.251.137:Hajime
-84.38.129.114:Loki opendir
+84.38.129.114:Loki 
 84.54.50.57:gafgyt Mirai
 84.54.50.80:Mirai
 84.54.51.66:Mirai
@@ -1781,7 +1781,7 @@
 93.91.152.226:Hajime
 94.130.186.149:Stealc
 94.156.102.245:NoTag
-94.156.253.128:AgentTesla ascii doc Encoded opendir vbs
+94.156.253.128:AgentTesla ascii doc Encoded  vbs
 94.156.6.158:AgentTesla encrypted GuLoader
 94.156.6.33:32 64 arm intel Mirai motorola powerpc renesas script sparc
 94.156.6.92:x86-32

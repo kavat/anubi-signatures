@@ -112,7 +112,7 @@
 103.245.236.188:Mirai
 103.28.32.56:Mirai shellscript
 103.67.196.50:Mirai shellscript
-103.68.85.20:FormBook opendir
+103.68.85.20:FormBook 
 103.74.100.192:Mirai
 103.77.240.62:Mirai
 104.168.169.49:encrypted GuLoader
@@ -154,7 +154,7 @@
 107.172.31.179:doc FormBook
 107.172.4.162:AgentTesla doc
 107.175.113.207:AgentTesla script vbs
-107.175.243.133:AgentTesla doc opendir
+107.175.243.133:AgentTesla doc 
 109.107.178.133:recordbreaker
 109.107.181.113:dropped-by-PrivateLoader
 109.107.181.33:Stealc
@@ -1470,7 +1470,7 @@
 172.232.172.123:NoTag
 172.232.172.53:doc RAT RemcosRAT vbs
 172.232.189.7:doc RAT RemcosRAT vbs
-172.245.208.28:doc FormBook opendir
+172.245.208.28:doc FormBook 
 172.245.208.3:doc vbs
 172.43.123.196:Mozi
 172.96.14.41:encrypted GuLoader
@@ -1879,8 +1879,8 @@
 192.243.61.225:IP_addresses_hosting_campaign_entry_point
 192.243.61.227:IP_addresses_hosting_campaign_entry_point
 192.252.183.116:CoinMiner Ivanti Mirai RCE
-192.3.176.145:doc FormBook opendir
-192.3.176.151:AgentTesla doc opendir
+192.3.176.145:doc FormBook 
+192.3.176.151:AgentTesla doc 
 192.3.179.145:doc vbs
 192.99.190.119:NoTag
 193.111.248.58:ascii Mirai
@@ -1889,7 +1889,7 @@
 193.233.132.152:recordbreaker
 193.233.132.160:CoinMiner
 193.34.167.245:NoTag
-193.35.18.38:opendir Ransomware unknown
+193.35.18.38: Ransomware unknown
 193.35.18.50:Mirai
 194.33.191.248:194-33-191-248--7287 AsyncRAT VenomRAT
 194.48.250.103:NoTag
@@ -1907,7 +1907,7 @@
 196.210.93.161:Hajime
 196.218.213.141:Hajime
 196.218.64.83:Hajime
-198.12.81.138:doc Encoded opendir RemcosRAT vbs
+198.12.81.138:doc Encoded  RemcosRAT vbs
 198.12.89.27:AveMariaRAT doc RAT
 198.71.48.95:Mirai
 2.180.17.57:Hajime
@@ -2406,8 +2406,8 @@
 27.77.33.137:Hajime
 3.144.135.247:NoTag
 31.166.236.120:Mozi
-31.192.107.163:FormBook GuLoader opendir
-31.192.107.164:GuLoader Loki opendir
+31.192.107.163:FormBook GuLoader 
+31.192.107.164:GuLoader Loki 
 36.104.223.66:Hajime
 36.234.250.103:Hajime
 36.234.70.181:Hajime

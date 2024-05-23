@@ -161,7 +161,7 @@
 103.159.64.186:shellscript
 103.16.69.107:Mirai Mozi
 103.161.181.149:Mirai
-103.167.85.37:Loki opendir
+103.167.85.37:Loki 
 103.170.179.162:Mozi
 103.173.157.210:32 arm Mirai powerpc
 103.177.185.167:Mozi
@@ -235,8 +235,8 @@
 103.87.25.138:Mozi
 103.91.19.129:Mozi
 103.94.236.251:Mirai Mozi
-104.144.152.48:opendir SnakeKeylogger
-104.168.32.152:32 doc opendir RTF SnakeKeylogger UNIBO
+104.144.152.48: SnakeKeylogger
+104.168.32.152:32 doc  RTF SnakeKeylogger UNIBO
 104.168.45.119:AgentTesla
 104.225.129.103:NoTag
 104.225.129.162:dll Geofenced obama240 Qakbot qbot Quakbot USA
@@ -311,7 +311,7 @@
 109.195.127.139:Mozi
 109.206.240.137:Mirai
 109.206.240.177:Mirai
-109.206.240.194:FormBook GuLoader opendir
+109.206.240.194:FormBook GuLoader 
 109.206.240.231:x86-32
 109.206.240.49:gafgyt Mirai shellscript
 109.206.240.64:remcos RemcosRAT
@@ -5245,7 +5245,7 @@
 157.211.17.214:Mirai Mozi
 157.211.23.4:Mozi
 157.211.67.221:Mozi
-157.245.157.93:opendir
+157.245.157.93:
 157.254.195.116:Rhadamanthys
 159.196.104.193:Mozi
 159.196.251.50:Mozi
@@ -5412,7 +5412,7 @@
 171.83.186.7:arm Mozi
 171.83.200.41:Mirai Mozi
 172.174.176.153:NoTag
-172.245.142.41:opendir RAT RemcosRAT
+172.245.142.41: RAT RemcosRAT
 172.32.173.72:NoTag
 172.32.50.83:NoTag
 172.32.61.80:Mozi
@@ -6670,18 +6670,18 @@
 183.82.120.145:arm Mirai Mozi
 183.92.205.187:arm Mirai Mozi
 185.104.195.95:dll obama235 Qakbot qbot Quakbot
-185.106.93.237:opendir
+185.106.93.237:
 185.117.74.19:32 arm intel Mirai powerpc
 185.163.45.94:32 arm intel Mirai motorola powerpc renesas shellscript sparc
 185.17.0.54:dropped-by-amadey
 185.183.98.135:Autoit ps1
 185.198.59.109:NoTag
 185.209.29.94:Geofenced Kinsing USA
-185.222.57.80:AgentTesla opendir
+185.222.57.80:AgentTesla 
 185.224.83.16:DoNot
 185.231.204.245:dll obama237 Qakbot
 185.254.37.25:Mirai x86-32
-185.29.8.109:Loki opendir
+185.29.8.109:Loki 
 185.49.106.166:Mozi
 185.97.133.62:Mozi
 186.235.186.146:Mirai Mozi
@@ -6758,12 +6758,12 @@
 191.25.251.21:Mozi
 192.12.113.204:Mozi
 192.141.33.128:Mozi
-192.210.160.253:Loki opendir
+192.210.160.253:Loki 
 192.210.175.124:NoTag
 192.210.175.18:Loki
 192.3.111.150:64-bit x86-64
-192.3.223.114:doc Loki opendir
-192.3.27.140:AgentTesla Dofoil encrypted opendir purecrypter Smoke Loader
+192.3.223.114:doc Loki 
+192.3.27.140:AgentTesla Dofoil encrypted  purecrypter Smoke Loader
 193.0.179.30:agenziaentrate BITS Geofenced Gozi isfb ITA Ursnif
 193.108.200.79:Mirai
 193.138.195.211:32 OrcusRAT
@@ -6814,7 +6814,7 @@
 196.92.141.202:Mozi
 198.12.70.38:Mirai
 198.44.140.32:dll Geofenced obama240 Qakbot qbot Quakbot USA
-198.46.174.170:AgentTesla opendir
+198.46.174.170:AgentTesla 
 198.46.178.147:NoTag
 198.98.54.27:gafgyt
 2.140.113.160:Mirai Mozi
@@ -6911,7 +6911,7 @@
 212.87.204.248:32 intel Mirai x86-32
 213.134.230.164:Hajime
 213.169.148.78:dll obama237 Qakbot
-213.170.133.222:Dofoil encrypted opendir Smoke Loader
+213.170.133.222:Dofoil encrypted  Smoke Loader
 216.120.201.100:dll obama237 Qakbot
 216.146.25.26:dll Geofenced obama240 Qakbot qbot Quakbot USA
 217.105.11.181:Mozi
@@ -7849,10 +7849,10 @@
 23.88.122.134:dll Stealc
 23.94.148.100:AgentTesla
 23.94.148.10:Dofoil Smoke Loader
-23.94.96.9:AgentTesla opendir
+23.94.96.9:AgentTesla 
 23.94.99.117:SnakeKeylogger
 23.94.99.5:AgentTesla
-23.95.122.240:opendir SnakeKeylogger
+23.95.122.240: SnakeKeylogger
 24.139.217.22:NoTag
 24.162.172.35:Mozi
 24.167.153.171:Hajime
@@ -9290,8 +9290,8 @@
 5.143.173.40:Mozi
 5.149.158.140:NoTag
 5.159.136.59:Mirai Mozi
-5.178.0.104:ascii Mirai opendir sh
-5.178.0.83:ascii Mirai opendir sh
+5.178.0.104:ascii Mirai  sh
+5.178.0.83:ascii Mirai  sh
 5.180.183.6:Mirai
 5.181.80.149:Mirai
 5.205.149.41:arm Mirai Mozi
@@ -10215,7 +10215,7 @@
 78.189.164.122:Mozi
 78.38.230.218:arm Mozi
 78.85.94.19:Hajime
-79.110.62.142:32 Loki Lokibot opendir RTF
+79.110.62.142:32 Loki Lokibot  RTF
 79.110.62.167:Smoke Loader
 79.126.91.188:Mozi
 79.127.105.161:Mozi
@@ -10246,7 +10246,7 @@
 84.21.172.35:Rhadamanthys
 84.21.172.55:AgentTesla
 84.252.121.57:7z ModiLoader
-84.38.134.58:Loki opendir
+84.38.134.58:Loki 
 84.53.198.255:NoTag
 84.53.216.252:Mozi
 84.54.50.104:Mirai
@@ -10294,12 +10294,12 @@
 91.244.72.85:Mozi
 92.180.166.27:Mozi
 92.250.39.135:Mirai Mozi
-92.52.217.50:AveMariaRAT opendir RAT
+92.52.217.50:AveMariaRAT  RAT
 93.181.197.116:Mozi
 94.130.110.172:NoTag
 94.130.228.214:dropped-by-amadey LaplasClipper RedLineStealer
 94.142.138.10:dll recordbreaker
-94.142.138.116:AuroraStealer opendir
+94.142.138.116:AuroraStealer 
 94.178.60.174:Mozi
 94.198.220.136:Actinum gamaredon hta Primitive Bear Temp.Armageddon Trident Ursa
 94.50.162.98:Mozi

@@ -179,7 +179,7 @@
 103.110.13.45:Mozi
 103.113.155.245:Hajime
 103.129.229.20:Mozi
-103.133.106.39:FormBook opendir
+103.133.106.39:FormBook 
 103.133.124.168:Mozi
 103.136.72.131:Mirai Mozi
 103.138.137.134:Mozi
@@ -190,12 +190,12 @@
 103.148.96.33:Mirai Mozi
 103.151.227.87:arm Mozi
 103.155.30.205:Mozi
-103.155.81.71:doc opendir
+103.155.81.71:doc 
 103.161.176.37:Mirai
 103.161.232.249:Mirai
 103.164.138.86:Mirai
 103.164.240.111:Mozi
-103.170.118.195:Loki opendir
+103.170.118.195:Loki 
 103.170.255.139:FormBook
 103.173.137.79:Mirai Mozi
 103.175.16.13:BUMBLEBEE inst
@@ -216,7 +216,7 @@
 103.221.78.148:Mirai Mozi
 103.221.80.130:Mirai Mozi
 103.227.118.45:Hajime
-103.232.53.243:AgentTesla opendir
+103.232.53.243:AgentTesla 
 103.24.109.23:Mozi
 103.242.156.17:Mozi
 103.245.205.142:Hajime
@@ -339,8 +339,8 @@
 106.60.47.181:Mirai Mozi
 107.167.6.70:Mirai
 107.175.202.148:AgentTesla
-107.175.202.165:AgentTesla opendir
-107.175.202.201:AgentTesla doc opendir
+107.175.202.165:AgentTesla 
+107.175.202.201:AgentTesla doc 
 107.189.29.121:Mirai x86-32
 107.189.8.247:Mirai
 108.188.136.130:Hajime
@@ -5207,7 +5207,7 @@
 141.98.6.81:32 arm intel Mirai motorola powerpc renesas script sparc
 142.11.211.80:AsyncRAT Powershell
 142.93.203.178:Mirai shellscript
-143.198.68.62:opendir sliver
+143.198.68.62: sliver
 144.178.142.143:Hajime
 144.202.39.248:gafgyt
 146.0.36.62:32 64 arm bashlite gafgyt intel motorola powerpc renesas shellscript sparc
@@ -5247,7 +5247,7 @@
 154.13.6.69:Mirai
 154.47.17.180:dll Geofenced obama251 Qakbot Quakbot ua-ps USA
 154.64.225.69:Mirai
-154.91.202.45:doc opendir
+154.91.202.45:doc 
 155.138.132.190:dll GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps
 155.93.177.118:Hajime
 156.247.1.180:Mozi
@@ -5409,8 +5409,8 @@
 171.83.240.59:Mirai Mozi
 171.83.240.97:arm Mirai Mozi
 172.101.79.132:Mozi
-172.245.191.46:ascii FormBook opendir
-172.245.214.178:encrypted FormBook opendir
+172.245.191.46:ascii FormBook 
+172.245.214.178:encrypted FormBook 
 172.32.137.109:NoTag
 172.36.20.240:Mozi
 172.36.54.8:NoTag
@@ -5419,7 +5419,7 @@
 172.43.84.3:NoTag
 172.45.37.207:NoTag
 172.45.37.226:NoTag
-172.81.61.224:dll opendir
+172.81.61.224:dll 
 172.96.137.33:dll Geofenced obama256 Qakbot qbot Quakbot ua-ps USA
 172.97.190.198:Mozi
 172.98.14.94:gafgyt
@@ -6663,7 +6663,7 @@
 183.95.10.212:Mirai Mozi
 183.95.145.187:Mozi
 183.95.4.139:arm Mirai Mozi
-185.106.92.187:opendir Vidar
+185.106.92.187: Vidar
 185.106.92.23:Vidar
 185.106.94.88:NetSupport Powershell RAT RemoteAdmin stager
 185.108.164.118:Hajime
@@ -6884,10 +6884,10 @@
 191.9.219.93:arm Mirai Mozi
 192.210.162.147:32 64 arm intel Mirai motorola powerpc renesas shellscript sparc
 192.227.183.170:dll FormBook
-192.3.101.148:AgentTesla FormBook opendir
+192.3.101.148:AgentTesla FormBook 
 192.3.109.131:AsyncRAT Powershell
-192.3.179.140:FormBook opendir
-192.3.179.147:AgentTesla doc opendir
+192.3.179.140:FormBook 
+192.3.179.147:AgentTesla doc 
 192.3.202.72:AgentTesla
 192.95.55.65:dll Geofenced obama248 Qakbot qbot Quakbot ua-ps USA
 192.99.180.181:AsyncRAT Powershell
@@ -6931,7 +6931,7 @@
 194.87.197.237:gafgyt
 195.178.120.137:AsyncRAT Powershell
 195.178.120.37:Mirai
-195.201.40.91:opendir recordbreaker
+195.201.40.91: recordbreaker
 195.201.81.165:Loader SmokeLoaderPayload
 195.22.237.98:Hajime
 195.58.39.13:Mirai
@@ -6955,7 +6955,7 @@
 198.244.189.90:gafgyt
 198.244.205.7:CoinMiner dll
 198.50.143.1:dll Geofenced obama256 Qakbot Quakbot TA570 USA
-198.58.102.19:ascii Metasploit opendir Powershell ps1
+198.58.102.19:ascii Metasploit  Powershell ps1
 198.98.58.200:32 64 arm intel Mirai motorola powerpc renesas shellscript sparc
 2.140.160.41:Mirai Mozi
 2.142.168.192:Mirai Mozi
@@ -6968,7 +6968,7 @@
 2.94.249.83:Mozi
 20.205.3.43:x86-32
 20.206.70.41:apk Spynote
-20.211.5.151:AsyncRAT opendir VenomRAT
+20.211.5.151:AsyncRAT  VenomRAT
 200.109.57.113:Hajime
 200.110.59.100:Mozi
 200.115.61.137:Hajime
@@ -7010,7 +7010,7 @@
 202.166.220.109:Hajime
 202.178.113.189:Mozi
 202.40.182.11:Hajime
-202.55.132.183:Loki opendir
+202.55.132.183:Loki 
 202.98.71.245:Mozi
 203.115.84.117:Mozi
 203.115.85.176:Mozi
@@ -7075,7 +7075,7 @@
 216.239.78.103:Mozi
 216.239.78.41:Mozi
 216.239.78.66:Mozi
-216.240.140.185:Cobalt Strike opendir
+216.240.140.185:Cobalt Strike 
 218.0.183.14:Mirai Mozi
 218.0.240.117:Mirai Mozi
 218.0.81.223:Mirai
@@ -7893,7 +7893,7 @@
 23.147.226.84:Mirai shellscript
 23.227.202.68:dll Stealc
 23.236.169.237:NoTag
-23.94.148.17:doc opendir
+23.94.148.17:doc 
 23.94.236.79:Mirai
 24.106.91.27:Mirai Mozi
 24.121.33.154:Mozi
@@ -8302,7 +8302,7 @@
 31.163.129.237:Mirai Mozi
 31.170.184.1:Mozi
 31.181.250.254:Mozi
-31.192.235.146:ascii AsyncRAT Encoded hta opendir RAT
+31.192.235.146:ascii AsyncRAT Encoded hta  RAT
 31.208.229.194:Mirai Mozi
 31.209.27.5:Mirai Mozi
 31.214.243.39:Mirai
@@ -8312,7 +8312,7 @@
 31.23.183.86:Mozi
 31.41.244.251:dll Stealc
 31.44.57.7:Hajime
-35.182.32.110:AgentTesla opendir
+35.182.32.110:AgentTesla 
 36.100.16.239:arm Mirai Mozi
 36.100.192.87:Mirai Mozi
 36.100.25.67:arm Mozi
@@ -8558,7 +8558,7 @@
 41.216.182.214:gafgyt Mirai
 42.114.24.87:Hajime
 42.177.105.78:Mozi
-42.194.164.247:ascii opendir sh
+42.194.164.247:ascii  sh
 42.197.129.222:NoTag
 42.224.0.32:Mozi
 42.224.104.230:Mozi
@@ -9105,7 +9105,7 @@
 42.86.111.121:Mozi
 42.87.111.184:Mirai Mozi
 42.98.234.97:arm Mirai Mozi
-43.137.10.95:AsyncRAT opendir
+43.137.10.95:AsyncRAT 
 43.139.212.236:NoTag
 43.153.37.45:32 64 arm bashlite gafgyt powerpc shellscript sparc
 43.154.97.109:NoTag
@@ -9326,7 +9326,7 @@
 51.75.127.173:stealer Stealerium
 51.75.210.218:NoTag
 51.83.193.0:dll Geofenced obama254 Qakbot qbot Quakbot ua-ps USA
-52.41.71.133:FormBook opendir
+52.41.71.133:FormBook 
 57.128.168.187:gafgyt Mirai shellscript
 58.208.109.19:Hajime
 58.208.115.224:Hajime
@@ -10509,7 +10509,7 @@
 61.54.72.149:NoTag
 61.54.72.66:Mozi
 61.7.175.96:Hajime
-62.108.40.105:AZORult opendir
+62.108.40.105:AZORult 
 62.122.96.35:Hajime
 62.211.85.161:Hajime
 62.219.239.154:Hajime

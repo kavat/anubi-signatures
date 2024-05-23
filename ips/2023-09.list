@@ -105,7 +105,7 @@
 103.186.138.27:NoTag
 103.195.7.100:Mirai
 103.195.7.15:32 Mirai sparc
-103.228.126.12:Loki opendir
+103.228.126.12:Loki 
 103.228.126.17:Mirai
 103.237.86.138:encrypted GuLoader RAT RemcosRAT
 103.38.236.46:AsyncRAT StormKitty
@@ -122,8 +122,8 @@
 104.207.132.131:Pikabot zip
 105.156.75.23:Mozi
 105.157.135.0:Mozi
-107.172.75.146:32 FormBook opendir
-107.175.113.216:AgentTesla opendir
+107.172.75.146:32 FormBook 
+107.175.113.216:AgentTesla 
 107.189.4.239:stealer Vidar
 107.191.37.106:Pikabot zip
 108.2.158.69:Hajime
@@ -430,7 +430,7 @@
 151.73.19.166:Mozi
 151.73.59.205:Mozi
 154.27.93.228:Mirai
-154.53.50.79:ascii lnk opendir vbs xworm zip
+154.53.50.79:ascii lnk  vbs xworm zip
 157.230.241.255:Mirai
 157.254.166.232:Mirai
 157.90.161.111:recordbreaker
@@ -688,13 +688,13 @@
 190.206.73.66:Mozi
 192.210.214.76:AgentTesla stealer
 192.241.133.69:ascii
-192.3.101.21:FormBook opendir
-192.3.101.8:FormBook opendir
+192.3.101.21:FormBook 
+192.3.101.8:FormBook 
 192.3.172.208:AZORult GuLoader
-192.3.176.153:AgentTesla opendir
+192.3.176.153:AgentTesla 
 192.3.23.242:FormBook
 192.3.23.247:FormBook
-192.3.95.131:32 AgentTesla opendir
+192.3.95.131:32 AgentTesla 
 193.142.59.12:dropped-by-smokeloader MarsStealer Stealc
 193.168.141.163:Stealc
 193.201.8.110:Stealc
@@ -725,7 +725,7 @@
 196.74.243.227:Hajime
 198.12.89.146:NoTag
 198.244.251.250:AsyncRAT
-198.46.178.152:32 AgentTesla ascii Encoded encrypted hta opendir vbs
+198.46.178.152:32 AgentTesla ascii Encoded encrypted hta  vbs
 198.71.107.194:Hajime
 198.98.58.127:gafgyt
 2.141.148.24:Hajime
@@ -1045,7 +1045,7 @@
 45.15.157.211:Stealc
 45.155.250.218:Stealc
 45.32.222.253:94-228-169-143--2351 DarkGate
-45.42.160.27:opendir
+45.42.160.27:
 45.53.218.26:Hajime
 45.61.153.17:Mirai
 45.61.153.43:Mirai
@@ -1093,7 +1093,7 @@
 5.160.164.167:Hajime
 5.161.188.133:Stealc
 5.180.183.1:32 64 arm bashlite gafgyt intel motorola powerpc renesas script sparc
-5.181.80.77:ascii bash Mirai opendir sh
+5.181.80.77:ascii bash Mirai  sh
 5.181.80.97:script
 5.206.224.174:32 64-bit arm bashlite gafgyt sparc x86-64
 5.206.56.8:Hajime
@@ -1111,8 +1111,8 @@
 5.78.84.125:encrypted GuLoader RAT RemcosRAT
 5.94.126.172:Hajime
 5.95.201.219:Hajime
-50.114.203.104:bat lnk opendir xworm
-50.3.182.140:doc FormBook opendir
+50.114.203.104:bat lnk  xworm
+50.3.182.140:doc FormBook 
 50.38.24.188:Hajime
 51.195.251.9:AsyncRAT
 51.222.69.3:AsyncRAT
@@ -1276,9 +1276,9 @@
 81.161.229.190:script
 81.161.229.211:Mirai
 81.161.229.226:NanoCore
-81.161.229.22:Loki opendir
+81.161.229.22:Loki 
 81.161.229.251:32 arm gafgyt intel Mirai motorola Mozi powerpc renesas script sparc
-81.161.229.96:Loki opendir
+81.161.229.96:Loki 
 81.174.34.108:Hajime
 81.190.161.110:Hajime
 81.26.83.27:Mozi

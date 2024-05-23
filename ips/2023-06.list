@@ -203,8 +203,8 @@
 106.59.209.196:Mozi
 107.151.204.57:32 Redosdru
 107.172.148.208:encrypted FormBook GuLoader
-107.172.148.217:32 encrypte encrypted FormBook GuLoader opendir RTF
-107.175.113.210:opendir
+107.172.148.217:32 encrypte encrypted FormBook GuLoader  RTF
+107.175.113.210:
 107.189.7.145:Mirai
 108.174.195.105:gafgyt shellscript
 108.214.225.79:Hajime
@@ -4423,7 +4423,7 @@
 134.122.135.4:NoTag
 136.35.236.164:Mozi
 137.101.173.20:Mozi
-138.201.159.88:dll opendir recordbreaker
+138.201.159.88:dll  recordbreaker
 139.162.221.59:32 64 arm bashlite gafgyt intel motorola powerpc renesas script
 139.177.188.99:Mirai
 139.177.202.27:gafgyt
@@ -5363,7 +5363,7 @@
 185.161.208.234:NoTag
 185.17.0.226:sh
 185.180.199.41:Mirai
-185.222.58.239:Loki opendir
+185.222.58.239:Loki 
 185.225.74.251:Mirai
 185.225.74.79:Mirai
 185.234.247.16:additional payloads raccoon v2 recordbreaker
@@ -5536,7 +5536,7 @@
 2.38.120.175:Hajime
 2.57.122.117:gafgyt Mirai
 2.59.40.47:ddos-bot
-20.22.239.93:dll opendir
+20.22.239.93:dll 
 20.239.180.4:shellscript
 20.245.14.191:dropped-by-smokeloader
 200.55.90.228:Hajime
@@ -5897,7 +5897,7 @@
 23.243.208.157:Mozi
 23.94.144.13:FormBook
 23.94.148.6:AgentTesla
-23.95.122.102:AgentTesla opendir
+23.95.122.102:AgentTesla 
 24.238.40.18:Mozi
 26.21.194.100:Mozi
 27.106.170.9:Mozi
@@ -6460,7 +6460,7 @@
 45.81.234.229:gafgyt Mirai
 45.81.243.38:32 Mirai shellscript sparc
 45.83.140.48:NoTag
-45.86.229.81:doc encrypted GuLoader opendir RAT RemcosRAT
+45.86.229.81:doc encrypted GuLoader  RAT RemcosRAT
 45.86.61.243:Mirai shellscript
 45.87.153.112:dropped-by-PrivateLoader
 45.9.74.6:dropped-by-PrivateLoader Redline RedLineStealer

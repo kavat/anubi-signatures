@@ -142,7 +142,7 @@
 103.211.56.154:QuasarRAT
 103.228.37.236:Moobot
 103.235.164.130:Mozi
-103.237.87.56:doc FormBook GuLoader opendir RTF
+103.237.87.56:doc FormBook GuLoader  RTF
 103.245.236.120:Mirai
 103.252.93.54:Mirai Moobot script
 103.35.190.189:gafgyt
@@ -173,7 +173,7 @@
 106.56.108.243:Mirai Mozi
 107.170.253.221:NoTag
 107.173.4.9:AgentTesla ascii doc Encoded vbs
-107.175.31.187:ascii Encoded opendir RemcosRAT
+107.175.31.187:ascii Encoded  RemcosRAT
 107.175.69.54:AsyncRAT NjRAT PureLogStealer QuasarRAT RemcosRAT
 107.189.4.242:kaiji Mirai
 107.189.7.6:Mirai
@@ -3421,7 +3421,7 @@
 172.232.8.161:doc RemcosRAT
 172.233.129.114:doc RAT RemcosRAT
 172.245.106.205:gafgyt Mirai
-172.245.208.34:AgentTesla ascii doc Encoded opendir vbs
+172.245.208.34:AgentTesla ascii doc Encoded  vbs
 172.86.66.165:NoTag
 172.93.160.2:encrypted GuLoader
 172.93.189.132:NoTag
@@ -4307,7 +4307,7 @@
 192.165.100.4:Mozi
 192.165.100.59:Mozi
 192.210.215.35:AgentTesla
-192.3.27.134:AgentTesla doc opendir
+192.3.27.134:AgentTesla doc 
 192.3.95.216:AgentTesla vbs
 192.70.90.108:Mozi
 192.70.90.56:Mozi
@@ -4994,7 +4994,7 @@
 23.94.247.42:32 RedLineStealer
 23.95.132.42:Mirai shell
 23.95.235.35:AgentTesla ascii doc Powershell ps1 vbs
-23.95.60.74:AgentTesla doc opendir vbs
+23.95.60.74:AgentTesla doc  vbs
 24.152.49.139:Mozi
 24.199.107.91:64
 24.45.162.245:arm Mirai Mozi
@@ -5170,7 +5170,7 @@
 37.139.129.145:BunnyLoader_1.0_C2
 37.44.238.77:gafgyt Mirai
 37.44.238.80:Mirai
-37.49.228.234:AgentTesla ascii Encoded FormBook hta jar js opendir vbs
+37.49.228.234:AgentTesla ascii Encoded FormBook hta jar js  vbs
 37.52.211.252:Mozi
 37.52.58.40:Mozi
 37.54.241.31:Mozi
@@ -6712,7 +6712,7 @@
 91.92.251.113:hacktool
 91.92.251.119:AsyncRAT Backdoor LimeRAT revershells Win32.Trojan.CryptZMarte
 91.92.251.144:apk Hydra LIMENET
-91.92.251.195:bat binary cmd opendir ps1
+91.92.251.195:bat binary cmd  ps1
 91.92.251.251:32 64 arm bashlite gafgyt intel motorola powerpc renesas sparc
 91.92.251.30:Mirai shell
 91.92.251.34:32 64 arm bashlite gafgyt intel Mirai motorola

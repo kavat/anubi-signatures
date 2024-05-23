@@ -168,7 +168,7 @@
 103.158.217.137:NoTag
 103.158.217.198:Mozi
 103.158.217.72:Mozi
-103.16.225.211:FormBook opendir
+103.16.225.211:FormBook 
 103.163.187.127:32 arm Mirai motorola x86-32
 103.163.215.69:32 arm bashlite gafgyt intel Mirai motorola powerpc script sparc
 103.169.130.250:Mozi
@@ -196,12 +196,12 @@
 103.224.32.215:Mozi
 103.232.245.30:Mozi
 103.239.248.245:Hajime
-103.250.79.174:Loki opendir
+103.250.79.174:Loki 
 103.27.108.62:NoTag
-103.29.3.236:Loki opendir
+103.29.3.236:Loki 
 103.30.67.208:NoTag
-103.37.60.36:Loki opendir
-103.37.60.77:doc Loki opendir
+103.37.60.36:Loki 
+103.37.60.77:doc Loki 
 103.40.197.109:NoTag
 103.40.199.242:Mozi
 103.41.27.213:Mozi
@@ -247,7 +247,7 @@
 103.93.78.142:NoTag
 103.99.9.138:Mozi
 104.156.229.226:NoTag
-104.168.46.25:ascii opendir vbs
+104.168.46.25:ascii  vbs
 104.168.99.21:encrypted GuLoader RAT RemcosRAT
 104.223.20.222:NoTag
 104.234.220.158:32 Mirai sparc
@@ -2528,7 +2528,7 @@
 148.56.48.11:Hajime
 149.5.172.142:32 arm intel Mirai motorola powerpc renesas shellscript sparc
 15.204.210.46:Mirai
-150.158.212.71:Cobalt Strike CobaltStrike hta opendir
+150.158.212.71:Cobalt Strike CobaltStrike hta 
 151.24.3.84:Hajime
 151.242.1.235:Hajime
 151.249.79.24:Hajime
@@ -2549,7 +2549,7 @@
 155.94.136.161:encrypted GuLoader RAT RemcosRAT
 155.94.160.72:NoTag
 155.94.160.95:NoTag
-157.245.47.66:Havoc opendir
+157.245.47.66:Havoc 
 157.245.61.112:Mirai
 158.255.82.112:Mozi
 158.255.82.119:Mozi
@@ -2563,7 +2563,7 @@
 158.255.82.71:Mozi
 159.223.62.82:Mirai
 159.65.114.227:Mirai
-159.89.194.250:CobaltStrike opendir
+159.89.194.250:CobaltStrike 
 16.171.47.83:Redline RedLineStealer
 160.176.19.155:Mozi
 160.177.178.226:Mozi
@@ -2671,7 +2671,7 @@
 172.111.1.111:gafgyt
 172.118.192.186:Hajime
 172.233.221.26:Mirai
-172.245.142.47:doc opendir
+172.245.142.47:doc 
 172.247.38.252:32 arm intel Mirai motorola powerpc renesas shellscript
 172.251.148.93:Hajime
 172.32.30.173:Mozi
@@ -2751,7 +2751,7 @@
 175.9.161.86:Mirai Mozi
 175.9.164.167:arm Mirai Mozi
 175.9.91.64:Mozi
-176.123.1.132:Mirai opendir sliver Tsunami
+176.123.1.132:Mirai  sliver Tsunami
 176.123.2.148:Mirai x86-32
 176.65.232.69:Mozi
 176.82.203.207:Mirai Mozi
@@ -2765,7 +2765,7 @@
 177.212.88.164:Mirai Mozi
 177.26.31.205:Mozi
 178.128.93.82:Mirai
-178.128.98.141:CobaltStrike opendir
+178.128.98.141:CobaltStrike 
 178.131.41.175:Hajime
 178.141.102.168:Mozi
 178.141.104.67:Mozi
@@ -3149,15 +3149,15 @@
 185.224.128.191:Mirai
 185.225.73.31:Mirai
 185.225.73.56:AgentTesla
-185.225.73.86:Loki opendir
+185.225.73.86:Loki 
 185.225.75.151:AgentTesla vbs
 185.225.75.154:dropped-by-PrivateLoader
-185.225.75.194:AgentTesla ascii Encoded opendir
+185.225.75.194:AgentTesla ascii Encoded 
 185.225.75.206:Mirai
 185.225.75.232:32 Mirai sparc
 185.225.75.3:Mirai
 185.225.75.59:Mirai
-185.230.162.77:ModiLoader opendir
+185.230.162.77:ModiLoader 
 185.243.41.209:NoTag
 185.244.51.134:NoTag
 185.253.152.50:32 Mirai sparc
@@ -3236,16 +3236,16 @@
 191.199.166.133:Mirai Mozi
 191.199.224.26:Mirai Mozi
 191.199.254.88:Mozi
-192.210.174.143:ascii opendir Powershell ps1
+192.210.174.143:ascii  Powershell ps1
 192.210.175.4:doc FormBook
-192.210.255.49:FormBook opendir
+192.210.255.49:FormBook 
 192.3.108.47:hta
 192.3.179.157:doc
 192.3.179.161:AgentTesla
-192.3.189.179:doc encrypted GuLoader opendir
-192.3.193.171:FormBook opendir
-192.3.223.26:AgentTesla opendir
-192.3.223.31:Dofoil MarsStealer opendir Smoke Loader
+192.3.189.179:doc encrypted GuLoader 
+192.3.193.171:FormBook 
+192.3.223.26:AgentTesla 
+192.3.223.31:Dofoil MarsStealer  Smoke Loader
 192.74.226.142:NoTag
 192.74.254.229:NoTag
 193.106.250.167:Mirai
@@ -3280,8 +3280,8 @@
 198.2.254.221:NoTag
 198.2.254.222:NoTag
 198.2.254.223:NoTag
-198.23.187.135:ascii opendir vbs
-198.46.176.189:GuLoader opendir
+198.23.187.135:ascii  vbs
+198.46.176.189:GuLoader 
 199.247.0.114:Mirai
 199.247.23.80:NoTag
 199.247.24.9:burix dropped-by-PrivateLoader Redline RedLineStealer
@@ -3869,11 +3869,11 @@
 23.224.78.134:NoTag
 23.254.204.192:NoTag
 23.254.204.229:NoTag
-23.94.148.61:AgentTesla doc opendir
+23.94.148.61:AgentTesla doc 
 23.94.203.97:32 Mirai sparc
-23.94.239.89:ascii opendir vbs
+23.94.239.89:ascii  vbs
 23.95.122.126:AgentTesla
-23.95.128.195:AgentTesla opendir
+23.95.128.195:AgentTesla 
 24.152.37.111:NoTag
 24.206.7.241:Mozi
 26.21.221.234:Mozi
@@ -4356,7 +4356,7 @@
 42.86.141.58:Mozi
 43.154.189.105:32 Gh0stRAT
 43.241.131.202:Mozi
-44.238.8.1:ascii mimikatz opendir Powershell ps1
+44.238.8.1:ascii mimikatz  Powershell ps1
 45.120.16.83:Mozi
 45.128.232.101:Mirai
 45.128.232.104:Mirai
@@ -5335,7 +5335,7 @@
 87.21.170.125:Hajime
 87.4.126.228:Hajime
 88.20.100.226:Hajime
-88.218.61.38:CoinMiner opendir zip
+88.218.61.38:CoinMiner  zip
 88.242.10.106:Mozi
 88.247.26.96:Mozi
 88.7.125.105:Hajime
@@ -5382,7 +5382,7 @@
 94.156.102.248:32 Mirai sparc
 94.156.102.32:Mirai
 94.156.161.167:AgentTesla ascii Encoded vbs
-94.156.253.108:AgentTesla opendir
+94.156.253.108:AgentTesla 
 94.156.253.17:lnk NetSupport RAT
 94.156.253.181:32 Mirai sparc
 94.156.253.193:32 Mirai sparc
@@ -5402,7 +5402,7 @@
 95.134.109.43:Mozi
 95.134.182.231:Mozi
 95.156.176.12:Hajime
-95.179.197.56:doc opendir RemcosRAT
+95.179.197.56:doc  RemcosRAT
 95.214.27.254:32 RedLineStealer
 95.32.125.235:Mozi
 95.32.191.183:Mozi
