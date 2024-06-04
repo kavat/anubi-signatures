@@ -26,22 +26,22 @@
 1.70.133.215:Hajime::
 1.70.138.247:Hajime::
 1.70.14.109:Hajime::
-1.70.14.215:NoTag::
+1.70.14.215:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 1.70.143.149:Hajime::
 1.70.166.19:Hajime::
 1.70.167.43:Hajime::
 1.70.168.127:Hajime::
 1.70.169.30:Hajime::
-1.70.173.129:NoTag::
+1.70.173.129:NoTag:,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 1.70.176.246:Hajime::
 1.70.181.80:Hajime::
 1.70.184.52:Hajime::
 1.70.184.85:Hajime::
-1.70.185.40:NoTag::
+1.70.185.40:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 1.70.191.84:Hajime::
 1.70.85.238:Hajime::
 1.70.9.142:Hajime::
-1.70.9.18:NoTag::
+1.70.9.18:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 1.70.97.115:Hajime::
 1.70.99.209:Hajime::
 1.94.97.137:CobaltStrike Meterpreter::
@@ -51,7 +51,7 @@
 102.33.104.181:Mozi::
 102.33.105.138:Mozi::
 102.33.106.14:Mozi::
-102.33.108.113:NoTag::
+102.33.108.113:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.141.225:Mozi::
 102.33.142.66:Mozi::
 102.33.19.180:Mozi::
@@ -61,61 +61,61 @@
 102.33.33.132:Mozi::
 102.33.34.246:Mozi::
 102.33.35.89:Mozi::
-102.33.36.64:NoTag::
+102.33.36.64:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.37.61:Mozi::
-102.33.38.157:NoTag::
+102.33.38.157:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.38.187:Mozi::
 102.33.38.39:Mozi::
 102.33.39.20:Mozi::
-102.33.39.7:NoTag::
+102.33.39.7:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.40.33:Mozi::
 102.33.40.87:Mozi::
 102.33.42.239:Mozi::
 102.33.45.24:Mozi::
 102.33.47.134:Mozi::
 102.33.47.142:Mozi::
-102.33.64.206:NoTag::
+102.33.64.206:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.65.37:Mozi::
 102.33.66.61:Mozi::
 102.33.68.225:Mozi::
-102.33.71.204:NoTag::
+102.33.71.204:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.76.69:Mozi::
-102.33.77.42:NoTag::
+102.33.77.42:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.78.191:Mozi::
-102.33.83.165:NoTag::
+102.33.83.165:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
 102.33.86.188:Mozi::
 102.33.96.6:Mozi::
 102.85.2.15:Mozi::
 103.106.104.240:miner XMRIG::
-103.147.126.5:NoTag::
+103.147.126.5:NoTag:Data_Center_Web_Hosting_Transit,Dai_Phong_Distribution_Network_Equipment_Joint_Stock_Company,bkns.vn:0
 103.152.134.237:Mozi::
 103.176.111.163:GuLoader RAT RemcosRAT::
-103.219.60.221:NoTag::
+103.219.60.221:NoTag:Data_Center_Web_Hosting_Transit,Outofbox_Networks_Private_Limited,outofbox.cloud:1
 103.239.251.241:Hajime::
 103.240.6.44:Mirai::
 103.253.17.249:AgentTesla::
-103.29.2.134:NoTag::
+103.29.2.134:NoTag:Data_Center_Web_Hosting_Transit,Truong_Nghia_Network_Solution_and_Technology_Company_Limited,httvserver.com:0
 103.29.3.200:FormBook::
-103.30.76.56:NoTag::
+103.30.76.56:NoTag:Data_Center_Web_Hosting_Transit,VH_Global_Limited,vh.net:0
 103.4.44.50:Hajime::
 103.67.163.20:Mirai::
 103.77.172.223:Mirai::
 104.129.27.214:AgentTesla::
 104.167.215.197:Mirai::
-104.230.136.238:NoTag::
-104.244.79.68:NoTag::
+104.230.136.238:NoTag:Fixed_Line_ISP,Charter_Communications_Inc,spectrum.com:27
+104.244.79.68:NoTag:Data_Center_Web_Hosting_Transit,BuyVM,buyvm.net:0
 106.41.27.224:Hajime::
 106.41.56.250:Hajime::
-106.47.24.51:NoTag::
+106.47.24.51:NoTag:,ChinaNet_Tianjin_Province_Network,chinatelecom.com.cn:0
 107.173.143.18:AgentTesla Encoded vbs::
 107.173.229.146:AgentTesla::
-107.175.113.202:NoTag::
+107.175.113.202:NoTag:Data_Center_Web_Hosting_Transit,ColoCrossing,colocrossing.com:0
 107.175.156.139:GuLoader RAT RemcosRAT::
 107.182.128.2:Mirai renesas sparc::
 108.16.86.170:Hajime::
-108.61.219.39:NoTag::
+108.61.219.39:NoTag:Data_Center_Web_Hosting_Transit,Vultr_Holdings_LLC,vultr.com:0
 109.107.182.45:dropped-by-PrivateLoader PrivateLoader RisePro::
-109.107.190.135:NoTag::
+109.107.190.135:NoTag:Fixed_Line_ISP,Teleport+TV_Ltd.,teleport-tv.ru:0
 109.107.77.178:Hajime::
 109.116.234.50:Hajime::
 109.117.91.200:Hajime::
@@ -128,34 +128,34 @@
 110.180.176.33:Hajime::
 110.181.113.220:Hajime::
 110.181.232.229:Hajime::
-110.181.76.204:NoTag::
+110.181.76.204:NoTag:,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.182.100.193:Hajime::
-110.182.118.127:NoTag::
+110.182.118.127:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.182.12.31:Hajime::
 110.182.13.215:Hajime::
 110.182.145.22:Hajime::
 110.182.147.112:Hajime::
-110.182.150.202:NoTag::
+110.182.150.202:NoTag:,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.182.160.148:Hajime::
 110.182.167.116:Hajime::
 110.182.185.201:Hajime::
 110.182.186.5:Hajime::
-110.182.209.151:NoTag::
+110.182.209.151:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.182.224.155:Hajime::
 110.182.225.185:Hajime::
-110.182.239.198:NoTag::
+110.182.239.198:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.182.241.207:Hajime::
 110.182.242.123:Hajime::
 110.182.248.14:Hajime::
 110.182.251.219:Hajime::
 110.182.251.237:Hajime::
 110.182.251.69:Hajime::
-110.182.77.234:NoTag::
+110.182.77.234:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.182.86.236:Hajime::
 110.182.96.15:Hajime::
 110.183.17.56:Hajime::
-110.183.20.99:NoTag::
-110.183.22.37:NoTag::
+110.183.20.99:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
+110.183.22.37:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.183.22.88:Hajime::
 110.183.24.70:Hajime::
 110.183.27.213:Hajime::
@@ -165,16 +165,16 @@
 110.183.55.61:Hajime::
 110.183.57.50:Hajime::
 110.183.57.62:Hajime::
-110.183.58.105:NoTag::
+110.183.58.105:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 110.183.59.74:Hajime::
 110.44.200.155:Hajime::
 110.44.202.120:Hajime::
-111.240.24.169:NoTag::
-111.53.70.147:NoTag::
+111.240.24.169:NoTag:,Chunghwa_Telecom_Co._Ltd.,cht.com.tw:0
+111.53.70.147:NoTag:,China_Mobile_Communications_Corporation,chinamobileltd.com:0
 111.70.31.12:Hajime::
 111.70.31.15:Hajime::
 111.70.31.9:Hajime::
-111.90.146.230:NoTag::
+111.90.146.230:NoTag:Data_Center_Web_Hosting_Transit,Shinjiru_Technology_Sdn_Bhd,shinjiru.com.my:0
 112.115.17.41:Mozi::
 112.135.242.71:Hajime::
 112.163.11.47:Hajime::
@@ -187,10 +187,10 @@
 113.221.24.68:Hajime::
 113.221.26.128:Hajime::
 113.221.26.214:Hajime::
-113.221.27.27:NoTag::
+113.221.27.27:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Hunan_Province_Network,chinatelecom.com.cn:0
 113.221.72.175:Hajime::
 113.237.51.207:Mozi::
-113.24.144.82:NoTag::
+113.24.144.82:NoTag:,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 113.24.151.237:Hajime::
 113.24.157.86:Hajime::
 113.24.165.141:Hajime::
@@ -203,7 +203,7 @@
 113.245.218.229:Mirai Mozi::
 113.245.219.158:Mirai Mozi::
 113.25.131.120:Hajime::
-113.25.218.128:NoTag::
+113.25.218.128:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 113.25.36.16:Hajime::
 113.25.39.230:Hajime::
 113.26.125.45:Hajime::
@@ -212,7 +212,7 @@
 113.26.168.193:Hajime::
 113.26.181.153:Hajime::
 113.26.183.161:Hajime::
-113.26.208.156:NoTag::
+113.26.208.156:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 113.26.215.224:Hajime::
 113.26.229.107:Hajime::
 113.26.233.170:Hajime::
@@ -223,20 +223,20 @@
 113.26.56.142:Hajime::
 113.26.59.100:Hajime::
 113.26.60.41:Hajime::
-113.26.89.32:NoTag::
+113.26.89.32:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 113.26.91.251:Hajime::
 113.26.95.153:Hajime::
-113.26.95.61:NoTag::
+113.26.95.61:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 113.27.35.0:Hajime::
-113.90.13.3:NoTag::
-113.90.13.66:NoTag::
+113.90.13.3:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.90.13.66:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
 113.92.156.81:Mozi::
 114.171.248.67:Hajime::
 114.226.170.65:Hajime::
 114.238.198.24:Mozi::
 114.239.154.105:Hajime::
 114.239.193.195:Hajime::
-114.239.202.167:NoTag::
+114.239.202.167:NoTag:,ChinaNet_Jiangsu_Province_Network,chinatelecom.com.cn:0
 114.239.242.127:Hajime::
 114.239.51.76:Hajime::
 114.32.129.245:Hajime::
@@ -317,15 +317,15 @@
 116.103.228.213:Mirai::
 116.108.92.44:Hajime::
 116.202.189.41:Vidar::
-116.203.165.60:NoTag::
+116.203.165.60:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_GmbH,hetzner.de:0
 116.203.200.249:RedLineStealer::
 116.203.7.211:Vidar::
 116.53.240.190:Mozi::
 116.97.19.48:Hajime::
-117.156.94.41:NoTag::
+117.156.94.41:NoTag:,China_Mobile_Communications_Corporation,chinamobileltd.com:32
 117.82.164.91:Hajime::
 117.91.233.248:Hajime::
-118.107.7.250:NoTag::
+118.107.7.250:NoTag:Data_Center_Web_Hosting_Transit,RackIP_Consultancy_Pte._Ltd.,rackip.com:0
 118.189.63.161:Hajime::
 118.2.31.193:Hajime::
 118.247.104.228:Mozi::
@@ -333,13 +333,13 @@
 118.37.162.141:Hajime::
 118.43.180.143:Hajime::
 118.88.39.150:Hajime::
-119.115.113.171:NoTag::
+119.115.113.171:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Liaoning_Province_Network,chinaunicom.com:0
 119.123.173.121:Mozi::
 119.180.94.144:Mozi::
 119.189.169.60:Mozi::
 119.59.171.235:Mozi::
 119.59.204.42:Mozi::
-120.24.59.15:NoTag::
+120.24.59.15:NoTag:Data_Center_Web_Hosting_Transit,Aliyun_Computing_Co._Ltd,aliyun.com:0
 121.121.78.57:Hajime::
 121.147.74.158:Hajime::
 121.166.181.62:Hajime::
@@ -405,9 +405,9 @@
 124.131.150.9:Mozi::
 124.14.218.55:Mozi::
 124.19.87.165:Mozi::
-124.222.170.30:NoTag::
+124.222.170.30:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:0
 124.234.128.253:Hajime::
-124.234.153.202:NoTag::
+124.234.153.202:NoTag:Fixed_Line_ISP,Jilin_Telecom_Corporation,chinatelecom.com.cn:0
 124.234.157.96:Hajime::
 124.234.184.109:Hajime::
 124.234.184.14:Hajime::
@@ -419,7 +419,7 @@
 124.235.114.176:Hajime::
 124.235.130.169:Hajime::
 124.235.207.167:Hajime::
-124.235.240.140:NoTag::
+124.235.240.140:NoTag:Fixed_Line_ISP,Jilin_Telecom_Corporation,chinatelecom.com.cn:0
 124.235.252.192:Hajime::
 124.235.253.246:Hajime::
 124.42.133.196:Mozi::
@@ -461,14 +461,14 @@
 14.53.66.214:Hajime::
 141.11.159.156:Mirai sparc::
 141.98.10.56:AgentTesla::
-141.98.10.82:NoTag::
+141.98.10.82:NoTag:Data_Center_Web_Hosting_Transit,UAB_Host_Baltic,serveroffer.lt:10
 141.98.7.18:CoinMiner MYTHIC::
 141.98.7.254:Mirai::
-145.239.54.169:NoTag::
+145.239.54.169:NoTag:Data_Center_Web_Hosting_Transit,OVH_SAS,ovh.com:0
 146.19.191.161:gafgyt Mirai renesas sparc::
-146.196.80.168:NoTag::
-146.70.124.102:NoTag::
-146.70.149.61:NoTag::
+146.196.80.168:NoTag:Commercial,HK_Mainstream_Cloud_Network_Technology_Limited,shujuba.net:0
+146.70.124.102:NoTag:Data_Center_Web_Hosting_Transit,M247_Europe_SRL,m247.com:3
+146.70.149.61:NoTag:Data_Center_Web_Hosting_Transit,M247_Europe_SRL,m247.com:0
 146.70.35.211:Loki::
 146.70.35.212:AgentTesla Loki::
 147.12.195.215:Hajime::
@@ -486,7 +486,7 @@
 154.39.239.56:Nitol UPX::
 154.39.250.33:Nitol UPX::
 155.138.142.194:Mirai::
-156.241.86.2:NoTag::
+156.241.86.2:NoTag:Data_Center_Web_Hosting_Transit,Shenzhen_Wanghu_Technology_Co._Ltd.,cloudinnovation.com:0
 157.211.154.108:Mozi::
 157.90.14.132:dropped-by-PrivateLoader::
 158.140.168.180:Hajime::
@@ -501,10 +501,10 @@
 159.205.150.71:Hajime::
 159.223.189.221:NetWire NjRAT QuasarRAT::
 159.65.215.80:Havoc::
-159.65.54.223:NoTag::
+159.65.54.223:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:1
 159.69.145.188:RedLineStealer::
 159.89.50.225:botnet::
-159.89.96.184:NoTag::
+159.89.96.184:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:0
 160.119.156.123:Hajime::
 160.119.156.183:Hajime::
 160.119.156.189:Hajime::
@@ -517,12 +517,12 @@
 163.47.209.166:Hajime::
 163.5.169.23:dropped-by-smokeloader TaurusStealer::
 165.22.83.182:miner XMRIG::
-165.227.134.200:NoTag::
-165.227.63.37:NoTag::
+165.227.134.200:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:0
+165.227.63.37:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:0
 167.235.143.166:Vidar::
-167.99.243.49:NoTag::
+167.99.243.49:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:0
 168.119.154.12:Pikabot ua-curl::
-168.119.173.77:NoTag::
+168.119.173.77:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_GmbH,hetzner.de:0
 170.254.54.243:Mozi::
 170.78.92.249:Mozi::
 171.100.154.39:Hajime::
@@ -540,8 +540,8 @@
 171.95.218.247:Hajime::
 172.245.208.19:FormBook::
 172.245.208.22:AgentTesla::
-172.245.33.131:NoTag::
-172.43.52.58:NoTag::
+172.245.33.131:NoTag:Data_Center_Web_Hosting_Transit,ColoCrossing,colocrossing.com:831
+172.43.52.58:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
 172.81.62.199:dropped-by-smokeloader::
 172.93.164.28:GuLoader::
 172.93.213.9:vbs::
@@ -568,19 +568,19 @@
 175.30.75.99:Hajime::
 175.30.80.175:Hajime::
 175.30.81.95:Hajime::
-175.30.93.75:NoTag::
+175.30.93.75:NoTag:Fixed_Line_ISP,Jilin_Telecom_Corporation,chinatelecom.com.cn:0
 175.31.200.125:Hajime::
 175.31.228.195:Hajime::
 175.31.254.192:Hajime::
 175.41.115.158:Hajime::
-175.9.184.97:NoTag::
+175.9.184.97:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Hunan_Province_Network,chinatelecom.com.cn:0
 176.113.115.213:recordbreaker::
-176.119.195.113:NoTag::
-176.119.195.115:NoTag::
+176.119.195.113:NoTag:Data_Center_Web_Hosting_Transit,IT_Mbuechele_UG_(Haftungsbeschraenkt),itmbuechele.com:0
+176.119.195.115:NoTag:Data_Center_Web_Hosting_Transit,IT_Mbuechele_UG_(Haftungsbeschraenkt),itmbuechele.com:0
 176.123.171.210:Amadey::
-176.124.32.84:NoTag::
+176.124.32.84:NoTag:Data_Center_Web_Hosting_Transit,BlueVPS_Ou,bluevps.com:0
 176.63.142.213:Hajime::
-176.97.210.240:NoTag::
+176.97.210.240:NoTag:Data_Center_Web_Hosting_Transit,TUBE-HOSTING,tube-hosting.de:99
 177.102.243.242:Hajime::
 177.193.58.225:Hajime::
 177.84.222.1:Mozi::
@@ -590,12 +590,12 @@
 178.141.174.170:Mozi::
 178.141.175.184:Mozi::
 178.141.178.126:Mozi::
-178.141.18.176:NoTag::
+178.141.18.176:NoTag:Mobile_ISP,MTS_PJSC,mtsgsm.com:0
 178.141.18.91:Mozi::
 178.141.186.190:Mozi::
 178.141.193.113:Mozi::
 178.141.196.167:Mozi::
-178.141.202.182:NoTag::
+178.141.202.182:NoTag:Mobile_ISP,MTS_PJSC,mtsgsm.com:0
 178.141.204.72:Mozi::
 178.141.212.174:Mozi::
 178.141.224.115:Mozi::
@@ -622,7 +622,7 @@
 179.172.34.128:Mozi::
 179.60.147.176:kratosknife::
 179.61.246.174:dropped-by-smokeloader RedLineStealer::
-18.183.15.88:NoTag::
+18.183.15.88:NoTag:Data_Center_Web_Hosting_Transit,Amazon_Data_Services_Japan,amazon.com:1
 180.106.138.95:Hajime::
 180.115.165.78:Hajime::
 180.115.66.248:Hajime::
@@ -689,41 +689,41 @@
 182.56.218.150:Mirai Mozi::
 182.56.251.61:Mirai Mozi::
 182.56.255.6:Mirai Mozi::
-183.15.205.168:NoTag::
-183.17.145.128:NoTag::
+183.15.205.168:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+183.17.145.128:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
 183.190.202.123:Mozi::
 183.199.46.163:Mozi::
 185.117.91.202:AsyncRAT::
-185.122.204.197:NoTag::
-185.158.113.200:NoTag::
+185.122.204.197:NoTag:Data_Center_Web_Hosting_Transit,Starcrecium_Limited,starcrecium.com:0
+185.158.113.200:NoTag:Data_Center_Web_Hosting_Transit,IP_Server_LLC,ipserver.su:0
 185.16.61.124:miner XMRIG::
 185.162.235.46:IRATA::
 185.172.128.113:Arechclient2::
-185.172.128.11:NoTag::
-185.172.128.154:NoTag::
+185.172.128.11:NoTag:Commercial,Evil_Empire,pangody.ru.com:0
+185.172.128.154:NoTag:Commercial,Evil_Empire,pangody.ru.com:0
 185.172.128.160:amandey Arechclient2 Phonk::
 185.172.128.19:Amadey Smoke Loader::
-185.180.223.48:NoTag::
-185.196.8.238:NoTag::
-185.196.9.161:NoTag::
+185.180.223.48:NoTag:Data_Center_Web_Hosting_Transit,WorldStream_B.V.,worldstream.nl:0
+185.196.8.238:NoTag:Data_Center_Web_Hosting_Transit,Simple_Carrier_LLC,simplecarrier.net:11650
+185.196.9.161:NoTag:Data_Center_Web_Hosting_Transit,Simple_Carrier_LLC,simplecarrier.net:0
 185.196.9.186:Mirai::
 185.198.57.117:dropped-by-PrivateLoader dropped-by-smokeloader::
 185.202.175.201:GuLoader RAT RemcosRAT::
-185.220.101.58:NoTag::
+185.220.101.58:NoTag:Data_Center_Web_Hosting_Transit,Zwiebelfreunde_E.V.,zwiebelfreunde.de:208
 185.229.66.214:RedLineStealer::
-185.229.66.219:NoTag::
+185.229.66.219:NoTag:Data_Center_Web_Hosting_Transit,Aeza_Group_LLC,aeza.net:0
 185.241.208.231:DBatLoader::
-185.241.208.45:NoTag::
+185.241.208.45:NoTag:Data_Center_Web_Hosting_Transit,1337_Services_GmbH,rdp.sh:383
 185.255.114.41:GuLoader::
 185.46.46.146:Amadey dropped-by-smokeloader Healer RedLineStealer::
 185.65.105.118:CoinMiner dropped-by-smokeloader::
 185.78.76.13:Stealc::
-185.81.157.133:NoTag::
-187.119.230.141:NoTag::
+185.81.157.133:NoTag:Data_Center_Web_Hosting_Transit,Inulogic_Virtual_Private_Servers,inulogic.com:0
+187.119.230.141:NoTag:Mobile_ISP,Telefonica_Brasil_S.A,telefonica.com.br:0
 187.155.175.8:Hajime::
 187.168.121.207:Hajime::
 188.12.213.225:Hajime::
-188.127.225.196:NoTag::
+188.127.225.196:NoTag:Data_Center_Web_Hosting_Transit,Smartape_Ou,smartape.net:1
 188.127.249.32:RemcosRAT::
 188.150.231.39:Mozi::
 188.162.90.98:Mozi::
@@ -740,11 +740,11 @@
 189.238.19.162:Hajime::
 189.253.42.190:Hajime::
 190.194.87.7:Hajime::
-190.2.145.24:NoTag::
+190.2.145.24:NoTag:Data_Center_Web_Hosting_Transit,WorldStream_LATAM_B.V,worldstream.nl:0
 190.249.155.180:Hajime::
 190.74.35.169:Mozi::
 192.227.173.78:AgentTesla::
-192.254.204.95:NoTag::
+192.254.204.95:NoTag:Data_Center_Web_Hosting_Transit,WebsiteWelcome.com,websitewelcome.com:2
 192.3.179.133:AgentTesla::
 192.3.179.162:AgentTesla::
 193.111.249.179:dropped-by-smokeloader::
@@ -752,20 +752,20 @@
 193.222.96.26:Mirai::
 193.233.132.12:recordbreaker::
 193.233.132.17:Raccoon::
-193.233.132.25:NoTag::
+193.233.132.25:NoTag:Data_Center_Web_Hosting_Transit,1337_Hosting_Ltd,redcom.ru:0
 193.233.232.54:Stealc::
-193.233.233.45:NoTag::
-193.25.215.44:NoTag::
+193.233.233.45:NoTag:Data_Center_Web_Hosting_Transit,Aeza_Group_LLC,aeza.net:0
+193.25.215.44:NoTag:Data_Center_Web_Hosting_Transit,ReadyDedis,readydedis.com:0
 193.26.115.83:AgentTesla vbs::
 193.3.19.114:Amadey::
-193.70.102.140:NoTag::
+193.70.102.140:NoTag:Data_Center_Web_Hosting_Transit,OVH_SAS,ovh.com:1
 194.26.229.219:IRATA::
 194.38.20.106:Kinsing::
 194.38.22.53:CoinMiner::
 194.49.94.120:dropped-by-smokeloader RedLineStealer::
 194.49.94.145:dropped-by-PrivateLoader Redline::
-194.49.94.154:NoTag::
-194.49.94.47:NoTag::
+194.49.94.154:NoTag:Data_Center_Web_Hosting_Transit,MadHost_Ltd,technox.com.tr:0
+194.49.94.47:NoTag:Data_Center_Web_Hosting_Transit,Des_Capital_B.V.,des.capital:0
 194.49.94.48:dropped-by-PrivateLoader::
 194.49.94.67:CoinMiner dropped-by-PrivateLoader Glupteba Vidar::
 194.49.94.72:dropped-by-PrivateLoader Redline RedLineStealer::
@@ -780,12 +780,12 @@
 195.20.16.40:Stealc::
 195.20.16.93:recordbreaker::
 195.201.235.39:dropped-by-smokeloader::
-198.100.150.48:NoTag::
+198.100.150.48:NoTag:Data_Center_Web_Hosting_Transit,OVH_Hosting_Inc.,ovh.com:0
 2.136.83.131:Hajime::
 2.140.185.109:Mozi::
 2.36.59.164:Hajime::
-2.56.247.132:NoTag::
-2.56.247.139:NoTag::
+2.56.247.132:NoTag:Data_Center_Web_Hosting_Transit,Tom_Gewiese,develapp.me:0
+2.56.247.139:NoTag:Data_Center_Web_Hosting_Transit,Tom_Gewiese,develapp.me:0
 2.56.247.167:Mirai::
 200.201.202.66:miner XMRIG::
 200.59.107.154:Mozi::
@@ -828,7 +828,7 @@
 203.111.213.210:Hajime::
 203.204.146.133:Hajime::
 204.44.127.207:GuLoader::
-205.147.101.170:NoTag::
+205.147.101.170:NoTag:Data_Center_Web_Hosting_Transit,E2E_Networks_Private_Limited,e2enetworks.com:0
 206.204.136.207:Hajime::
 211.14.234.85:Mozi::
 211.161.252.168:Mozi::
@@ -920,7 +920,7 @@
 222.142.255.53:Mozi::
 222.241.48.122:Hajime::
 222.241.49.173:Hajime::
-222.241.51.46:NoTag::
+222.241.51.46:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Hunan_Province_Network,chinatelecom.com.cn:3
 222.246.108.152:Hajime::
 222.246.113.1:Hajime::
 222.246.114.47:Hajime::
@@ -932,14 +932,14 @@
 223.108.211.83:Mozi::
 223.111.220.167:Mozi::
 223.111.220.169:Mozi::
-223.111.220.173:NoTag::
+223.111.220.173:NoTag:,China_Mobile_Communications_Corporation,chinamobileltd.com:5
 223.111.220.174:Mozi::
 223.13.16.203:Hajime::
 223.13.18.72:Hajime::
-223.13.23.89:NoTag::
-223.13.25.176:NoTag::
+223.13.23.89:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
+223.13.25.176:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.13.28.25:Hajime::
-223.13.56.248:NoTag::
+223.13.56.248:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.13.56.75:Hajime::
 223.13.62.148:Hajime::
 223.13.66.148:Hajime::
@@ -952,7 +952,7 @@
 223.13.89.252:Hajime::
 223.13.90.149:Hajime::
 223.15.11.127:Hajime::
-223.15.18.127:NoTag::
+223.15.18.127:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.15.20.221:Hajime::
 223.151.226.114:Hajime::
 223.151.226.175:Hajime::
@@ -969,7 +969,7 @@
 223.208.58.222:Mozi::
 223.8.15.222:Hajime::
 223.8.189.218:Hajime::
-223.8.189.221:NoTag::
+223.8.189.221:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.8.19.60:Hajime::
 223.8.193.188:Hajime::
 223.8.193.98:Hajime::
@@ -987,19 +987,19 @@
 223.8.218.106:Hajime::
 223.8.219.151:Hajime::
 223.8.221.231:Hajime::
-223.8.233.102:NoTag::
+223.8.233.102:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.8.233.118:Hajime::
 223.8.238.181:Hajime::
-223.8.32.102:NoTag::
+223.8.32.102:NoTag:,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.8.32.220:Hajime::
 223.8.34.157:Hajime::
-223.8.38.217:NoTag::
+223.8.38.217:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_Province_Network,chinatelecom.com.cn:0
 223.8.38.29:Hajime::
 223.8.49.155:Hajime::
 223.8.50.194:Hajime::
 23.227.196.204:Loki::
 23.88.116.133:miner XMRIG::
-23.95.235.10:NoTag::
+23.95.235.10:NoTag:Data_Center_Web_Hosting_Transit,VPS_Ace,vpsace.com:0
 24.220.101.216:Hajime::
 24.45.161.117:Hajime::
 24.90.222.215:Hajime::
@@ -1027,8 +1027,8 @@
 36.81.132.164:Hajime::
 36.97.161.70:Hajime::
 37.114.37.172:Mirai sparc::
-37.120.237.204:NoTag::
-37.120.237.248:NoTag::
+37.120.237.204:NoTag:Data_Center_Web_Hosting_Transit,M247_Europe_SRL,m247.com:0
+37.120.237.248:NoTag:Data_Center_Web_Hosting_Transit,M247_Europe_SRL,m247.com:0
 37.139.249.103:Hajime::
 37.223.144.164:Hajime::
 37.44.238.94:gafgyt Mirai renesas sparc::
@@ -1092,31 +1092,31 @@
 42.239.155.136:Mozi::
 42.239.170.87:Mozi::
 42.239.190.19:Mozi::
-43.132.150.184:NoTag::
-45.124.95.143:NoTag::
+43.132.150.184:NoTag:Data_Center_Web_Hosting_Transit,Aceville_Pte.Ltd.,tencent.com:1
+45.124.95.143:NoTag:Commercial,VCCorp_Corporation,vccorp.vn:0
 45.125.57.96:Gh0stRAT::
-45.128.232.143:NoTag::
-45.128.232.90:NoTag::
-45.128.232.93:NoTag::
+45.128.232.143:NoTag:Data_Center_Web_Hosting_Transit,PFCloud,pfcloud.io:0
+45.128.232.90:NoTag:Data_Center_Web_Hosting_Transit,PFCloud,pfcloud.io:872
+45.128.232.93:NoTag:Data_Center_Web_Hosting_Transit,PFCloud,pfcloud.io:40
 45.13.227.9:Mirai renesas sparc::
 45.142.182.103:Mirai::
 45.142.182.96:Mirai::
-45.15.156.116:NoTag::
+45.15.156.116:NoTag:Data_Center_Web_Hosting_Transit,Rost_LLC,colomna.net:0
 45.15.156.26:Raccoon::
-45.32.206.198:NoTag::
-45.32.223.151:NoTag::
+45.32.206.198:NoTag:Data_Center_Web_Hosting_Transit,Vultr_Holdings_LLC,vultr.com:0
+45.32.223.151:NoTag:Data_Center_Web_Hosting_Transit,Vultr_Holdings_LLC,vultr.com:0
 45.32.80.240:Pikabot ua-curl::
-45.61.136.124:NoTag::
+45.61.136.124:NoTag:Data_Center_Web_Hosting_Transit,BL_Networks,blnwx.com:0
 45.61.138.198:recordbreaker::
-45.61.174.20:NoTag::
+45.61.174.20:NoTag:Data_Center_Web_Hosting_Transit,RouterHosting_LLC,cloudzy.com:0
 45.61.187.154:Mirai::
-45.76.171.89:NoTag::
+45.76.171.89:NoTag:Data_Center_Web_Hosting_Transit,Vultr_Holdings_LLC,vultr.com:0
 45.76.174.164:FormBook::
 45.77.72.139:Pikabot ua-curl::
 45.8.230.15:dropped-by-smokeloader RedLineStealer::
 45.86.155.249:gafgyt Mirai renesas sparc::
 45.87.5.171:Hajime::
-45.89.106.147:NoTag::
+45.89.106.147:NoTag:Fixed_Line_ISP,LVNET_Ltd,lvnet.lv:0
 45.95.146.72:Mirai renesas sparc::
 45.95.147.204:Mirai::
 45.95.147.236:miner XMRIG::
@@ -1126,7 +1126,7 @@
 46.238.231.91:Hajime::
 46.246.140.67:Hajime::
 46.32.172.213:Mozi::
-46.59.147.120:NoTag::
+46.59.147.120:NoTag:Fixed_Line_ISP,wilhelm.tel_GmbH,wilhelm-tel.de:0
 46.8.198.196:::
 47.110.247.171:RaccoonStealer::
 47.154.206.3:Hajime::
@@ -1178,7 +1178,7 @@
 5.42.92.215:Stealc::
 5.42.92.52:dropped-by-PrivateLoader Redline RedLineStealer::
 5.42.92.93:dropped-by-smokeloader Healer::
-5.54.220.61:NoTag::
+5.54.220.61:NoTag:,Vodafone-Panafon_Hellenic_Telecommunications_Company_SA,vodafone.com:0
 5.89.155.179:Hajime::
 5.9.122.22:Powershell ps::
 5.91.202.245:Hajime::
@@ -1190,7 +1190,7 @@
 58.152.158.49:Hajime::
 58.208.123.113:Hajime::
 58.208.141.210:Hajime::
-58.208.217.200:NoTag::
+58.208.217.200:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Jiangsu_Province_Network,chinatelecom.com.cn:0
 58.208.231.230:Hajime::
 58.208.24.240:Hajime::
 58.208.72.235:Hajime::
@@ -1214,7 +1214,7 @@
 61.222.158.135:Hajime::
 61.238.188.212:Hajime::
 61.247.239.102:Hajime::
-61.35.219.110:NoTag::
+61.35.219.110:NoTag:,LG_Dacom_Corporation,uplus.co.kr:0
 61.52.198.243:Mozi::
 61.52.204.225:Mozi::
 61.52.32.79:Mozi::
@@ -1229,9 +1229,9 @@
 61.53.92.104:Mozi::
 61.57.90.224:Hajime::
 62.122.205.125:Hajime::
-62.72.164.34:NoTag::
+62.72.164.34:NoTag:Data_Center_Web_Hosting_Transit,VTEL_Holdings_Limited_Jordan_Co.,vtel.jo:0
 63.152.106.142:Mozi::
-63.79.171.112:NoTag::
+63.79.171.112:NoTag:Fixed_Line_ISP,Ellensburg_Telephone,verizonenterprise.com:0
 64.188.12.78:GuLoader::
 64.188.12.82:GuLoader::
 64.237.241.6:Hajime::
@@ -1251,22 +1251,22 @@
 72.69.26.188:Hajime::
 74.76.7.199:Mozi::
 76.53.219.210:Hajime::
-77.218.63.83:NoTag::
-77.223.122.145:NoTag::
+77.218.63.83:NoTag:,Tele2_Sverige_AB,tele2.com:0
+77.223.122.145:NoTag:Data_Center_Web_Hosting_Transit,OOO_Network_of_Data-Centers_Selectel,selectel.ru:0
 77.237.88.37:Hajime::
 77.91.124.154:Stealc::
 77.91.68.247:Stealc::
 77.91.70.80:Amadey::
 77.91.97.114:RedLineStealer::
-77.91.97.234:NoTag::
+77.91.97.234:NoTag:Data_Center_Web_Hosting_Transit,YSTel_d.o.o._Tivat,stark-industries.solutions:0
 77.91.97.28:RedLineStealer::
 78.39.233.217:Hajime::
 78.47.61.97:Vidar::
 78.92.72.27:Hajime::
 79.103.183.26:Hajime::
 79.13.155.105:Hajime::
-79.137.196.104:NoTag::
-79.137.198.102:NoTag::
+79.137.196.104:NoTag:Data_Center_Web_Hosting_Transit,Aeza_International_LTD,aeza.net:0
+79.137.198.102:NoTag:Data_Center_Web_Hosting_Transit,Aeza_International_LTD,aeza.net:0
 79.137.203.151:Mirai::
 79.175.76.193:Hajime::
 79.24.57.107:Hajime::
@@ -1276,20 +1276,20 @@
 79.40.221.65:Hajime::
 79.51.44.109:Hajime::
 79.52.193.168:Hajime::
-8.218.146.1:NoTag::
+8.218.146.1:NoTag:Data_Center_Web_Hosting_Transit,Alibaba_Cloud_(Singapore)_Private_Limited,alicloud.com:0
 80.144.253.40:Hajime::
 80.210.18.126:Hajime::
-80.66.77.235:NoTag::
-80.83.124.150:NoTag::
+80.66.77.235:NoTag:Data_Center_Web_Hosting_Transit,Aleksandr_Valerevich_Mokhonko,lvs.ru:733
+80.83.124.150:NoTag:Data_Center_Web_Hosting_Transit,Bradler__Krantz_GmbH__Co._KG,ultravps.de:0
 81.0.109.99:Hajime::
 81.183.185.54:Hajime::
 81.213.109.73:Mozi::
 81.94.159.163:Mirai renesas sparc::
-82.147.85.169:NoTag::
-82.180.150.197:NoTag::
+82.147.85.169:NoTag:Fixed_Line_ISP,Siberian_Telecommunications_Ltd.,sibtel.ru:0
+82.180.150.197:NoTag:Data_Center_Web_Hosting_Transit,Packethub_S.A.,nordvpn.com:0
 82.49.201.194:Hajime::
 82.59.142.196:Hajime::
-82.61.43.76:NoTag::
+82.61.43.76:NoTag:,Telecom_Italia_S.p.A.,telecomitalia.it:0
 82.76.60.187:Hajime::
 82.80.129.159:Hajime::
 83.130.145.246:Hajime::
@@ -1316,9 +1316,9 @@
 88.198.201.180:Mirai::
 88.209.206.215:AgentTesla::
 89.143.131.178:Hajime::
-89.190.156.141:NoTag::
-89.190.156.159:NoTag::
-89.208.105.5:NoTag::
+89.190.156.141:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:8
+89.190.156.159:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:0
+89.208.105.5:NoTag:Data_Center_Web_Hosting_Transit,Aeza_International_LTD,aeza.net:0
 89.38.135.11:Vidar::
 90.140.13.202:Hajime::
 91.103.252.109:recordbreaker::
@@ -1326,18 +1326,18 @@
 91.202.5.157:dropped-by-smokeloader::
 91.204.190.92:Hajime::
 91.215.85.189:Stealc::
-91.235.234.251:NoTag::
-91.235.234.81:NoTag::
+91.235.234.251:NoTag:Data_Center_Web_Hosting_Transit,BlueVPS_Ou,bluevps.com:0
+91.235.234.81:NoTag:Data_Center_Web_Hosting_Transit,BlueVPS_Ou,bluevps.com:0
 91.242.229.100:Stealc::
 91.92.240.111:Mirai::
-91.92.240.21:NoTag::
+91.92.240.21:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.240.231:dropped-by-PrivateLoader::
 91.92.241.20:AgentTesla::
 91.92.241.54:AgentTesla Encoded vbs::
-91.92.241.80:NoTag::
+91.92.241.80:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.241.91:dropped-by-PrivateLoader Glupteba XMRIG::
 91.92.242.200:list SSH Attacker::
-91.92.242.28:NoTag::
+91.92.242.28:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.242.92:gafgyt Mirai renesas sparc::
 91.92.243.139:dropped-by-PrivateLoader::
 91.92.243.201:Stealc::
@@ -1352,7 +1352,7 @@
 91.92.248.130:AgentTesla hta::
 91.92.249.44:vbs::
 91.92.250.100:AgentTesla js::
-91.92.251.25:NoTag::
+91.92.251.25:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.252.100:AgentTesla::
 91.92.252.157:Mirai::
 91.92.253.128:RedLineStealer::
@@ -1376,19 +1376,19 @@
 94.131.207.194:DarkComet::
 94.140.230.3:Hajime::
 94.156.64.195:vbs::
-94.156.65.158:NoTag::
+94.156.65.158:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 94.156.65.182:Mirai::
 94.156.66.10:Mirai::
 94.156.67.140:Mirai::
 94.156.67.176:AgentTesla::
-94.156.68.148:NoTag::
+94.156.68.148:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:1
 94.156.68.152:Mirai::
 94.156.68.195:vbs::
 94.156.71.185:vbs::
 94.156.71.232:AgentTesla Encoded::
 94.156.71.74:zgRAT::
-94.228.162.205:NoTag::
-94.228.163.149:NoTag::
+94.228.162.205:NoTag:Data_Center_Web_Hosting_Transit,Aeza_International_LTD,aeza.net:0
+94.228.163.149:NoTag:Data_Center_Web_Hosting_Transit,Pronet_LLC,pronet.az:0
 94.61.225.215:Hajime::
 95.153.254.2:Mozi::
 95.160.24.173:Mozi::
@@ -1396,7 +1396,7 @@
 95.230.251.105:Hajime::
 95.237.37.232:Hajime::
 95.251.65.188:Hajime::
-95.252.46.178:NoTag::
+95.252.46.178:NoTag:,Telecom_Italia_S.p.A.,telecomitalia.it:0
 96.224.226.188:Hajime::
 96.77.209.214:Hajime::
 97.134.4.4:Hajime::

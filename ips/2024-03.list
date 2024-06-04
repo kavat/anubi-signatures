@@ -39,7 +39,7 @@
 1.70.86.4:Mirai Mozi::
 1.70.98.215:Mirai Mozi::
 1.87.219.44:Mozi::
-1.92.240.113:NoTag::
+1.92.240.113:NoTag:Data_Center_Web_Hosting_Transit,Huawei_Public_Cloud_Service,huawei.com:0
 1.92.90.232:Gh0stRAT::
 101.108.109.126:Mirai Mozi::
 101.108.12.129:Mirai Mozi::
@@ -72,8 +72,8 @@
 101.206.198.89:Mozi::
 101.206.199.225:Mozi::
 101.206.199.236:Mozi::
-101.35.48.34:NoTag::
-101.42.44.56:NoTag::
+101.35.48.34:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd,tencent.com:2
+101.42.44.56:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd,tencent.com:2
 101.51.148.60:Mirai Mozi::
 101.67.202.58:Mirai Mozi::
 102.219.60.62:Mozi::
@@ -82,14 +82,14 @@
 102.33.100.236:Mozi::
 102.33.109.9:Mozi::
 102.33.12.92:Mozi::
-102.33.14.167:NoTag::
+102.33.14.167:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:2
 102.33.23.95:Mozi::
 102.33.24.146:Mozi::
 102.33.24.190:Mozi::
 102.33.3.114:Mozi::
-102.33.3.171:NoTag::
+102.33.3.171:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:2
 102.33.32.169:Mozi::
-102.33.32.180:NoTag::
+102.33.32.180:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:2
 102.33.33.89:Mozi::
 102.33.34.104:Mozi::
 102.33.34.230:Mozi::
@@ -97,8 +97,8 @@
 102.33.34.68:Mozi::
 102.33.36.188:Mozi::
 102.33.37.13:Mozi::
-102.33.37.42:NoTag::
-102.33.38.201:NoTag::
+102.33.37.42:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
+102.33.38.201:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:2
 102.33.39.12:Mozi::
 102.33.40.170:Mozi::
 102.33.42.2:Mozi::
@@ -114,7 +114,7 @@
 102.33.82.93:Mozi::
 102.33.87.179:Mozi::
 102.33.90.163:Mozi::
-102.33.93.57:NoTag::
+102.33.93.57:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:2
 102.33.94.48:Mozi::
 102.33.98.111:Mozi::
 102.36.161.225:Mozi::
@@ -134,7 +134,7 @@
 103.174.105.62:Mozi::
 103.176.157.69:Mozi::
 103.180.3.86:Mirai Mozi::
-103.183.113.17:NoTag::
+103.183.113.17:NoTag:Data_Center_Web_Hosting_Transit,Vinameed_Viet_Nam_Company_Limited,vinameed.vn:2
 103.185.198.108:Mozi::
 103.186.246.240:Mirai Mozi::
 103.188.244.189:Mirai Moobot::
@@ -160,7 +160,7 @@
 103.91.73.142:Mirai Mozi::
 103.99.189.26:Mirai Mozi::
 104.202.215.48:Mozi::
-104.218.236.48:NoTag::
+104.218.236.48:NoTag:Data_Center_Web_Hosting_Transit,Host_Mayo,hostmayo.com:2
 104.248.145.247:Mirai::
 106.0.59.79:Mozi::
 106.111.48.127:Mirai Mozi::
@@ -171,18 +171,18 @@
 106.41.75.23:Mirai Mozi::
 106.41.82.136:Hajime::
 106.56.108.243:Mirai Mozi::
-107.170.253.221:NoTag::
+107.170.253.221:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:2
 107.173.4.9:AgentTesla Encoded vbs::
 107.175.31.187:Encoded RemcosRAT::
 107.175.69.54:AsyncRAT NjRAT PureLogStealer QuasarRAT RemcosRAT::
 107.189.4.242:kaiji Mirai::
 107.189.7.6:Mirai::
 108.18.138.165:Mozi::
-108.181.122.221:NoTag::
+108.181.122.221:NoTag:Fixed_Line_ISP,Telus_Communications_Inc.,telus.com:8
 108.25.61.215:Mozi::
 109.205.214.35:gafgyt Mirai::
-109.248.59.251:NoTag::
-109.74.12.246:NoTag::
+109.248.59.251:NoTag:Data_Center_Web_Hosting_Transit,Ildar_Gilmutdinov_PE,hosting-russia.ru:2
+109.74.12.246:NoTag:Data_Center_Web_Hosting_Transit,GleSYS_AB,glesys.se:2
 110.177.102.227:Mirai Mozi::
 110.177.104.121:Mirai Mozi::
 110.177.97.69:Mirai Mozi::
@@ -495,7 +495,7 @@
 113.69.157.91:Mozi::
 113.78.216.149:Mozi::
 113.78.218.183:Mozi::
-113.87.202.113:NoTag::
+113.87.202.113:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:7
 113.87.203.20:Mozi::
 113.88.168.209:Mozi::
 113.9.64.211:Mirai Mozi::
@@ -545,7 +545,7 @@
 114.239.88.252:Mirai Mozi::
 114.35.178.98:Mirai Mozi::
 115.149.165.247:Mirai Mozi::
-115.183.77.135:NoTag::
+115.183.77.135:NoTag:Fixed_Line_ISP,Beijing_Bitone_United_Networks,bj96007.com:0
 115.201.130.149:Mirai Mozi::
 115.216.128.249:Mirai Mozi::
 115.222.143.226:Mozi::
@@ -720,7 +720,7 @@
 115.50.95.230:Mozi::
 115.51.103.77:Mozi::
 115.51.106.130:Mirai Mozi::
-115.51.121.197:NoTag::
+115.51.121.197:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Henan_Province_Network,chinaunicom.com:4
 115.51.122.2:Mozi::
 115.51.16.206:Mozi::
 115.51.17.208:Mozi::
@@ -764,7 +764,7 @@
 115.52.7.50:Mozi::
 115.52.71.39:Mozi::
 115.53.14.59:Mozi::
-115.53.196.234:NoTag::
+115.53.196.234:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:8
 115.53.232.233:Mozi::
 115.53.244.192:Mozi::
 115.53.245.129:Mozi::
@@ -1087,7 +1087,7 @@
 115.58.143.162:Mozi::
 115.58.143.219:Mozi::
 115.58.151.13:Mozi::
-115.58.152.116:NoTag::
+115.58.152.116:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Henan_Province_Network,chinaunicom.com:17
 115.58.152.207:Mozi::
 115.58.152.61:Mirai Mozi::
 115.58.153.14:Mozi::
@@ -1138,7 +1138,7 @@
 115.59.77.132:Mozi::
 115.59.78.105:Mozi::
 115.59.79.175:Mozi::
-115.60.12.135:NoTag::
+115.60.12.135:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:3
 115.60.208.6:Mozi::
 115.60.214.125:Mozi::
 115.60.215.225:Mozi::
@@ -1210,7 +1210,7 @@
 115.63.42.121:Mozi::
 115.63.42.91:Mirai Mozi::
 115.63.44.245:Mozi::
-115.63.45.54:NoTag::
+115.63.45.54:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:3
 115.63.46.234:Mozi::
 115.63.46.84:Mozi::
 115.63.47.42:Mozi::
@@ -1415,7 +1415,7 @@
 117.201.10.164:Mozi::
 117.201.10.232:Mozi::
 117.201.11.124:Mozi::
-117.201.11.186:NoTag::
+117.201.11.186:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:2
 117.201.11.70:Mozi::
 117.201.14.155:Mozi::
 117.201.14.1:Mozi::
@@ -1564,7 +1564,7 @@
 117.207.14.23:Mozi::
 117.207.2.32:Mozi::
 117.207.240.44:Mozi::
-117.207.241.157:NoTag::
+117.207.241.157:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:1
 117.207.243.3:Mozi::
 117.207.243.48:Mozi::
 117.207.244.50:Mozi::
@@ -1681,7 +1681,7 @@
 117.213.121.135:Mozi::
 117.213.121.20:Mozi::
 117.213.121.85:Mozi::
-117.213.122.220:NoTag::
+117.213.122.220:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:3
 117.213.123.130:Mozi::
 117.213.124.147:Mozi::
 117.213.124.188:Mozi::
@@ -1742,7 +1742,7 @@
 117.213.93.103:Mozi::
 117.213.93.107:Mozi::
 117.213.93.139:Mozi::
-117.213.93.204:NoTag::
+117.213.93.204:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:6
 117.213.93.34:Mozi::
 117.213.94.140:Mozi::
 117.213.94.160:Mozi::
@@ -1757,7 +1757,7 @@
 117.214.10.167:Mozi::
 117.214.10.210:Mozi::
 117.214.10.213:Mozi::
-117.214.10.22:NoTag::
+117.214.10.22:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:4
 117.214.10.67:Mozi::
 117.214.11.115:Mozi::
 117.214.11.126:Mozi::
@@ -1789,7 +1789,7 @@
 117.214.15.87:Mozi::
 117.214.224.192:Mozi::
 117.214.228.56:Mozi::
-117.214.242.66:NoTag::
+117.214.242.66:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:1
 117.214.243.103:Mozi::
 117.214.248.209:Mozi::
 117.214.251.21:Mozi::
@@ -1827,7 +1827,7 @@
 117.215.222.151:Mozi::
 117.215.222.56:Mozi::
 117.215.222.67:Mozi::
-117.215.222.74:NoTag::
+117.215.222.74:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:3
 117.215.222.89:Mozi::
 117.215.223.148:Mozi::
 117.215.223.186:Mozi::
@@ -1871,7 +1871,7 @@
 117.217.32.191:Mozi::
 117.217.32.238:Mozi::
 117.217.32.248:Mozi::
-117.217.34.10:NoTag::
+117.217.34.10:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:4
 117.217.34.192:Mozi::
 117.217.34.225:Mozi::
 117.217.34.74:Mozi::
@@ -2001,7 +2001,7 @@
 117.220.146.177:Mozi::
 117.220.146.196:Mozi::
 117.220.146.207:Mozi::
-117.220.146.226:NoTag::
+117.220.146.226:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:10
 117.220.146.23:Mozi::
 117.220.146.50:Mozi::
 117.220.146.60:Mozi::
@@ -2072,7 +2072,7 @@
 117.235.158.180:Mozi::
 117.235.158.185:Mozi::
 117.235.158.51:Mirai Mozi::
-117.235.159.35:NoTag::
+117.235.159.35:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:2
 117.235.29.167:Mozi::
 117.235.34.104:Mozi::
 117.235.36.96:Mozi::
@@ -2143,7 +2143,7 @@
 117.242.49.230:Mozi::
 117.242.56.13:Mozi::
 117.242.59.207:Mozi::
-117.243.163.183:NoTag::
+117.243.163.183:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:2
 117.243.167.255:Mozi::
 117.243.167.33:Mozi::
 117.243.168.50:Mozi::
@@ -2256,7 +2256,7 @@
 117.251.162.171:Mozi::
 117.251.164.177:Mirai Mozi::
 117.251.165.206:Mozi::
-117.251.167.123:NoTag::
+117.251.167.123:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:2
 117.251.171.177:Mirai Mozi::
 117.251.172.162:Mozi::
 117.251.173.180:Mozi::
@@ -2277,7 +2277,7 @@
 117.252.162.239:Mozi::
 117.252.163.134:Mozi::
 117.252.164.135:Mozi::
-117.252.164.186:NoTag::
+117.252.164.186:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:14
 117.252.164.214:Mozi::
 117.252.164.239:Mozi::
 117.252.164.70:Mozi::
@@ -2386,7 +2386,7 @@
 117.254.179.158:Mozi::
 117.254.179.249:Mozi::
 117.254.179.254:Mozi::
-117.254.181.124:NoTag::
+117.254.181.124:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:3
 117.254.181.39:Mozi::
 117.254.182.15:Mozi::
 117.254.182.230:Mozi::
@@ -2453,7 +2453,7 @@
 118.251.21.146:Mirai Mozi::
 118.68.97.157:Mozi::
 118.71.118.3:Hajime::
-118.75.49.63:NoTag::
+118.75.49.63:NoTag:Fixed_Line_ISP,SXCZ_Guxianju_BAS,adsl-pool.sx.cn:6
 118.79.184.31:Mirai Mozi::
 118.81.170.242:Mirai Mozi::
 119.1.122.111:Mozi::
@@ -2593,7 +2593,7 @@
 120.57.93.95:Mozi::
 120.86.246.233:Mirai Mozi::
 120.86.247.127:Mirai Mozi::
-120.86.71.149:NoTag::
+120.86.71.149:NoTag:,China_Unicom_Guangdong_Province_Network,chinaunicom.com:6
 121.146.92.251:Mozi::
 121.179.3.104:Hajime::
 121.186.161.74:Mozi::
@@ -2870,7 +2870,7 @@
 123.185.91.130:Mirai Mozi::
 123.188.198.165:Mozi::
 123.188.65.172:Mozi::
-123.192.192.242:NoTag::
+123.192.192.242:NoTag:Fixed_Line_ISP,Kbro_Co._Ltd.,kbro.com.tw:12
 123.232.192.160:Mozi::
 123.234.123.64:Mozi::
 123.234.199.188:Mirai Mozi::
@@ -2900,7 +2900,7 @@
 123.4.192.52:Mozi::
 123.4.195.36:Mozi::
 123.4.196.150:Mozi::
-123.4.196.200:NoTag::
+123.4.196.200:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:5
 123.4.196.4:Mozi::
 123.4.204.252:Mozi::
 123.4.21.193:Mozi::
@@ -2929,7 +2929,7 @@
 123.5.137.172:Mirai Mozi::
 123.5.144.129:Mozi::
 123.5.145.205:Mozi::
-123.5.147.128:NoTag::
+123.5.147.128:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Henan_Province_Network,chinaunicom.com:3
 123.5.147.161:Mozi::
 123.5.147.64:Mozi::
 123.5.151.208:Mozi::
@@ -3103,7 +3103,7 @@
 125.24.3.45:Mirai Mozi::
 125.25.50.235:Mirai Mozi::
 125.26.96.151:Mirai Mozi::
-125.36.181.242:NoTag::
+125.36.181.242:NoTag:,China_Unicom_Tianjin_Province_Network,chinaunicom.com:2
 125.40.0.218:Mozi::
 125.40.112.79:Mozi::
 125.40.113.167:Mozi::
@@ -3155,7 +3155,7 @@
 125.42.80.229:Mozi::
 125.43.101.156:Mozi::
 125.43.146.247:Mozi::
-125.43.24.67:NoTag::
+125.43.24.67:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:0
 125.43.241.114:Mozi::
 125.43.241.167:Mozi::
 125.43.241.52:Mozi::
@@ -3178,7 +3178,7 @@
 125.43.89.193:Mozi::
 125.43.92.144:Mozi::
 125.43.92.71:Mozi::
-125.43.93.180:NoTag::
+125.43.93.180:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:8
 125.44.158.134:Mozi::
 125.44.195.129:Mozi::
 125.44.195.156:Mozi::
@@ -3301,11 +3301,11 @@
 125.99.178.9:Mozi::
 125.99.206.94:Mozi::
 125.99.220.144:Mozi::
-13.210.238.82:NoTag::
+13.210.238.82:NoTag:Data_Center_Web_Hosting_Transit,Amazon_Corporate_Services_Pty_Ltd,amazon.com:2
 13.58.175.120:amazonaws sliver trojan::
 13.58.203.5:amazonaws sliver trojan::
 134.122.197.80:C2:NoTag:
-138.197.95.202:NoTag::
+138.197.95.202:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:8
 139.59.88.74:Mirai renesas sparc::
 139.99.36.201:Moobot shell::
 14.153.125.60:Mozi::
@@ -3342,7 +3342,7 @@
 142.202.189.31:borka dosbot malware Mirai scan skids vudos xpost::
 143.198.194.53:gafgyt Mirai renesas sparc::
 144.126.192.224:gafgyt::
-144.76.6.173:NoTag::
+144.76.6.173:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_AG,hetzner.de:4
 144.91.109.161:Mirai::
 144.91.93.153:gafgyt::
 145.239.202.110:DarkGate::
@@ -3351,7 +3351,7 @@
 147.124.212.80:AsyncRAT::
 147.124.217.110:AsyncRAT::
 147.185.243.107:RAT RemcosRAT::
-147.45.47.116:NoTag::
+147.45.47.116:NoTag:Fixed_Line_ISP,Karina_Rashkovska,midnet.tv:2
 147.45.47.71:Stealc::
 147.45.77.28:gafgyt Mirai::
 147.45.78.58:gafgyt Mirai::
@@ -3374,9 +3374,9 @@
 154.9.254.104:Chaos Mirai::
 154.9.29.154:Mirai Moobot::
 157.230.110.136:shell::
-157.245.205.105:NoTag::
+157.245.205.105:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:2
 158.220.80.156:RemcosRAT RTF::
-158.247.217.90:NoTag::
+158.247.217.90:NoTag:Data_Center_Web_Hosting_Transit,The_Constant_Company_LLC,vultr.com:2
 158.255.82.132:Mozi::
 158.255.82.137:Mozi::
 158.255.82.138:Mozi::
@@ -3422,10 +3422,10 @@
 172.233.129.114:RAT RemcosRAT::
 172.245.106.205:gafgyt Mirai::
 172.245.208.34:AgentTesla Encoded vbs::
-172.86.66.165:NoTag::
+172.86.66.165:NoTag:Data_Center_Web_Hosting_Transit,RouterHosting_LLC,cloudzy.com:3
 172.93.160.2:GuLoader::
-172.93.189.132:NoTag::
-173.255.238.129:NoTag::
+172.93.189.132:NoTag:Data_Center_Web_Hosting_Transit,Nexeon_Technologies_Inc.,nexeontech.com:2
+173.255.238.129:NoTag:Content_Delivery_Network,Akamai_Technologies_Inc.,akamai.com:2
 174.138.27.0:ddostool malware Mirai pasted Skidware::
 175.0.102.171:Mozi::
 175.0.102.244:Mozi::
@@ -3541,7 +3541,7 @@
 175.31.230.73:Mirai Mozi::
 175.31.254.136:Mirai Mozi::
 176.107.185.29:AsyncRAT::
-176.113.115.135:NoTag::
+176.113.115.135:NoTag:Data_Center_Web_Hosting_Transit,Cat_Technologies_Co._Limited,catcompany.info:4
 176.120.64.15:Mirai::
 176.123.2.50:Mirai::
 176.36.148.87:Mirai Mozi::
@@ -3589,9 +3589,9 @@
 179.172.16.152:Mozi::
 179.43.172.21:Mirai::
 179.87.123.89:Mozi::
-179.87.126.191:NoTag::
+179.87.126.191:NoTag:Mobile_ISP,Telefonica_Brasil_S.A,telefonica.com.br:2
 18.228.80.130:AsyncRAT dropped-by-smokeloader::
-180.103.44.59:NoTag::
+180.103.44.59:NoTag:,ChinaNet_Jiangsu_Province_Network,chinatelecom.com.cn:29
 180.103.51.120:Mirai Mozi::
 180.105.101.92:Mirai Mozi::
 180.105.170.245:Mirai Mozi::
@@ -3666,7 +3666,7 @@
 182.113.193.95:Mozi::
 182.113.20.120:Mozi::
 182.113.20.25:Mozi::
-182.113.201.17:NoTag::
+182.113.201.17:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Henan_Province_Network,chinaunicom.com:5
 182.113.203.97:Mozi::
 182.113.21.13:Mozi::
 182.113.210.83:Mozi::
@@ -3714,7 +3714,7 @@
 182.114.197.211:Mozi::
 182.114.198.142:Mozi::
 182.114.198.211:Mozi::
-182.114.199.158:NoTag::
+182.114.199.158:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:7
 182.114.209.87:Mozi::
 182.114.248.237:Mozi::
 182.114.252.20:Mozi::
@@ -3852,11 +3852,11 @@
 182.119.12.213:Mozi::
 182.119.120.100:Mozi::
 182.119.121.214:Mozi::
-182.119.122.124:NoTag::
+182.119.122.124:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:5
 182.119.178.28:Mozi::
 182.119.178.7:Mozi::
 182.119.180.203:Mozi::
-182.119.183.77:NoTag::
+182.119.183.77:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:1
 182.119.185.229:Mozi::
 182.119.197.68:Mozi::
 182.119.2.75:Mozi::
@@ -4016,7 +4016,7 @@
 182.123.195.87:Mozi::
 182.123.208.36:Mozi::
 182.123.209.163:Mozi::
-182.123.209.188:NoTag::
+182.123.209.188:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:10
 182.123.209.9:Mozi::
 182.123.210.206:Mozi::
 182.123.234.254:Mozi::
@@ -4220,7 +4220,7 @@
 183.171.200.226:Mozi::
 183.188.124.82:Mirai Mozi::
 183.188.148.146:Mirai Mozi::
-183.225.38.190:NoTag::
+183.225.38.190:NoTag:,China_Mobile_Communications_Corporation,chinamobileltd.com:4
 183.46.108.76:Mozi::
 183.81.76.164:Hajime::
 183.92.206.82:Mirai Mozi::
@@ -4235,10 +4235,10 @@
 185.172.128.6:dropped-by-PrivateLoader Stealc::
 185.191.124.171:Mirai renesas::
 185.191.124.173:Mirai::
-185.191.127.212:NoTag::
+185.191.127.212:NoTag:Data_Center_Web_Hosting_Transit,Amarutu_Technology_Ltd.,koddos.com:8545
 185.196.10.155:Mirai renesas sparc::
 185.196.10.233:AsyncRAT Heracles::
-185.196.10.235:NoTag::
+185.196.10.235:NoTag:Data_Center_Web_Hosting_Transit,Simple_Carrier_LLC,simplecarrier.net:5
 185.196.11.209:Mirai::
 185.196.8.198:Mirai::
 185.196.8.32:Mirai renesas::
@@ -4246,7 +4246,7 @@
 185.216.70.138:CoinMiner::
 185.216.70.192:Mirai renesas sparc::
 185.216.70.21:Mirai::
-185.216.70.96:NoTag::
+185.216.70.96:NoTag:Data_Center_Web_Hosting_Transit,Sircrosar_Limited,sircrosar.net:2
 185.224.128.251:Mirai::
 185.224.128.34:Mirai::
 185.224.128.36:Mirai::
@@ -4311,7 +4311,7 @@
 192.3.95.216:AgentTesla vbs::
 192.70.90.108:Mozi::
 192.70.90.56:Mozi::
-193.111.248.44:NoTag::
+193.111.248.44:NoTag:Data_Center_Web_Hosting_Transit,Dmitry_Vorozhtsov,mgn-host.ru:7
 193.124.205.30:Mirai::
 193.124.205.33:Mirai::
 193.124.205.45:Geofenced Mirai ua-wget USA::
@@ -4337,7 +4337,7 @@
 193.35.18.127:Mirai::
 193.35.18.164:Mirai::
 193.35.18.223:gafgyt Mirai::
-193.35.18.30:NoTag::
+193.35.18.30:NoTag:Data_Center_Web_Hosting_Transit,PFCloud,pfcloud.io:439
 193.93.248.103:ddostool py::
 194.127.178.5:Mirai::
 194.132.234.127:Mozi::
@@ -4348,9 +4348,9 @@
 194.26.135.95:trickmo trojan::
 194.28.162.210:Mozi::
 194.48.250.133:gafgyt Mirai::
-194.87.103.47:NoTag::
+194.87.103.47:NoTag:Data_Center_Web_Hosting_Transit,JSC_MediaSoft_Ekspert,mtw.ru:2
 194.87.71.43:Amadey::
-194.9.172.135:NoTag::
+194.9.172.135:NoTag:Data_Center_Web_Hosting_Transit,Feelb_Sarl,feelb.io:2
 195.10.205.23:C2:NoTag:
 195.20.16.127:recordbreaker::
 195.62.32.227:gafgyt renesas sparc::
@@ -4361,13 +4361,13 @@
 198.12.91.244:AgentTesla RTF::
 198.46.176.159:AgentTesla::
 198.46.176.175:AgentTesla Encoded::
-198.55.111.5:NoTag::
+198.55.111.5:NoTag:Data_Center_Web_Hosting_Transit,QuadraNet_Enterprises_LLC,quadranet.com:2
 198.74.57.54:Encoded RAT RemcosRAT::
 199.73.63.226:Hajime::
 2.178.255.23:Mozi::
 2.185.233.137:Mozi::
 2.191.160.137:Mozi::
-2.57.122.87:NoTag::
+2.57.122.87:NoTag:Data_Center_Web_Hosting_Transit,Pptechnology_Limited,dmzhost.co:8148
 20.205.11.156:Mirai::
 200.125.120.77:Mozi::
 200.37.190.3:Mozi::
@@ -4388,7 +4388,7 @@
 211.14.235.78:Mozi::
 211.148.117.240:Mozi::
 211.221.10.121:Mozi::
-212.107.12.40:NoTag::
+212.107.12.40:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:2
 213.142.159.239:Mirai::
 213.99.112.238:Mozi::
 216.154.19.79:Mozi::
@@ -4481,7 +4481,7 @@
 219.157.169.187:Mozi::
 219.157.17.180:Mozi::
 219.157.171.30:Mozi::
-219.157.179.144:NoTag::
+219.157.179.144:NoTag:,China_Unicom_IP_Network,chinaunicom.com:2
 219.157.179.186:Mozi::
 219.157.180.68:Mozi::
 219.157.181.28:Mozi::
@@ -4494,9 +4494,9 @@
 219.157.218.247:Mozi::
 219.157.22.111:Mozi::
 219.157.22.92:Mozi::
-219.157.222.235:NoTag::
+219.157.222.235:NoTag:,China_Unicom_IP_Network,chinaunicom.com:7
 219.157.233.243:Mozi::
-219.157.234.0:NoTag::
+219.157.234.0:NoTag:,China_Unicom_IP_Network,chinaunicom.com:0
 219.157.235.141:Mozi::
 219.157.238.178:Mozi::
 219.157.238.95:Mozi::
@@ -4504,7 +4504,7 @@
 219.157.241.112:Mozi::
 219.157.242.139:Mozi::
 219.157.243.182:Mozi::
-219.157.244.198:NoTag::
+219.157.244.198:NoTag:,China_Unicom_IP_Network,chinaunicom.com:7
 219.157.250.124:Mozi::
 219.157.26.27:Mozi::
 219.157.27.134:Mozi::
@@ -4526,7 +4526,7 @@
 219.157.63.210:Mozi::
 219.157.64.166:Mozi::
 219.91.53.19:Mozi::
-220.115.55.9:NoTag::
+220.115.55.9:NoTag:Fixed_Line_ISP,Greatwall_Broadband_Network_Service_Co._Ltd._Shenzhen_Branch,bjgwbn.net.cn:4
 220.134.166.227:Mirai Mozi::
 220.143.25.7:Mirai Mozi::
 220.143.28.95:Mirai Mozi::
@@ -4536,11 +4536,11 @@
 220.165.69.100:Mirai Mozi::
 220.172.210.204:Mirai Mozi::
 221.0.106.221:Mozi::
-221.0.118.101:NoTag::
+221.0.118.101:NoTag:,China_Unicom_Shandong_Province_Network,chinaunicom.com:11
 221.0.154.190:Mozi::
 221.1.160.147:Mirai Mozi::
 221.1.224.128:Mozi::
-221.1.225.168:NoTag::
+221.1.225.168:NoTag:,China_Unicom_Shandong_Province_Network,chinaunicom.com:9
 221.1.225.183:Mozi::
 221.1.226.204:Mozi::
 221.1.226.80:Mozi::
@@ -4610,7 +4610,7 @@
 221.15.225.0:Mozi::
 221.15.226.29:Mozi::
 221.15.227.169:Mozi::
-221.15.228.40:NoTag::
+221.15.228.40:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:0
 221.15.230.99:Mozi::
 221.15.231.132:Mozi::
 221.15.244.112:Mozi::
@@ -4802,7 +4802,7 @@
 222.140.233.73:Mozi::
 222.140.234.91:Mozi::
 222.140.75.53:Mozi::
-222.140.97.186:NoTag::
+222.140.97.186:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:13
 222.141.103.111:Mozi::
 222.141.103.129:Mozi::
 222.141.103.185:Mozi::
@@ -4905,7 +4905,7 @@
 222.246.13.8:Mirai Mozi::
 222.246.42.221:Mirai Mozi::
 222.246.42.241:Mirai Mozi::
-222.90.90.105:NoTag::
+222.90.90.105:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanxi_(SN)_Province_Network,chinatelecom.com.cn:4
 222.92.176.90:Mirai Mozi::
 222.93.211.79:Mirai Mozi::
 222.93.246.159:Mirai Mozi::
@@ -4989,14 +4989,14 @@
 223.9.125.208:Mirai Mozi::
 223.9.127.173:Mozi::
 223.9.47.219:Mirai Mozi::
-23.152.0.77:NoTag::
+23.152.0.77:NoTag:Data_Center_Web_Hosting_Transit,CrownCloud_US_LLC,crowncloud.us:2
 23.94.206.107:Encoded::
 23.94.247.42:RedLineStealer::
 23.95.132.42:Mirai shell::
 23.95.235.35:AgentTesla Powershell vbs::
 23.95.60.74:AgentTesla vbs::
 24.152.49.139:Mozi::
-24.199.107.91:NoTag::
+24.199.107.91:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:17
 24.45.162.245:Mirai Mozi::
 24.53.190.209:Mirai Mozi::
 27.157.144.34:Mirai Mozi::
@@ -5141,7 +5141,7 @@
 3.144.254.156:sliver trojan::
 31.166.226.153:Mozi::
 31.191.169.174:Hajime::
-31.192.237.18:NoTag::
+31.192.237.18:NoTag:Data_Center_Web_Hosting_Transit,PDK_LLC,pserver.ru:3
 31.220.41.170:ddostool malware Mirai pasted Skidware::
 34.125.15.77:gafgyt Mirai::
 34.16.130.148:gafgyt Mirai::
@@ -5227,7 +5227,7 @@
 39.79.194.195:Mozi::
 39.79.194.26:Mozi::
 39.79.199.102:Mozi::
-39.79.237.19:NoTag::
+39.79.237.19:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Shandong_Province_Network,chinaunicom.com:8
 39.79.238.161:Mozi::
 39.79.73.115:Mozi::
 39.79.85.249:Mozi::
@@ -5282,11 +5282,11 @@
 42.116.112.237:Mozi::
 42.117.129.29:Mirai Mozi::
 42.176.192.201:Mozi::
-42.177.178.226:NoTag::
+42.177.178.226:NoTag:Data_Center_Web_Hosting_Transit,Unicom_Liaoning_Province_Network,chinaunicom.com:7
 42.177.186.170:Mozi::
 42.177.196.177:Mozi::
 42.177.198.80:Mozi::
-42.177.22.118:NoTag::
+42.177.22.118:NoTag:,Unicom_Liaoning_Province_Network,chinaunicom.com:13
 42.178.157.126:Mozi::
 42.178.169.62:Mozi::
 42.178.171.27:Mozi::
@@ -5572,7 +5572,7 @@
 42.232.225.236:Mozi::
 42.232.226.125:Mozi::
 42.232.226.27:Mozi::
-42.232.227.201:NoTag::
+42.232.227.201:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:5
 42.232.228.103:Mozi::
 42.232.228.166:Mozi::
 42.232.230.35:Mozi::
@@ -5631,7 +5631,7 @@
 42.235.1.56:Mozi::
 42.235.100.183:Mozi::
 42.235.101.65:Mozi::
-42.235.145.232:NoTag::
+42.235.145.232:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:5
 42.235.151.186:Mozi::
 42.235.153.172:Mozi::
 42.235.157.29:Mozi::
@@ -5762,7 +5762,7 @@
 42.239.240.62:Mozi::
 42.239.246.163:Mozi::
 42.239.246.171:Mozi::
-42.239.252.139:NoTag::
+42.239.252.139:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:6
 42.239.254.24:Mozi::
 42.239.255.174:Mozi::
 42.239.255.22:Mozi::
@@ -5807,27 +5807,27 @@
 42.85.159.134:Mozi::
 42.85.5.102:Mozi::
 42.85.61.175:Mozi::
-43.138.106.60:NoTag::
+43.138.106.60:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd,tencent.com:2
 45.125.66.129:Geofenced Mirai ua-wget USA::
 45.128.232.186:Mirai::
-45.128.232.196:NoTag::
+45.128.232.196:NoTag:Data_Center_Web_Hosting_Transit,PFCloud,pfcloud.io:587
 45.128.232.238:Mirai::
 45.128.232.59:Mirai::
 45.128.232.82:Mirai Moobot::
 45.13.227.12:Mirai Moobot::
 45.13.227.245:gafgyt Mirai::
 45.131.111.159:gafgyt::
-45.138.16.238:NoTag::
+45.138.16.238:NoTag:Data_Center_Web_Hosting_Transit,1337_Services_GmbH,njal.la:42
 45.138.74.53:Mirai::
 45.14.244.117:Mirai::
 45.14.244.89:Mirai::
 45.140.188.133:gafgyt::
 45.142.107.38:Mirai::
-45.142.155.112:NoTag::
-45.144.31.14:NoTag::
+45.142.155.112:NoTag:Data_Center_Web_Hosting_Transit,HDTIDC_Limited,hd-it.eu:2
+45.144.31.14:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
 45.145.42.90:gafgyt Mirai renesas sparc::
 45.152.86.86:Mirai::
-45.153.240.73:NoTag::
+45.153.240.73:NoTag:Data_Center_Web_Hosting_Transit,aurologic_GmbH,combahton.net:0
 45.154.2.69:Mirai Moobot::
 45.154.3.56:Mirai Moobot::
 45.154.98.24:AsyncRAT::
@@ -5836,7 +5836,7 @@
 45.227.40.213:Mirai Mozi::
 45.229.174.144:Mozi::
 45.229.174.153:Mozi::
-45.61.136.52:NoTag::
+45.61.136.52:NoTag:Data_Center_Web_Hosting_Transit,BL_Networks,blnwx.com:2
 45.61.200.145:dropped-by-PrivateLoader::
 45.67.228.91:Mirai::
 45.76.232.247:AsyncRAT::
@@ -5845,13 +5845,13 @@
 45.86.86.217:gafgyt::
 45.87.153.96:Mirai::
 45.87.246.76:c2 Havoc::
-45.9.149.215:NoTag::
+45.9.149.215:NoTag:Data_Center_Web_Hosting_Transit,Nice_IT_Customers_Network,as49447.net:0
 45.90.97.172:CoinMiner Mirai::
 45.93.9.132:Mirai::
 45.95.147.215:Mirai::
 45.95.147.230:Mirai::
 45.95.147.241:Mirai::
-45.95.168.50:NoTag::
+45.95.168.50:NoTag:Data_Center_Web_Hosting_Transit,MAXKO_d.o.o.,maxko-hosting.com:2
 46.109.139.181:Mirai Mozi::
 46.153.134.82:Mozi::
 46.153.150.209:Mozi::
@@ -5864,8 +5864,8 @@
 46.32.172.199:Mozi::
 46.32.172.200:Mozi::
 46.32.172.207:Mozi::
-49.232.62.194:NoTag::
-49.235.144.122:NoTag::
+49.232.62.194:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:2
+49.235.144.122:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:2
 49.70.116.59:Hajime::
 49.70.121.242:Hajime::
 49.72.92.110:Hajime::
@@ -5875,25 +5875,25 @@
 49.89.177.70:Hajime::
 5.138.238.151:Mirai Mozi::
 5.188.64.229:Mozi::
-5.199.173.103:NoTag::
+5.199.173.103:NoTag:Data_Center_Web_Hosting_Transit,UAB_Cherry_Servers,balticservers.com:2
 5.238.97.47:Mozi::
 5.253.37.37:miner::
 5.62.174.177:Mozi::
 5.75.213.10:LummaStealer::
-51.222.173.101:NoTag::
+51.222.173.101:NoTag:Data_Center_Web_Hosting_Transit,OVH_Hosting_Inc.,ovh.com:2
 51.38.95.108:AsyncRAT::
 51.81.115.24:BlankGrabber dropped-by-smokeloader::
 51.89.109.154:AsyncRAT::
 51.89.42.24:linux::
-52.19.139.174:NoTag::
-54.66.242.166:NoTag::
+52.19.139.174:NoTag:Data_Center_Web_Hosting_Transit,Amazon_Data_Services_Ireland_Limited,amazon.com:2
+54.66.242.166:NoTag:Data_Center_Web_Hosting_Transit,Amazon_Technologies_Inc.,amazon.com:2
 58.186.128.23:Mozi::
 58.186.170.125:Mozi::
 58.19.213.204:Mirai Mozi::
 58.208.6.27:Mirai Mozi::
 58.209.145.47:Mirai Mozi::
 58.209.252.2:Mirai Mozi::
-58.216.207.82:NoTag::
+58.216.207.82:NoTag:Commercial,ChangZhou_Construction_and_management_of_the_Office_of_the_light,chinatelecom.com.cn:11
 58.223.138.199:Mirai Mozi::
 58.42.186.253:Mirai Mozi::
 58.45.56.157:Hajime::
@@ -5987,7 +5987,7 @@
 59.88.176.231:Mozi::
 59.88.176.86:Mozi::
 59.88.177.185:Mozi::
-59.88.179.190:NoTag::
+59.88.179.190:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:2
 59.88.179.3:Mozi::
 59.88.180.181:Mozi::
 59.88.180.32:Mozi::
@@ -6167,7 +6167,7 @@
 59.92.190.160:Mozi::
 59.92.190.184:Mozi::
 59.92.191.61:Mozi::
-59.92.33.212:NoTag::
+59.92.33.212:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:3
 59.92.34.14:Mozi::
 59.92.41.16:Mozi::
 59.92.43.227:Mozi::
@@ -6337,7 +6337,7 @@
 60.217.183.187:Mirai Mozi::
 60.22.104.145:Mozi::
 60.22.207.166:Mozi::
-60.22.23.50:NoTag::
+60.22.23.50:NoTag:,China_Unicom_Liaoning_Province_Network,chinaunicom.com:2
 60.23.139.80:Mozi::
 60.23.156.125:Mozi::
 60.23.77.198:Mozi::
@@ -6577,14 +6577,14 @@
 61.53.90.138:Mozi::
 61.53.90.57:Mozi::
 61.53.91.118:Mozi::
-61.53.91.238:NoTag::
+61.53.91.238:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:5
 61.53.91.65:Mozi::
 61.53.93.248:Mozi::
 61.53.94.114:Mozi::
 61.53.94.182:Mozi::
 61.53.94.219:Mozi::
 61.53.95.153:Mozi::
-61.53.95.235:NoTag::
+61.53.95.235:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:6
 61.53.95.86:Mozi::
 61.53.96.184:Mozi::
 61.53.96.185:Mozi::
@@ -6615,7 +6615,7 @@
 62.72.185.4:Mirai multi.qpnap TBOTNET ua-wget::
 64.33.127.1:Mozi::
 64.66.18.79:Mozi::
-65.21.21.176:NoTag::
+65.21.21.176:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_GmbH,hetzner.de:2
 65.51.229.139:Mozi::
 66.38.93.123:Mozi::
 66.38.94.222:Mozi::
@@ -6624,10 +6624,10 @@
 66.63.162.155:GuLoader::
 67.217.60.78:Mirai::
 68.168.213.246:Mirai::
-74.124.219.71:NoTag::
+74.124.219.71:NoTag:Data_Center_Web_Hosting_Transit,InMotion_Hosting_Inc.,inmotionhosting.com:1
 77.45.202.112:Mozi::
 77.45.215.60:Mozi::
-77.91.122.30:NoTag::
+77.91.122.30:NoTag:Data_Center_Web_Hosting_Transit,YSTel_d.o.o._Tivat,stark-industries.solutions:0
 78.168.252.134:Mozi::
 78.180.78.88:Mozi::
 78.191.31.243:Mozi::
@@ -6640,10 +6640,10 @@
 79.41.208.161:Mirai Mozi::
 79.49.153.192:Hajime::
 79.51.119.198:Hajime::
-8.219.54.162:NoTag::
+8.219.54.162:NoTag:Data_Center_Web_Hosting_Transit,Alibaba_Cloud_(Singapore)_Private_Limited,alicloud.com:2
 80.27.53.17:Mirai Mozi::
 81.198.150.203:Mirai Mozi::
-83.137.157.72:NoTag::
+83.137.157.72:NoTag:Fixed_Line_ISP,Giganet_Internet_Szolgaltato_Kft,giganet.hu:2
 83.137.157.76:GuLoader RAT RemcosRAT::
 83.219.1.198:Mozi::
 83.220.245.173:Mozi::
@@ -6658,21 +6658,21 @@
 85.175.102.14:Mozi::
 85.204.116.145:Mirai::
 85.204.116.154:gafgyt renesas::
-85.72.39.196:NoTag::
+85.72.39.196:NoTag:,Otenet,otenet.gr:47
 86.104.194.182:gafgyt::
 87.119.220.245:Ahmyth::
 87.2.239.197:Mirai renesas Tsunami::
 87.246.7.194:Mirai::
 87.251.78.29:Amadey::
 87.6.23.201:Mozi::
-88.13.237.229:NoTag::
+88.13.237.229:NoTag:,Telefonica_de_Espana_Sau,telefonica.com:11
 88.226.75.203:Mozi::
 88.247.207.130:Mozi::
 88.250.184.107:Mozi::
 88.252.73.217:Mozi::
 89.105.201.132:Stealc::
 89.105.201.35:dropped-by-PrivateLoader Rhadamanthys::
-89.190.156.173:NoTag::
+89.190.156.173:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:38
 89.190.156.61:Mirai::
 89.200.227.78:Mirai Mozi::
 89.221.225.163:Mirai::
@@ -6682,7 +6682,7 @@
 91.92.187.23:Hajime::
 91.92.241.110:Mirai::
 91.92.241.11:Mirai::
-91.92.241.219:NoTag::
+91.92.241.219:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.241.220:Mirai::
 91.92.241.246:Mirai::
 91.92.241.45:bat::
@@ -6698,13 +6698,13 @@
 91.92.246.112:gafgyt Mirai::
 91.92.246.137:Mirai::
 91.92.246.189:drainer Magma::
-91.92.246.249:NoTag::
-91.92.247.179:NoTag::
+91.92.246.249:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:46
+91.92.247.179:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:2
 91.92.247.212:BunnyLoader_3.0_C2:NoTag:
 91.92.247.224:CoinMiner::
-91.92.248.21:NoTag::
-91.92.248.50:NoTag::
-91.92.249.158:NoTag::
+91.92.248.21:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:2
+91.92.248.50:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:2
+91.92.249.158:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:70
 91.92.249.208:Mirai::
 91.92.249.83:Mirai::
 91.92.250.134:Mirai::
@@ -6727,7 +6727,7 @@
 91.92.253.187:dropped-by-PrivateLoader Glupteba Stealc::
 91.92.253.195:vbe::
 91.92.253.201:Moobot::
-91.92.253.219:NoTag::
+91.92.253.219:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:638
 91.92.253.239:AsyncRAT::
 91.92.254.119:Mirai::
 91.92.254.140:gafgyt Mirai::
@@ -6739,11 +6739,11 @@
 91.92.254.77:AsyncRAT::
 91.92.255.19:AsyncRAT::
 92.154.92.135:Mirai Mozi::
-92.180.162.140:NoTag::
-92.246.85.35:NoTag::
+92.180.162.140:NoTag:,Orange_S.A.,orange.com:0
+92.246.85.35:NoTag:Data_Center_Web_Hosting_Transit,Xsserver_GmbH,xsserver.gmbh:2
 92.249.48.114:gafgyt renesas sparc::
-92.249.48.140:NoTag::
-92.60.39.76:NoTag::
+92.249.48.140:NoTag:Commercial,Reverse_Server,serversexposed.com:9
+92.60.39.76:NoTag:Data_Center_Web_Hosting_Transit,netcup_GmbH,netcup.de:11
 93.123.39.121:Mirai renesas sparc::
 93.123.39.145:base64-encoded-reversed-exe PXRECVOWEIWOEI::
 93.123.39.73:gafgyt Mirai::
@@ -6758,12 +6758,12 @@
 94.102.53.75:Metasploit::
 94.131.106.24:recordbreaker::
 94.156.64.143:CoinMiner gafgyt miner Mirai XMRIG::
-94.156.64.247:NoTag::
+94.156.64.247:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:6
 94.156.66.226:Mirai Moobot::
 94.156.66.36:Mirai::
 94.156.66.40:mp3 obfuscated Powershell::
-94.156.68.163:NoTag::
-94.156.68.190:NoTag::
+94.156.68.163:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:2
+94.156.68.190:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:2
 94.156.68.231:Mirai::
 94.156.69.116:RedLineStealer zharkstealer::
 94.156.69.117:RedLineStealer zharkstealer::
@@ -6774,13 +6774,13 @@
 94.156.69.19:GuLoader::
 94.156.69.209:Mirai::
 94.156.69.35:AsyncRAT::
-94.156.71.115:NoTag::
+94.156.71.115:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 94.156.71.205:gafgyt Mirai::
 94.156.71.212:AsyncRAT mp3::
 94.156.71.251:Mirai::
 94.156.71.89:Mirai::
 94.156.71.98:Mirai::
-94.156.8.109:NoTag::
+94.156.8.109:NoTag:Data_Center_Web_Hosting_Transit,Sunucun_Bilgi_Iletsim_Teknolojiler_ve_Ticaret_Limited_Sirketi,sunucun.com.tr:264
 94.196.248.240:Mirai Mozi::
 94.228.168.51:RedLineStealer::
 94.242.61.211:AsyncRAT BitRAT DarkComet FormBook QuasarRAT::
@@ -6808,10 +6808,10 @@
 95.164.9.196:Mirai shell::
 95.179.177.99:gafgyt Mirai::
 95.179.241.89:Mirai::
-95.32.13.33:NoTag::
+95.32.13.33:NoTag:Fixed_Line_ISP,Regional_Multiservice_Network_Access,vsi.ru:12
 95.32.248.72:Mozi::
 95.32.77.14:Mozi::
 95.32.82.66:Mozi::
 95.32.84.182:Mozi::
-95.32.87.207:NoTag::
+95.32.87.207:NoTag:Fixed_Line_ISP,Regional_Multiservice_Network_Access,vsi.ru:0
 95.32.95.120:Mozi::
