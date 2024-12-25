@@ -3,34 +3,34 @@
 1.175.48.2:Hajime::
 1.192.194.162:NoTag:Data_Center_Web_Hosting_Transit,Henan_Telecom_Corporation,chinatelecom.com.cn:0
 1.69.108.61:Hajime::
-1.69.109.147:Mirai Mozi::
+1.69.109.147:MiraiMozi::
 1.69.113.86:Hajime::
 1.69.36.225:Mozi::
-1.69.74.41:Mirai Mozi::
+1.69.74.41:MiraiMozi::
 1.70.10.165:Hajime::
-1.70.11.116:Mirai Mozi::
+1.70.11.116:MiraiMozi::
 1.70.12.85:Hajime::
-1.70.129.249:Mirai Mozi::
-1.70.132.228:Mirai Mozi::
+1.70.129.249:MiraiMozi::
+1.70.132.228:MiraiMozi::
 1.70.139.114:Hajime::
-1.70.139.124:Mirai Mozi::
+1.70.139.124:MiraiMozi::
 1.70.140.217:Hajime::
-1.70.165.109:Mirai Mozi::
-1.70.186.246:Mirai Mozi::
+1.70.165.109:MiraiMozi::
+1.70.186.246:MiraiMozi::
 1.70.8.98:Hajime::
 1.70.80.39:Hajime::
 1.70.80.55:Hajime::
-1.70.81.18:Mirai Mozi::
+1.70.81.18:MiraiMozi::
 1.70.83.33:Hajime::
-1.70.86.222:Mirai Mozi::
-1.70.86.48:Mirai Mozi::
+1.70.86.222:MiraiMozi::
+1.70.86.48:MiraiMozi::
 1.70.9.106:Hajime::
-101.108.71.196:Mirai Mozi::
+101.108.71.196:MiraiMozi::
 101.133.172.90:Supershell::
 101.219.17.111:NoTag:,Aircel_Ltd.,aircel.com:0
 101.37.23.56:Supershell::
 101.43.162.6:Supershell::
-101.67.200.201:Mirai Mozi::
+101.67.200.201:MiraiMozi::
 102.214.109.118:Mozi::
 102.22.242.68:Mozi::
 102.33.0.126:NoTag:Fixed_Line_ISP,Metrofibre_Networx,metrofibre.co.za:0
@@ -78,18 +78,18 @@
 102.36.198.196:Mozi::
 102.71.183.0:Mozi::
 103.108.66.226:NoTag:Data_Center_Web_Hosting_Transit,Hngyun,lokgaa.com:0
-103.124.105.140:Geofenced Pikabot curl USA::
-103.124.105.147:Geofenced Pikabot curl USA::
+103.124.105.140:GeofencedPikabotcurlUSA::
+103.124.105.147:GeofencedPikabotcurlUSA::
 103.136.39.89:Mozi::
 103.138.137.101:Mozi::
 103.146.179.82:Supershell::
-103.15.253.105:Mirai Mozi::
-103.159.188.34:gafgyt Mirai::
+103.15.253.105:MiraiMozi::
+103.159.188.34:gafgytMirai::
 103.171.168.210:Mirai::
 103.172.79.74:Mirai::
 103.174.73.85:Mirai::
 103.174.73.96:Mirai::
-103.178.235.32:gafgyt Mirai::
+103.178.235.32:gafgytMirai::
 103.179.172.139:Mirai::
 103.179.188.223:Mirai::
 103.180.149.156:Mirai::
@@ -99,8 +99,8 @@
 103.186.117.125:NoTag:Data_Center_Web_Hosting_Transit,GB_Cloud_Sdn_Bhd,gbcloud.net:0
 103.186.117.66:RemcosRAT::
 103.195.236.98:gafgyt::
-103.242.106.35:Mirai Mozi::
-103.242.106.45:Mirai Mozi::
+103.242.106.35:MiraiMozi::
+103.242.106.45:MiraiMozi::
 103.252.90.214:Mirai::
 103.28.33.96:Mirai::
 103.30.117.245:Mozi::
@@ -118,35 +118,35 @@
 103.91.180.111:Mozi::
 103.91.180.32:Mozi::
 103.96.128.3:NoTag:Data_Center_Web_Hosting_Transit,FLAT_RM_A_9_F,linkchina.hk:0
-104.167.221.222:gafgyt Mirai::
-104.205.218.9:Mirai Mozi::
-104.218.236.114:Encoded RAT RemcosRAT vbs::
+104.167.221.222:gafgytMirai::
+104.205.218.9:MiraiMozi::
+104.218.236.114:EncodedRATRemcosRATvbs::
 104.218.48.107:Mirai::
 104.223.6.51:GuLoader::
-104.243.46.182:Mirai sparc::
+104.243.46.182:Miraisparc::
 105.156.86.4:Mozi::
 105.157.131.121:Mozi::
 105.158.64.124:Mozi::
-106.111.37.129:Mirai Mozi::
+106.111.37.129:MiraiMozi::
 106.111.38.181:Hajime::
 106.127.184.80:Mozi::
-106.254.250.98:CoinMiner monero miner::
+106.254.250.98:CoinMinermonerominer::
 106.41.137.233:Hajime::
-106.41.28.110:Mirai Mozi::
-106.41.56.202:Mirai Mozi::
-106.41.71.69:Mirai Mozi::
+106.41.28.110:MiraiMozi::
+106.41.56.202:MiraiMozi::
+106.41.71.69:MiraiMozi::
 106.41.71.8:Hajime::
-106.41.74.12:Mirai Mozi::
+106.41.74.12:MiraiMozi::
 106.41.74.42:Hajime::
 106.41.81.17:Hajime::
 106.55.199.146:CobaltStrike::
 107.161.81.150:AsyncRAT::
 107.173.4.15:NoTag:Data_Center_Web_Hosting_Transit,VPS_Ace,vpsace.com:0
-107.173.4.5:AgentTesla Encoded vbs::
+107.173.4.5:AgentTeslaEncodedvbs::
 107.174.212.6:vbs::
 107.174.212.74:FormBook::
-107.175.202.154:RAT RemcosRAT vbs::
-107.175.242.91:Mirai renesas sparc::
+107.175.202.154:RATRemcosRATvbs::
+107.175.242.91:Mirairenesassparc::
 107.175.3.10:Neshta::
 107.175.3.29:Mirai::
 108.174.198.206:Mirai::
@@ -158,30 +158,30 @@
 109.107.182.163:DCRat::
 109.107.182.60:Stealc::
 109.123.255.245:Meterpreter::
-109.199.120.90:Mirai shell::
-109.245.65.201:Mirai sparc::
+109.199.120.90:Miraishell::
+109.245.65.201:Miraisparc::
 109.92.126.130:Hajime::
-110.177.103.135:Mirai Mozi::
-110.177.111.173:Mirai Mozi::
+110.177.103.135:MiraiMozi::
+110.177.111.173:MiraiMozi::
 110.177.99.20:Hajime::
-110.178.37.107:Mirai Mozi::
-110.178.72.108:Mirai Mozi::
+110.178.37.107:MiraiMozi::
+110.178.72.108:MiraiMozi::
 110.180.135.12:Hajime::
 110.180.165.224:Hajime::
 110.180.168.249:Hajime::
-110.180.173.243:Mirai Mozi::
-110.181.104.183:Mirai Mozi::
-110.181.108.86:Mirai Mozi::
-110.181.112.212:Mirai Mozi::
-110.181.235.5:Mirai Mozi::
+110.180.173.243:MiraiMozi::
+110.181.104.183:MiraiMozi::
+110.181.108.86:MiraiMozi::
+110.181.112.212:MiraiMozi::
+110.181.235.5:MiraiMozi::
 110.181.237.122:Mozi::
 110.181.237.177:Hajime::
-110.181.239.189:Mirai Mozi::
-110.181.71.98:Mirai Mozi::
-110.181.72.226:Mirai Mozi::
-110.182.114.51:Mirai Mozi::
-110.182.117.123:Mirai Mozi::
-110.182.146.73:Mirai Mozi::
+110.181.239.189:MiraiMozi::
+110.181.71.98:MiraiMozi::
+110.181.72.226:MiraiMozi::
+110.182.114.51:MiraiMozi::
+110.182.117.123:MiraiMozi::
+110.182.146.73:MiraiMozi::
 110.182.151.77:Hajime::
 110.182.168.191:Hajime::
 110.182.170.81:Hajime::
@@ -191,16 +191,16 @@
 110.182.46.137:Hajime::
 110.182.98.214:Hajime::
 110.182.98.26:Hajime::
-110.183.17.26:Mirai Mozi::
-110.183.19.222:Mirai Mozi::
-110.183.19.86:Mirai Mozi::
+110.183.17.26:MiraiMozi::
+110.183.19.222:MiraiMozi::
+110.183.19.86:MiraiMozi::
 110.183.22.139:Hajime::
-110.183.29.148:Mirai Mozi::
-110.183.52.113:Mirai Mozi::
-110.183.53.223:Mirai Mozi::
-110.183.55.75:Mirai Mozi::
-110.24.32.178:Mirai Mozi::
-111.229.33.213:mimikatz Powershell shell webshell::
+110.183.29.148:MiraiMozi::
+110.183.52.113:MiraiMozi::
+110.183.53.223:MiraiMozi::
+110.183.55.75:MiraiMozi::
+110.24.32.178:MiraiMozi::
+111.229.33.213:mimikatzPowershellshellwebshell::
 111.250.169.3:Hajime::
 111.35.78.2:Mozi::
 111.70.25.62:Mozi::
@@ -210,7 +210,7 @@
 112.193.126.201:Mozi::
 112.22.117.37:Mozi::
 112.225.122.229:Mozi::
-112.225.26.198:Mirai Mozi::
+112.225.26.198:MiraiMozi::
 112.225.47.224:Mozi::
 112.226.182.82:Mozi::
 112.226.203.154:Mozi::
@@ -218,7 +218,7 @@
 112.229.189.2:Mozi::
 112.231.187.55:Mozi::
 112.232.144.60:Mozi::
-112.236.71.197:Mirai Mozi::
+112.236.71.197:MiraiMozi::
 112.237.127.244:Mozi::
 112.237.162.252:Mozi::
 112.237.171.160:Mozi::
@@ -247,7 +247,7 @@
 112.239.123.170:Mozi::
 112.239.123.191:Mozi::
 112.239.127.27:Mozi::
-112.239.163.0:Mirai Mozi::
+112.239.163.0:MiraiMozi::
 112.239.23.191:Mozi::
 112.239.97.49:NoTag:,China_Unicom_Shandong_Province_Network,chinaunicom.com:0
 112.240.165.179:Mozi::
@@ -307,7 +307,7 @@
 112.248.245.98:Mozi::
 112.248.246.71:Mozi::
 112.248.248.130:Mozi::
-112.248.249.39:Mirai Mozi::
+112.248.249.39:MiraiMozi::
 112.248.253.187:Mozi::
 112.248.68.56:Mozi::
 112.248.80.219:Mozi::
@@ -331,7 +331,7 @@
 112.254.1.221:Mozi::
 112.254.207.174:Mozi::
 112.254.207.242:Mozi::
-112.31.180.128:Mirai Mozi::
+112.31.180.128:MiraiMozi::
 112.53.154.170:Mozi::
 113.102.122.197:Mozi::
 113.104.201.238:Mozi::
@@ -342,7 +342,7 @@
 113.118.201.24:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.118.251.248:Mozi::
 113.12.253.203:Mozi::
-113.155.86.41:Mirai Mozi::
+113.155.86.41:MiraiMozi::
 113.186.164.233:Mozi::
 113.190.168.33:Mozi::
 113.190.176.27:Mozi::
@@ -350,9 +350,9 @@
 113.215.220.17:Mozi::
 113.221.26.42:Hajime::
 113.221.46.202:Hajime::
-113.221.72.63:Mirai Mozi::
+113.221.72.63:MiraiMozi::
 113.221.78.64:Hajime::
-113.227.213.223:Mirai Mozi::
+113.227.213.223:MiraiMozi::
 113.228.155.108:Mozi::
 113.229.178.104:Mozi::
 113.229.185.241:Mozi::
@@ -376,33 +376,33 @@
 113.238.226.253:Mozi::
 113.239.221.234:Mozi::
 113.239.221.3:Mozi::
-113.24.132.218:Mirai Mozi::
+113.24.132.218:MiraiMozi::
 113.24.150.174:Hajime::
 113.24.151.101:Hajime::
-113.24.164.53:Mirai Mozi::
-113.245.218.88:Mirai Mozi::
-113.25.134.200:Mirai Mozi::
-113.25.201.199:Mirai Mozi::
-113.25.202.73:Mirai Mozi::
+113.24.164.53:MiraiMozi::
+113.245.218.88:MiraiMozi::
+113.25.134.200:MiraiMozi::
+113.25.201.199:MiraiMozi::
+113.25.202.73:MiraiMozi::
 113.25.220.155:Hajime::
 113.25.222.44:Hajime::
-113.25.238.127:Mirai Mozi::
+113.25.238.127:MiraiMozi::
 113.26.191.45:Hajime::
-113.26.198.160:Mirai Mozi::
+113.26.198.160:MiraiMozi::
 113.26.227.128:Hajime::
-113.26.229.255:Mirai Mozi::
-113.26.230.255:Mirai Mozi::
+113.26.229.255:MiraiMozi::
+113.26.230.255:MiraiMozi::
 113.26.231.58:Hajime::
 113.26.232.119:Hajime::
 113.26.56.218:Hajime::
-113.26.81.192:Mirai Mozi::
-113.26.82.249:Mirai Mozi::
-113.26.82.26:Mirai Mozi::
-113.26.84.177:Mirai Mozi::
+113.26.81.192:MiraiMozi::
+113.26.82.249:MiraiMozi::
+113.26.82.26:MiraiMozi::
+113.26.84.177:MiraiMozi::
 113.26.88.251:Mozi::
-113.26.92.169:Mirai Mozi::
-113.27.8.231:Mirai Mozi::
-113.27.8.40:Mirai Mozi::
+113.26.92.169:MiraiMozi::
+113.27.8.231:MiraiMozi::
+113.27.8.40:MiraiMozi::
 113.78.216.209:Mozi::
 113.78.216.247:Mozi::
 113.87.184.46:Mozi::
@@ -411,33 +411,33 @@
 113.99.201.163:Mozi::
 114.116.231.53:Supershell::
 114.219.251.157:Mozi::
-114.226.125.194:Mirai Mozi::
+114.226.125.194:MiraiMozi::
 114.226.16.249:Hajime::
-114.227.49.56:Mirai Mozi::
-114.227.61.229:Mirai Mozi::
+114.227.49.56:MiraiMozi::
+114.227.61.229:MiraiMozi::
 114.227.63.28:Hajime::
 114.228.134.213:Hajime::
-114.228.174.157:Mirai Mozi::
-114.230.177.231:Mirai Mozi::
-114.238.55.82:Mirai Mozi::
+114.228.174.157:MiraiMozi::
+114.230.177.231:MiraiMozi::
+114.238.55.82:MiraiMozi::
 114.238.62.184:Hajime::
 114.239.115.176:Hajime::
-114.239.127.146:Mirai Mozi::
-114.239.159.126:Mirai Mozi::
-114.239.202.223:Mirai Mozi::
+114.239.127.146:MiraiMozi::
+114.239.159.126:MiraiMozi::
+114.239.202.223:MiraiMozi::
 114.239.247.173:Hajime::
 114.239.40.131:Hajime::
-114.239.49.196:Mirai Mozi::
-114.34.155.59:Mirai Mozi::
-115.124.44.20:Mirai Mozi::
+114.239.49.196:MiraiMozi::
+114.34.155.59:MiraiMozi::
+115.124.44.20:MiraiMozi::
 115.183.44.204:Mozi::
-115.201.132.35:Mirai Mozi::
-115.201.136.175:Mirai Mozi::
-115.201.152.50:Mirai Mozi::
+115.201.132.35:MiraiMozi::
+115.201.136.175:MiraiMozi::
+115.201.152.50:MiraiMozi::
 115.210.198.71:Mozi::
 115.213.177.186:Mozi::
 115.222.143.102:Mozi::
-115.38.9.252:Mirai Mozi::
+115.38.9.252:MiraiMozi::
 115.48.10.15:Mozi::
 115.48.130.183:Mozi::
 115.48.138.106:Mozi::
@@ -450,7 +450,7 @@
 115.48.151.109:Mozi::
 115.48.152.62:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Henan_Province_Network,chinaunicom.com:0
 115.48.153.194:Mozi::
-115.48.155.109:Mirai Mozi::
+115.48.155.109:MiraiMozi::
 115.48.155.144:Mozi::
 115.48.155.207:Mozi::
 115.48.155.34:Mozi::
@@ -574,7 +574,7 @@
 115.51.0.164:Mozi::
 115.51.101.45:Mozi::
 115.51.109.55:Mozi::
-115.51.122.211:Mirai Mozi::
+115.51.122.211:MiraiMozi::
 115.51.127.159:Mozi::
 115.51.2.154:Mozi::
 115.51.20.228:Mozi::
@@ -753,7 +753,7 @@
 115.55.248.136:Mozi::
 115.55.248.151:Mozi::
 115.55.248.16:Mozi::
-115.55.248.26:Mirai Mozi::
+115.55.248.26:MiraiMozi::
 115.55.249.241:Mozi::
 115.55.25.177:Mozi::
 115.55.250.148:Mozi::
@@ -842,7 +842,7 @@
 115.56.41.112:Mozi::
 115.56.41.142:Mozi::
 115.56.42.3:Mozi::
-115.56.47.28:Mirai Mozi::
+115.56.47.28:MiraiMozi::
 115.56.56.128:Mozi::
 115.56.57.63:Mozi::
 115.56.64.54:Mozi::
@@ -914,7 +914,7 @@
 115.59.7.227:Mozi::
 115.59.76.31:Mozi::
 115.59.88.178:Mozi::
-115.59.88.21:Mirai Mozi::
+115.59.88.21:MiraiMozi::
 115.59.89.174:Mozi::
 115.59.91.110:Mozi::
 115.59.92.242:Mozi::
@@ -1000,7 +1000,7 @@
 115.96.134.205:Mozi::
 115.96.196.133:Mozi::
 115.96.198.143:Mozi::
-115.96.31.216:Mirai Mozi::
+115.96.31.216:MiraiMozi::
 115.97.180.101:Mozi::
 115.97.198.199:Mozi::
 115.98.15.104:Mozi::
@@ -1061,7 +1061,7 @@
 117.192.126.152:Mozi::
 117.192.126.196:Mozi::
 117.192.126.202:Mirai::
-117.192.126.225:Mirai Mozi::
+117.192.126.225:MiraiMozi::
 117.192.126.74:Mozi::
 117.192.127.159:Mozi::
 117.192.127.179:Mozi::
@@ -1190,7 +1190,7 @@
 117.200.183.160:Mozi::
 117.200.184.152:Mozi::
 117.200.184.236:Mozi::
-117.200.185.126:Mirai Mozi::
+117.200.185.126:MiraiMozi::
 117.200.185.222:Mozi::
 117.200.185.58:Mozi::
 117.200.186.238:Mozi::
@@ -1219,7 +1219,7 @@
 117.201.4.109:Mozi::
 117.201.4.121:Mozi::
 117.201.5.134:Mozi::
-117.201.5.22:Mirai Mozi::
+117.201.5.22:MiraiMozi::
 117.201.5.230:Mozi::
 117.201.5.80:Mozi::
 117.201.53.97:Mozi::
@@ -1400,7 +1400,7 @@
 117.207.251.141:Mozi::
 117.207.252.251:Mozi::
 117.207.252.89:Mozi::
-117.207.255.170:Mirai Mozi::
+117.207.255.170:MiraiMozi::
 117.207.3.94:Mozi::
 117.207.65.218:Mozi::
 117.207.66.140:Mozi::
@@ -1470,7 +1470,7 @@
 117.211.211.238:Mozi::
 117.211.212.144:Mozi::
 117.211.213.127:Mozi::
-117.211.213.156:Mirai Mozi::
+117.211.213.156:MiraiMozi::
 117.211.213.219:Mozi::
 117.211.213.60:Mozi::
 117.211.215.185:Mozi::
@@ -1537,7 +1537,7 @@
 117.213.90.131:Mozi::
 117.213.90.190:Mozi::
 117.213.90.55:Mozi::
-117.213.91.121:Mirai Mozi::
+117.213.91.121:MiraiMozi::
 117.213.91.144:Mozi::
 117.213.91.242:Mozi::
 117.213.91.26:Mozi::
@@ -1631,10 +1631,10 @@
 117.215.211.118:Mozi::
 117.215.215.241:Mozi::
 117.215.216.2:Mozi::
-117.215.216.43:Mirai Mozi::
+117.215.216.43:MiraiMozi::
 117.215.217.151:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:0
 117.215.217.249:Mozi::
-117.215.219.163:Mirai Mozi::
+117.215.219.163:MiraiMozi::
 117.215.219.6:Mozi::
 117.215.219.7:Mozi::
 117.215.220.156:Mozi::
@@ -1655,7 +1655,7 @@
 117.216.241.179:Mozi::
 117.216.241.6:Mozi::
 117.216.243.168:Mozi::
-117.216.243.234:Mirai Mozi::
+117.216.243.234:MiraiMozi::
 117.216.243.39:Mozi::
 117.216.244.120:Mozi::
 117.216.244.203:Mozi::
@@ -1670,7 +1670,7 @@
 117.216.255.135:Mozi::
 117.216.255.157:Mozi::
 117.216.255.233:Mozi::
-117.216.64.14:Mirai Mozi::
+117.216.64.14:MiraiMozi::
 117.216.64.64:Mozi::
 117.216.64.87:Mozi::
 117.216.65.112:Mozi::
@@ -1691,7 +1691,7 @@
 117.216.71.152:Mozi::
 117.217.32.10:Mozi::
 117.217.32.129:Mozi::
-117.217.32.131:Mirai Mozi::
+117.217.32.131:MiraiMozi::
 117.217.32.150:Mozi::
 117.217.32.18:Mozi::
 117.217.32.216:Mozi::
@@ -1778,7 +1778,7 @@
 117.217.45.199:Mozi::
 117.217.45.3:Mozi::
 117.217.46.158:Mozi::
-117.217.46.171:Mirai Mozi::
+117.217.46.171:MiraiMozi::
 117.217.46.181:Mozi::
 117.217.46.249:Mozi::
 117.217.46.43:Mozi::
@@ -1887,9 +1887,9 @@
 117.235.154.109:Mozi::
 117.235.154.121:Mozi::
 117.235.154.151:Mozi::
-117.235.154.40:Mirai Mozi::
+117.235.154.40:MiraiMozi::
 117.235.155.139:Mozi::
-117.235.157.61:Mirai Mozi::
+117.235.157.61:MiraiMozi::
 117.235.157.97:Mozi::
 117.235.158.142:Mozi::
 117.235.158.255:Mozi::
@@ -1931,7 +1931,7 @@
 117.235.60.61:Mozi::
 117.235.60.99:Mozi::
 117.235.61.128:Mozi::
-117.235.8.145:Mirai Mozi::
+117.235.8.145:MiraiMozi::
 117.241.106.247:Mozi::
 117.241.171.53:Mozi::
 117.241.201.2:Mozi::
@@ -1975,12 +1975,12 @@
 117.242.238.176:Mozi::
 117.242.238.195:Mozi::
 117.242.239.101:Mozi::
-117.242.239.157:Mirai Mozi::
+117.242.239.157:MiraiMozi::
 117.242.239.188:Mozi::
 117.242.239.236:Mozi::
 117.242.239.52:Mozi::
 117.242.52.237:Mozi::
-117.243.161.255:Mirai Mozi::
+117.243.161.255:MiraiMozi::
 117.243.162.214:Mozi::
 117.243.163.147:Mozi::
 117.243.165.110:Mozi::
@@ -2056,7 +2056,7 @@
 117.248.27.69:Mozi::
 117.248.28.104:Mozi::
 117.248.28.166:Mozi::
-117.248.28.172:Mirai Mozi::
+117.248.28.172:MiraiMozi::
 117.248.28.248:Mozi::
 117.248.28.41:Mozi::
 117.248.28.62:Mozi::
@@ -2093,7 +2093,7 @@
 117.248.53.58:Mozi::
 117.248.54.208:Mozi::
 117.248.54.21:Mozi::
-117.248.55.113:Mirai Mozi::
+117.248.55.113:MiraiMozi::
 117.248.55.252:Mozi::
 117.248.56.107:Mozi::
 117.248.56.155:Mozi::
@@ -2133,7 +2133,7 @@
 117.252.162.180:Mozi::
 117.252.162.81:Mirai::
 117.252.163.46:Mozi::
-117.252.163.94:Mirai Mozi::
+117.252.163.94:MiraiMozi::
 117.252.164.109:Mozi::
 117.252.164.115:Mozi::
 117.252.165.50:Mozi::
@@ -2231,7 +2231,7 @@
 117.254.177.147:Mozi::
 117.254.178.101:Mozi::
 117.254.178.183:Mozi::
-117.254.178.58:Mirai Mozi::
+117.254.178.58:MiraiMozi::
 117.254.178.66:Mozi::
 117.254.178.74:Mozi::
 117.254.179.122:Mozi::
@@ -2286,31 +2286,31 @@
 117.255.93.245:Mozi::
 117.255.95.150:Mozi::
 117.255.95.54:Mozi::
-117.60.104.171:Mirai Mozi::
+117.60.104.171:MiraiMozi::
 117.63.232.12:Mozi::
 117.72.47.127:younglotus::
-117.83.76.195:Mirai Mozi::
-117.83.76.219:Mirai Mozi::
+117.83.76.195:MiraiMozi::
+117.83.76.219:MiraiMozi::
 117.89.222.112:Mozi::
-117.90.20.99:Mirai Mozi::
-117.91.205.237:Mirai Mozi::
-117.91.221.105:Mirai Mozi::
-117.91.233.134:Mirai Mozi::
+117.90.20.99:MiraiMozi::
+117.91.205.237:MiraiMozi::
+117.91.221.105:MiraiMozi::
+117.91.233.134:MiraiMozi::
 117.95.201.250:Hajime::
-117.95.211.224:Mirai Mozi::
+117.95.211.224:MiraiMozi::
 117.95.244.72:Hajime::
-118.105.100.222:Mirai Mozi::
-118.105.123.123:Mirai Mozi::
+118.105.100.222:MiraiMozi::
+118.105.123.123:MiraiMozi::
 118.123.1.178:Supershell::
-118.172.10.132:Mirai Mozi::
-118.172.12.40:Mirai Mozi::
-118.174.107.61:Mirai Mozi::
-118.174.96.105:Mirai Mozi::
+118.172.10.132:MiraiMozi::
+118.172.12.40:MiraiMozi::
+118.174.107.61:MiraiMozi::
+118.174.96.105:MiraiMozi::
 118.250.5.255:Mozi::
 118.250.54.142:Mozi::
-118.251.20.128:Mirai Mozi::
+118.251.20.128:MiraiMozi::
 118.31.3.116:NoTag:Data_Center_Web_Hosting_Transit,Aliyun_Computing_Co._Ltd,aliyun.com:0
-118.79.47.51:Mirai Mozi::
+118.79.47.51:MiraiMozi::
 119.109.166.94:Mozi::
 119.114.156.52:Mozi::
 119.114.233.95:Mozi::
@@ -2337,7 +2337,7 @@
 119.178.248.206:Mozi::
 119.178.248.99:Mozi::
 119.179.100.138:Mozi::
-119.179.143.16:Mirai Mozi::
+119.179.143.16:MiraiMozi::
 119.179.17.98:Mozi::
 119.179.18.6:Mozi::
 119.179.201.36:Mozi::
@@ -2392,7 +2392,7 @@
 119.189.192.127:Mozi::
 119.189.192.45:Mozi::
 119.189.218.238:Mozi::
-119.189.228.248:Mirai Mozi::
+119.189.228.248:MiraiMozi::
 119.189.242.214:Mozi::
 119.45.17.224:Supershell::
 119.45.219.31:Supershell::
@@ -2420,7 +2420,7 @@
 120.56.15.158:Mozi::
 120.56.15.42:Mozi::
 120.56.15.87:Mozi::
-120.56.2.87:Mirai Mozi::
+120.56.2.87:MiraiMozi::
 120.56.3.44:Mozi::
 120.56.3.79:Mozi::
 120.56.4.121:Mozi::
@@ -2456,35 +2456,35 @@
 120.59.177.185:Mozi::
 120.59.216.246:Mozi::
 120.76.205.214:NoTag:Data_Center_Web_Hosting_Transit,Aliyun_Computing_Co._Ltd,aliyun.com:0
-120.86.240.15:Mirai Mozi::
-120.86.240.4:Mirai Mozi::
-120.86.241.86:Mirai Mozi::
-120.86.243.59:Mirai Mozi::
-120.86.245.128:Mirai Mozi::
-120.86.245.254:Mirai Mozi::
-120.86.246.224:Mirai Mozi::
+120.86.240.15:MiraiMozi::
+120.86.240.4:MiraiMozi::
+120.86.241.86:MiraiMozi::
+120.86.243.59:MiraiMozi::
+120.86.245.128:MiraiMozi::
+120.86.245.254:MiraiMozi::
+120.86.246.224:MiraiMozi::
 120.86.247.192:Mirai::
 121.123.47.111:Hajime::
-121.224.141.76:Mirai Mozi::
+121.224.141.76:MiraiMozi::
 121.224.181.79:Mozi::
 121.225.49.22:Hajime::
-121.226.191.89:Mirai Mozi::
+121.226.191.89:MiraiMozi::
 121.226.227.142:Hajime::
-121.226.236.38:Mirai Mozi::
-121.227.117.67:Mirai Mozi::
-121.227.135.111:Mirai Mozi::
-121.227.75.22:Mirai Mozi::
+121.226.236.38:MiraiMozi::
+121.227.117.67:MiraiMozi::
+121.227.135.111:MiraiMozi::
+121.227.75.22:MiraiMozi::
 121.231.66.218:Mozi::
 121.233.168.122:Hajime::
-121.233.226.108:Mirai Mozi::
+121.233.226.108:MiraiMozi::
 121.234.250.203:Hajime::
-121.236.154.235:Mirai Mozi::
-121.239.208.155:Mirai Mozi::
-121.239.221.146:Mirai Mozi::
+121.236.154.235:MiraiMozi::
+121.239.208.155:MiraiMozi::
+121.239.221.146:MiraiMozi::
 122.170.105.247:Mozi::
-122.189.18.50:Mirai Mozi::
+122.189.18.50:MiraiMozi::
 122.245.21.89:Mirai::
-122.246.185.113:Mirai Mozi::
+122.246.185.113:MiraiMozi::
 123.10.128.77:Mozi::
 123.10.132.214:Mozi::
 123.10.137.171:Mozi::
@@ -2672,19 +2672,19 @@
 123.154.255.176:Mozi::
 123.17.250.203:Mozi::
 123.172.115.128:Hajime::
-123.172.48.15:Mirai Mozi::
-123.172.51.115:Mirai Mozi::
+123.172.48.15:MiraiMozi::
+123.172.51.115:MiraiMozi::
 123.172.51.99:Hajime::
-123.172.55.59:Mirai Mozi::
+123.172.55.59:MiraiMozi::
 123.173.73.21:Hajime::
 123.173.78.135:Hajime::
 123.173.88.5:Hajime::
 123.175.102.160:Hajime::
 123.175.2.106:Hajime::
 123.175.30.200:Hajime::
-123.175.30.228:Mirai Mozi::
-123.185.109.119:Mirai Mozi::
-123.185.222.179:Mirai Mozi::
+123.175.30.228:MiraiMozi::
+123.185.109.119:MiraiMozi::
+123.185.222.179:MiraiMozi::
 123.188.221.124:Mozi::
 123.188.70.43:Mozi::
 123.188.86.108:Mozi::
@@ -2692,7 +2692,7 @@
 123.189.182.184:Mozi::
 123.190.119.144:Mozi::
 123.232.160.64:Mozi::
-123.232.205.0:Mirai Mozi::
+123.232.205.0:MiraiMozi::
 123.234.75.154:Mozi::
 123.235.150.10:Mozi::
 123.235.240.247:Mozi::
@@ -2711,7 +2711,7 @@
 123.4.181.142:Mozi::
 123.4.182.230:Mozi::
 123.4.185.117:Mozi::
-123.4.185.46:Mirai Mozi::
+123.4.185.46:MiraiMozi::
 123.4.186.144:Mozi::
 123.4.191.38:Mozi::
 123.4.191.75:Mozi::
@@ -2784,7 +2784,7 @@
 123.7.43.69:Mirai::
 123.8.125.78:Mozi::
 123.8.158.122:Mozi::
-123.8.173.47:Mirai Mozi::
+123.8.173.47:MiraiMozi::
 123.8.18.137:Mozi::
 123.8.2.125:Mozi::
 123.8.2.87:Mozi::
@@ -2846,20 +2846,20 @@
 124.133.89.87:Mozi::
 124.135.120.85:Mozi::
 124.135.182.185:Mozi::
-124.18.220.109:Mirai Mozi::
+124.18.220.109:MiraiMozi::
 124.18.221.247:Mozi::
 124.221.221.169:Meterpreter::
 124.222.175.116:Nitol::
 124.229.144.11:Mozi::
 124.234.180.125:Hajime::
-124.234.182.118:Mirai Mozi::
+124.234.182.118:MiraiMozi::
 124.234.182.5:Hajime::
 124.234.218.226:Hajime::
-124.234.240.110:Mirai Mozi::
-124.234.245.226:Mirai Mozi::
-124.234.246.27:Mirai Mozi::
-124.234.247.227:Mirai Mozi::
-124.235.106.98:Mirai Mozi::
+124.234.240.110:MiraiMozi::
+124.234.245.226:MiraiMozi::
+124.234.246.27:MiraiMozi::
+124.234.247.227:MiraiMozi::
+124.235.106.98:MiraiMozi::
 124.235.185.76:Hajime::
 124.235.240.155:Hajime::
 124.253.148.176:Mozi::
@@ -2871,13 +2871,13 @@
 124.95.2.183:Mozi::
 124.95.6.91:Mozi::
 125.105.202.177:Mozi::
-125.111.8.184:Mirai Mozi::
-125.114.124.126:Mirai Mozi::
-125.114.161.81:Mirai Mozi::
-125.24.167.125:Mirai Mozi::
-125.24.170.198:Mirai Mozi::
-125.25.183.191:Mirai Mozi::
-125.26.163.25:Mirai Mozi::
+125.111.8.184:MiraiMozi::
+125.114.124.126:MiraiMozi::
+125.114.161.81:MiraiMozi::
+125.24.167.125:MiraiMozi::
+125.24.170.198:MiraiMozi::
+125.25.183.191:MiraiMozi::
+125.26.163.25:MiraiMozi::
 125.40.112.192:Mozi::
 125.40.112.229:Mozi::
 125.40.122.233:Mozi::
@@ -2891,7 +2891,7 @@
 125.40.150.8:Mozi::
 125.40.154.146:Mozi::
 125.40.224.190:Mozi::
-125.40.3.111:Mirai Mozi::
+125.40.3.111:MiraiMozi::
 125.40.46.121:Mozi::
 125.40.57.253:Mozi::
 125.40.81.228:Mozi::
@@ -2902,7 +2902,7 @@
 125.41.183.74:Mozi::
 125.41.196.148:Mozi::
 125.41.210.128:Mozi::
-125.41.227.184:Mirai Mozi::
+125.41.227.184:MiraiMozi::
 125.41.227.64:Mozi::
 125.41.229.46:Mozi::
 125.41.230.16:Mozi::
@@ -2945,7 +2945,7 @@
 125.44.16.239:Mozi::
 125.44.180.167:Mozi::
 125.44.181.103:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:0
-125.44.192.254:Mirai Mozi::
+125.44.192.254:MiraiMozi::
 125.44.198.25:Mozi::
 125.44.199.253:Mozi::
 125.44.20.241:Mozi::
@@ -3022,8 +3022,8 @@
 134.236.147.64:Mozi::
 136.37.71.110:Mozi::
 137.175.17.80:Mirai::
-14.108.212.196:Mirai Mozi::
-14.108.213.154:Mirai Mozi::
+14.108.212.196:MiraiMozi::
+14.108.213.154:MiraiMozi::
 14.133.228.13:NoTag:Fixed_Line_ISP,Chubu_Telecommunications_Co._Inc.,ctc.co.jp:0
 14.177.172.207:Mozi::
 14.181.154.203:Mozi::
@@ -3035,14 +3035,14 @@
 14.247.83.28:Mozi::
 14.247.84.252:Mozi::
 14.247.85.44:Mozi::
-141.98.10.72:Mirai renesas sparc::
-143.110.217.67:Geofenced Mirai  USA::
+141.98.10.72:Mirairenesassparc::
+143.110.217.67:GeofencedMiraiUSA::
 143.198.50.169:gafgyt::
-146.19.213.188:gafgyt Mirai::
-146.71.78.14:gafgyt renesas sparc::
+146.19.213.188:gafgytMirai::
+146.71.78.14:gafgytrenesassparc::
 147.135.10.151:NoTag:Data_Center_Web_Hosting_Transit,OVH_US_LLC,ovh.com:0
 147.182.203.234:NoTag:Data_Center_Web_Hosting_Transit,DigitalOcean_LLC,digitalocean.com:0
-147.182.249.167:gafgyt Mirai::
+147.182.249.167:gafgytMirai::
 147.189.170.212:Mirai::
 147.219.4.29:Mozi::
 147.45.40.62:Mirai::
@@ -3053,8 +3053,8 @@
 147.45.47.93:droppedbyPrivateLoader::
 147.78.103.13:Mirai::
 149.102.231.75:Supershell::
-15.204.223.194:gafgyt sparc::
-150.107.8.233:Mirai Mozi::
+15.204.223.194:gafgytsparc::
+150.107.8.233:MiraiMozi::
 150.138.77.39:Supershell::
 151.73.129.41:Mozi::
 152.160.191.186:Mozi::
@@ -3064,7 +3064,7 @@
 154.40.55.212:win32::
 154.9.30.146:Mirai::
 154.91.255.136:Supershell::
-156.96.155.238:Mirai shell::
+156.96.155.238:Miraishell::
 157.211.100.128:Mozi::
 157.211.217.52:NoTag:Data_Center_Web_Hosting_Transit,Mate_IP_Pty_Ltd,mateip.com.au:0
 158.255.82.121:Mozi::
@@ -3075,8 +3075,8 @@
 158.255.82.82:Mozi::
 159.20.100.164:Mozi::
 159.223.196.192:Mirai::
-159.223.212.11:Mirai ::
-159.253.120.2:donutloader QsarRAT Shellcode::
+159.223.212.11:Mirai::
+159.253.120.2:donutloaderQsarRATShellcode::
 159.65.123.122:Massive_exploitation_activity_(comment:_sounds_like_a_VPN_gateway):NoTag
 159.75.180.29:Supershell::
 160.176.195.98:Mozi::
@@ -3088,18 +3088,18 @@
 163.125.248.170:Mozi::
 163.142.91.110:Mozi::
 163.197.211.60:Supershell::
-163.5.169.28:AsyncRAT VenomRAT::
+163.5.169.28:AsyncRATVenomRAT::
 163.5.64.74:NoTag:Data_Center_Web_Hosting_Transit,Ionis_GroupIonis_Schools_of_Technology_and_Management_SAS,ionisgroup.com:0
-164.163.25.189:Mirai Mozi::
-164.163.25.241:Mirai Mozi::
-165.232.89.27:Geofenced Mirai shell  USA::
+164.163.25.189:MiraiMozi::
+164.163.25.241:MiraiMozi::
+165.232.89.27:GeofencedMiraishellUSA::
 166.141.89.208:NoTag:Mobile_ISP,Verizon_Wireless,verizon.com:0
 166.250.150.102:NoTag:Mobile_ISP,Wireless_Data_Service_Provider_Corporation,wdspco.org:20
 167.172.88.107:Mirai::
 167.71.208.212:Mirai::
 170.106.196.76:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:0
-171.117.222.74:Mirai Mozi::
-171.125.100.119:Mirai Mozi::
+171.117.222.74:MiraiMozi::
+171.125.100.119:MiraiMozi::
 171.226.219.199:Mozi::
 171.228.211.109:Mirai::
 171.231.115.243:Hajime::
@@ -3107,24 +3107,24 @@
 171.240.77.51:Hajime::
 171.245.250.88:Hajime::
 171.249.44.25:Hajime::
-171.35.163.75:Mirai Mozi::
-171.37.10.117:Mirai Mozi::
-171.38.218.198:Mirai Mozi::
-171.39.131.151:Mirai Mozi::
+171.35.163.75:MiraiMozi::
+171.37.10.117:MiraiMozi::
+171.38.218.198:MiraiMozi::
+171.39.131.151:MiraiMozi::
 171.88.142.148:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
 171.88.143.37:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
 171.88.143.72:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
 172.105.176.100:Mirai::
 172.233.242.230:Mirai::
 172.234.120.102:::
-172.234.217.97:Encoded RAT RemcosRAT vbs::
-172.234.224.39:Encoded RAT RemcosRAT vbs::
+172.234.217.97:EncodedRATRemcosRATvbs::
+172.234.224.39:EncodedRATRemcosRATvbs::
 172.245.135.142:vbs::
-172.245.191.107:RAT RemcosRAT vbs::
-172.245.214.91:AgentTesla vbs::
+172.245.191.107:RATRemcosRATvbs::
+172.245.214.91:AgentTeslavbs::
 172.86.76.157:RedLineStealer::
 172.93.105.133:Mirai::
-172.96.172.203:AsyncRAT bat::
+172.96.172.203:AsyncRATbat::
 173.77.210.125:Hajime::
 175.11.241.27:Mozi::
 175.11.242.51:Mozi::
@@ -3160,22 +3160,22 @@
 175.175.236.57:Mozi::
 175.175.44.34:Mozi::
 175.24.197.196:VenomRAT::
-175.30.111.50:Mirai Mozi::
+175.30.111.50:MiraiMozi::
 175.30.68.171:Hajime::
-175.30.68.222:Mirai Mozi::
-175.30.70.150:Mirai Mozi::
-175.30.71.230:Mirai Mozi::
-175.30.79.244:Mirai Mozi::
-175.30.82.60:Mirai Mozi::
-175.31.201.133:Mirai Mozi::
-175.31.207.235:Mirai Mozi::
-175.31.207.51:Mirai Mozi::
+175.30.68.222:MiraiMozi::
+175.30.70.150:MiraiMozi::
+175.30.71.230:MiraiMozi::
+175.30.79.244:MiraiMozi::
+175.30.82.60:MiraiMozi::
+175.31.201.133:MiraiMozi::
+175.31.207.235:MiraiMozi::
+175.31.207.51:MiraiMozi::
 176.124.31.3:Mozi::
-176.185.196.45:Mirai Mozi::
+176.185.196.45:MiraiMozi::
 176.193.204.236:Mozi::
-176.82.202.225:Mirai Mozi::
-176.82.246.37:Mirai Mozi::
-176.82.248.190:Mirai Mozi::
+176.82.202.225:MiraiMozi::
+176.82.246.37:MiraiMozi::
+176.82.248.190:MiraiMozi::
 176.97.66.57:NoTag:Data_Center_Web_Hosting_Transit,3NT_Solutions_LLP,3nt.com:0
 176.97.76.118:NoTag:Data_Center_Web_Hosting_Transit,3NT_Solutions_LLP,3nt.com:0
 176.97.76.129:NoTag:Data_Center_Web_Hosting_Transit,3NT_Solutions_LLP,3nt.com:0
@@ -3211,7 +3211,7 @@
 178.141.63.116:Mozi::
 178.141.77.150:Mozi::
 178.159.36.155:Vidar::
-178.208.87.102: beacon Cobalt Strike::
+178.208.87.102:beaconCobaltStrike::
 178.21.13.32:NoTag:Data_Center_Web_Hosting_Transit,Domain_Names_Registrar_Reg.ru_Ltd,reg.ru:0
 178.21.13.33:NoTag:Data_Center_Web_Hosting_Transit,Domain_Names_Registrar_Reg.ru_Ltd,reg.ru:0
 178.21.13.34:NoTag:Data_Center_Web_Hosting_Transit,Domain_Names_Registrar_Reg.ru_Ltd,reg.ru:0
@@ -3227,31 +3227,31 @@
 178.69.215.195:Mirai::
 178.74.234.114:Mozi::
 178.94.70.115:Mozi::
-179.108.90.49:Mirai Mozi::
+179.108.90.49:MiraiMozi::
 179.43.172.127::NoTag:
 179.43.172.191::NoTag:
 179.61.251.154:Mirai::
-180.105.168.34:Mirai Mozi::
-180.105.170.247:Mirai Mozi::
+180.105.168.34:MiraiMozi::
+180.105.170.247:MiraiMozi::
 180.106.115.121:Mozi::
-180.107.130.93:Mirai Mozi::
-180.107.217.59:Mirai Mozi::
-180.108.144.181:Mirai Mozi::
-180.108.224.141:Mirai Mozi::
+180.107.130.93:MiraiMozi::
+180.107.217.59:MiraiMozi::
+180.108.144.181:MiraiMozi::
+180.108.224.141:MiraiMozi::
 180.112.123.146:Mozi::
-180.115.169.121:Mirai Mozi::
-180.115.169.26:Mirai Mozi::
-180.115.85.166:Mirai Mozi::
-180.116.125.92:Mirai Mozi::
-180.117.1.55:Mirai Mozi::
-180.117.193.247:Mirai Mozi::
-180.117.194.5:Mirai Mozi::
-180.117.25.162:Mirai Mozi::
-180.117.58.92:Mirai Mozi::
-180.127.207.152:Mirai Mozi::
-180.127.207.163:Mirai Mozi::
-180.180.15.162:Mirai Mozi::
-180.180.56.39:Mirai Mozi::
+180.115.169.121:MiraiMozi::
+180.115.169.26:MiraiMozi::
+180.115.85.166:MiraiMozi::
+180.116.125.92:MiraiMozi::
+180.117.1.55:MiraiMozi::
+180.117.193.247:MiraiMozi::
+180.117.194.5:MiraiMozi::
+180.117.25.162:MiraiMozi::
+180.117.58.92:MiraiMozi::
+180.127.207.152:MiraiMozi::
+180.127.207.163:MiraiMozi::
+180.180.15.162:MiraiMozi::
+180.180.56.39:MiraiMozi::
 180.254.78.146:NoTag:,PT_Telkom_Indonesia,telkom.co.id:0
 181.191.128.209:Mozi::
 181.191.128.212:Mozi::
@@ -3329,7 +3329,7 @@
 182.114.33.138:Mirai::
 182.114.34.75:Mozi::
 182.114.35.10:Mozi::
-182.114.35.12:Mirai Mozi::
+182.114.35.12:MiraiMozi::
 182.114.35.62:Mozi::
 182.115.64.24:Mozi::
 182.115.65.81:Mozi::
@@ -3400,7 +3400,7 @@
 182.117.69.36:Mirai::
 182.117.70.243:Mozi::
 182.117.71.125:Mozi::
-182.117.71.152:Mirai Mozi::
+182.117.71.152:MiraiMozi::
 182.117.76.70:Mozi::
 182.117.76.94:Mozi::
 182.117.78.167:Mozi::
@@ -3431,7 +3431,7 @@
 182.120.164.147:Mozi::
 182.120.167.147:Mozi::
 182.120.39.22:Mozi::
-182.120.44.137:Mirai Mozi::
+182.120.44.137:MiraiMozi::
 182.120.51.149:Mozi::
 182.120.51.160:Mozi::
 182.120.55.4:Mozi::
@@ -3522,7 +3522,7 @@
 182.124.125.60:Mozi::
 182.124.129.163:Mozi::
 182.124.13.100:Mozi::
-182.124.14.190:Mirai Mozi::
+182.124.14.190:MiraiMozi::
 182.124.143.79:Mozi::
 182.124.144.196:Mozi::
 182.124.158.190:Mozi::
@@ -3587,7 +3587,7 @@
 182.126.96.163:Mozi::
 182.126.97.249:Mozi::
 182.126.98.169:Mozi::
-182.127.104.138:Mirai Mozi::
+182.127.104.138:MiraiMozi::
 182.127.111.7:Mozi::
 182.127.113.244:Mozi::
 182.127.114.49:Mozi::
@@ -3605,7 +3605,7 @@
 182.127.153.191:Mozi::
 182.127.154.0:Mozi::
 182.127.154.178:Mozi::
-182.127.154.58:Mirai Mozi::
+182.127.154.58:MiraiMozi::
 182.127.155.12:Mozi::
 182.127.160.40:Mozi::
 182.127.161.62:Mozi::
@@ -3618,7 +3618,7 @@
 182.127.181.104:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:0
 182.127.181.190:Mozi::
 182.127.182.35:Mozi::
-182.127.183.224:Mirai Mozi::
+182.127.183.224:MiraiMozi::
 182.127.2.169:Mozi::
 182.127.208.7:Mozi::
 182.127.223.191:Mozi::
@@ -3643,15 +3643,15 @@
 182.176.167.247:Mozi::
 182.180.79.73:Mozi::
 182.186.128.252:Mozi::
-182.207.178.40:Mirai Mozi::
-182.240.21.227:Mirai Mozi::
-182.240.228.4:Mirai Mozi::
-182.240.231.196:Mirai Mozi::
-182.240.26.43:Mirai Mozi::
-182.241.136.209:Mirai Mozi::
-182.244.183.81:Mirai Mozi::
-182.246.6.206:Mirai Mozi::
-182.247.154.226:Mirai Mozi::
+182.207.178.40:MiraiMozi::
+182.240.21.227:MiraiMozi::
+182.240.228.4:MiraiMozi::
+182.240.231.196:MiraiMozi::
+182.240.26.43:MiraiMozi::
+182.241.136.209:MiraiMozi::
+182.244.183.81:MiraiMozi::
+182.246.6.206:MiraiMozi::
+182.247.154.226:MiraiMozi::
 182.56.174.87:Mozi::
 182.56.187.85:Mozi::
 182.56.208.16:Mozi::
@@ -3666,19 +3666,19 @@
 183.0.96.92:Mozi::
 183.146.183.250:Mozi::
 183.15.123.54:Mozi::
-183.150.85.169:Mirai Mozi::
+183.150.85.169:MiraiMozi::
 183.151.40.71:Mozi::
 183.151.42.52:Mozi::
 183.166.210.43:Mozi::
-183.188.175.236:Mirai Mozi::
+183.188.175.236:MiraiMozi::
 183.26.172.112:Mozi::
 183.57.251.12:Mozi::
-183.81.4.31:Mirai Mozi::
+183.81.4.31:MiraiMozi::
 183.95.21.29:Mirai::
-185.125.50.64:droppedbysmokeloader Vidar::
-185.144.159.137:Mirai shell::
-185.149.146.82:droppedbysmokeloader RedLineStealer::
-185.16.39.253:bat QsarRAT qsarServer::
+185.125.50.64:droppedbysmokeloaderVidar::
+185.144.159.137:Miraishell::
+185.149.146.82:droppedbysmokeloaderRedLineStealer::
+185.16.39.253:batQsarRATqsarServer::
 185.191.124.122:::
 185.196.10.134:Mirai::
 185.196.10.139:Mirai::
@@ -3686,18 +3686,18 @@
 185.196.10.60:Mirai::
 185.196.8.191:Mirai::
 185.196.8.56:CoinMiner::
-185.196.9.14:Mirai Moobot::
-185.196.9.184:bat vbs::
+185.196.9.14:MiraiMoobot::
+185.196.9.184:batvbs::
 185.196.9.223:Mirai::
 185.196.9.97:Mirai::
-185.215.113.45:Amadey droppedbysmokeloader::
-185.216.70.30:gafgyt Mirai renesas sparc::
+185.215.113.45:Amadeydroppedbysmokeloader::
+185.216.70.30:gafgytMirairenesassparc::
 185.223.124.50:Mozi::
-185.226.106.107:gafgyt renesas::
+185.226.106.107:gafgytrenesas::
 185.243.114.110:NoTag:Data_Center_Web_Hosting_Transit,GWY_IT_Pty_Ltd,crowncloud.net:0
 185.81.157.108:AsyncRAT::
 185.91.127.216:Mirai::
-185.91.127.233:gafgyt Mirai renesas::
+185.91.127.233:gafgytMirairenesas::
 186.45.134.91:Mozi::
 186.57.34.172:Mozi::
 186.89.156.51:Mozi::
@@ -3705,11 +3705,11 @@
 186.93.19.163:Mozi::
 188.127.235.191:Mirai::
 188.136.142.166:Mozi::
-188.151.54.214:Mirai Mozi::
+188.151.54.214:MiraiMozi::
 188.213.187.2:Mozi::
 188.251.225.180:Hajime::
-189.165.203.48:Mirai Mozi::
-189.235.104.82:Mirai Mozi::
+189.165.203.48:MiraiMozi::
+189.235.104.82:MiraiMozi::
 19.79.13.126:Mozi::
 19.79.13.149:Mozi::
 19.79.13.159:Mozi::
@@ -3723,13 +3723,13 @@
 19.79.50.2:Mozi::
 190.103.68.159:Mozi::
 190.103.68.67:Mozi::
-190.109.227.111:Mirai Mozi::
-190.109.227.231:Mirai Mozi::
-190.109.227.235:Mirai Mozi::
-190.109.227.32:Mirai Mozi::
-190.109.228.16:Mirai Mozi::
-190.109.229.144:Mirai Mozi::
-190.109.229.82:Mirai Mozi::
+190.109.227.111:MiraiMozi::
+190.109.227.231:MiraiMozi::
+190.109.227.235:MiraiMozi::
+190.109.227.32:MiraiMozi::
+190.109.228.16:MiraiMozi::
+190.109.229.144:MiraiMozi::
+190.109.229.82:MiraiMozi::
 190.123.44.228:byob::
 190.198.0.231:Mozi::
 190.199.102.90:Mozi::
@@ -3744,7 +3744,7 @@
 190.38.152.247:Mozi::
 190.74.21.134:Mozi::
 190.75.47.58:Mozi::
-190.78.146.181:Mirai Mozi::
+190.78.146.181:MiraiMozi::
 190.9.22.180:NoTag:Fixed_Line_ISP,Cooperativa_Telefonica_Carlos_Tejedor_Ltda.,copetel.net.ar:0
 190.9.22.236:Mozi::
 190.9.23.141:NoTag:Fixed_Line_ISP,Cooperativa_Telefonica_Carlos_Tejedor_Ltda.,copetel.net.ar:0
@@ -3783,37 +3783,37 @@
 193.163.7.160:Stealc::
 193.178.210.226:DarkGate::
 193.187.174.182:Stealc::
-193.222.96.163:CoinMiner Mirai::
+193.222.96.163:CoinMinerMirai::
 193.23.55.21:Mirai::
 193.233.132.167:Amadey::
-193.233.132.186:droppedbysmokeloader VenomRAT::
-193.233.132.18:droppedbyPrivateLoader RedLineStealer::
-193.233.132.232:droppedbyPrivateLoader RedLineStealer::
+193.233.132.186:droppedbysmokeloaderVenomRAT::
+193.233.132.18:droppedbyPrivateLoaderRedLineStealer::
+193.233.132.232:droppedbyPrivateLoaderRedLineStealer::
 193.233.132.67:droppedbyPrivateLoader::
-193.233.132.73:Amadey RedLineStealer::
+193.233.132.73:AmadeyRedLineStealer::
 193.26.115.221:ascynrat::
 194.110.247.222:Mirai::
 194.120.116.120:Stealc::
-194.169.175.30:CoinMiner Mirai::
+194.169.175.30:CoinMinerMirai::
 194.169.175.31:Mirai::
 194.4.49.187:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 194.48.250.132:Mirai::
 194.48.250.53:gafgyt::
-194.87.14.130:AgentTesla vbs::
+194.87.14.130:AgentTeslavbs::
 194.87.93.199:DCRat::
 195.123.219.100:droppedbysmokeloader::
 195.123.230.238:droppedbyPrivateLoader::
 196.189.199.24:Mozi::
-196.189.41.142:Mirai Mozi::
-196.191.66.189:Mirai Mozi::
-196.191.68.216:Mirai Mozi::
+196.189.41.142:MiraiMozi::
+196.191.66.189:MiraiMozi::
+196.191.68.216:MiraiMozi::
 196.206.74.224:Mozi::
 196.64.160.13:Mozi::
 196.64.71.195:Mozi::
-196.65.135.163:Mirai Mozi::
+196.65.135.163:MiraiMozi::
 196.89.213.60:Mozi::
 197.202.72.165:Mozi::
-198.12.81.134:AgentTesla vbs::
+198.12.81.134:AgentTeslavbs::
 198.46.203.245:Supershell::
 198.50.170.72:NoTag:Data_Center_Web_Hosting_Transit,Fast_Serv_Inc.,qhoster.com:0
 198.55.115.51:GuLoader::
@@ -3821,7 +3821,7 @@
 20.106.168.188:Havoc::
 20.124.232.200:hacktool::
 20.2.223.147:Supershell::
-200.111.102.27:Mirai Mozi::
+200.111.102.27:MiraiMozi::
 200.59.85.120:Mozi::
 200.59.85.166:Mozi::
 200.59.85.71:Mozi::
@@ -3845,39 +3845,39 @@
 202.107.16.3:Mozi::
 202.111.131.158:Mozi::
 202.142.190.30:Mozi::
-202.65.149.195:Mirai Mozi::
-203.145.47.215:Mirai renesas sparc::
+202.65.149.195:MiraiMozi::
+203.145.47.215:Mirairenesassparc::
 203.95.8.98:NoTag::
 203.95.9.54:NoTag::
-204.76.203.111:Mirai tenda::
+204.76.203.111:Miraitenda::
 204.76.203.129:Mirai::
 204.76.203.131:Mirai::
 204.76.203.96:Mirai::
 206.189.32.250:Mirai::
-207.246.70.132:a2x Autoit::
-209.126.7.24:AsyncRAT Meterpreter::
+207.246.70.132:a2xAutoit::
+209.126.7.24:AsyncRATMeterpreter::
 209.42.55.230:NoTag:Fixed_Line_ISP,Opticaltel,opticaltel.com:19
 210.10.179.5:Mozi::
 210.18.170.47:Mozi::
 213.120.230.115:Mozi::
-213.232.235.20:Mirai renesas::
+213.232.235.20:Mirairenesas::
 216.188.216.17:NoTag:Fixed_Line_ISP,Jagr_Communications,jagcom.net:16
 216.224.123.241:Supershell::
 216.83.58.188:Supershell::
 216.83.58.190:Supershell::
 216.83.58.191:Supershell::
 217.12.199.67:Mirai::
-218.102.103.229:Mirai Mozi::
+218.102.103.229:MiraiMozi::
 218.201.79.94:Mozi::
 218.255.103.162:Hajime::
 218.38.52.227:droppedbysmokeloader::
 218.56.204.88:Mirai::
 218.59.113.130:Mozi::
 218.59.113.45:Mozi::
-218.63.29.29:Mirai Mozi::
+218.63.29.29:MiraiMozi::
 218.63.98.69:Hajime::
-218.86.152.148:Mirai Mozi::
-218.86.154.113:Mirai Mozi::
+218.86.152.148:MiraiMozi::
+218.86.154.113:MiraiMozi::
 218.90.67.158:Mozi::
 219.154.144.72:Mozi::
 219.154.155.123:Mozi::
@@ -3975,7 +3975,7 @@
 220.112.79.245:Mozi::
 220.133.237.253:Hajime::
 220.152.162.117:NoTag:Data_Center_Web_Hosting_Transit,Shenzhen_Aosida_Communication_Co._Ltd.,91120.com:0
-220.170.216.170:Mirai Mozi::
+220.170.216.170:MiraiMozi::
 220.192.249.136:Mozi::
 220.201.67.198:Mozi::
 221.0.117.161:Mozi::
@@ -4051,12 +4051,12 @@
 221.203.227.38:Mozi::
 221.214.146.47:Mozi::
 221.214.185.180:Mozi::
-221.214.198.178:Mirai Mozi::
+221.214.198.178:MiraiMozi::
 221.214.245.236:Mozi::
 221.214.247.9:Mozi::
 221.214.251.147:Mozi::
 221.215.53.252:Mozi::
-221.229.76.194:Mirai Mozi::
+221.229.76.194:MiraiMozi::
 222.134.163.252:Mozi::
 222.134.163.53:Mozi::
 222.134.174.155:Mozi::
@@ -4249,82 +4249,82 @@
 222.142.255.84:Mozi::
 222.168.190.200:Mozi::
 222.168.236.20:Mirai::
-222.185.99.124:Mirai Mozi::
-222.188.217.31:Mirai Mozi::
-222.219.13.137:Mirai Mozi::
-222.220.145.69:Mirai Mozi::
-222.220.239.169:Mirai Mozi::
-222.241.211.29:Mirai Mozi::
-222.245.2.65:Mirai Mozi::
-222.246.112.45:Mirai Mozi::
+222.185.99.124:MiraiMozi::
+222.188.217.31:MiraiMozi::
+222.219.13.137:MiraiMozi::
+222.220.145.69:MiraiMozi::
+222.220.239.169:MiraiMozi::
+222.241.211.29:MiraiMozi::
+222.245.2.65:MiraiMozi::
+222.246.112.45:MiraiMozi::
 222.246.113.32:Hajime::
 222.246.124.66:Hajime::
-222.246.125.221:Mirai Mozi::
+222.246.125.221:MiraiMozi::
 222.246.126.220:Hajime::
-222.246.126.34:Mirai Mozi::
-222.91.248.119:Mirai Mozi::
+222.246.126.34:MiraiMozi::
+222.91.248.119:MiraiMozi::
 222.92.82.90:Hajime::
-222.94.193.188:Mirai Mozi::
-223.10.18.27:Mirai Mozi::
+222.94.193.188:MiraiMozi::
+223.10.18.27:MiraiMozi::
 223.10.180.144:Mozi::
-223.10.51.251:Mirai Mozi::
-223.10.64.92:Mirai Mozi::
-223.10.7.213:Mirai Mozi::
-223.12.178.164:Mirai Mozi::
-223.12.184.168:Mirai Mozi::
-223.12.189.142:Mirai Mozi::
-223.12.200.31:Mirai Mozi::
-223.13.27.191:Mirai Mozi::
-223.13.30.221:Mirai Mozi::
+223.10.51.251:MiraiMozi::
+223.10.64.92:MiraiMozi::
+223.10.7.213:MiraiMozi::
+223.12.178.164:MiraiMozi::
+223.12.184.168:MiraiMozi::
+223.12.189.142:MiraiMozi::
+223.12.200.31:MiraiMozi::
+223.13.27.191:MiraiMozi::
+223.13.30.221:MiraiMozi::
 223.13.56.252:Hajime::
 223.13.58.67:Hajime::
 223.13.58.71:Hajime::
-223.13.62.223:Mirai Mozi::
-223.13.62.63:Mirai Mozi::
-223.13.67.180:Mirai Mozi::
-223.13.68.231:Mirai Mozi::
-223.13.80.124:Mirai Mozi::
-223.13.90.186:Mirai Mozi::
+223.13.62.223:MiraiMozi::
+223.13.62.63:MiraiMozi::
+223.13.67.180:MiraiMozi::
+223.13.68.231:MiraiMozi::
+223.13.80.124:MiraiMozi::
+223.13.90.186:MiraiMozi::
 223.15.19.172:Hajime::
-223.15.52.245:Mirai Mozi::
+223.15.52.245:MiraiMozi::
 223.151.230.209:Hajime::
-223.151.231.177:Mirai Mozi::
-223.151.249.164:Mirai Mozi::
-223.151.250.3:Mirai Mozi::
-223.151.73.16:Mirai Mozi::
+223.151.231.177:MiraiMozi::
+223.151.249.164:MiraiMozi::
+223.151.250.3:MiraiMozi::
+223.151.73.16:MiraiMozi::
 223.151.73.55:Hajime::
-223.151.74.25:Mirai Mozi::
+223.151.74.25:MiraiMozi::
 223.151.75.30:Hajime::
-223.151.76.176:Mirai Mozi::
-223.151.76.238:Mirai Mozi::
-223.151.76.4:Mirai Mozi::
-223.151.76.60:Mirai Mozi::
-223.154.9.109:Mirai Mozi::
+223.151.76.176:MiraiMozi::
+223.151.76.238:MiraiMozi::
+223.151.76.4:MiraiMozi::
+223.151.76.60:MiraiMozi::
+223.154.9.109:MiraiMozi::
 223.8.184.5:Hajime::
 223.8.210.86:Hajime::
-223.8.211.207:Mirai Mozi::
-223.8.214.45:Mirai Mozi::
-223.8.233.135:Mirai Mozi::
-223.8.234.135:Mirai Mozi::
+223.8.211.207:MiraiMozi::
+223.8.214.45:MiraiMozi::
+223.8.233.135:MiraiMozi::
+223.8.234.135:MiraiMozi::
 223.8.34.163:Hajime::
 223.9.120.53:Hajime::
-223.9.42.5:Mirai Mozi::
-223.9.43.254:Mirai Mozi::
-23.224.102.6:droppedbysmokeloader RemcosRAT::
+223.9.42.5:MiraiMozi::
+223.9.43.254:MiraiMozi::
+23.224.102.6:droppedbysmokeloaderRemcosRAT::
 23.224.176.63:Mirai::
-23.94.0.126:CobaltStrike sware::
+23.94.0.126:CobaltStrikesware::
 23.94.182.87:Supershell::
 23.94.206.104:GuLoader::
 23.94.62.136:Supershell::
 24.104.223.95:Mozi::
 24.121.20.254:Mozi::
-24.155.118.58:Mirai Mozi::
-27.121.83.224:Mirai Mozi::
-27.121.87.46:Mirai Mozi::
-27.157.144.202:Mirai Mozi::
+24.155.118.58:MiraiMozi::
+27.121.83.224:MiraiMozi::
+27.121.87.46:MiraiMozi::
+27.157.144.202:MiraiMozi::
 27.157.144.242:Mirai::
-27.157.144.68:Mirai Mozi::
-27.157.144.83:Mirai Mozi::
+27.157.144.68:MiraiMozi::
+27.157.144.83:MiraiMozi::
 27.193.136.108:NoTag:,China_Unicom_Shandong_Province_Network,chinaunicom.com:10
 27.193.190.131:Mozi::
 27.193.28.29:Mozi::
@@ -4343,7 +4343,7 @@
 27.204.252.221:Mozi::
 27.206.149.174:Mozi::
 27.206.188.253:Mozi::
-27.206.242.19:Mirai Mozi::
+27.206.242.19:MiraiMozi::
 27.206.255.173:Mozi::
 27.206.255.66:Mozi::
 27.206.36.40:Mozi::
@@ -4464,25 +4464,25 @@
 34.101.153.147:NoTag:Data_Center_Web_Hosting_Transit,Google_LLC,google.com:0
 34.135.1.100:NoTag:Data_Center_Web_Hosting_Transit,Google_LLC,google.com:0
 34.147.116.243:NoTag:Data_Center_Web_Hosting_Transit,Google_LLC,google.com:0
-36.104.220.178:Mirai Mozi::
-36.104.220.21:Mirai Mozi::
+36.104.220.178:MiraiMozi::
+36.104.220.21:MiraiMozi::
 36.226.135.181:Hajime::
-36.248.121.141:Mirai Mozi::
-36.248.122.123:Mirai Mozi::
-36.48.28.60:Mirai Mozi::
+36.248.121.141:MiraiMozi::
+36.248.122.123:MiraiMozi::
+36.48.28.60:MiraiMozi::
 36.48.64.55:Hajime::
-36.49.50.96:Mirai Mozi::
-36.49.55.35:Mirai Mozi::
-36.49.56.97:Mirai Mozi::
-36.97.161.157:Mirai Mozi::
-36.97.161.57:Mirai Mozi::
-36.97.243.204:Mirai Mozi::
+36.49.50.96:MiraiMozi::
+36.49.55.35:MiraiMozi::
+36.49.56.97:MiraiMozi::
+36.97.161.157:MiraiMozi::
+36.97.161.57:MiraiMozi::
+36.97.243.204:MiraiMozi::
 36.97.94.119:Mozi::
 37.1.214.209:NoTag:Data_Center_Web_Hosting_Transit,3NT_Solutions_LLP,3nt.com:0
 37.101.162.212:Hajime::
 37.114.37.252:Mirai::
-37.13.139.249:Mirai Mozi::
-37.13.50.96:Mirai Mozi::
+37.13.139.249:MiraiMozi::
+37.13.50.96:MiraiMozi::
 37.142.79.41:Mozi::
 37.15.168.6:Mozi::
 37.19.48.17:Mozi::
@@ -4491,11 +4491,11 @@
 37.221.94.43:Mirai::
 37.255.208.94:Mozi::
 37.28.157.3:Stealc::
-37.44.238.66:gafgyt Mirai::
-37.44.238.70:gafgyt Mirai renesas sparc::
+37.44.238.66:gafgytMirai::
+37.44.238.70:gafgytMirairenesassparc::
 37.48.88.173:droppedbysmokeloader::
 37.48.88.177:GuLoader::
-37.49.228.204:gafgyt renesas sparc::
+37.49.228.204:gafgytrenesassparc::
 37.52.60.145:Mozi::
 37.54.65.83:Mozi::
 37.78.156.25:Mozi::
@@ -4507,17 +4507,17 @@
 38.46.30.192:Supershell::
 39.144.150.22:Mozi::
 39.144.4.46:Mozi::
-39.170.28.191:Mirai Mozi::
-39.170.28.198:Mirai Mozi::
-39.170.49.130:Mirai Mozi::
-39.171.253.102:Mirai Mozi::
+39.170.28.191:MiraiMozi::
+39.170.28.198:MiraiMozi::
+39.170.49.130:MiraiMozi::
+39.171.253.102:MiraiMozi::
 39.171.253.83:Mozi::
-39.171.253.87:Mirai Mozi::
-39.171.253.89:Mirai Mozi::
-39.171.253.99:Mirai Mozi::
-39.174.173.52:Mirai Mozi::
-39.174.173.53:Mirai Mozi::
-39.174.173.54:Mirai Mozi::
+39.171.253.87:MiraiMozi::
+39.171.253.89:MiraiMozi::
+39.171.253.99:MiraiMozi::
+39.174.173.52:MiraiMozi::
+39.174.173.53:MiraiMozi::
+39.174.173.54:MiraiMozi::
 39.187.67.138:Mozi::
 39.187.68.200:Mozi::
 39.187.73.202:Mozi::
@@ -4530,7 +4530,7 @@
 39.38.140.213:Mozi::
 39.45.76.135:Mozi::
 39.45.77.192:Mozi::
-39.46.132.248:Mirai Mozi::
+39.46.132.248:MiraiMozi::
 39.49.100.118:Mozi::
 39.49.75.222:Mozi::
 39.65.73.47:Mozi::
@@ -4540,7 +4540,7 @@
 39.73.88.245:Mozi::
 39.74.105.151:NoTag:,China_Unicom_Shandong_Province_Network,chinaunicom.com:0
 39.74.106.239:Mozi::
-39.74.152.89:Mirai Mozi::
+39.74.152.89:MiraiMozi::
 39.74.157.212:Mozi::
 39.74.206.80:Mozi::
 39.74.246.62:Mozi::
@@ -4568,7 +4568,7 @@
 39.81.20.122:Mozi::
 39.81.208.88:Mozi::
 39.81.226.92:Mozi::
-39.81.233.127:Mirai Mozi::
+39.81.233.127:MiraiMozi::
 39.81.252.110:Mozi::
 39.81.37.158:Mozi::
 39.81.47.253:Mozi::
@@ -4584,7 +4584,7 @@
 39.87.28.20:Mozi::
 39.87.73.250:Mozi::
 39.88.147.14:Mozi::
-39.89.244.94:Mirai Mozi::
+39.89.244.94:MiraiMozi::
 39.89.42.183:Mozi::
 39.90.144.203:Mozi::
 39.90.144.206:Mozi::
@@ -4604,7 +4604,7 @@
 41.142.74.153:Mozi::
 41.142.81.179:Mozi::
 41.216.183.87:recordbreaker::
-41.86.19.237:Mirai Mozi::
+41.86.19.237:MiraiMozi::
 41.99.62.27:Mozi::
 42.176.193.112:Mozi::
 42.176.29.243:Mozi::
@@ -4832,7 +4832,7 @@
 42.231.91.252:Mozi::
 42.231.93.126:Mozi::
 42.231.93.129:Mozi::
-42.231.94.55:Mirai Mozi::
+42.231.94.55:MiraiMozi::
 42.231.95.175:Mozi::
 42.231.95.243:Mozi::
 42.232.208.216:Mozi::
@@ -4862,7 +4862,7 @@
 42.233.107.33:Mozi::
 42.233.138.172:Mozi::
 42.233.143.12:Mozi::
-42.233.149.198:Mirai Mozi::
+42.233.149.198:MiraiMozi::
 42.233.151.109:Mozi::
 42.233.156.204:Mozi::
 42.233.160.195:Mozi::
@@ -4900,7 +4900,7 @@
 42.235.180.41:Mozi::
 42.235.181.13:Mozi::
 42.235.183.10:Mozi::
-42.235.185.206:Mirai Mozi::
+42.235.185.206:MiraiMozi::
 42.235.191.0:Mozi::
 42.235.22.247:Mozi::
 42.235.38.107:Mozi::
@@ -4928,7 +4928,7 @@
 42.235.95.162:Mozi::
 42.235.95.97:Mozi::
 42.236.149.23:Mozi::
-42.236.239.144:Mirai Mozi::
+42.236.239.144:MiraiMozi::
 42.237.101.157:Mozi::
 42.237.102.169:Mozi::
 42.237.103.175:Mozi::
@@ -4999,10 +4999,10 @@
 42.239.254.195:Mozi::
 42.239.255.167:NoTag:,China_Unicom_Henan_Province_Network,chinaunicom.com:0
 42.239.8.101:Mozi::
-42.242.174.186:Mirai Mozi::
-42.242.191.27:Mirai Mozi::
+42.242.174.186:MiraiMozi::
+42.242.191.27:MiraiMozi::
 42.242.245.65:Mozi::
-42.243.138.109:Mirai Mozi::
+42.243.138.109:MiraiMozi::
 42.4.186.96:Mozi::
 42.5.215.89:Mozi::
 42.5.7.10:Mozi::
@@ -5044,7 +5044,7 @@
 43.128.85.89:RiskWare::
 43.129.232.211:Supershell::
 43.130.60.49:Supershell::
-43.143.130.124:CobaltStrike exploit shell trojan::
+43.143.130.124:CobaltStrikeexploitshelltrojan::
 43.143.228.239:NanoCore::
 43.153.106.236:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:0
 43.153.75.48:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:0
@@ -5056,42 +5056,42 @@
 43.229.115.110:Supershell::
 43.241.16.222:shell::
 45.128.232.235:Mirai::
-45.128.96.133:AsyncRAT droppedbysmokeloader WhiteSnakeStealer::
+45.128.96.133:AsyncRATdroppedbysmokeloaderWhiteSnakeStealer::
 45.13.227.186:Mirai::
 45.131.108.167:Mirai::
 45.137.64.40:NoTag:Data_Center_Web_Hosting_Transit,Zomro_B.V.,novoserve.com:0
-45.138.174.188:Mirai shell::
+45.138.174.188:Miraishell::
 45.138.174.72:Mirai::
-45.14.244.67:droppedbysmokeloader recordbreaker::
+45.14.244.67:droppedbysmokeloaderrecordbreaker::
 45.140.146.156:msi::
-45.141.59.59:renesas Tsunami::
+45.141.59.59:renesasTsunami::
 45.142.182.114:NoTag:Data_Center_Web_Hosting_Transit,Xsserver_GmbH,xsserver.gmbh:389
 45.142.182.90:Mirai::
-45.144.232.181:CoinMiner zgRAT::
+45.144.232.181:CoinMinerzgRAT::
 45.144.29.148:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 45.145.42.233:Mirai::
-45.15.156.174:droppedbysmokeloader RedLineStealer::
+45.15.156.174:droppedbysmokeloaderRedLineStealer::
 45.153.242.76:DarkGate::
 45.159.209.167:NoTag:Data_Center_Web_Hosting_Transit,IT_Outsourcing_LLC,itos.biz:0
 45.164.178.24:Mozi::
-45.164.96.73:Mirai Mozi::
+45.164.96.73:MiraiMozi::
 45.18.30.171:NoTag:,ATT_Corp.,att.com:6
 45.229.174.165:Mozi::
 45.229.174.222:Mozi::
-45.55.200.153:bin shell::
+45.55.200.153:binshell::
 45.61.158.176:meduzaprivate::
-45.64.128.244:CoinMiner linux malxmr shell Tsunami::
-45.74.19.84:AgentTesla RAT RemcosRAT::
+45.64.128.244:CoinMinerlinuxmalxmrshellTsunami::
+45.74.19.84:AgentTeslaRATRemcosRAT::
 45.79.140.235:Mirai::
 45.79.196.203:NoTag:Content_Delivery_Network,Akamai_Technologies_Inc.,akamai.com:0
 45.79.66.14:Mirai::
 45.82.177.212:Mirai::
-45.86.163.142:L3mon sware::
+45.86.163.142:L3monsware::
 45.86.86.176:Mirai::
 45.86.86.60:Mirai::
 45.9.75.102:Mirai::
 45.90.218.111:Mirai::
-45.93.251.166:byob Powershell::
+45.93.251.166:byobPowershell::
 45.95.146.115:Mirai::
 45.95.146.22:Mirai::
 45.95.146.3:Mirai::
@@ -5101,10 +5101,10 @@
 45.95.146.89:Mirai::
 45.95.147.179:::
 45.95.147.201:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:0
-46.105.46.106:gafgyt Mirai renesas sparc::
+46.105.46.106:gafgytMirairenesassparc::
 46.153.135.135:Mozi::
 46.153.47.88:Mozi::
-46.19.140.242:gafgyt Mirai::
+46.19.140.242:gafgytMirai::
 46.200.3.217:Mozi::
 46.200.93.251:Mozi::
 46.200.95.65:Mirai::
@@ -5119,10 +5119,10 @@
 47.108.228.241:Supershell::
 47.154.202.107:Hajime::
 47.92.197.176:Supershell::
-47.93.172.190:AgentTesla Meterpreter RAT::
+47.93.172.190:AgentTeslaMeterpreterRAT::
 47.94.199.234:NoTag:Data_Center_Web_Hosting_Transit,Aliyun_Computing_Co._Ltd,aliyun.com:0
 47.98.188.214:Supershell::
-47.99.151.68:Cobalt Strike CobaltStrike::
+47.99.151.68:CobaltStrikeCobaltStrike::
 47.99.188.174:Supershell::
 47.99.54.48:Supershell::
 49.13.32.37:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_GmbH,hetzner.de:0
@@ -5140,13 +5140,13 @@
 5.181.80.195:Mirai::
 5.181.80.88:Mirai::
 5.181.80.99:gta::
-5.230.55.224:Mirai tenda::
+5.230.55.224:Miraitenda::
 5.235.208.72:Hajime::
 5.26.63.27:Mozi::
 5.34.163.210:Mozi::
 5.42.64.3:NoTag:Data_Center_Web_Hosting_Transit,LetHost_LLC,lethost.co:0
 5.42.64.44:Amadey::
-5.42.65.115:droppedbyPrivateLoader gcleaner::
+5.42.65.115:droppedbyPrivateLoadergcleaner::
 5.42.65.68:NoTag:Data_Center_Web_Hosting_Transit,LetHost_LLC,lethost.co:0
 5.42.67.14:LummaStealer::
 5.42.67.7:gcleaner::
@@ -5157,18 +5157,18 @@
 51.159.167.215:Mirai::
 51.186.16.28:Hajime::
 51.195.94.209:AsyncRAT::
-51.250.72.163:gafgyt renesas::
+51.250.72.163:gafgytrenesas::
 51.79.208.192:NoTag:Data_Center_Web_Hosting_Transit,OVH_Singapore_Pte._Ltd,ovh.com:0
-51.81.0.241:gafgyt Mirai::
-54.88.122.159:gafgyt Mirai::
-57.138.208.198:Mirai Mozi::
+51.81.0.241:gafgytMirai::
+54.88.122.159:gafgytMirai::
+57.138.208.198:MiraiMozi::
 58.152.204.174:Mozi::
-58.178.116.82:Mirai Mozi::
-58.216.97.157:Mirai Mozi::
+58.178.116.82:MiraiMozi::
+58.216.97.157:MiraiMozi::
 58.242.167.39:Mozi::
-58.42.187.23:Mirai Mozi::
-58.47.10.139:Mirai Mozi::
-58.47.104.81:Mirai Mozi::
+58.42.187.23:MiraiMozi::
+58.47.10.139:MiraiMozi::
+58.47.104.81:MiraiMozi::
 58.47.107.43:Hajime::
 58.47.110.40:Hajime::
 58.47.16.164:Hajime::
@@ -5176,17 +5176,17 @@
 58.47.18.109:Hajime::
 58.47.18.183:Hajime::
 58.47.18.195:Hajime::
-58.47.20.22:Mirai Mozi::
-58.47.23.141:Mirai Mozi::
-58.47.24.158:Mirai Mozi::
-58.47.24.202:Mirai Mozi::
+58.47.20.22:MiraiMozi::
+58.47.23.141:MiraiMozi::
+58.47.24.158:MiraiMozi::
+58.47.24.202:MiraiMozi::
 58.47.26.89:Hajime::
 58.47.27.175:Hajime::
-58.47.27.30:Mirai Mozi::
-58.47.31.52:Mirai Mozi::
-58.47.42.181:Mirai Mozi::
+58.47.27.30:MiraiMozi::
+58.47.31.52:MiraiMozi::
+58.47.42.181:MiraiMozi::
 58.47.64.137:Hajime::
-58.47.64.96:Mirai Mozi::
+58.47.64.96:MiraiMozi::
 58.47.65.101:Hajime::
 58.47.7.121:Hajime::
 58.47.8.136:Hajime::
@@ -5452,7 +5452,7 @@
 59.89.71.201:Mozi::
 59.89.71.250:Mozi::
 59.89.71.31:Mozi::
-59.89.71.83:Mirai Mozi::
+59.89.71.83:MiraiMozi::
 59.92.158.98:Mozi::
 59.92.178.221:Mozi::
 59.92.178.230:Mozi::
@@ -5482,14 +5482,14 @@
 59.92.44.8:Mozi::
 59.92.45.150:Mozi::
 59.92.46.208:Mozi::
-59.92.47.65:Mirai Mozi::
+59.92.47.65:MiraiMozi::
 59.93.17.132:Mozi::
 59.93.184.152:Mozi::
 59.93.184.22:Mozi::
 59.93.184.63:Mozi::
 59.93.184.91:Mozi::
 59.93.185.115:Mozi::
-59.93.185.116:Mirai Mozi::
+59.93.185.116:MiraiMozi::
 59.93.185.131:Mozi::
 59.93.185.133:Mozi::
 59.93.185.145:Mozi::
@@ -5580,7 +5580,7 @@
 59.95.124.218:Mozi::
 59.95.125.120:Mozi::
 59.95.125.156:Mozi::
-59.95.125.170:Mirai Mozi::
+59.95.125.170:MiraiMozi::
 59.95.125.181:Mozi::
 59.95.125.19:Mozi::
 59.95.125.201:Mozi::
@@ -5656,7 +5656,7 @@
 59.99.133.66:Mozi::
 59.99.134.153:Mozi::
 59.99.139.70:NoTag:,Bharat_Sanchar_Nigam_Limited,bsnl.in:4
-60.160.248.106:Mirai Mozi::
+60.160.248.106:MiraiMozi::
 60.18.105.45:Mozi::
 60.18.50.146:Mozi::
 60.18.75.178:Mozi::
@@ -5666,7 +5666,7 @@
 60.19.5.104:Mozi::
 60.19.5.49:Mozi::
 60.209.182.242:Mozi::
-60.211.112.140:Mirai Mozi::
+60.211.112.140:MiraiMozi::
 60.211.44.197:Mozi::
 60.211.61.70:Mozi::
 60.212.69.168:Mozi::
@@ -5682,7 +5682,7 @@
 60.23.73.182:Mozi::
 60.23.77.88:Mozi::
 60.243.178.99:Mozi::
-60.246.28.219:Mirai Mozi::
+60.246.28.219:MiraiMozi::
 60.254.108.157:Mirai::
 60.254.81.6:Mozi::
 60.254.89.170:Mozi::
@@ -5724,8 +5724,8 @@
 61.133.88.236:Mozi::
 61.137.137.195:Mozi::
 61.137.202.107:Mozi::
-61.138.222.45:Mirai Mozi::
-61.147.66.103:Mirai Mozi::
+61.138.222.45:MiraiMozi::
+61.147.66.103:MiraiMozi::
 61.163.11.27:Mozi::
 61.163.13.104:Mozi::
 61.163.13.77:Mozi::
@@ -5749,7 +5749,7 @@
 61.2.106.70:Mozi::
 61.2.107.103:Mozi::
 61.2.107.179:Mozi::
-61.2.107.32:Mirai Mozi::
+61.2.107.32:MiraiMozi::
 61.2.107.46:Mozi::
 61.2.107.62:Mozi::
 61.2.107.85:Mozi::
@@ -5797,11 +5797,11 @@
 61.52.199.199:Mozi::
 61.52.205.195:Mozi::
 61.52.224.155:Mozi::
-61.52.35.183:Mirai Mozi::
+61.52.35.183:MiraiMozi::
 61.52.36.93:Mozi::
-61.52.41.173:Mirai Mozi::
+61.52.41.173:MiraiMozi::
 61.52.42.96:Mozi::
-61.52.47.148:Mirai Mozi::
+61.52.47.148:MiraiMozi::
 61.52.52.206:Mozi::
 61.52.53.254:Mozi::
 61.52.65.226:Mozi::
@@ -5918,7 +5918,7 @@
 61.54.63.16:Mozi::
 61.54.72.176:Mozi::
 62.182.80.202:droppedbysmokeloader::
-62.84.102.31:droppedbysmokeloader LummaStealer::
+62.84.102.31:droppedbysmokeloaderLummaStealer::
 64.140.100.201:NoTag:Fixed_Line_ISP,Opticaltel,opticaltel.com:0
 64.31.63.194::NoTag:
 64.31.63.70::NoTag:
@@ -5938,8 +5938,8 @@
 69.142.178.141:NoTag:Fixed_Line_ISP,Comcast_Cable_Communications_LLC,comcast.net:13
 69.87.234.27:Mozi::
 70.166.93.213:NoTag:Fixed_Line_ISP,Cox_Communications_LLC,cox.com:124
-70.34.197.128:RAT RemcosRAT vbs::
-70.34.220.238:RAT RemcosRAT::
+70.34.197.128:RATRemcosRATvbs::
+70.34.220.238:RATRemcosRAT::
 71.89.182.39:Hajime::
 72.11.134.234:GuLoader::
 72.222.83.233:NoTag:Fixed_Line_ISP,Cox_Communications_LLC,cox.com:4
@@ -5950,16 +5950,16 @@
 74.50.85.233:NoTag:Data_Center_Web_Hosting_Transit,Host_Department_NJ_LLC,hostdepartment.com:5
 74.64.40.163:NoTag:Fixed_Line_ISP,Charter_Communications_Inc,spectrum.com:45
 75.183.98.139:NoTag:Fixed_Line_ISP,Charter_Communications_Inc,spectrum.com:11
-75.32.190.166:Mirai Mozi::
+75.32.190.166:MiraiMozi::
 76.34.180.38:NoTag:Fixed_Line_ISP,Charter_Communications_Inc,spectrum.com:34
-76.76.171.31:Mirai Mozi::
+76.76.171.31:MiraiMozi::
 76.81.220.226:Mozi::
 77.105.132.197:Stealc::
 77.105.132.211:droppedbyPrivateLoader::
-77.105.163.9:Mirai sparc::
+77.105.163.9:Miraisparc::
 77.45.152.168:Mozi::
 77.83.125.135:Hajime::
-77.89.201.118:Mirai Mozi::
+77.89.201.118:MiraiMozi::
 77.91.68.222:droppedbyPrivateLoader::
 78.167.202.101:Mozi::
 78.169.130.131:Mozi::
@@ -5970,10 +5970,10 @@
 78.39.232.238:Mozi::
 78.70.203.243:Mozi::
 78.9.100.207:Mozi::
-79.124.40.47:gafgyt Mirai::
+79.124.40.47:gafgytMirai::
 79.132.130.206:droppedbysmokeloader::
 79.137.202.105:DCRat::
-79.137.207.129:Rhadamanthys XMRIG::
+79.137.207.129:RhadamanthysXMRIG::
 79.32.156.176:Hajime::
 8.213.208.58:Supershell::
 8.218.137.213:NoTag:Data_Center_Web_Hosting_Transit,Alibaba_Cloud_(Singapore)_Private_Limited,alicloud.com:0
@@ -5984,17 +5984,17 @@
 80.210.18.36:Hajime::
 80.66.64.3:droppedbysmokeloader::
 80.80.144.46:Mirai::
-80.85.246.217:DCRat droppedbysmokeloader::
-80.94.95.19:droppedbyPrivateLoader RedLineStealer::
+80.85.246.217:DCRatdroppedbysmokeloader::
+80.94.95.19:droppedbyPrivateLoaderRedLineStealer::
 81.0.98.104:Hajime::
 81.163.140.48:NoTag:,LevelMSK_Ltd.,levelmsk.net:0
 81.165.180.131:Mozi::
 81.17.21.234:Mirai::
 81.2.216.78:NoTag:Data_Center_Web_Hosting_Transit,Internet_CZ_A.S.,forpsi.com:0
-82.153.138.25:monero miner::
+82.153.138.25:monerominer::
 82.156.174.51:exploits::
-82.208.21.142:linux marte Shellcode Shelma::
-83.143.104.148:RAT RemcosRAT vbs::
+82.208.21.142:linuxmarteShellcodeShelma::
+83.143.104.148:RATRemcosRATvbs::
 83.167.105.77:Hajime::
 83.249.245.195:Mozi::
 84.32.189.74::NoTag:
@@ -6004,7 +6004,7 @@
 85.101.194.113:Mozi::
 85.103.226.166:Mozi::
 85.109.1.108:Mozi::
-85.14.74.241:Mirai Mozi::
+85.14.74.241:MiraiMozi::
 85.239.34.70:Mirai::
 85.239.34.84:Mirai::
 85.30.34.151:NoTag:Fixed_Line_ISP,Bredband2_AB,bredband2.com:2
@@ -6021,9 +6021,9 @@
 88.247.163.125:Hajime::
 88.249.90.32:Mozi::
 89.190.156.152:Mirai::
-89.190.156.209:Geofenced Mirai  USA::
+89.190.156.209:GeofencedMiraiUSA::
 89.208.107.151:droppedbysmokeloader::
-89.23.98.146:DCRat droppedbysmokeloader::
+89.23.98.146:DCRatdroppedbysmokeloader::
 91.108.240.151:Stealc::
 91.128.195.76:Mozi::
 91.130.59.242:Mozi::
@@ -6037,16 +6037,16 @@
 91.92.240.186:Mirai::
 91.92.240.190:Mirai::
 91.92.240.235:Mirai::
-91.92.240.70:CoinMiner scan sshbruteforce::
-91.92.240.75:droppedbyPrivateLoader RedLineStealer::
+91.92.240.70:CoinMinerscansshbruteforce::
+91.92.240.75:droppedbyPrivateLoaderRedLineStealer::
 91.92.241.172:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.241.36:Mirai::
 91.92.241.77:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
-91.92.242.117:Mirai sparc::
-91.92.242.74:gafgyt Mirai::
+91.92.242.117:Miraisparc::
+91.92.242.74:gafgytMirai::
 91.92.242.80:AsyncRAT::
 91.92.244.204:Mirai::
-91.92.245.62:GuLoader RAT RemcosRAT::
+91.92.245.62:GuLoaderRATRemcosRAT::
 91.92.246.143:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.246.98:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.247.252:Mirai::
@@ -6055,7 +6055,7 @@
 91.92.252.116:Powershell::
 91.92.252.187:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:1334
 91.92.252.208:Mirai::
-91.92.252.34:renesas Tsunami::
+91.92.252.34:renesasTsunami::
 91.92.252.49:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:2
 91.92.253.130:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.253.171:AsyncRAT::
@@ -6063,9 +6063,9 @@
 91.92.253.46:Mirai::
 91.92.254.184:droppedbyPrivateLoader::
 91.92.254.43:Moobot::
-91.92.254.69:gafgyt renesas sparc::
+91.92.254.69:gafgytrenesassparc::
 91.92.255.169:Mirai::
-91.92.255.196:hacktool mimekatz::
+91.92.255.196:hacktoolmimekatz::
 91.92.255.205:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.255.211:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.255.222:Mirai::
@@ -6076,32 +6076,32 @@
 92.180.177.223:NoTag:,Orange_S.A.,orange.com:0
 93.123.39.165:Mirai::
 93.123.39.166:NoTag:Data_Center_Web_Hosting_Transit,Sircrosar_Limited,net1.bg:0
-93.123.39.87:badpack ibgo::
-93.123.39.88:badpack ibgo::
-93.123.85.104:Mirai skid::
+93.123.39.87:badpackibgo::
+93.123.39.88:badpackibgo::
+93.123.85.104:Miraiskid::
 93.123.85.10:Mirai::
 93.123.85.113:NoTag:Data_Center_Web_Hosting_Transit,MortalSoft_Ltd.,net1.bg:0
-93.123.85.121:Mirai sparc::
+93.123.85.121:Miraisparc::
 93.123.85.123:Mirai::
 93.123.85.127:Mirai::
-93.123.85.131:Mirai Mortalsoft::
+93.123.85.131:MiraiMortalsoft::
 93.123.85.136:Mirai::
-93.123.85.142:Mirai Moobot::
+93.123.85.142:MiraiMoobot::
 93.123.85.144:Mirai::
 93.123.85.163:Mirai::
 93.123.85.172:Mirai::
-93.123.85.173:gafgyt Mirai::
+93.123.85.173:gafgytMirai::
 93.123.85.17:Mirai::
-93.123.85.188:Mirai Mortalsoft::
+93.123.85.188:MiraiMortalsoft::
 93.123.85.192:Mirai::
-93.123.85.197:gafgyt Mirai::
-93.123.85.203:Mirai Mortalsoft::
+93.123.85.197:gafgytMirai::
+93.123.85.203:MiraiMortalsoft::
 93.123.85.38:Mirai::
 93.123.85.49:Mirai::
-93.123.85.4:Mirai renesas sparc::
+93.123.85.4:Mirairenesassparc::
 93.123.85.60:Mirai::
-93.123.85.8:Mirai mortalsoftasn::
-94.103.188.173:gafgyt Mirai::
+93.123.85.8:Miraimortalsoftasn::
+94.103.188.173:gafgytMirai::
 94.103.188.45:Mirai::
 94.142.138.85:recordbreaker::
 94.156.65.131:Mirai::
@@ -6109,21 +6109,21 @@
 94.156.65.61:Stealc::
 94.156.66.186:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 94.156.66.229:Mirai::
-94.156.67.252:gafgyt Mirai::
+94.156.67.252:gafgytMirai::
 94.156.67.254:zgRAT::
-94.156.67.62:Geofenced Mirai  USA::
+94.156.67.62:GeofencedMiraiUSA::
 94.156.67.96:Mirai::
 94.156.68.104:Mirai::
 94.156.69.111:RedLineStealer::
 94.156.69.120:Mirai::
 94.156.69.17:zgRAT::
 94.156.69.208:AsyncRAT::
-94.156.69.47:Mirai shell ::
+94.156.69.47:Miraishell::
 94.156.71.134:Mirai::
 94.156.71.188:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 94.156.71.217:Mirai::
 94.156.71.220:gafgyt::
-94.156.71.221:Mirai ::
+94.156.71.221:Mirai::
 94.156.71.230:Mirai::
 94.156.8.100:Stealc::
 94.156.8.116:Mirai::
@@ -6131,7 +6131,7 @@
 94.156.8.244:Mirai::
 94.156.8.80:Mirai::
 94.178.208.155:Mozi::
-94.189.230.163:Mirai Mozi::
+94.189.230.163:MiraiMozi::
 94.240.47.154:Mozi::
 94.73.242.102:Mozi::
 95.132.101.97:Mozi::
