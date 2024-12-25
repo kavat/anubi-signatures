@@ -109,7 +109,7 @@
 103.228.126.17:Mirai::
 103.237.86.138:GuLoader RAT RemcosRAT::
 103.38.236.46:AsyncRAT StormKitty::
-103.42.31.11:NoTag:Data_Center_Web_Hosting_Transit,Longkou_City_East_Street_South_Gate_Village,vpsquan.com:0
+103.42.31.11:NoTag:Data_Center_Web_Hosting_Transit,Longkou_City_East_Street_South_Gate_Village,vpsqn.com:0
 103.67.197.233:Mirai::
 103.67.197.77:Mirai::
 103.82.211.164:Hajime::
@@ -179,10 +179,10 @@
 113.26.202.219:Hajime::
 113.26.49.137:Hajime::
 113.26.87.149:Hajime::
-113.87.116.105:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.87.116.105:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.87.136.252:Mozi::
 113.88.152.253:Mozi::
-113.88.168.44:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.88.168.44:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.90.13.45:Mozi::
 114.218.15.69:Hajime::
 114.226.74.73:Mozi::
@@ -239,7 +239,7 @@
 116.109.83.202:Hajime::
 116.203.112.62:BUMBLEBEE::
 116.203.121.140:LummaStealer::
-116.203.232.21:dropped-by-PrivateLoader::
+116.203.232.21:droppedbyPrivateLoader::
 116.203.75.210:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_GmbH,hetzner.de:0
 116.55.125.104:Hajime::
 117.198.63.128:Mirai Mozi::
@@ -389,9 +389,9 @@
 128.199.82.82:Mirai::
 13.51.205.20:RAT RemcosRAT::
 130.111.170.11:Hajime::
-135.125.177.82:DarkGate Geofenced msi ua-curl USA::
+135.125.177.82:DarkGate Geofenced msi curl USA::
 137.74.39.224:Mirai renesas sparc::
-139.177.197.168:arm7 botnet Mirai::
+139.177.197.168:arm7  Mirai::
 139.47.11.0:Hajime::
 139.84.229.204:Mirai::
 139.9.182.167:Tsunami::
@@ -414,7 +414,7 @@
 143.42.8.90:Mirai::
 144.136.24.218:Hajime::
 144.172.74.86:NoTag:Data_Center_Web_Hosting_Transit,Frantech_Solutions,frantech.ca:0
-146.19.191.85:NoTag:Data_Center_Web_Hosting_Transit,TUBE-HOSTING,tube-hosting.de:0
+146.19.191.85:NoTag:Data_Center_Web_Hosting_Transit,TUBEHOSTING,tubehosting.de:0
 146.19.213.202:Mirai renesas sparc::
 147.124.209.80:AsyncRAT::
 147.189.131.75:GuLoader RAT RemcosRAT::
@@ -459,7 +459,7 @@
 160.119.156.7:Hajime::
 160.119.158.124:Hajime::
 160.119.158.134:Hajime::
-162.19.130.45:DarkGate Geofenced ua-curl USA vbs::
+162.19.130.45:DarkGate Geofenced curl USA vbs::
 162.232.167.247:Hajime::
 162.83.151.165:Hajime::
 163.123.143.164:AgentTesla vbs::
@@ -476,12 +476,12 @@
 170.253.4.32:Hajime::
 171.100.152.90:Hajime::
 171.122.99.155:Mozi::
-171.22.28.208:dropped-by-PrivateLoader PrivateLoader RaccoonStealer::
-171.22.28.214:dropped-by-PrivateLoader::
+171.22.28.208:droppedbyPrivateLoader PrivateLoader RaccoonStealer::
+171.22.28.214:droppedbyPrivateLoader::
 171.22.28.221:Stealc::
 171.22.28.222:RedLineStealer::
-171.22.28.226:AgentTesla dropped-by-PrivateLoader PrivateLoader RedLineStealer::
-171.221.15.232:NoTag:,ChinaNet_Sichuan_Province_Network,chinatelecom.com.cn:0
+171.22.28.226:AgentTesla droppedbyPrivateLoader PrivateLoader RedLineStealer::
+171.221.15.232:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
 171.228.207.173:Mirai::
 171.228.207.35:Mirai::
 171.232.56.153:Hajime::
@@ -506,7 +506,7 @@
 172.104.248.94:Mirai::
 172.115.66.80:Hajime::
 172.172.222.164:RedLineStealer trojan::
-172.200.176.88:172-200-176-88 MetaMorfo ousaban spy::
+172.200.176.88:17220017688 MetaMorfo ousaban s::
 172.86.123.122:RemcosRAT::
 172.86.68.194:NoTag:Data_Center_Web_Hosting_Transit,Frantech_Solutions,frantech.ca:0
 172.93.160.125:GuLoader RAT RemcosRAT::
@@ -637,8 +637,8 @@
 185.113.8.99:Mirai::
 185.143.179.92:Mirai renesas sparc::
 185.150.26.225:Mirai::
-185.150.26.248:arc arm5 arm6 arm7 botnet i486 i686 m68k mddos Mirai mpsl sh4 spc x86 x86 64::
-185.153.198.156:dropped-by-smokeloader::
+185.150.26.248:arc arm5 arm6 arm7  i486 i686 m68k mddos Mirai mpsl sh4 spc x86 x86 64::
+185.153.198.156:droppedbysmokeloader::
 185.161.251.81:Stealc::
 185.202.172.84:NoTag:Data_Center_Web_Hosting_Transit,Heymman_Servers_Corporation,heymman.com:0
 185.225.75.44:Mirai::
@@ -695,7 +695,7 @@
 192.3.23.242:FormBook::
 192.3.23.247:FormBook::
 192.3.95.131:AgentTesla::
-193.142.59.12:dropped-by-smokeloader MarsStealer Stealc::
+193.142.59.12:droppedbysmokeloader MarsStealer Stealc::
 193.168.141.163:Stealc::
 193.201.8.110:Stealc::
 193.203.203.67:NoTag:Data_Center_Web_Hosting_Transit,PQ_Hosting_S.r.l.,pq.hosting:0
@@ -714,9 +714,9 @@
 194.37.80.211:Mirai::
 194.37.80.97:Mirai::
 194.38.21.42:NoTag:Data_Center_Web_Hosting_Transit,Demenin_B.V.,demenin.net:1
-194.55.224.41:dropped-by-PrivateLoader RedLineStealer::
+194.55.224.41:droppedbyPrivateLoader RedLineStealer::
 194.55.224.46:Mirai::
-195.211.96.134:dropped-by-PrivateLoader::
+195.211.96.134:droppedbyPrivateLoader::
 195.24.131.192:Hajime::
 195.24.153.74:Hajime::
 196.206.150.15:Mozi::
@@ -832,7 +832,7 @@
 218.29.30.113:Mozi::
 218.35.216.175:Hajime::
 218.67.193.110:Mozi::
-219.137.93.131:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+219.137.93.131:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 219.154.148.137:Mozi::
 219.155.14.47:Mozi::
 219.155.238.100:Mozi::
@@ -989,7 +989,7 @@
 41.227.218.95:Hajime::
 42.113.172.179:Hajime::
 42.119.2.156:Hajime::
-42.197.13.128:NoTag:Data_Center_Web_Hosting_Transit,Huawei_Public_Cloud_Service,huawei.com:0
+42.197.13.128:NoTag:Data_Center_Web_Hosting_Transit,Hwei_Public_Cloud_Service,hwei.com:0
 42.224.27.107:Mozi::
 42.225.54.223:Mozi::
 42.226.72.46:Mozi::
@@ -1028,7 +1028,7 @@
 44.203.122.41:FormBook::
 45.120.178.206:Pikabot::
 45.126.127.128:Mirai sparc::
-45.129.14.83:dropped-by-PrivateLoader RedLineStealer::
+45.129.14.83:droppedbyPrivateLoader RedLineStealer::
 45.13.119.196:Mirai::
 45.13.119.228:gafgyt Mirai::
 45.13.119.44:NoTag:Data_Center_Web_Hosting_Transit,Sarah_Rossius,as210469.net:0
@@ -1044,7 +1044,7 @@
 45.148.244.48:Mirai renesas sparc::
 45.15.157.211:Stealc::
 45.155.250.218:Stealc::
-45.32.222.253:94-228-169-143--2351 DarkGate::
+45.32.222.253:942281691432351 DarkGate::
 45.42.160.27:NoTag:Data_Center_Web_Hosting_Transit,LetsCloud,letscloud.io:0
 45.53.218.26:Hajime::
 45.61.153.17:Mirai::
@@ -1061,9 +1061,9 @@
 45.88.90.113:Mirai::
 45.88.90.126:Mirai::
 45.95.146.118:Mirai::
-45.95.169.162:NoTag:Data_Center_Web_Hosting_Transit,MAXKO_d.o.o.,maxko-hosting.com:0
+45.95.169.162:NoTag:Data_Center_Web_Hosting_Transit,MAXKO_d.o.o.,maxkohosting.com:0
 46.117.235.243:Hajime::
-46.13.89.41:NoTag:,T-Mobile_Czech_Republic_a.s.,t-mobile.cz:1
+46.13.89.41:NoTag:,TMobile_Czech_Republic_a.s.,tmobile.cz:1
 46.151.24.25:NoTag:Data_Center_Web_Hosting_Transit,Hosting_Technology_Ltd,vdsina.ru:0
 46.153.143.56:Mozi::
 46.159.19.105:Mozi::
@@ -1100,13 +1100,13 @@
 5.225.130.124:Hajime::
 5.239.241.72:Hajime::
 5.252.22.56:Powershell ps::
-5.255.125.41:dropped-by-smokeloader MarsStealer Stealc::
-5.42.64.10:dropped-by-PrivateLoader::
+5.255.125.41:droppedbysmokeloader MarsStealer Stealc::
+5.42.64.10:droppedbyPrivateLoader::
 5.42.77.33:DarkGate::
 5.54.130.5:Hajime::
 5.66.26.236:Hajime::
 5.75.212.216:NoTag:Data_Center_Web_Hosting_Transit,Hetzner_Online_GmbH,hetzner.de:0
-5.75.215.131:Arkei gmail booking pw-123456 Vidar::
+5.75.215.131:Arkei gmail booking pw123456 Vidar::
 5.78.81.39:recordbreaker::
 5.78.84.125:GuLoader RAT RemcosRAT::
 5.94.126.172:Hajime::
@@ -1209,7 +1209,7 @@
 65.188.248.78:Mozi::
 65.26.153.100:Hajime::
 66.176.19.160:Hajime::
-66.42.110.147:94-228-169-143--2351 DarkGate::
+66.42.110.147:942281691432351 DarkGate::
 66.42.93.194:IcedID::
 66.63.162.71:GuLoader RAT RemcosRAT::
 66.85.156.93:Smoke Loader::
@@ -1237,7 +1237,7 @@
 77.79.135.225:Hajime::
 77.85.155.40:Hajime::
 77.91.124.1:Amadey::
-77.91.68.239:dropped-by-PrivateLoader RedLineStealer::
+77.91.68.239:droppedbyPrivateLoader RedLineStealer::
 77.91.68.52:Amadey::
 77.91.68.78:Amadey DCRat RedLineStealer::
 77.91.97.133:Vidar::
@@ -1298,8 +1298,8 @@
 84.2.219.9:Hajime::
 84.2.23.148:Hajime::
 84.221.242.182:Hajime::
-84.246.85.121:DarkGate Geofenced ua-curl USA vbs::
-84.246.85.138:DarkGate Geofenced ua-curl USA vbs::
+84.246.85.121:DarkGate Geofenced curl USA vbs::
+84.246.85.138:DarkGate Geofenced curl USA vbs::
 84.254.38.74:Hajime::
 84.38.130.236:GuLoader RAT RemcosRAT::
 84.38.134.110:GuLoader RAT RemcosRAT::
@@ -1322,14 +1322,14 @@
 87.15.65.32:Hajime::
 87.229.77.210:Mirai::
 87.242.25.2:Hajime::
-87.251.64.205:NoTag:Data_Center_Web_Hosting_Transit,Aleksandr_Valerevich_Mokhonko,lvs.ru:0
+87.251.64.205:NoTag:Data_Center_Web_Hosting_Transit,Aleksandr_Valeich_Mokhonko,lvs.ru:0
 87.7.206.202:Hajime::
 88.111.193.101:Hajime::
 88.119.174.100:Pikabot::
 88.119.175.188:IcedID::
 88.119.175.233:IcedID::
 88.119.175.234:Pikabot::
-88.119.175.245:94-228-169-143--2351 DarkGate::
+88.119.175.245:942281691432351 DarkGate::
 88.214.21.195:NoTag:Data_Center_Web_Hosting_Transit,xTom_GmbH,xtom.com:0
 88.214.21.200:Mirai renesas::
 89.165.6.139:Hajime::
@@ -1339,7 +1339,7 @@
 89.23.100.222:RemcosRAT Unknown Loader::
 89.23.107.169:recordbreaker::
 89.23.98.212:recordbreaker::
-89.23.98.75:89-23-98-75 DCRat RedLineStealer::
+89.23.98.75:89239875 DCRat RedLineStealer::
 89.32.41.127:Mirai::
 91.103.252.189:UPX::
 91.103.252.242:Stealc::
@@ -1359,27 +1359,27 @@
 93.66.202.226:Hajime::
 93.67.206.19:Hajime::
 93.67.83.49:Hajime::
-94.131.99.140:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
+94.131.99.140:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 94.140.112.19:Gozi Ursnif::
 94.140.114.21:Gozi Ursnif ursnif related::
 94.142.138.114:recordbreaker::
 94.142.138.19:recordbreaker::
 94.142.138.20:LummaStealer RedLineStealer::
-94.142.138.221:dropped-by-PrivateLoader LummaStealer Raccoon::
+94.142.138.221:droppedbyPrivateLoader LummaStealer Raccoon::
 94.156.253.116:AgentTesla vbs::
-94.156.253.187:dropped-by-PrivateLoader PrivateLoader::
+94.156.253.187:droppedbyPrivateLoader PrivateLoader::
 94.156.253.194:RemcosRAT::
 94.156.6.89: apk chrome::
 94.158.244.38:Mirai::
 94.158.247.27:Mirai sparc::
 94.196.91.184:Hajime::
 94.21.60.198:Hajime::
-94.228.162.231:dropped-by-smokeloader::
+94.228.162.231:droppedbysmokeloader::
 94.228.169.123:DarkGate::
-94.228.169.143:94-228-169-143--2351 DarkGate::
+94.228.169.143:942281691432351 DarkGate::
 94.27.141.199:Hajime::
 94.53.127.179:Hajime::
-95.164.17.59:DarkGate Geofenced msi ua-curl USA::
+95.164.17.59:DarkGate Geofenced msi curl USA::
 95.181.173.33:Mirai sparc::
 95.181.173.98:Mirai::
 95.214.25.236:NoTag:Data_Center_Web_Hosting_Transit,Matrix_Telecom_Ltd,as211760.net:0

@@ -77,9 +77,9 @@
 102.36.149.225:NoTag:Fixed_Line_ISP,Longlive_South,tizeti.com:0
 102.36.198.196:Mozi::
 102.71.183.0:Mozi::
-103.108.66.226:NoTag:Data_Center_Web_Hosting_Transit,Huangyun,lokgaa.com:0
-103.124.105.140:Geofenced Pikabot ua-curl USA::
-103.124.105.147:Geofenced Pikabot ua-curl USA::
+103.108.66.226:NoTag:Data_Center_Web_Hosting_Transit,Hngyun,lokgaa.com:0
+103.124.105.140:Geofenced Pikabot curl USA::
+103.124.105.147:Geofenced Pikabot curl USA::
 103.136.39.89:Mozi::
 103.138.137.101:Mozi::
 103.146.179.82:Supershell::
@@ -108,8 +108,8 @@
 103.45.104.76:mimikatz::
 103.47.195.200:Mirai::
 103.47.218.40:Mozi::
-103.6.4.7:NoTag:Commercial,Lucky_Tone_Communications_Ltd,lucky-tone.com:0
-103.6.5.3:NoTag:Commercial,Lucky_Tone_Communications_Ltd,lucky-tone.com:0
+103.6.4.7:NoTag:Commercial,Lucky_Tone_Communications_Ltd,luckytone.com:0
+103.6.5.3:NoTag:Commercial,Lucky_Tone_Communications_Ltd,luckytone.com:0
 103.67.199.44:Mirai::
 103.77.243.121:GuLoader::
 103.80.35.167:Mozi::
@@ -339,7 +339,7 @@
 113.118.120.26:Mozi::
 113.118.13.65:Mozi::
 113.118.201.193:Mozi::
-113.118.201.24:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.118.201.24:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.118.251.248:Mozi::
 113.12.253.203:Mozi::
 113.155.86.41:Mirai Mozi::
@@ -406,7 +406,7 @@
 113.78.216.209:Mozi::
 113.78.216.247:Mozi::
 113.87.184.46:Mozi::
-113.90.12.11:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.90.12.11:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.91.34.180:Mozi::
 113.99.201.163:Mozi::
 114.116.231.53:Supershell::
@@ -2320,7 +2320,7 @@
 119.116.254.114:Mozi::
 119.117.252.158:Mozi::
 119.123.168.53:Mozi::
-119.123.172.71:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+119.123.172.71:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 119.123.174.55:Mozi::
 119.162.228.158:Mozi::
 119.162.74.180:Mozi::
@@ -3036,7 +3036,7 @@
 14.247.84.252:Mozi::
 14.247.85.44:Mozi::
 141.98.10.72:Mirai renesas sparc::
-143.110.217.67:Geofenced Mirai ua-wget USA::
+143.110.217.67:Geofenced Mirai  USA::
 143.198.50.169:gafgyt::
 146.19.213.188:gafgyt Mirai::
 146.71.78.14:gafgyt renesas sparc::
@@ -3046,11 +3046,11 @@
 147.189.170.212:Mirai::
 147.219.4.29:Mozi::
 147.45.40.62:Mirai::
-147.45.44.18:dropped-by-PrivateLoader::
-147.45.47.101:dropped-by-PrivateLoader::
-147.45.47.102:dropped-by-PrivateLoader::
+147.45.44.18:droppedbyPrivateLoader::
+147.45.47.101:droppedbyPrivateLoader::
+147.45.47.102:droppedbyPrivateLoader::
 147.45.47.35:Amadey::
-147.45.47.93:dropped-by-PrivateLoader::
+147.45.47.93:droppedbyPrivateLoader::
 147.78.103.13:Mirai::
 149.102.231.75:Supershell::
 15.204.223.194:gafgyt sparc::
@@ -3075,8 +3075,8 @@
 158.255.82.82:Mozi::
 159.20.100.164:Mozi::
 159.223.196.192:Mirai::
-159.223.212.11:Mirai ua-wget::
-159.253.120.2:donutloader QuasarRAT Shellcode::
+159.223.212.11:Mirai ::
+159.253.120.2:donutloader QsarRAT Shellcode::
 159.65.123.122:Massive_exploitation_activity_(comment:_sounds_like_a_VPN_gateway):NoTag
 159.75.180.29:Supershell::
 160.176.195.98:Mozi::
@@ -3089,10 +3089,10 @@
 163.142.91.110:Mozi::
 163.197.211.60:Supershell::
 163.5.169.28:AsyncRAT VenomRAT::
-163.5.64.74:NoTag:Data_Center_Web_Hosting_Transit,Ionis_Group_-_Ionis_Schools_of_Technology_and_Management_SAS,ionis-group.com:0
+163.5.64.74:NoTag:Data_Center_Web_Hosting_Transit,Ionis_GroupIonis_Schools_of_Technology_and_Management_SAS,ionisgroup.com:0
 164.163.25.189:Mirai Mozi::
 164.163.25.241:Mirai Mozi::
-165.232.89.27:Geofenced Mirai shell ua-wget USA::
+165.232.89.27:Geofenced Mirai shell  USA::
 166.141.89.208:NoTag:Mobile_ISP,Verizon_Wireless,verizon.com:0
 166.250.150.102:NoTag:Mobile_ISP,Wireless_Data_Service_Provider_Corporation,wdspco.org:20
 167.172.88.107:Mirai::
@@ -3111,12 +3111,12 @@
 171.37.10.117:Mirai Mozi::
 171.38.218.198:Mirai Mozi::
 171.39.131.151:Mirai Mozi::
-171.88.142.148:NoTag:,ChinaNet_Sichuan_Province_Network,chinatelecom.com.cn:0
-171.88.143.37:NoTag:,ChinaNet_Sichuan_Province_Network,chinatelecom.com.cn:0
-171.88.143.72:NoTag:,ChinaNet_Sichuan_Province_Network,chinatelecom.com.cn:0
+171.88.142.148:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
+171.88.143.37:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
+171.88.143.72:NoTag:,ChinaNet_Sichn_Province_Network,chinatelecom.com.cn:0
 172.105.176.100:Mirai::
 172.233.242.230:Mirai::
-172.234.120.102:ua-wget::
+172.234.120.102:::
 172.234.217.97:Encoded RAT RemcosRAT vbs::
 172.234.224.39:Encoded RAT RemcosRAT vbs::
 172.245.135.142:vbs::
@@ -3211,7 +3211,7 @@
 178.141.63.116:Mozi::
 178.141.77.150:Mozi::
 178.159.36.155:Vidar::
-178.208.87.102:c2 beacon Cobalt Strike::
+178.208.87.102: beacon Cobalt Strike::
 178.21.13.32:NoTag:Data_Center_Web_Hosting_Transit,Domain_Names_Registrar_Reg.ru_Ltd,reg.ru:0
 178.21.13.33:NoTag:Data_Center_Web_Hosting_Transit,Domain_Names_Registrar_Reg.ru_Ltd,reg.ru:0
 178.21.13.34:NoTag:Data_Center_Web_Hosting_Transit,Domain_Names_Registrar_Reg.ru_Ltd,reg.ru:0
@@ -3675,11 +3675,11 @@
 183.57.251.12:Mozi::
 183.81.4.31:Mirai Mozi::
 183.95.21.29:Mirai::
-185.125.50.64:dropped-by-smokeloader Vidar::
+185.125.50.64:droppedbysmokeloader Vidar::
 185.144.159.137:Mirai shell::
-185.149.146.82:dropped-by-smokeloader RedLineStealer::
-185.16.39.253:bat QuasarRAT quasarServer::
-185.191.124.122:ua-wget::
+185.149.146.82:droppedbysmokeloader RedLineStealer::
+185.16.39.253:bat QsarRAT qsarServer::
+185.191.124.122:::
 185.196.10.134:Mirai::
 185.196.10.139:Mirai::
 185.196.10.231:Mirai::
@@ -3690,7 +3690,7 @@
 185.196.9.184:bat vbs::
 185.196.9.223:Mirai::
 185.196.9.97:Mirai::
-185.215.113.45:Amadey dropped-by-smokeloader::
+185.215.113.45:Amadey droppedbysmokeloader::
 185.216.70.30:gafgyt Mirai renesas sparc::
 185.223.124.50:Mozi::
 185.226.106.107:gafgyt renesas::
@@ -3777,7 +3777,7 @@
 192.70.90.58:Mozi::
 192.70.90.66:Mozi::
 192.70.90.7:Mozi::
-192.99.44.107:dropped-by-smokeloader::
+192.99.44.107:droppedbysmokeloader::
 193.111.250.51:Mirai::
 193.141.60.128:Mirai::
 193.163.7.160:Stealc::
@@ -3786,23 +3786,23 @@
 193.222.96.163:CoinMiner Mirai::
 193.23.55.21:Mirai::
 193.233.132.167:Amadey::
-193.233.132.186:dropped-by-smokeloader VenomRAT::
-193.233.132.18:dropped-by-PrivateLoader RedLineStealer::
-193.233.132.232:dropped-by-PrivateLoader RedLineStealer::
-193.233.132.67:dropped-by-PrivateLoader::
+193.233.132.186:droppedbysmokeloader VenomRAT::
+193.233.132.18:droppedbyPrivateLoader RedLineStealer::
+193.233.132.232:droppedbyPrivateLoader RedLineStealer::
+193.233.132.67:droppedbyPrivateLoader::
 193.233.132.73:Amadey RedLineStealer::
 193.26.115.221:ascynrat::
 194.110.247.222:Mirai::
 194.120.116.120:Stealc::
 194.169.175.30:CoinMiner Mirai::
 194.169.175.31:Mirai::
-194.4.49.187:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
+194.4.49.187:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 194.48.250.132:Mirai::
 194.48.250.53:gafgyt::
 194.87.14.130:AgentTesla vbs::
 194.87.93.199:DCRat::
-195.123.219.100:dropped-by-smokeloader::
-195.123.230.238:dropped-by-PrivateLoader::
+195.123.219.100:droppedbysmokeloader::
+195.123.230.238:droppedbyPrivateLoader::
 196.189.199.24:Mozi::
 196.189.41.142:Mirai Mozi::
 196.191.66.189:Mirai Mozi::
@@ -3861,7 +3861,7 @@
 210.18.170.47:Mozi::
 213.120.230.115:Mozi::
 213.232.235.20:Mirai renesas::
-216.188.216.17:NoTag:Fixed_Line_ISP,Jaguar_Communications,jagcom.net:16
+216.188.216.17:NoTag:Fixed_Line_ISP,Jagr_Communications,jagcom.net:16
 216.224.123.241:Supershell::
 216.83.58.188:Supershell::
 216.83.58.190:Supershell::
@@ -3870,7 +3870,7 @@
 218.102.103.229:Mirai Mozi::
 218.201.79.94:Mozi::
 218.255.103.162:Hajime::
-218.38.52.227:dropped-by-smokeloader::
+218.38.52.227:droppedbysmokeloader::
 218.56.204.88:Mirai::
 218.59.113.130:Mozi::
 218.59.113.45:Mozi::
@@ -4310,9 +4310,9 @@
 223.9.120.53:Hajime::
 223.9.42.5:Mirai Mozi::
 223.9.43.254:Mirai Mozi::
-23.224.102.6:dropped-by-smokeloader RemcosRAT::
+23.224.102.6:droppedbysmokeloader RemcosRAT::
 23.224.176.63:Mirai::
-23.94.0.126:CobaltStrike spyware::
+23.94.0.126:CobaltStrike sware::
 23.94.182.87:Supershell::
 23.94.206.104:GuLoader::
 23.94.62.136:Supershell::
@@ -4493,7 +4493,7 @@
 37.28.157.3:Stealc::
 37.44.238.66:gafgyt Mirai::
 37.44.238.70:gafgyt Mirai renesas sparc::
-37.48.88.173:dropped-by-smokeloader::
+37.48.88.173:droppedbysmokeloader::
 37.48.88.177:GuLoader::
 37.49.228.204:gafgyt renesas sparc::
 37.52.60.145:Mozi::
@@ -5056,21 +5056,21 @@
 43.229.115.110:Supershell::
 43.241.16.222:shell::
 45.128.232.235:Mirai::
-45.128.96.133:AsyncRAT dropped-by-smokeloader WhiteSnakeStealer::
+45.128.96.133:AsyncRAT droppedbysmokeloader WhiteSnakeStealer::
 45.13.227.186:Mirai::
 45.131.108.167:Mirai::
 45.137.64.40:NoTag:Data_Center_Web_Hosting_Transit,Zomro_B.V.,novoserve.com:0
 45.138.174.188:Mirai shell::
 45.138.174.72:Mirai::
-45.14.244.67:dropped-by-smokeloader recordbreaker::
+45.14.244.67:droppedbysmokeloader recordbreaker::
 45.140.146.156:msi::
 45.141.59.59:renesas Tsunami::
 45.142.182.114:NoTag:Data_Center_Web_Hosting_Transit,Xsserver_GmbH,xsserver.gmbh:389
 45.142.182.90:Mirai::
 45.144.232.181:CoinMiner zgRAT::
-45.144.29.148:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
+45.144.29.148:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 45.145.42.233:Mirai::
-45.15.156.174:dropped-by-smokeloader RedLineStealer::
+45.15.156.174:droppedbysmokeloader RedLineStealer::
 45.153.242.76:DarkGate::
 45.159.209.167:NoTag:Data_Center_Web_Hosting_Transit,IT_Outsourcing_LLC,itos.biz:0
 45.164.178.24:Mozi::
@@ -5086,7 +5086,7 @@
 45.79.196.203:NoTag:Content_Delivery_Network,Akamai_Technologies_Inc.,akamai.com:0
 45.79.66.14:Mirai::
 45.82.177.212:Mirai::
-45.86.163.142:L3monc2 spyware::
+45.86.163.142:L3mon sware::
 45.86.86.176:Mirai::
 45.86.86.60:Mirai::
 45.9.75.102:Mirai::
@@ -5097,9 +5097,9 @@
 45.95.146.3:Mirai::
 45.95.146.43:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:0
 45.95.146.56:Mirai::
-45.95.146.71:ua-wget::
+45.95.146.71:::
 45.95.146.89:Mirai::
-45.95.147.179:ua-wget::
+45.95.147.179:::
 45.95.147.201:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:0
 46.105.46.106:gafgyt Mirai renesas sparc::
 46.153.135.135:Mozi::
@@ -5146,7 +5146,7 @@
 5.34.163.210:Mozi::
 5.42.64.3:NoTag:Data_Center_Web_Hosting_Transit,LetHost_LLC,lethost.co:0
 5.42.64.44:Amadey::
-5.42.65.115:dropped-by-PrivateLoader gcleaner::
+5.42.65.115:droppedbyPrivateLoader gcleaner::
 5.42.65.68:NoTag:Data_Center_Web_Hosting_Transit,LetHost_LLC,lethost.co:0
 5.42.67.14:LummaStealer::
 5.42.67.7:gcleaner::
@@ -5917,8 +5917,8 @@
 61.54.61.153:Mozi::
 61.54.63.16:Mozi::
 61.54.72.176:Mozi::
-62.182.80.202:dropped-by-smokeloader::
-62.84.102.31:dropped-by-smokeloader LummaStealer::
+62.182.80.202:droppedbysmokeloader::
+62.84.102.31:droppedbysmokeloader LummaStealer::
 64.140.100.201:NoTag:Fixed_Line_ISP,Opticaltel,opticaltel.com:0
 64.31.63.194::NoTag:
 64.31.63.70::NoTag:
@@ -5955,12 +5955,12 @@
 76.76.171.31:Mirai Mozi::
 76.81.220.226:Mozi::
 77.105.132.197:Stealc::
-77.105.132.211:dropped-by-PrivateLoader::
+77.105.132.211:droppedbyPrivateLoader::
 77.105.163.9:Mirai sparc::
 77.45.152.168:Mozi::
 77.83.125.135:Hajime::
 77.89.201.118:Mirai Mozi::
-77.91.68.222:dropped-by-PrivateLoader::
+77.91.68.222:droppedbyPrivateLoader::
 78.167.202.101:Mozi::
 78.169.130.131:Mozi::
 78.169.41.237:Mozi::
@@ -5971,7 +5971,7 @@
 78.70.203.243:Mozi::
 78.9.100.207:Mozi::
 79.124.40.47:gafgyt Mirai::
-79.132.130.206:dropped-by-smokeloader::
+79.132.130.206:droppedbysmokeloader::
 79.137.202.105:DCRat::
 79.137.207.129:Rhadamanthys XMRIG::
 79.32.156.176:Hajime::
@@ -5982,12 +5982,12 @@
 8.222.130.235:Supershell::
 80.202.217.118:Mozi::
 80.210.18.36:Hajime::
-80.66.64.3:dropped-by-smokeloader::
+80.66.64.3:droppedbysmokeloader::
 80.80.144.46:Mirai::
-80.85.246.217:DCRat dropped-by-smokeloader::
-80.94.95.19:dropped-by-PrivateLoader RedLineStealer::
+80.85.246.217:DCRat droppedbysmokeloader::
+80.94.95.19:droppedbyPrivateLoader RedLineStealer::
 81.0.98.104:Hajime::
-81.163.140.48:NoTag:,Level-MSK_Ltd.,level-msk.net:0
+81.163.140.48:NoTag:,LevelMSK_Ltd.,levelmsk.net:0
 81.165.180.131:Mozi::
 81.17.21.234:Mirai::
 81.2.216.78:NoTag:Data_Center_Web_Hosting_Transit,Internet_CZ_A.S.,forpsi.com:0
@@ -6021,9 +6021,9 @@
 88.247.163.125:Hajime::
 88.249.90.32:Mozi::
 89.190.156.152:Mirai::
-89.190.156.209:Geofenced Mirai ua-wget USA::
-89.208.107.151:dropped-by-smokeloader::
-89.23.98.146:DCRat dropped-by-smokeloader::
+89.190.156.209:Geofenced Mirai  USA::
+89.208.107.151:droppedbysmokeloader::
+89.23.98.146:DCRat droppedbysmokeloader::
 91.108.240.151:Stealc::
 91.128.195.76:Mozi::
 91.130.59.242:Mozi::
@@ -6037,8 +6037,8 @@
 91.92.240.186:Mirai::
 91.92.240.190:Mirai::
 91.92.240.235:Mirai::
-91.92.240.70:CoinMiner scan ssh-brute-force::
-91.92.240.75:dropped-by-PrivateLoader RedLineStealer::
+91.92.240.70:CoinMiner scan sshbruteforce::
+91.92.240.75:droppedbyPrivateLoader RedLineStealer::
 91.92.241.172:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 91.92.241.36:Mirai::
 91.92.241.77:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
@@ -6061,7 +6061,7 @@
 91.92.253.171:AsyncRAT::
 91.92.253.254:Mirai::
 91.92.253.46:Mirai::
-91.92.254.184:dropped-by-PrivateLoader::
+91.92.254.184:droppedbyPrivateLoader::
 91.92.254.43:Moobot::
 91.92.254.69:gafgyt renesas sparc::
 91.92.255.169:Mirai::
@@ -6100,7 +6100,7 @@
 93.123.85.49:Mirai::
 93.123.85.4:Mirai renesas sparc::
 93.123.85.60:Mirai::
-93.123.85.8:Mirai mortalsoft-asn::
+93.123.85.8:Mirai mortalsoftasn::
 94.103.188.173:gafgyt Mirai::
 94.103.188.45:Mirai::
 94.142.138.85:recordbreaker::
@@ -6111,19 +6111,19 @@
 94.156.66.229:Mirai::
 94.156.67.252:gafgyt Mirai::
 94.156.67.254:zgRAT::
-94.156.67.62:Geofenced Mirai ua-wget USA::
+94.156.67.62:Geofenced Mirai  USA::
 94.156.67.96:Mirai::
 94.156.68.104:Mirai::
 94.156.69.111:RedLineStealer::
 94.156.69.120:Mirai::
 94.156.69.17:zgRAT::
 94.156.69.208:AsyncRAT::
-94.156.69.47:Mirai shell ua-wget::
+94.156.69.47:Mirai shell ::
 94.156.71.134:Mirai::
 94.156.71.188:NoTag:Data_Center_Web_Hosting_Transit,LIMENET,limenet.io:0
 94.156.71.217:Mirai::
 94.156.71.220:gafgyt::
-94.156.71.221:Mirai ua-wget::
+94.156.71.221:Mirai ::
 94.156.71.230:Mirai::
 94.156.8.100:Stealc::
 94.156.8.116:Mirai::
@@ -6144,7 +6144,7 @@
 95.134.44.234:Mozi::
 95.153.254.32:Mozi::
 95.164.63.54:DarkGate::
-95.216.228.224:spyware::
+95.216.228.224:sware::
 95.32.145.135:Mozi::
 95.32.148.242:Mozi::
 95.32.153.79:NoTag:Fixed_Line_ISP,Regional_Multiservice_Network_Access,vsi.ru:0

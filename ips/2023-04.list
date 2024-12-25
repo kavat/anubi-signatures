@@ -185,7 +185,7 @@
 103.138.137.134:Mozi::
 103.138.137.188:Mozi::
 103.140.50.49:Mozi::
-103.146.140.253:NoTag:Data_Center_Web_Hosting_Transit,Hua_Er_Mi_Industry_Co._Limited,yisu.com:0
+103.146.140.253:NoTag:Data_Center_Web_Hosting_Transit,H_Er_Mi_Industry_Co._Limited,yisu.com:0
 103.148.58.242:NoTag:Data_Center_Web_Hosting_Transit,Digital_Pulse_Technology_Limited,lucidacloud.net:0
 103.148.96.33:Mirai Mozi::
 103.151.227.87:Mozi::
@@ -210,7 +210,7 @@
 103.186.72.89:Mozi::
 103.189.202.201:FormBook::
 103.195.141.241:Hajime::
-103.20.235.243:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA::
+103.20.235.243:Geofenced obama254 Qakbot qbot Qkbot ps USA::
 103.203.110.84:NoTag:Data_Center_Web_Hosting_Transit,Beijing_Teletron_Telecom_Engineering_Co._Ltd.,idcdxt.cn:0
 103.217.123.140:Mozi::
 103.221.78.148:Mirai Mozi::
@@ -282,7 +282,7 @@
 104.167.3.87:Mirai::
 104.187.106.187:Hajime::
 104.193.255.117:gafgyt::
-104.225.129.157:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA::
+104.225.129.157:Geofenced obama258 Qakbot qbot Qkbot ps USA::
 104.238.190.98:Geofenced obama255 Qakbot USA::
 104.244.74.239:gafgyt Mirai renesas sparc::
 104.244.74.252:Mirai::
@@ -529,7 +529,7 @@
 111.70.29.33:Hajime::
 111.78.72.11:Mozi::
 111.79.226.61:Mozi::
-111.90.143.191:CobaltStrike cobaltstrike-stager::
+111.90.143.191:CobaltStrike cobaltstrikestager::
 111.90.146.117:Mirai renesas sparc::
 111.90.151.38:NoTag:Data_Center_Web_Hosting_Transit,Shinjiru_Technology_Sdn_Bhd,shinjiru.com.my:0
 111.92.117.121:NoTag:Fixed_Line_ISP,Asianet_is_a_Cable_ISP_Providing,asianet.co.in:0
@@ -783,9 +783,9 @@
 113.116.241.89:Mozi::
 113.116.246.105:Mirai Mozi::
 113.116.36.128:Mozi::
-113.116.36.184:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.116.36.184:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.116.41.114:Mozi::
-113.116.6.137:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.116.6.137:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.116.88.162:Mirai Mozi::
 113.116.88.19:Mozi::
 113.118.12.224:Mozi::
@@ -912,7 +912,7 @@
 113.87.49.52:Mozi::
 113.88.100.83:Mozi::
 113.88.111.228:Mozi::
-113.88.231.152:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:10
+113.88.231.152:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:10
 113.88.248.26:Mozi::
 113.88.250.51:Mozi::
 113.89.174.109:Mozi::
@@ -934,7 +934,7 @@
 113.94.31.193:Mozi::
 113.94.31.28:Mozi::
 113.94.31.5:Mozi::
-113.94.48.83:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.94.48.83:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.99.80.51:Mozi::
 114.100.85.66:NoTag:,ChinaNet_Anhui_Province_Network,chinatelecom.com.cn:0
 114.129.234.36:Mozi::
@@ -1803,7 +1803,7 @@
 116.24.82.154:Mozi::
 116.241.45.233:Mirai Mozi::
 116.249.43.96:Mozi::
-116.25.107.136:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+116.25.107.136:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 116.25.132.123:Mozi::
 116.25.249.51:Mozi::
 116.25.251.20:Mozi::
@@ -3862,7 +3862,7 @@
 118.70.214.169:Hajime::
 118.79.121.94:Mozi::
 118.79.73.70:Mozi::
-118.81.169.49:NoTag:Fixed_Line_ISP,SXTY_Yangqu_BAS,adsl-pool.sx.cn:0
+118.81.169.49:NoTag:Fixed_Line_ISP,SXTY_Yangqu_BAS,adslpool.sx.cn:0
 119.1.132.87:Mirai Mozi::
 119.1.133.135:Hajime::
 119.1.135.215:Hajime::
@@ -3888,7 +3888,7 @@
 119.123.0.160:Mozi::
 119.123.130.204:Mozi::
 119.123.172.175:Mozi::
-119.123.202.91:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+119.123.202.91:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 119.123.224.9:Mirai Mozi::
 119.123.226.153:Mirai Mozi::
 119.123.239.162:Mozi::
@@ -4806,7 +4806,7 @@
 124.255.20.94:Mozi::
 124.42.153.176:NoTag:Data_Center_Web_Hosting_Transit,Shenzhen_ZTWL_Technology_Co._Ltd.,midskynet.com:0
 124.67.90.181:Mozi::
-124.71.228.145:NoTag:Data_Center_Web_Hosting_Transit,Huawei_Public_Cloud_Service,huawei.com:0
+124.71.228.145:NoTag:Data_Center_Web_Hosting_Transit,Hwei_Public_Cloud_Service,hwei.com:0
 124.89.226.74:Mozi::
 124.91.221.0:Mozi::
 124.91.97.166:Mirai Mozi::
@@ -5160,8 +5160,8 @@
 125.99.1.53:Mozi::
 125.99.145.203:Mozi::
 125.99.2.23:Mozi::
-128.254.207.196:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA::
-128.254.207.60:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA::
+128.254.207.196:Geofenced obama258 Qakbot qbot Qkbot ps USA::
+128.254.207.60:Geofenced obama253 Qakbot qbot Qkbot ps USA::
 13.52.103.68:NoTag:Data_Center_Web_Hosting_Transit,Amazon.com_Inc.,amazon.com:0
 130.193.40.103:Mirai::
 130.204.92.105:Hajime::
@@ -5216,10 +5216,10 @@
 146.190.231.52:gafgyt Mirai::
 146.59.185.74:Mirai::
 146.66.220.59:gafgyt Mirai::
-147.135.248.250:Geofenced obama251 Qakbot ua-ps USA::
-149.102.243.204:Geofenced obama250 Qakbot Quakbot ua-ps USA::
-149.102.249.66:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA::
-149.102.255.183:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps::
+147.135.248.250:Geofenced obama251 Qakbot ps USA::
+149.102.243.204:Geofenced obama250 Qakbot Qkbot ps USA::
+149.102.249.66:Geofenced obama258 Qakbot qbot Qkbot ps USA::
+149.102.255.183:GBR Geofenced obama257 Qakbot qbot Qkbot ps::
 149.56.67.131:Mirai::
 15.235.107.59:Mirai::
 150.117.81.192:Hajime::
@@ -5245,10 +5245,10 @@
 153.35.63.84:Mirai Mozi::
 153.37.200.225:Mozi::
 154.13.6.69:Mirai::
-154.47.17.180:Geofenced obama251 Qakbot Quakbot ua-ps USA::
+154.47.17.180:Geofenced obama251 Qakbot Qkbot ps USA::
 154.64.225.69:Mirai::
 154.91.202.45:NoTag:Data_Center_Web_Hosting_Transit,Evoxt_Enterprise,evoxt.com:0
-155.138.132.190:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps::
+155.138.132.190:GBR Geofenced obama257 Qakbot qbot Qkbot ps::
 155.93.177.118:Hajime::
 156.247.1.180:Mozi::
 156.96.155.249:NoTag:Data_Center_Web_Hosting_Transit,Newtrend,fastlink.net:0
@@ -5287,7 +5287,7 @@
 160.178.248.162:Mozi::
 160.179.203.117:Mozi::
 160.179.210.173:Mozi::
-162.19.130.46:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA::
+162.19.130.46:Geofenced obama248 Qakbot qbot Qkbot ps USA::
 163.123.142.141:Rhadamanthys::
 163.125.123.12:Mozi::
 163.125.17.81:Mozi::
@@ -5385,7 +5385,7 @@
 171.35.51.185:Mirai Mozi::
 171.36.5.45:Mirai Mozi::
 171.37.31.118:Mozi::
-171.38.138.229:NoTag:,China_Unicom_Guangxi_Province_Network,chinaunicom.com:0
+171.38.138.229:NoTag:,China_Unicom_Gngxi_Province_Network,chinaunicom.com:0
 171.38.147.235:Mirai::
 171.38.149.120:Mirai Mozi::
 171.38.193.132:Mirai Mozi::
@@ -5411,16 +5411,16 @@
 172.101.79.132:Mozi::
 172.245.191.46:FormBook::
 172.245.214.178:FormBook::
-172.32.137.109:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.32.137.109:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.36.20.240:Mozi::
-172.36.54.8:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.36.54.8:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.36.96.145:Mozi::
 172.43.48.2:Mozi::
-172.43.84.3:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
-172.45.37.207:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
-172.45.37.226:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.43.84.3:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
+172.45.37.207:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
+172.45.37.226:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.81.61.224:NoTag:Data_Center_Web_Hosting_Transit,Dynu_Systems_Incorporated,dynu.com:0
-172.96.137.33:Geofenced obama256 Qakbot qbot Quakbot ua-ps USA::
+172.96.137.33:Geofenced obama256 Qakbot qbot Qkbot ps USA::
 172.97.190.198:Mozi::
 172.98.14.94:gafgyt::
 174.84.188.20:Mozi::
@@ -5605,7 +5605,7 @@
 178.183.120.122:Hajime::
 178.218.144.110:Mirai::
 178.222.29.60:Hajime::
-178.226.246.82:NoTag:,T-Mobile_Netherlands_B.V.,t-mobile.nl:0
+178.226.246.82:NoTag:,TMobile_Netherlands_B.V.,tmobile.nl:0
 178.251.45.182:Mozi::
 178.34.177.78:Hajime::
 178.36.223.254:Hajime::
@@ -6589,7 +6589,7 @@
 183.146.11.84:Mozi::
 183.149.38.204:Mozi::
 183.149.53.176:Mozi::
-183.15.121.151:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+183.15.121.151:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 183.150.177.159:Mozi::
 183.150.190.157:Mirai Mozi::
 183.150.194.19:Mirai Mozi::
@@ -6644,7 +6644,7 @@
 183.17.225.82:Mozi::
 183.17.225.86:Mozi::
 183.17.227.116:Mozi::
-183.184.138.8:NoTag:Fixed_Line_ISP,SXTY_Loufan_BAS,adsl-pool.sx.cn:0
+183.184.138.8:NoTag:Fixed_Line_ISP,SXTY_Loufan_BAS,adslpool.sx.cn:0
 183.184.201.103:Mirai Mozi::
 183.186.225.103:Mirai::
 183.188.182.100:Mirai Mozi::
@@ -6667,7 +6667,7 @@
 185.106.92.23:Vidar::
 185.106.94.88:NetSupport Powershell RAT RemoteAdmin::
 185.108.164.118:Hajime::
-185.117.89.76:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps::
+185.117.89.76:GBR Geofenced obama257 Qakbot qbot Qkbot ps::
 185.118.51.135:Mozi::
 185.131.52.250:Mirai::
 185.156.34.33:Mozi::
@@ -6680,7 +6680,7 @@
 185.190.40.183:Hajime::
 185.224.128.110:Mirai::
 185.225.73.130:gafgyt::
-185.225.73.47:reverse base64::
+185.225.73.47:erse ::
 185.225.74.131:Mirai::
 185.225.74.155:Mirai::
 185.225.74.160:Mirai::
@@ -6695,17 +6695,17 @@
 185.241.208.207:NoTag:Data_Center_Web_Hosting_Transit,1337_Services_GmbH,rdp.sh:23
 185.241.208.97:AsyncRAT Powershell::
 185.246.220.136:Mirai::
-185.250.240.25:Geofenced obama256 Qakbot Quakbot TA570 USA::
-185.250.243.136:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA::
+185.250.240.25:Geofenced obama256 Qakbot Qkbot TA570 USA::
+185.250.243.136:Geofenced obama254 Qakbot qbot Qkbot ps USA::
 185.254.37.108:NoTag:Data_Center_Web_Hosting_Transit,Des_Capital_B.V.,des.capital:0
 185.254.37.66:NoTag:Data_Center_Web_Hosting_Transit,Des_Capital_B.V.,des.capital:0
 185.254.37.81:Mirai::
-185.33.87.23:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA::
-185.39.18.107:Geofenced obama256 Qakbot qbot Quakbot ua-ps USA::
+185.33.87.23:Geofenced obama258 Qakbot qbot Qkbot ps USA::
+185.39.18.107:Geofenced obama256 Qakbot qbot Qkbot ps USA::
 185.6.58.18:Mirai Mozi::
 185.64.208.141:Hajime::
-185.66.91.157:NoTag:Data_Center_Web_Hosting_Transit,Virtual_Systems_LLC,v-sys.org:0
-185.74.222.228:dropped-by-smokeloader::
+185.66.91.157:NoTag:Data_Center_Web_Hosting_Transit,Virtl_Systems_LLC,vsys.org:0
+185.74.222.228:droppedbysmokeloader::
 185.81.157.135:AsyncRAT RAT::
 186.156.186.32:Hajime::
 186.182.3.26:Hajime::
@@ -6889,22 +6889,22 @@
 192.3.179.140:FormBook::
 192.3.179.147:AgentTesla::
 192.3.202.72:AgentTesla::
-192.95.55.65:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA::
+192.95.55.65:Geofenced obama248 Qakbot qbot Qkbot ps USA::
 192.99.180.181:AsyncRAT Powershell::
 193.109.85.62:Stealc::
 193.151.146.131:gafgyt Mirai renesas sparc::
 193.153.243.210:NoTag:,Telefonica_de_Espana_Sau,telefonica.com:0
-193.200.17.207:Geofenced Obama249 Qakbot Quakbot ua-ps USA::
+193.200.17.207:Geofenced Obama249 Qakbot Qkbot ps USA::
 193.201.9.240:Amadey::
 193.201.9.43:Amadey::
-193.201.9.67:Amadey dropped-by-PrivateLoader::
-193.233.134.117:dropped-by-smokeloader Vidar::
+193.201.9.67:Amadey droppedbyPrivateLoader::
+193.233.134.117:droppedbysmokeloader Vidar::
 193.233.20.35:Amadey RedLineStealer::
-193.243.147.185:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps::
+193.243.147.185:GBR Geofenced obama257 Qakbot qbot Qkbot ps::
 193.3.19.154:Amadey RedLineStealer::
-193.3.19.157:Amadey dropped-by-PrivateLoader RedLineStealer::
-193.3.19.158:Amadey dropped-by-PrivateLoader RedLineStealer::
-193.3.19.251:dropped-by-PrivateLoader::
+193.3.19.157:Amadey droppedbyPrivateLoader RedLineStealer::
+193.3.19.158:Amadey droppedbyPrivateLoader RedLineStealer::
+193.3.19.251:droppedbyPrivateLoader::
 193.35.18.108:Mirai::
 193.35.18.243:Mirai::
 193.35.18.249:Mirai::
@@ -6912,14 +6912,14 @@
 193.35.18.56:Mirai::
 193.35.18.57:gafgyt::
 193.42.33.80:AgentTesla Encoded::
-193.42.38.141:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA::
+193.42.38.141:Geofenced obama253 Qakbot qbot Qkbot ps USA::
 193.47.61.47:NoTag:Data_Center_Web_Hosting_Transit,Des_Capital_B.V.,des.capital:0
 194.104.156.12:gafgyt::
 194.110.247.198:Mirai::
 194.132.232.36:Mozi::
 194.15.36.24:Mirai::
 194.15.36.76:Mirai::
-194.165.59.51:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA::
+194.165.59.51:Geofenced obama252 Qakbot qbot Qkbot ps USA::
 194.169.175.190:Mirai::
 194.208.52.223:Hajime::
 194.208.56.60:Hajime::
@@ -6954,7 +6954,7 @@
 198.23.188.135:AgentTesla::
 198.244.189.90:gafgyt::
 198.244.205.7:CoinMiner::
-198.50.143.1:Geofenced obama256 Qakbot Quakbot TA570 USA::
+198.50.143.1:Geofenced obama256 Qakbot Qkbot TA570 USA::
 198.58.102.19:Metasploit Powershell::
 198.98.58.200:Mirai renesas sparc::
 2.140.160.41:Mirai Mozi::
@@ -6967,7 +6967,7 @@
 2.42.146.20:Hajime::
 2.94.249.83:Mozi::
 20.205.3.43:NoTag:Data_Center_Web_Hosting_Transit,Microsoft_Corporation,microsoft.com:0
-20.206.70.41:Spynote::
+20.206.70.41:Snote::
 20.211.5.151:AsyncRAT VenomRAT::
 200.109.57.113:Hajime::
 200.110.59.100:Mozi::
@@ -7017,19 +7017,19 @@
 203.115.85.200:Mozi::
 203.115.85.222:Mozi::
 203.115.85.232:Mozi::
-203.115.85.87:NoTag:Fixed_Line_ISP,Broadband_Pacenet_(I)_Pvt._Ltd,pacenet-india.com:0
+203.115.85.87:NoTag:Fixed_Line_ISP,Broadband_Pacenet_(I)_Pvt._Ltd,pacenetindia.com:0
 203.135.100.141:NoTag:Data_Center_Web_Hosting_Transit,Shaoxing_Yun_Tong_Network_Technology_Co._Ltd,zjtelecom.com.cn:0
 203.192.224.76:Mozi::
 203.194.111.142:Mirai Mozi::
 203.212.203.190:Mozi::
-203.96.177.111:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA::
+203.96.177.111:Geofenced obama252 Qakbot qbot Qkbot ps USA::
 204.44.109.81:Mirai::
 204.44.71.71:Mirai::
 205.185.117.59:Mirai::
 205.185.121.73:Mirai::
 205.250.196.140:Mozi::
 206.189.155.244:Mirai::
-206.53.48.21:Geofenced Obama249 Qakbot Quakbot ua-ps USA::
+206.53.48.21:Geofenced Obama249 Qakbot Qkbot ps USA::
 207.154.242.206:Mirai::
 207.210.27.122:Mirai Mozi::
 208.67.107.146:RAT RemcosRAT::
@@ -7038,7 +7038,7 @@
 209.141.52.88:Mirai::
 209.169.176.53:NoTag:Data_Center_Web_Hosting_Transit,Cogeco_Connexion_Inc,cogeco.com:0
 209.182.225.14:Geofenced obama255 Qakbot USA::
-209.182.225.155:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps::
+209.182.225.155:GBR Geofenced obama257 Qakbot qbot Qkbot ps::
 210.179.221.215:Hajime::
 210.18.175.228:Mozi::
 210.89.58.100:Mozi::
@@ -7068,9 +7068,9 @@
 213.33.204.186:Hajime::
 213.66.51.122:Mozi::
 213.7.31.160:Hajime::
-216.120.201.169:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA::
-216.146.25.178:Geofenced obama256 Qakbot Quakbot TA570 USA::
-216.238.80.217:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA::
+216.120.201.169:Geofenced obama253 Qakbot qbot Qkbot ps USA::
+216.146.25.178:Geofenced obama256 Qakbot Qkbot TA570 USA::
+216.238.80.217:Geofenced obama253 Qakbot qbot Qkbot ps USA::
 216.239.68.31:Mozi::
 216.239.78.103:Mozi::
 216.239.78.41:Mozi::
@@ -7135,7 +7135,7 @@
 218.93.166.251:Hajime::
 218.93.168.54:Mozi::
 218.93.60.61:Hajime::
-219.133.103.161:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+219.133.103.161:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 219.133.177.243:Mozi::
 219.154.100.142:Mozi::
 219.154.102.27:Mozi::
@@ -7745,7 +7745,7 @@
 222.189.116.168:Mirai Mozi::
 222.189.120.93:Hajime::
 222.209.122.179:Mirai Mozi::
-222.216.167.148:NoTag:,ChinaNet_Guangxi_Province_Network,chinatelecom.com.cn:0
+222.216.167.148:NoTag:,ChinaNet_Gngxi_Province_Network,chinatelecom.com.cn:0
 222.219.45.9:Hajime::
 222.221.160.191:Mozi::
 222.221.195.140:Mozi::
@@ -8142,7 +8142,7 @@
 27.37.165.122:Mozi::
 27.37.217.108:Mozi::
 27.37.50.253:Mozi::
-27.39.155.180:NoTag:,China_Unicom_Guangdong_Province_Network,chinaunicom.com:0
+27.39.155.180:NoTag:,China_Unicom_Gngdong_Province_Network,chinaunicom.com:0
 27.4.169.134:Mozi::
 27.4.204.13:Mozi::
 27.4.94.158:Mozi::
@@ -8378,7 +8378,7 @@
 37.54.208.179:Mozi::
 37.55.73.253:Mozi::
 37.6.118.56:Hajime::
-38.165.11.232:NoTag:Data_Center_Web_Hosting_Transit,Peg_Tech_Inc.,aquanx.com:0
+38.165.11.232:NoTag:Data_Center_Web_Hosting_Transit,Peg_Tech_Inc.,aqnx.com:0
 38.25.150.252:Hajime::
 38.25.189.220:Hajime::
 38.53.227.231:Mozi::
@@ -8559,7 +8559,7 @@
 42.114.24.87:Hajime::
 42.177.105.78:Mozi::
 42.194.164.247:NoTag:Data_Center_Web_Hosting_Transit,Tencent_Cloud_Computing_(Beijing)_Co._Ltd.,tencent.com:0
-42.197.129.222:NoTag:Data_Center_Web_Hosting_Transit,Huawei_Public_Cloud_Service,huawei.com:0
+42.197.129.222:NoTag:Data_Center_Web_Hosting_Transit,Hwei_Public_Cloud_Service,hwei.com:0
 42.224.0.32:Mozi::
 42.224.104.230:Mozi::
 42.224.109.40:Mozi::
@@ -9115,7 +9115,7 @@
 45.12.109.103:Mirai::
 45.12.253.178:Mirai::
 45.120.16.232:Mozi::
-45.125.67.156:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA::
+45.125.67.156:Geofenced obama253 Qakbot qbot Qkbot ps USA::
 45.128.232.144:gafgyt::
 45.128.232.167:Mirai::
 45.131.111.251:Mirai::
@@ -9139,7 +9139,7 @@
 45.150.128.182:gafgyt::
 45.158.22.165:Mirai::
 45.159.248.242:Stealc::
-45.159.249.33:Geofenced obama250 Qakbot Quakbot ua-ps USA::
+45.159.249.33:Geofenced obama250 Qakbot Qkbot ps USA::
 45.166.21.177:Hajime::
 45.168.123.23:Mirai Mozi::
 45.169.14.10:Mozi::
@@ -9155,15 +9155,15 @@
 45.234.96.119:Mirai Mozi::
 45.234.96.161:Mirai Mozi::
 45.59.170.43:Geofenced obama255 Qakbot USA::
-45.59.170.48:Geofenced Obama249 Qakbot Quakbot ua-ps USA::
-45.59.170.61:GBR Geofenced obama257 Qakbot qbot Quakbot ua-ps::
+45.59.170.48:Geofenced Obama249 Qakbot Qkbot ps USA::
+45.59.170.61:GBR Geofenced obama257 Qakbot qbot Qkbot ps::
 45.61.137.151:Stealc::
 45.61.187.67:NoTag:Data_Center_Web_Hosting_Transit,Frantech_Solutions,frantech.ca:6
-45.63.69.116:Geofenced Obama249 Qakbot ua-ps USA::
+45.63.69.116:Geofenced Obama249 Qakbot ps USA::
 45.66.230.173:Mirai::
 45.66.230.36:Mirai renesas sparc::
-45.66.248.187:Geofenced obama250 Qakbot Quakbot ua-ps USA::
-45.66.248.25:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA::
+45.66.248.187:Geofenced obama250 Qakbot Qkbot ps USA::
+45.66.248.25:Geofenced obama248 Qakbot qbot Qkbot ps USA::
 45.79.8.118:Mirai::
 45.80.158.237:AsyncRAT Powershell::
 45.80.69.193:LummaStealer::
@@ -9180,7 +9180,7 @@
 45.95.146.114:Mirai::
 45.95.146.13:Mirai::
 45.95.169.181:Mirai::
-45.95.18.115:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA::
+45.95.18.115:Geofenced obama248 Qakbot qbot Qkbot ps USA::
 45.95.233.60:Stealc::
 46.0.242.26:Hajime::
 46.100.49.235:Hajime::
@@ -9190,7 +9190,7 @@
 46.158.117.159:Mirai Mozi::
 46.158.17.66:Mozi::
 46.159.55.71:Mozi::
-46.188.154.140:NoTag:,Croatian_Telecom_Inc.,t-com.hr:0
+46.188.154.140:NoTag:,Croatian_Telecom_Inc.,tcom.hr:0
 46.200.82.251:Mozi::
 46.201.164.152:Mozi::
 46.201.245.200:Hajime::
@@ -9294,7 +9294,7 @@
 5.138.211.252:Mozi::
 5.139.158.78:Hajime::
 5.161.206.28:AveMariaRAT::
-5.181.159.78:Mirai mirai botnet scan payload::
+5.181.159.78:Mirai mirai  scan payload::
 5.181.80.134:Mirai::
 5.181.80.147:NoTag:Data_Center_Web_Hosting_Transit,IT_Service_Provider_LTD,radioactive.bg:0
 5.201.176.241:Hajime::
@@ -9303,8 +9303,8 @@
 5.227.66.231:Hajime::
 5.252.118.166:gafgyt::
 5.252.118.57:NoTag:Data_Center_Web_Hosting_Transit,Aeza_International_LTD,aeza.net:0
-5.252.23.94:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA::
-5.42.221.124:Geofenced obama250 Qakbot Quakbot ua-ps USA::
+5.252.23.94:Geofenced obama254 Qakbot qbot Qkbot ps USA::
+5.42.221.124:Geofenced obama250 Qakbot Qkbot ps USA::
 5.59.107.34:Mozi::
 5.75.159.229:recordbreaker::
 5.75.169.249:payloads viaSmokeLoader::
@@ -9316,16 +9316,16 @@
 50.7.177.59:Mirai::
 50.7.177.60:Mirai::
 50.79.86.229:Hajime::
-51.161.204.236:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA::
+51.161.204.236:Geofenced obama258 Qakbot qbot Qkbot ps USA::
 51.161.64.200:DCRat FormBook::
 51.178.28.246:Mirai::
 51.195.39.73:NoTag:Data_Center_Web_Hosting_Transit,OVH_SAS,ovh.com:1
-51.222.199.244:Geofenced obama250 Qakbot Quakbot ua-ps USA::
+51.222.199.244:Geofenced obama250 Qakbot Qkbot ps USA::
 51.222.96.42:Geofenced obama255 Qakbot USA::
-51.254.78.3:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA::
+51.254.78.3:Geofenced obama248 Qakbot qbot Qkbot ps USA::
 51.75.127.173:Stealerium::
 51.75.210.218:NoTag:Data_Center_Web_Hosting_Transit,OVH_SAS,ovh.com:0
-51.83.193.0:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA::
+51.83.193.0:Geofenced obama254 Qakbot qbot Qkbot ps USA::
 52.41.71.133:FormBook::
 57.128.168.187:gafgyt Mirai::
 58.208.109.19:Hajime::
@@ -9374,7 +9374,7 @@
 58.252.203.110:Mirai Mozi::
 58.252.203.187:Mirai Mozi::
 58.252.203.72:Mirai Mozi::
-58.253.154.219:NoTag:,China_Unicom_Guangdong_Province_Network,chinaunicom.com:0
+58.253.154.219:NoTag:,China_Unicom_Gngdong_Province_Network,chinaunicom.com:0
 58.255.129.88:Mozi::
 58.255.131.158:Mirai Mozi::
 58.255.138.134:Mirai Mozi::
@@ -9387,7 +9387,7 @@
 58.255.212.173:Mozi::
 58.255.212.20:Mozi::
 58.255.212.66:Mirai Mozi::
-58.255.214.176:NoTag:,China_Unicom_Guangdong_Province_Network,chinaunicom.com:0
+58.255.214.176:NoTag:,China_Unicom_Gngdong_Province_Network,chinaunicom.com:0
 58.255.216.94:Mirai Mozi::
 58.42.184.229:Hajime::
 58.42.186.232:Hajime::
@@ -10140,8 +10140,8 @@
 61.137.205.37:Mozi::
 61.138.58.19:NoTag:Fixed_Line_ISP,China_Unicom_Heilongjiang_Province_Network,chinaunicom.com:0
 61.138.58.76:Mozi::
-61.141.94.82:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
-61.143.34.58:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+61.141.94.82:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
+61.143.34.58:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 61.145.166.5:Mozi::
 61.146.183.64:Mozi::
 61.152.201.206:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Shanghai_Province_Network,chinatelecom.com.cn:0
@@ -10527,13 +10527,13 @@
 66.97.180.24:Mozi::
 67.49.82.144:Hajime::
 69.63.60.251:Mozi::
-70.34.218.85:Geofenced obama251 Qakbot ua-ps USA::
+70.34.218.85:Geofenced obama251 Qakbot ps USA::
 71.190.219.115:Hajime::
 71.247.210.26:Hajime::
 72.240.94.119:Mirai Mozi::
 72.241.81.250:Mirai Mozi::
 73.226.60.16:Hajime::
-74.119.193.49:Geofenced obama251 Qakbot ua-ps USA::
+74.119.193.49:Geofenced obama251 Qakbot ps USA::
 74.208.206.241:Mirai::
 75.109.116.120:Mirai Mozi::
 75.109.116.80:NoTag:Fixed_Line_ISP,Optimum,optimum.com:0
@@ -10550,14 +10550,14 @@
 77.53.90.144:Mozi::
 77.65.45.186:Hajime::
 77.68.15.30:NoTag:Data_Center_Web_Hosting_Transit,Fasthosts_Internet_Limited,fasthosts.co.uk:0
-77.91.100.135:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA::
+77.91.100.135:Geofenced obama254 Qakbot qbot Qkbot ps USA::
 77.91.122.37:gafgyt renesas::
 77.91.124.203:Amadey::
 77.91.124.207:Amadey RedLineStealer::
-77.91.124.242:NoTag:Data_Center_Web_Hosting_Transit,YSTel_d.o.o._Tivat,stark-industries.solutions:0
+77.91.124.242:NoTag:Data_Center_Web_Hosting_Transit,YSTel_d.o.o._Tivat,starkindustries.solutions:0
 77.91.78.112:Mirai::
 77.91.78.114:Mirai::
-77.91.78.160:NoTag:Data_Center_Web_Hosting_Transit,Sergey_Aleksandrovich_Miroshkin,stark-industries.solutions:0
+77.91.78.160:NoTag:Data_Center_Web_Hosting_Transit,Sergey_Aleksandrovich_Miroshkin,starkindustries.solutions:0
 77.91.78.2:Mirai::
 77.91.85.195:Mirai::
 77.91.85.244:Mirai::
@@ -10591,7 +10591,7 @@
 79.137.207.119:gafgyt Mirai::
 79.137.248.245:recordbreaker::
 79.137.250.51:Mozi::
-79.141.174.253:Geofenced obama251 Qakbot ua-ps USA::
+79.141.174.253:Geofenced obama251 Qakbot ps USA::
 79.186.49.242:Mirai Mozi::
 79.34.219.164:Mirai Mozi::
 79.53.170.212:Hajime::
@@ -10653,12 +10653,12 @@
 85.204.116.121:gafgyt::
 85.208.136.105:Mirai::
 85.208.136.203:NoTag:Data_Center_Web_Hosting_Transit,Unique_IP_Solutions_Private_Limited,ithostline.com:0
-85.217.144.143:dropped-by-PrivateLoader LgoogLoader::
+85.217.144.143:droppedbyPrivateLoader LgoogLoader::
 85.217.144.14:NoTag:Data_Center_Web_Hosting_Transit,Neterra_Ltd.,neterra.net:0
 85.217.144.182:Mirai::
 85.217.144.208:Mirai::
-85.239.33.24:NoTag:Data_Center_Web_Hosting_Transit,Grand-Telecom_LLC,glbtx.com:0
-85.239.53.73:Geofenced obama254 Qakbot qbot Quakbot ua-ps USA::
+85.239.33.24:NoTag:Data_Center_Web_Hosting_Transit,GrandTelecom_LLC,glbtx.com:0
+85.239.53.73:Geofenced obama254 Qakbot qbot Qkbot ps USA::
 85.239.55.238:gafgyt::
 85.252.40.223:Mirai Mozi::
 85.252.78.53:Mirai Mozi::
@@ -10674,9 +10674,9 @@
 87.16.90.56:Hajime::
 87.21.61.131:Hajime::
 87.227.65.25:Mirai Mozi::
-87.236.146.236:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA::
-87.236.146.34:Geofenced obama250 Qakbot Quakbot ua-ps USA::
-87.236.146.93:Geofenced obama251 Qakbot ua-ps USA::
+87.236.146.236:Geofenced obama252 Qakbot qbot Qkbot ps USA::
+87.236.146.34:Geofenced obama250 Qakbot Qkbot ps USA::
+87.236.146.93:Geofenced obama251 Qakbot ps USA::
 87.236.82.113:Hajime::
 87.237.52.145:NoTag:Data_Center_Web_Hosting_Transit,Xsserver_GmbH,xsserver.gmbh:0
 87.4.54.27:Hajime::
@@ -10702,8 +10702,8 @@
 90.176.171.4:Hajime::
 90.188.5.234:Hajime::
 90.224.165.209:Mozi::
-91.193.19.217:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA::
-91.199.147.177:Geofenced Obama249 Qakbot ua-ps USA::
+91.193.19.217:Geofenced obama252 Qakbot qbot Qkbot ps USA::
+91.199.147.177:Geofenced Obama249 Qakbot ps USA::
 91.210.224.40:RedLineStealer::
 91.212.121.97:gafgyt Mirai::
 91.215.85.222:DhlCredit Gozi Ursnif::
@@ -10724,12 +10724,12 @@
 93.143.238.254:Hajime::
 93.67.158.67:Hajime::
 94.1.158.55:Hajime::
-94.131.10.39:Geofenced obama253 Qakbot qbot Quakbot ua-ps USA::
-94.131.100.149:Geofenced obama256 Qakbot qbot Quakbot TA570 ua-ps USA::
-94.131.101.15:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA::
-94.131.117.30:Geofenced Obama249 Qakbot Quakbot ua-ps USA::
-94.131.117.45:Geofenced obama252 Qakbot qbot Quakbot ua-ps USA::
-94.131.12.213:Geofenced obama258 Qakbot qbot Quakbot ua-ps USA::
+94.131.10.39:Geofenced obama253 Qakbot qbot Qkbot ps USA::
+94.131.100.149:Geofenced obama256 Qakbot qbot Qkbot TA570 ps USA::
+94.131.101.15:Geofenced obama252 Qakbot qbot Qkbot ps USA::
+94.131.117.30:Geofenced Obama249 Qakbot Qkbot ps USA::
+94.131.117.45:Geofenced obama252 Qakbot qbot Qkbot ps USA::
+94.131.12.213:Geofenced obama258 Qakbot qbot Qkbot ps USA::
 94.140.115.190:DhlCredit Gozi Ursnif::
 94.142.138.174:recordbreaker::
 94.142.138.224:recordbreaker::
@@ -10747,7 +10747,7 @@
 95.155.216.29:Mozi::
 95.165.14.238:Mozi::
 95.179.147.220:Mirai::
-95.179.162.104:Geofenced obama248 Qakbot qbot Quakbot ua-ps USA::
+95.179.162.104:Geofenced obama248 Qakbot qbot Qkbot ps USA::
 95.214.25.155:Mirai::
 95.214.27.119:Mirai::
 95.214.27.161:Mirai::

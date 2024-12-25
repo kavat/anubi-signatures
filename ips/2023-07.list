@@ -699,7 +699,7 @@
 113.116.145.150:Mozi::
 113.116.147.159:Mozi::
 113.116.147.43:Mozi::
-113.116.150.118:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.116.150.118:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.116.206.109:Mozi::
 113.116.207.28:Mozi::
 113.116.34.113:Mozi::
@@ -707,7 +707,7 @@
 113.116.46.192:Mozi::
 113.116.58.217:Mozi::
 113.116.59.176:Mozi::
-113.116.6.46:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.116.6.46:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.116.72.244:Mozi::
 113.116.90.7:Mirai Mozi::
 113.117.165.162:Mirai Mozi::
@@ -800,10 +800,10 @@
 113.88.102.255:Mozi::
 113.88.154.158:Mozi::
 113.88.155.123:Mozi::
-113.88.231.67:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.88.231.67:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.88.232.127:Mozi::
 113.88.248.245:Mozi::
-113.88.36.59:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.88.36.59:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.88.36.89:Mozi::
 113.89.41.196:Mozi::
 113.89.42.37:Mozi::
@@ -1549,7 +1549,7 @@
 116.24.80.229:Mozi::
 116.241.22.181:Mozi::
 116.248.125.201:Mirai Mozi::
-116.25.107.157:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+116.25.107.157:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 116.25.133.242:Mozi::
 116.25.135.9:Mozi::
 116.25.39.252:Mozi::
@@ -2850,7 +2850,7 @@
 118.175.206.87:Mirai Mozi::
 118.179.227.234:Mozi::
 118.247.158.67:Mozi::
-118.247.55.191:NoTag:Fixed_Line_ISP,Beijing_Weishichuangjie_Technical_Development_Co._Ltd,ipn.cn:0
+118.247.55.191:NoTag:Fixed_Line_ISP,Beijing_Weishichngjie_Technical_Development_Co._Ltd,ipn.cn:0
 118.249.1.109:Mirai Mozi::
 118.250.105.55:NoTag:,ChinaNet_Hunan_Province_Network,chinatelecom.com.cn:0
 118.250.107.202:Mirai Mozi::
@@ -3945,7 +3945,7 @@
 14.155.137.215:Hajime::
 14.155.139.23:Mirai Mozi::
 14.157.143.190:Mozi::
-14.197.173.220:NoTag:Fixed_Line_ISP,Beijing_Weishichuangjie_Technical_Development_Co._Ltd,ipn.cn:0
+14.197.173.220:NoTag:Fixed_Line_ISP,Beijing_Weishichngjie_Technical_Development_Co._Ltd,ipn.cn:0
 14.223.35.225:Mozi::
 14.36.231.220:Hajime::
 14.42.209.95:Hajime::
@@ -4002,7 +4002,7 @@
 162.19.161.214:Mirai::
 162.246.15.238:NoTag:Fixed_Line_ISP,Accelerated_Connections_Inc.,connections.ca:29
 162.248.224.242:Mirai::
-163.125.184.154:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Guangdong_Province_Network,chinaunicom.com:0
+163.125.184.154:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Gngdong_Province_Network,chinaunicom.com:0
 163.179.133.78:Mirai::
 163.179.135.0:Mirai Mozi::
 163.179.135.233:Mirai Mozi::
@@ -4046,7 +4046,7 @@
 171.36.208.16:Mirai Mozi::
 171.38.150.204:Mirai::
 171.38.192.75:Mirai Mozi::
-171.38.246.14:NoTag:,China_Unicom_Guangxi_Province_Network,chinaunicom.com:0
+171.38.246.14:NoTag:,China_Unicom_Gngxi_Province_Network,chinaunicom.com:0
 171.40.16.48:Mirai Mozi::
 171.42.112.229:Mirai Mozi::
 171.42.126.210:Mirai Mozi::
@@ -4058,9 +4058,9 @@
 172.245.191.101:AgentTesla::
 172.247.38.19:Mirai renesas sparc::
 172.32.23.44:Mozi::
-172.32.36.37:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.32.36.37:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.36.65.194:Mozi::
-172.36.91.46:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.36.91.46:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.43.37.41:Mozi::
 172.43.56.170:Mozi::
 172.45.29.54:Mozi::
@@ -4201,16 +4201,16 @@
 178.141.99.242:Mozi::
 178.153.4.217:Hajime::
 178.220.32.36:Hajime::
-178.226.162.214:NoTag:,T-Mobile_Netherlands_B.V.,t-mobile.nl:0
+178.226.162.214:NoTag:,TMobile_Netherlands_B.V.,tmobile.nl:0
 178.228.168.236:Mozi::
 178.73.220.149:NoTag::
 178.92.82.141:Mozi::
 178.92.82.9:Mozi::
-178.93.156.29:NoTag:,PJSC_Ukrtelecom,utel.ua:0
+178.93.156.29:NoTag:,PJSC_Ukrtelecom,utel.:0
 178.93.163.126:Mozi::
 178.93.65.221:Mozi::
 178.93.68.230:Mozi::
-178.93.68.80:NoTag:,JSC_Ukrtelecom,ukrtelecom.ua:8
+178.93.68.80:NoTag:,JSC_Ukrtelecom,ukrtelecom.:8
 178.93.89.45:Mozi::
 178.94.145.81:Mozi::
 178.94.147.56:Mozi::
@@ -4222,8 +4222,8 @@
 178.95.197.217:Mozi::
 179.160.110.164:Mozi::
 179.43.155.195:recordbreaker::
-179.43.163.134:botnet c2 Mirai::
-179.43.170.241:Cryptominer_C2_server:NoTag:
+179.43.163.134:  Mirai::
+179.43.170.241:Cryptominerserver:NoTag:
 180.103.178.145:Hajime::
 180.103.253.100:Hajime::
 180.107.8.158:Hajime::
@@ -4966,13 +4966,13 @@
 185.209.230.21:RemcosRAT::
 185.222.58.229:FormBook GuLoader::
 185.224.128.141:NoTag:Data_Center_Web_Hosting_Transit,Alsycon_B.V.,alsycon.nl:1077
-185.225.73.245:botnet c2 Mirai::
-185.225.73.246:botnet c2 Mirai::
-185.225.73.247:botnet c2 Mirai::
-185.225.73.248:botnet c2 Mirai::
-185.225.73.249:botnet c2 Mirai::
+185.225.73.245:  Mirai::
+185.225.73.246:  Mirai::
+185.225.73.247:  Mirai::
+185.225.73.248:  Mirai::
+185.225.73.249:  Mirai::
 185.225.74.159:Mirai sparc::
-185.225.74.161:ddos-bot Mirai::
+185.225.74.161:ddosbot Mirai::
 185.236.228.183:NoTag::
 185.236.231.109:NoTag::
 185.244.48.81:Stealc::
@@ -5144,7 +5144,7 @@
 190.75.159.112:Mozi::
 190.99.94.126:Mozi::
 192.169.36.87:NoTag:Fixed_Line_ISP,Pacific_Internet_(S)_Pte._Ltd.,pacific.net.sg:0
-192.187.123.122:dropped-by-smokeloader SystemBC::
+192.187.123.122:droppedbysmokeloader SystemBC::
 192.236.199.167:NoTag:Data_Center_Web_Hosting_Transit,HostWinds_LLC,hostwinds.com:0
 192.3.109.162:NoTag:Data_Center_Web_Hosting_Transit,RackNerd_LLC,racknerd.com:0
 192.3.118.24:AZORult GuLoader::
@@ -5169,24 +5169,24 @@
 193.34.139.25:Mirai Mozi::
 193.35.18.147:Mirai sparc::
 193.36.119.45:NoTag::
-194.169.175.136:dropped-by-PrivateLoader RedLineStealer::
-194.169.175.137:dropped-by-PrivateLoader Rhadamanthys::
-194.169.175.138:dropped-by-PrivateLoader Redline RedLineStealer::
-194.169.175.139:dropped-by-PrivateLoader Redline RedLineStealer::
-194.169.175.142:dropped-by-PrivateLoader Redline RedLineStealer::
+194.169.175.136:droppedbyPrivateLoader RedLineStealer::
+194.169.175.137:droppedbyPrivateLoader Rhadamanthys::
+194.169.175.138:droppedbyPrivateLoader Redline RedLineStealer::
+194.169.175.139:droppedbyPrivateLoader Redline RedLineStealer::
+194.169.175.142:droppedbyPrivateLoader Redline RedLineStealer::
 194.180.48.69:gafgyt Mirai::
-194.180.48.72:dropped-by-PrivateLoader remcos RemcosRAT::
+194.180.48.72:droppedbyPrivateLoader remcos RemcosRAT::
 194.180.48.80:AgentTesla::
 194.180.49.165:Mirai::
 194.233.175.76:Mirai sparc::
-194.38.21.37:NoTag:Data_Center_Web_Hosting_Transit,LLC_SmartMediaNetwork,smartmedianetwork.com.ua:0
+194.38.21.37:NoTag:Data_Center_Web_Hosting_Transit,LLC_SmartMediaNetwork,smartmedianetwork.com.:0
 194.50.153.183:NoTag:Data_Center_Web_Hosting_Transit,Area_Soft_LLC,ttdconlinebids.org:0
 194.55.224.183:Encoded GuLoader::
 194.59.218.148:NoTag:Data_Center_Web_Hosting_Transit,Kiobi_B.V.,kiobi.com:0
 194.59.31.108:Mirai::
 194.59.31.121:Mirai::
 194.59.31.122:Mirai renesas sparc::
-194.59.31.131:NoTag:Data_Center_Web_Hosting_Transit,Neterra_Sukhoi_Net,sukhoi-su-57.com:0
+194.59.31.131:NoTag:Data_Center_Web_Hosting_Transit,Neterra_Sukhoi_Net,sukhoisu57.com:0
 194.59.31.66:Stealc::
 194.59.31.67:Stealc::
 194.59.31.71:Mirai::
@@ -5278,7 +5278,7 @@
 202.164.137.80:Mozi::
 202.3.72.101:Mozi::
 202.3.72.155:Mozi::
-202.3.72.175:NoTag:Fixed_Line_ISP,Access_Smart_Solutions_India_Pvt_Ltd,access-smart.in:0
+202.3.72.175:NoTag:Fixed_Line_ISP,Access_Smart_Solutions_India_Pvt_Ltd,accesssmart.in:0
 202.3.72.29:Mozi::
 202.3.72.39:Mozi::
 202.3.73.74:Mozi::
@@ -5326,7 +5326,7 @@
 213.112.225.80:NoTag:,Telenor_Sverige_AB,telenor.se:0
 213.14.187.153:Hajime::
 213.200.146.138:Mirai::
-213.226.123.14:Amaday-Credplugin Amadey-Clipplugin::
+213.226.123.14:AmadayCredplugin AmadeyClipplugin::
 213.227.229.226:Mozi::
 213.232.235.230:Mirai renesas sparc::
 216.146.25.53:CobaltStrike::
@@ -6373,7 +6373,7 @@
 38.137.28.200:Mozi::
 38.137.28.92:Mozi::
 38.54.112.20:Banker BRA trojan::
-38.55.194.104:NoTag:Data_Center_Web_Hosting_Transit,Peg_Tech_Inc.,aquanx.com:0
+38.55.194.104:NoTag:Data_Center_Web_Hosting_Transit,Peg_Tech_Inc.,aqnx.com:0
 39.144.5.23:NoTag:,China_Mobile_Communications_Corporation,chinamobileltd.com:2
 39.38.151.236:Mozi::
 39.63.203.92:Mozi::
@@ -7006,13 +7006,13 @@
 43.224.136.142:NoTag:Data_Center_Web_Hosting_Transit,I2K2_Networks_Pvt_Ltd,i2k2.com:0
 43.230.202.82:NoTag:Data_Center_Web_Hosting_Transit,Leapswitch_Networks_Pvt_Ltd,leapswitch.com:0
 43.249.8.190:Mirai::
-45.11.180.149:IcedID pw-724::
+45.11.180.149:IcedID pw724::
 45.11.182.118:IcedID::
 45.12.253.107:NoTag:Commercial,Paravirt_Limited,fenjianjixie.com:0
 45.12.253.67:Stealc::
 45.131.111.254:Mirai::
 45.131.66.73:NoTag:Data_Center_Web_Hosting_Transit,DeinServerHost,deinserverhost.de:0
-45.134.173.182:bat QuasarRAT RAT::
+45.134.173.182:bat QsarRAT RAT::
 45.134.83.29:NoTag::
 45.14.227.212:NoTag::
 45.14.227.233:NoTag::
@@ -7033,11 +7033,11 @@
 45.231.210.197:Mirai Mozi::
 45.235.48.131:Hajime::
 45.44.102.140:Mozi::
-45.58.41.152:dropped-by-PrivateLoader::
+45.58.41.152:droppedbyPrivateLoader::
 45.61.129.99:Loda::
-45.66.230.164:dropped-by-PrivateLoader Redline RedLineStealer::
+45.66.230.164:droppedbyPrivateLoader Redline RedLineStealer::
 45.66.230.245:Mirai::
-45.66.230.28:pyc pyinstaller::
+45.66.230.28:c installer::
 45.66.230.64:Mirai renesas sparc::
 45.81.243.4:Mirai::
 45.81.39.125:gafgyt Mirai::
@@ -7118,7 +7118,7 @@
 5.134.198.159:Hajime::
 5.166.176.75:Hajime::
 5.17.1.86:Hajime::
-5.182.38.138:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
+5.182.38.138:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 5.198.242.56:Hajime::
 5.206.227.169:Mirai::
 5.237.185.58:Hajime::
@@ -7132,13 +7132,13 @@
 5.32.151.119:Hajime::
 5.36.106.195:Mozi::
 5.42.64.28:Stealc::
-5.42.67.2:dropped-by-PrivateLoader Redline RedLineStealer::
+5.42.67.2:droppedbyPrivateLoader Redline RedLineStealer::
 5.42.75.67:Mirai::
 5.42.78.22:Smoke Loader::
 5.42.86.86:CoinMiner::
 5.42.87.102:Mirai sparc::
 5.42.92.67:Amadey ArkeiStealer LummaStealer RedLineStealer::
-5.42.94.169:C2_server_associated_with_CustomLoader:NoTag:
+5.42.94.169:_server_associated_with_CustomLoader:NoTag:
 5.66.26.113:Hajime::
 5.75.240.249:Stealc::
 5.78.104.95:Stealc::
@@ -7860,7 +7860,7 @@
 61.141.114.190:Mozi::
 61.141.115.49:Mozi::
 61.141.124.23:Mozi::
-61.141.72.108:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+61.141.72.108:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 61.162.203.102:Mozi::
 61.162.203.123:Mozi::
 61.162.203.149:Mozi::
@@ -8138,16 +8138,16 @@
 77.105.146.152:Stealc::
 77.45.142.171:Mozi::
 77.53.43.33:Mozi::
-77.91.124.231:Amadey dropped-by-PrivateLoader Healer Redline RedLineStealer SmokeLoader::
-77.91.124.25:Server_hosting_macro-pro.]net:NoTag:
-77.91.124.31:Amadey dropped-by-PrivateLoader Redline RedLineStealer SmokeLoader::
-77.91.124.40:Amadey dropped-by-PrivateLoader Healer Redline RedLineStealer::
-77.91.124.47:Amadey dropped-by-PrivateLoader Healer Redline RedLineStealer SmokeLoader::
-77.91.124.5:Amadey dropped-by-PrivateLoader Redline RedLineStealer::
+77.91.124.231:Amadey droppedbyPrivateLoader Healer Redline RedLineStealer SmokeLoader::
+77.91.124.25:Server_hosting_macropro.]net:NoTag:
+77.91.124.31:Amadey droppedbyPrivateLoader Redline RedLineStealer SmokeLoader::
+77.91.124.40:Amadey droppedbyPrivateLoader Healer Redline RedLineStealer::
+77.91.124.47:Amadey droppedbyPrivateLoader Healer Redline RedLineStealer SmokeLoader::
+77.91.124.5:Amadey droppedbyPrivateLoader Redline RedLineStealer::
 77.91.68.144:RedLineStealer::
 77.91.68.157:Amadey RedLineStealer::
-77.91.68.1:Amadey dropped-by-PrivateLoader Healer Redline RedLineStealer SmokeLoader::
-77.91.68.248:NoTag:Data_Center_Web_Hosting_Transit,Sergey_Aleksandrovich_Miroshkin,stark-industries.solutions:0
+77.91.68.1:Amadey droppedbyPrivateLoader Healer Redline RedLineStealer SmokeLoader::
+77.91.68.248:NoTag:Data_Center_Web_Hosting_Transit,Sergey_Aleksandrovich_Miroshkin,starkindustries.solutions:0
 77.91.68.3:Amadey::
 77.91.68.61:Amadey::
 77.91.84.42:CoinMiner::
@@ -8167,7 +8167,7 @@
 79.24.45.144:Hajime::
 80.116.74.185:Hajime::
 80.43.82.231:Hajime::
-80.66.75.37:NoTag:Data_Center_Web_Hosting_Transit,Aleksandr_Valerevich_Mokhonko,lvs.ru:0
+80.66.75.37:NoTag:Data_Center_Web_Hosting_Transit,Aleksandr_Valeich_Mokhonko,lvs.ru:0
 80.85.158.215:NoTag::
 80.92.206.223:RaccoonStealer::
 81.182.178.53:Mirai Mozi::
@@ -8204,7 +8204,7 @@
 84.53.229.233:Mozi::
 84.53.229.238:Mozi::
 84.53.229.23:Mozi::
-84.54.51.102:dropped-by-smokeloader::
+84.54.51.102:droppedbysmokeloader::
 84.54.51.228:Mirai::
 85.100.243.153:NoTag:Fixed_Line_ISP,Turk_Telekomunikasyon_Anonim_Sirketi,turktelekom.com.tr:0
 85.109.109.184:Mozi::
@@ -8221,7 +8221,7 @@
 85.217.144.61:AgentTesla::
 85.217.144.78:NoTag:Data_Center_Web_Hosting_Transit,Neterra_Ltd.,neterra.net:0
 85.225.175.68:Mozi::
-85.239.34.125:NoTag:Data_Center_Web_Hosting_Transit,Grand-Telecom_LLC,glbtx.com:0
+85.239.34.125:NoTag:Data_Center_Web_Hosting_Transit,GrandTelecom_LLC,glbtx.com:0
 85.239.63.160:NoTag::
 85.90.244.123:Mirai sparc::
 86.107.179.130:Mirai sparc::
@@ -8229,7 +8229,7 @@
 87.120.88.117:gafgyt Mirai::
 87.120.88.118:Mirai::
 87.120.88.181:Mirai sparc::
-87.120.88.198:dropped-by-PrivateLoader Redline RedLineStealer::
+87.120.88.198:droppedbyPrivateLoader Redline RedLineStealer::
 87.120.88.205:Mirai::
 87.120.88.208:Mirai sparc::
 87.121.221.212:AgentTesla FormBook RTF::
@@ -8279,7 +8279,7 @@
 93.183.72.7:RAT RemcosRAT::
 93.183.73.20:RAT RemcosRAT::
 93.66.122.193:Hajime::
-94.131.105.161:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
+94.131.105.161:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 94.142.138.244:NoTag::
 94.158.245.22:RaccoonStealer RaccoonV2 Re::
 94.247.42.213:Gozi Ursnif::
@@ -8292,8 +8292,8 @@
 95.14.36.17:Mozi::
 95.15.205.252:Mozi::
 95.179.141.133:RedLineStealer::
-95.214.25.207:dropped-by-PrivateLoader Redline RedLineStealer::
-95.214.25.232:dropped-by-PrivateLoader RedLineStealer::
+95.214.25.207:droppedbyPrivateLoader Redline RedLineStealer::
+95.214.25.232:droppedbyPrivateLoader RedLineStealer::
 95.214.26.108:gafgyt Mirai::
 95.214.27.52:Mirai::
 95.217.65.170:LummaStealer::

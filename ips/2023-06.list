@@ -195,7 +195,7 @@
 106.111.244.168:Mozi::
 106.111.40.144:Mozi::
 106.118.215.95:Mozi::
-106.122.19.148:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+106.122.19.148:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 106.35.56.181:Mirai Mozi::
 106.41.132.231:Mirai Mozi::
 106.56.117.157:Mirai Mozi::
@@ -451,7 +451,7 @@
 113.70.34.208:Mozi::
 113.78.216.144:Mozi::
 113.86.132.247:Mirai Mozi::
-113.87.138.6:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.87.138.6:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.87.224.11:Mozi::
 113.87.224.196:Mozi::
 113.87.226.87:Mozi::
@@ -462,7 +462,7 @@
 113.88.1.215:Mozi::
 113.88.103.4:Mozi::
 113.88.251.79:Mozi::
-113.89.174.80:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+113.89.174.80:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 113.89.40.16:Mozi::
 113.89.43.37:Mozi::
 113.89.82.126:Mozi::
@@ -894,7 +894,7 @@
 116.30.120.207:Mozi::
 116.30.123.222:Mozi::
 116.30.127.114:Mozi::
-116.30.137.208:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+116.30.137.208:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 116.30.198.61:Mirai Mozi::
 116.30.240.183:Mozi::
 116.30.248.33:Mozi::
@@ -911,7 +911,7 @@
 116.68.96.10:Mozi::
 116.68.96.244:Mozi::
 116.68.99.94:NoTag:Fixed_Line_ISP,Asianet_is_a_Cable_ISP_Providing,asianet.co.in:0
-116.7.17.112:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+116.7.17.112:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 116.7.20.61:Mozi::
 116.7.22.235:Mozi::
 116.7.52.195:Mozi::
@@ -3823,7 +3823,7 @@
 118.174.87.175:Mirai Mozi::
 118.199.212.80:Mozi::
 118.233.48.152:Mirai Mozi::
-118.247.63.0:NoTag:Fixed_Line_ISP,Beijing_Weishichuangjie_Technical_Development_Co._Ltd,ipn.cn:0
+118.247.63.0:NoTag:Fixed_Line_ISP,Beijing_Weishichngjie_Technical_Development_Co._Ltd,ipn.cn:0
 118.249.176.132:Mozi::
 118.249.176.93:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Hunan_Province_Network,chinatelecom.com.cn:0
 118.249.42.187:Mirai Mozi::
@@ -4238,7 +4238,7 @@
 124.235.215.130:Hajime::
 124.255.20.182:Mozi::
 124.255.20.25:NoTag:Fixed_Line_ISP,Freebit_Co._Ltd.,freebit.com:78
-124.71.228.35:NoTag:Data_Center_Web_Hosting_Transit,Huawei_Public_Cloud_Service,huawei.com:0
+124.71.228.35:NoTag:Data_Center_Web_Hosting_Transit,Hwei_Public_Cloud_Service,hwei.com:0
 124.89.105.4:Mirai Mozi::
 124.89.226.207:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Zhejiang_Province_Network,chinaunicom.com:0
 124.91.132.13:Mirai Mozi::
@@ -4452,7 +4452,7 @@
 14.211.41.53:Mozi::
 14.211.43.221:Mozi::
 14.211.43.46:Mozi::
-14.28.31.216:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+14.28.31.216:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 140.237.12.70:Mozi::
 140.237.30.98:Mirai Mozi::
 140.237.7.41:Mirai Mozi::
@@ -4469,7 +4469,7 @@
 144.208.127.119:Mirai::
 146.190.238.148:additional payloads raccoon v2 recordbreaker::
 149.100.154.55:gafgyt::
-149.154.158.191:BB32 Geofenced Qakbot ua-ps USA::
+149.154.158.191:BB32 Geofenced Qakbot ps USA::
 149.255.35.140:recordbreaker::
 149.28.239.146:NoTag:Data_Center_Web_Hosting_Transit,Vultr_Holdings_LLC,vultr.com:0
 15.204.49.165:gafgyt::
@@ -4500,7 +4500,7 @@
 154.240.108.100:Mirai Mozi::
 154.37.152.66:Mirai::
 157.245.158.246:gafgyt::
-158.255.213.205:BB32 Geofenced Qakbot qbot ua-curl USA::
+158.255.213.205:BB32 Geofenced Qakbot qbot curl USA::
 158.255.213.54:BB32 Geofenced Qakbot USA::
 158.255.82.110:Mozi::
 158.255.82.113:Mozi::
@@ -4525,14 +4525,14 @@
 161.35.160.195:RaccoonStealer::
 162.240.105.54:gafgyt::
 162.240.105.57:gafgyt::
-162.248.224.67:NoTag:Data_Center_Web_Hosting_Transit,Hosting_Solution_Ltd.,king-servers.com:0
-162.252.172.185:BB32 Geofenced Qakbot qbot ua-ps USA::
-162.252.172.233:BB32 Geofenced Qakbot ua-ps USA::
-162.252.172.253:BB32 Geofenced Qakbot ua-ps USA::
-162.252.175.113:BB32 Geofenced Qakbot ua-ps USA::
-162.252.175.204:BB32 Geofenced Qakbot ua-ps USA::
-162.252.175.209:BB32 Geofenced Qakbot qbot Quakbot USA::
-162.252.175.236:BB32 Geofenced Qakbot ua-ps USA::
+162.248.224.67:NoTag:Data_Center_Web_Hosting_Transit,Hosting_Solution_Ltd.,kingservers.com:0
+162.252.172.185:BB32 Geofenced Qakbot qbot ps USA::
+162.252.172.233:BB32 Geofenced Qakbot ps USA::
+162.252.172.253:BB32 Geofenced Qakbot ps USA::
+162.252.175.113:BB32 Geofenced Qakbot ps USA::
+162.252.175.204:BB32 Geofenced Qakbot ps USA::
+162.252.175.209:BB32 Geofenced Qakbot qbot Qkbot USA::
+162.252.175.236:BB32 Geofenced Qakbot ps USA::
 163.125.148.17:Mozi::
 163.179.136.131:Mirai Mozi::
 163.179.136.26:Mirai Mozi::
@@ -4639,7 +4639,7 @@
 171.247.147.23:Hajime::
 171.36.146.236:Mirai Mozi::
 171.36.50.32:Mirai Mozi::
-171.38.139.108:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Guangxi_Province_Network,chinaunicom.com:0
+171.38.139.108:NoTag:Data_Center_Web_Hosting_Transit,China_Unicom_Gngxi_Province_Network,chinaunicom.com:0
 171.38.148.68:Mozi::
 171.38.149.67:Mirai Mozi::
 171.38.150.243:Mirai Mozi::
@@ -4671,15 +4671,15 @@
 172.245.135.175:Mirai::
 172.245.191.17:NoTag:Data_Center_Web_Hosting_Transit,ColoCrossing,colocrossing.com:0
 172.250.27.87:Mirai Mozi::
-172.32.107.238:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
-172.32.169.52:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.32.107.238:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
+172.32.169.52:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.32.84.5:Mozi::
-172.36.7.242:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
-172.36.72.166:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.36.7.242:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
+172.36.72.166:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.39.30.208:Mozi::
-172.43.93.219:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.43.93.219:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.45.20.38:Mozi::
-172.45.26.81:NoTag:Mobile_ISP,T-Mobile_USA_Inc.,t-mobile.com:0
+172.45.26.81:NoTag:Mobile_ISP,TMobile_USA_Inc.,tmobile.com:0
 172.45.58.110:Mozi::
 174.138.6.26:additional payloads raccoon v2 recordbreaker::
 174.96.17.2:Mirai Mozi::
@@ -4796,7 +4796,7 @@
 175.8.63.137:Mirai Mozi::
 175.9.154.170:Mirai Mozi::
 175.9.54.18:Mirai::
-176.113.115.84:CoinMiner dropped-by-PrivateLoader Tofsee XMRIG::
+176.113.115.84:CoinMiner droppedbyPrivateLoader Tofsee XMRIG::
 176.123.6.160:gafgyt renesas::
 176.124.26.156:Mozi::
 176.226.138.69:Mozi::
@@ -4879,7 +4879,7 @@
 179.43.155.209:gafgyt Mirai renesas sparc::
 179.43.162.122:RedLineStealer::
 179.43.162.124:gafgyt renesas sparc::
-179.43.162.58:AveMariaRAT BlackShades N-W0rm::
+179.43.162.58:AveMariaRAT BlackShades NW0rm::
 179.43.182.188:gafgyt Mirai renesas sparc::
 179.43.187.33:NoTag::
 179.87.21.154:Mirai Mozi::
@@ -5284,7 +5284,7 @@
 183.144.242.193:Mirai Mozi::
 183.145.208.131:Mirai Mozi::
 183.145.79.186:Mirai Mozi::
-183.15.206.138:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+183.15.206.138:NoTag:Data_Center_Web_Hosting_Transit,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 183.15.88.79:Mirai Mozi::
 183.15.91.192:Mozi::
 183.150.176.88:Mirai Mozi::
@@ -5347,7 +5347,7 @@
 183.27.102.176:Mozi::
 183.28.48.175:Mozi::
 183.32.129.45:Mozi::
-183.32.129.90:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+183.32.129.90:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 183.33.130.0:Mozi::
 183.35.50.135:Mirai Mozi::
 183.35.50.167:Mirai Mozi::
@@ -5358,7 +5358,7 @@
 183.53.16.44:Mozi::
 183.57.251.203:Mozi::
 183.95.145.156:Mirai Mozi::
-185.102.174.187:NoTag:Data_Center_Web_Hosting_Transit,A2B_IP_B.V.,a2b-internet.com:0
+185.102.174.187:NoTag:Data_Center_Web_Hosting_Transit,A2B_IP_B.V.,a2binternet.com:0
 185.161.114.248:Hajime::
 185.161.208.234:NoTag:Data_Center_Web_Hosting_Transit,DeltaHost,deltahost.com:0
 185.17.0.226:NoTag:Data_Center_Web_Hosting_Transit,Network_Management_Ltd,kompromiss.ru:0
@@ -5453,7 +5453,7 @@
 191.211.99.25:Mirai Mozi::
 192.121.16.207:BB30 Geofenced Qakbot USA::
 192.121.16.225:BB32 Geofenced Qakbot USA::
-192.121.17.149:BB32 Geofenced Qakbot qbot ua-curl USA::
+192.121.17.149:BB32 Geofenced Qakbot qbot curl USA::
 192.121.17.195:BB30 Geofenced Qakbot USA::
 192.121.17.43:BB32 Geofenced Qakbot USA::
 192.121.23.129:BB30 Geofenced Qakbot USA::
@@ -5471,11 +5471,11 @@
 193.149.129.102:NoTag:Data_Center_Web_Hosting_Transit,BL_Networks_NL,blnwx.com:0
 193.161.204.91:Mirai sparc::
 193.183.105.132:Mirai Mozi::
-193.235.147.14:BB33 Geofenced Qakbot ua-ps USA::
-193.235.147.182:BB32 Geofenced Qakbot qbot Quakbot USA::
-193.235.147.195:BB33 Geofenced Qakbot ua-ps USA::
-193.235.147.212:BB33 Geofenced Qakbot ua-ps USA::
-193.235.147.246:BB32 Geofenced Qakbot qbot Quakbot USA::
+193.235.147.14:BB33 Geofenced Qakbot ps USA::
+193.235.147.182:BB32 Geofenced Qakbot qbot Qkbot USA::
+193.235.147.195:BB33 Geofenced Qakbot ps USA::
+193.235.147.212:BB33 Geofenced Qakbot ps USA::
+193.235.147.246:BB32 Geofenced Qakbot qbot Qkbot USA::
 193.32.208.10:NoTag:Data_Center_Web_Hosting_Transit,Hydra_Communications_Ltd,zare.com:0
 193.35.18.123:Mirai::
 193.35.18.12:dropper Mirai::
@@ -5492,14 +5492,14 @@
 193.77.70.39:Hajime::
 194.110.247.20:Mirai renesas::
 194.15.36.99:OrcusRAT::
-194.169.175.124:dropped-by-PrivateLoader RedLineStealer::
-194.169.175.132:dropped-by-PrivateLoader RedLineStealer::
+194.169.175.124:droppedbyPrivateLoader RedLineStealer::
+194.169.175.132:droppedbyPrivateLoader RedLineStealer::
 194.180.48.108:Mirai::
 194.180.48.84:Mirai::
 194.180.48.90:payloads Rhadamanthys viaSmokeLoader::
 194.26.229.157:Mirai renesas::
-194.38.20.27:NoTag:Data_Center_Web_Hosting_Transit,LLC_SmartMediaNetwork,smartmedianetwork.com.ua:0
-194.59.31.19:QuasarRAT RAT::
+194.38.20.27:NoTag:Data_Center_Web_Hosting_Transit,LLC_SmartMediaNetwork,smartmedianetwork.com.:0
+194.59.31.19:QsarRAT RAT::
 194.59.31.34:gafgyt Mirai::
 195.133.147.56:RedLineStealer::
 196.206.170.73:Mozi::
@@ -5535,10 +5535,10 @@
 2.238.148.239:Hajime::
 2.38.120.175:Hajime::
 2.57.122.117:gafgyt Mirai::
-2.59.40.47:ddos-bot::
+2.59.40.47:ddosbot::
 20.22.239.93:NoTag:Data_Center_Web_Hosting_Transit,Microsoft_Corporation,microsoft.com:0
 20.239.180.4:NoTag:Data_Center_Web_Hosting_Transit,Microsoft_Corporation,microsoft.com:0
-20.245.14.191:dropped-by-smokeloader::
+20.245.14.191:droppedbysmokeloader::
 200.55.90.228:Hajime::
 200.90.145.183:Mozi::
 200.93.13.188:Mozi::
@@ -5650,7 +5650,7 @@
 218.93.61.85:Hajime::
 218.94.241.192:Mozi::
 219.133.102.224:Mozi::
-219.133.103.198:NoTag:,ChinaNet_Guangdong_Province_Network,chinatelecom.com.cn:0
+219.133.103.198:NoTag:,ChinaNet_Gngdong_Province_Network,chinatelecom.com.cn:0
 219.133.65.173:Mozi::
 219.140.10.205:Mirai Mozi::
 219.140.26.92:Mirai Mozi::
@@ -5984,7 +5984,7 @@
 27.40.121.40:Mirai Mozi::
 27.40.122.166:Mirai Mozi::
 27.40.122.174:Mirai Mozi::
-27.40.123.84:NoTag:,China_Unicom_Guangdong_Province_Network,chinaunicom.com:0
+27.40.123.84:NoTag:,China_Unicom_Gngdong_Province_Network,chinaunicom.com:0
 27.40.73.100:Mirai Mozi::
 27.40.74.191:Mirai Mozi::
 27.40.74.231:Mirai Mozi::
@@ -6462,8 +6462,8 @@
 45.83.140.48:NoTag:Fixed_Line_ISP,LVNET_Ltd,lvnet.lv:0
 45.86.229.81:GuLoader RAT RemcosRAT::
 45.86.61.243:Mirai::
-45.87.153.112:dropped-by-PrivateLoader::
-45.9.74.6:dropped-by-PrivateLoader Redline RedLineStealer::
+45.87.153.112:droppedbyPrivateLoader::
+45.9.74.6:droppedbyPrivateLoader Redline RedLineStealer::
 45.90.161.73:Mirai::
 45.90.222.198:AsyncRAT::
 45.95.146.46:gafgyt Mirai::
@@ -6476,7 +6476,7 @@
 46.238.238.26:Hajime::
 46.3.113.223:Mirai::
 46.32.172.95:NoTag:Fixed_Line_ISP,Eurosel_LLC,eurosel.az:0
-47.87.169.120:ddos-bot Mirai::
+47.87.169.120:ddosbot Mirai::
 49.64.33.123:Hajime::
 49.64.6.47:Mirai Mozi::
 49.64.78.199:Hajime::
@@ -7355,7 +7355,7 @@
 60.216.59.151:Mozi::
 60.217.85.242:Mozi::
 60.22.55.242:Mozi::
-60.220.136.42:NoTag:Fixed_Line_ISP,Changzhi_Wxju_Dail_IP_Pool,adsl-pool.sx.cn:0
+60.220.136.42:NoTag:Fixed_Line_ISP,Changzhi_Wxju_Dail_IP_Pool,adslpool.sx.cn:0
 60.223.206.74:Mirai Mozi::
 60.24.73.84:Mirai Mozi::
 60.24.77.114:Mozi::
@@ -7885,8 +7885,8 @@
 75.119.146.125:Mirai::
 76.64.175.160:Mirai Mozi::
 76.95.200.219:Mozi::
-77.105.146.74:dropped-by-PrivateLoader Rhadamanthys::
-77.2.127.243:NoTag:Mobile_ISP,Telefonica_O2_Germany_GmbH__Co._OHG,o2.com:0
+77.105.146.74:droppedbyPrivateLoader Rhadamanthys::
+77.2.127.243:NoTag:Mobile_ISP,Telefonica_O2_Germany_GmbHCo._OHG,o2.com:0
 77.49.122.163:Hajime::
 77.51.71.221:Mirai Mozi::
 77.91.68.63:Amadey::
@@ -7949,9 +7949,9 @@
 83.48.169.210:Mirai Mozi::
 83.48.214.134:Mirai Mozi::
 83.97.73.129:Amadey RedLineStealer::
-83.97.73.130:Amadey dropped-by-PrivateLoader Redline RedLineStealer::
-83.97.73.131:Amadey dropped-by-PrivateLoader Redline RedLineStealer::
-83.97.73.134:Amadey dropped-by-PrivateLoader Redline RedLineStealer::
+83.97.73.130:Amadey droppedbyPrivateLoader Redline RedLineStealer::
+83.97.73.131:Amadey droppedbyPrivateLoader Redline RedLineStealer::
+83.97.73.134:Amadey droppedbyPrivateLoader Redline RedLineStealer::
 84.238.28.93:Mirai Mozi::
 84.53.229.196:Mozi::
 85.103.121.244:Mirai Mozi::
@@ -7983,7 +7983,7 @@
 89.185.85.117:NoTag:Data_Center_Web_Hosting_Transit,PermTelecom_Ltd,59telecom.ru:0
 89.208.107.176:recordbreaker::
 89.23.88.54:Mirai::
-89.23.96.203:Arechclient2 ArkeiStealer N-W0rm RedLineStealer Stealc::
+89.23.96.203:Arechclient2 ArkeiStealer NW0rm RedLineStealer Stealc::
 90.117.212.20:Mozi::
 90.84.234.68:Mozi::
 91.11.75.44:NoTag:,Deutsche_Telekom_AG,telekom.de:0
@@ -8011,9 +8011,9 @@
 95.132.95.173:Mozi::
 95.14.60.34:Mozi::
 95.14.60.75:Mozi::
-95.164.17.96:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,stark-industries.solutions:0
+95.164.17.96:NoTag:Data_Center_Web_Hosting_Transit,Stark_Industries_Solutions_Ltd.,starkindustries.solutions:0
 95.214.25.233:RedLineStealer::
-95.214.25.239:ArkeiStealer dropped-by-PrivateLoader Vidar::
+95.214.25.239:ArkeiStealer droppedbyPrivateLoader Vidar::
 95.214.25.241:Stealc::
 95.214.26.112:Mirai::
 95.214.27.160:Mirai sparc::
