@@ -1,10 +1,12 @@
 
+
 rule SUSP_SVG_JS_Payload_Mar25 {
    meta:
       description = "Detects a suspicious SVG file that contains a JavaScript payload. This rule is a generic rule that might generate false positives. A match should be further investigated."
       author = "Florian Roth"
       reference = "Internal Research"
       date = "2025-03-20"
+      modified = "2025-03-21"
       score = 60
       hash = "7b4b8e42d4df56412969cd1c38dcb750d21b10a54d257a9b918bd6ae0e0f8d11"
       hash = "4ae2ebc103f5de7ccfd75603b543d602b5c793e1ef7db19fbb60ff2e42611f75"
@@ -16,6 +18,7 @@ rule SUSP_SVG_JS_Payload_Mar25 {
       hash = "5b3d11109e0d10b9266cbfbb6906e728c4470d752f95769280666d1166df4b43"
       hash = "a7620155da2a576823dbe7963ff4a5f79702645edb8b2ae67b8af8ba7eac697b"
       hash = "52e1c6279dc151616bbd85ac7d0abc42cab5850deb6da2e2b20e339f79c3536a"
+      id = "cdb22283-8427-5c25-b653-d6d76dd27dc6"
    strings:
       $a1 = "<svg xmlns=" ascii fullword
 
@@ -25,7 +28,7 @@ rule SUSP_SVG_JS_Payload_Mar25 {
       $ss1 = "<script type=\"application/ecmascript\">"
       $ss2 = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\">"
    condition:
-      $a1 
+      $a1 in (0..1024)
       and (
          filesize < 100KB and 1 of ($sx*)
          or 
