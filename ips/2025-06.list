@@ -1,3 +1,4 @@
+1.70.16.95:censys_Hajime::
 1.94.116.218:censys_CobaltStrike::
 1.94.184.17:NoTag::
 1.94.243.114:censys_CobaltStrike::
@@ -17,6 +18,7 @@
 103.130.212.130:gafgyt_Mirai::
 103.130.213.161:Mirai::
 103.138.15.140:censys_Hajime::
+103.140.186.173:censys_CobaltStrike::
 103.149.252.251:Mirai::
 103.157.205.60:Mirai::
 103.164.18.164:censys_Hajime::
@@ -60,6 +62,7 @@
 109.248.144.230:hta_RemcosRAT::
 109.254.44.99:censys_Hajime::
 109.62.140.215:censys_Hajime::
+110.178.36.233:censys_Hajime::
 110.182.175.248:censys_Hajime::
 110.182.211.186:censys_Hajime::
 110.182.212.73:censys_Hajime::
@@ -104,6 +107,7 @@
 116.58.52.84:censys_Hajime::
 117.206.130.30:Backdoor_censys_sshdkit::
 117.206.97.214:Backdoor_censys_sshdkit::
+117.207.217.166:censys_Hajime::
 117.211.41.33:Backdoor_censys_sshdkit::
 117.211.44.62:Backdoor_censys_sshdkit::
 117.216.27.247:Backdoor_censys_sshdkit::
@@ -138,6 +142,7 @@
 119.91.130.241:censys_CobaltStrike::
 119.91.199.156:NoTag::
 119.91.203.199:censys_CobaltStrike::
+119.91.227.214:censys_CobaltStrike::
 119.91.58.97:NoTag::
 120.157.59.29:Backdoor_censys_sshdkit::
 120.157.71.168:Backdoor_censys_sshdkit::
@@ -186,6 +191,7 @@
 124.223.73.186:NoTag::
 124.235.107.9:censys_Hajime::
 124.70.53.158:censys_CobaltStrike::
+129.204.103.151:censys_CobaltStrike::
 129.204.146.115:censys_CobaltStrike::
 129.204.226.158:NoTag::
 129.204.24.135:censys_CobaltStrike::
@@ -213,6 +219,7 @@
 14.180.206.169:Backdoor_censys_sshdkit::
 14.184.241.238:Backdoor_censys_sshdkit::
 14.185.119.56:Backdoor_censys_sshdkit::
+14.185.76.155:Backdoor_censys_sshdkit::
 14.216.247.71:CoinMiner::
 14.227.18.88:Backdoor_censys_sshdkit::
 14.227.228.112:Backdoor_censys_sshdkit::
@@ -337,9 +344,11 @@
 176.65.149.32:censys_gafgyt::
 176.65.151.55:gafgyt_Mirai::
 176.79.34.92:Backdoor_censys_sshdkit::
+176.82.43.115:Backdoor_censys_sshdkit::
 176.93.7.243:Backdoor_censys_sshdkit::
 176.96.131.92:Mirai::
 178.160.15.108:Backdoor_censys_sshdkit::
+178.160.18.190:Backdoor_censys_sshdkit::
 178.160.19.155:Backdoor_censys_sshdkit::
 178.160.25.8:Backdoor_censys_sshdkit::
 178.160.26.0:Backdoor_censys_sshdkit::
@@ -391,9 +400,11 @@
 183.6.20.32:censys_CobaltStrike::
 183.81.20.58:Backdoor_censys_sshdkit::
 185.12.204.60:Mirai::
+185.121.15.233:Mirai::
 185.132.176.240:WsgiDAV::
 185.132.53.211:Mirai::
 185.137.233.114:NoTag::
+185.147.39.227:censys_CobaltStrike::
 185.156.72.61:Amadey_monitorauto::
 185.177.239.180:GuLoader::
 185.186.26.22:Mirai::
@@ -415,6 +426,7 @@
 186.169.48.180:vbs::
 189.239.72.107:CoinMiner::
 189.253.8.150:censys_Hajime::
+190.115.196.111:NoTag::
 190.13.246.49:censys_Hajime::
 190.196.244.51:censys_Hajime::
 191.101.130.244:StealeriumStealer::
@@ -428,6 +440,7 @@
 193.233.203.186:Mirai::
 193.233.203.60:NoTag::
 193.37.69.42:censys_CobaltStrike::
+193.37.69.43:censys_CobaltStrike::
 194.105.83.147:Mirai::
 194.233.71.169:NoTag::
 195.179.226.253:censys_CobaltStrike::
@@ -454,6 +467,7 @@
 198.135.51.243:Powershell::
 198.144.189.78:Mirai::
 198.23.133.145:Mirai::
+198.23.223.131:censys_CobaltStrike::
 198.46.142.197:NoTag::
 198.55.98.231:AgentTesla::
 198.55.98.29:AgentTesla::
@@ -481,6 +495,7 @@
 204.10.160.139:GuLoader_RAT_RemcosRAT::
 204.44.121.143:censys_CobaltStrike::
 205.185.124.206:gafgyt::
+207.188.149.173:censys_Hajime::
 208.89.63.13:FormBook::
 209.141.39.243:Mirai::
 209.141.48.58:Mirai::
@@ -512,7 +527,9 @@
 222.149.76.83:Backdoor_censys_sshdkit::
 222.246.32.142:censys_Hajime::
 222.78.52.249:CoinMiner::
+223.10.38.207:censys_Hajime::
 223.10.5.230:censys_Hajime::
+223.13.58.217:censys_Hajime::
 223.13.91.156:censys_Hajime::
 223.15.20.241:censys_Hajime::
 223.15.24.14:censys_Hajime::
@@ -536,6 +553,7 @@
 31.59.40.187:Mirai::
 31.8.127.57:censys_Hajime::
 34.228.158.65:NoTag::
+34.41.157.27:gafgyt::
 34.58.79.106:gafgyt_Mirai::
 34.59.59.232:gafgyt::
 34.70.31.122:gafgyt::
@@ -555,6 +573,7 @@
 37.229.231.241:NoTag::
 37.250.28.48:Backdoor_censys_sshdkit::
 37.49.228.176:Mirai::
+37.60.209.47:censys_Hajime::
 37.80.53.179:Backdoor_censys_sshdkit::
 37.80.71.230:Backdoor_censys_sshdkit::
 37.97.253.201:NoTag::
@@ -634,6 +653,7 @@
 46.124.120.26:Backdoor_censys_sshdkit::
 46.146.174.184:censys_Hajime::
 46.165.223.69:censys::
+46.172.79.212:censys_Hajime::
 46.173.160.15:censys_Hajime::
 46.202.178.12:Mirai::
 46.232.167.99:censys_Hajime::
@@ -664,6 +684,7 @@
 47.92.144.57:censys_CobaltStrike::
 47.92.213.214:censys_CobaltStrike::
 47.92.246.30:NoTag::
+47.92.34.168:censys_CobaltStrike::
 47.92.74.23:censys_CobaltStrike::
 47.95.31.143:censys_CobaltStrike::
 47.97.102.95:censys_CobaltStrike::
@@ -738,6 +759,7 @@
 64.126.168.161:censys_Hajime::
 64.126.174.207:censys_Hajime::
 64.183.60.197:censys_Hajime::
+65.20.102.50:WsgiDAV::
 65.21.56.214:Mirai::
 66.42.105.199:NoTag::
 66.63.187.164:Amadey_monitorauto::
@@ -753,19 +775,23 @@
 77.181.97.140:Backdoor_censys_sshdkit::
 77.189.240.72:Backdoor_censys_sshdkit::
 77.231.83.40:Meterpreter::
+77.34.172.9:censys_Hajime::
 77.50.71.143:censys_Hajime::
 77.50.89.105:censys_Hajime::
 78.157.28.30:censys_Hajime::
 78.157.28.75:censys_Hajime::
 78.157.28.8:censys_Hajime::
 78.51.143.205:Backdoor_censys_sshdkit::
+78.85.48.162:censys_Hajime::
 78.85.83.10:censys_Hajime::
 79.111.196.238:censys_Hajime::
 79.127.17.176:censys_Hajime::
 79.13.41.54:censys_Hajime::
 79.164.57.180:censys_Hajime::
+79.30.222.72:censys_Hajime::
 79.31.106.59:censys_Hajime::
 79.49.235.134:censys_Mirai::
+79.51.150.65:censys_Hajime::
 79.53.16.170:censys_Hajime::
 8.130.190.155:censys_CobaltStrike::
 8.138.47.245:censys_CobaltStrike::
@@ -789,8 +815,10 @@
 82.50.61.63:censys_Hajime::
 82.58.201.237:censys_Hajime::
 83.224.128.183:Backdoor_censys_sshdkit::
+83.224.128.30:Backdoor_censys_sshdkit::
 83.224.131.126:Backdoor_censys_sshdkit::
 83.224.131.136:Backdoor_censys_sshdkit::
+83.224.131.173:Backdoor_censys_sshdkit::
 83.224.132.109:Backdoor_censys_sshdkit::
 83.224.135.199:Backdoor_censys_sshdkit::
 83.224.140.136:Backdoor_censys_sshdkit::
@@ -833,6 +861,7 @@
 88.24.42.98:Backdoor_censys_sshdkit::
 88.31.67.126:Backdoor_censys_sshdkit::
 89.117.67.57:censys_Mirai::
+89.144.8.17:NoTag::
 89.187.28.238:Mirai::
 89.207.71.147:censys_Hajime::
 89.221.203.15:xmlopendir::
@@ -897,6 +926,7 @@
 93.123.118.21:NoTag::
 93.123.84.0:NoTag::
 93.130.139.210:Backdoor_censys_sshdkit::
+93.235.69.105:Backdoor_censys_sshdkit::
 94.231.117.196:censys_Hajime::
 94.44.137.254:Backdoor_censys_sshdkit::
 94.44.138.187:Backdoor_censys_sshdkit::
@@ -910,6 +940,7 @@
 95.111.242.255:vbs::
 95.127.230.229:Backdoor_censys_sshdkit::
 95.127.236.236:Backdoor_censys_sshdkit::
+95.127.237.145:Backdoor_censys_sshdkit::
 95.127.241.148:Backdoor_censys_sshdkit::
 95.239.109.121:censys_Hajime::
 95.250.180.225:censys_Hajime::
