@@ -12,3 +12,5 @@ These are the result of IOC extraction from my personal MISP instance using the 
 Yara rules are used from the sources listed below:
 1. Florian Roth Neo23x0 [signature-base repository](https://github.com/Neo23x0/signature-base)
 2. Yara-Rules [rules repository](https://github.com/Yara-Rules/rules)
+3. Malpedia [rules repository](https://github.com/malpedia/signator-rules)
+4. Elastic [rules repository](https://github.com/elastic/protections-artifacts)
