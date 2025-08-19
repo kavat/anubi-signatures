@@ -19,6 +19,7 @@
 17210453127.ip.linodeusercontent.com:AKAMAILINODEAP_AS63949censys_Havoc::
 17223397159.ip.linodeusercontent.com:AS63949censys_MYTHIC::
 1765810921.ip.linodeusercontent.com:AS63949censys_RAT::
+1851961010.cprapid.com:AS42624censys_Havoc_SWISSNETWORK02::
 198c05291ea6483a8a2e66d8df595657.server4.nisdably.com:_Glupteba_Query::
 1x0puwht74wwurxbd.izumisv1.cc:_Mirai::
 201906cm.nyash.es:DCRat_RAT::
@@ -31,6 +32,7 @@
 357129cm.nyash.es:DCRat_RAT::
 360news10.icu:RAT_triage_ValleyRAT::
 3vth7ovy61jx3rw81.izumisv1.cc:_Mirai::
+453971cm.nyash.es:DCRat_RAT::
 4foiqag7r50tqmfjf.izumisv1.cc:_Mirai::
 4kdownload.pro:Fake_Software_FakeApp::
 516063cm.nyash.es:NoTag::
@@ -54,7 +56,9 @@
 8ve3qsgxk7rs6.cfcexecute.bj.baidubce.com:CobaltStrike_drbra::
 90001a.lovestoblog.com:Encoded_VIPKeylogger::
 9ra2xnnm8v62x.cfcexecute.bj.baidubce.com:CobaltStrike_drbra::
+a.dev.drakeinternationalagency.com:reeqc_Vidar::
 a0931898.xsph.ru:DCRat_RAT::
+a1139089.xsph.ru:DCRat_RAT::
 a1155862.xsph.ru:DCRat_RAT::
 a1155962.xsph.ru:DCRat_RAT::
 a1155967.xsph.ru:DCRat_RAT::
@@ -68,8 +72,10 @@ abersuin.com:ClickFix_CoreSecThree::
 abilityvb.gl.at.ply.gg:15August2025_iocbottest::
 abundancia.kozow.com:_remcos::
 access.skaparade.com:NoTag::
+accountreached.gl.at.ply.gg:triage::
 acheminementmr.com:_Geofenced_MiraiUSA::
 achieverbreath.xyz:OffLoader::
+acm.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 acromrr.top:_lumma_Lumma_Stealer::
 act.windowsdriver.pro:RAT_remcos_triage::
 activitiesessays.gl.at.ply.gg:triage::
@@ -77,6 +83,7 @@ actwindow.duckdns.org:AsyncRAT_RAT_triage::
 acuttia.top:_lumma_Lumma_Stealer::
 adhymefcryqjfsg.com:_ramnit::
 admin.sashasolzhenicyn.ru:_lumma_scan::
+admiringnewton.865442217.plesk.page:AS42624censys_Havoc_SWISSNETWORK02::
 adobehelp.net:NoTag::
 adsleaf.gl.at.ply.gg:_DCRat::
 adultpurchased.gl.at.ply.gg:NoTag::
@@ -154,8 +161,11 @@ audit.fsia.net:FakeUpdates_socgholish::
 augustibm.gl.at.ply.gg:triage::
 australiaadditionally.gl.at.ply.gg:triage::
 authorpine.gl.at.ply.gg:triage::
+autoconfig.box.livrocentauros.cfd:AS25693censys_VIRMACH::
+autodiscover.box.livrocentauros.cfd:AS25693censys_VIRMACH::
 autodiscover.projectw.xyz:AS62904censys_Havoc::
 avamkwilson.com:AMOS::
+avatars.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 aws.micsoloft.info:AS63949censys::
 awtitipies.fasters.fun:CobaltStrike_drbra::
 axiabjj.com:_FormBook::
@@ -195,6 +205,7 @@ bmw320ikaka.co:screenconnect::
 bmyfriend.org:15August2025_iocbottest::
 bndjijjnyjowost.com:_ramnit::
 boatn1941.ddns.net:_Mirai::
+bodypopo.darrenofficial.com:_Mirai::
 bomdog.com:AMOS::
 bonzevud.com:ClickFix_CoreSecThree::
 bookingen.com:Fake_Software_FakeApp::
@@ -276,11 +287,13 @@ celnjqtqkgxsccabmj.com:_ramnit::
 centeerything.gl.at.ply.gg:15August2025_iocbottest::
 centermpeg.gl.at.ply.gg:AsyncRAT_RAT_triage::
 ceramicparishotel.com:Pony::
+certificado.vouserpai.com.br:Latrodectus::
 cf46796.tw1.ru:DCRat_RAT::
 cgwiain.com:_ramnit::
 chaikuo.com:_FormBook::
 channelexpectations.gl.at.ply.gg:triage::
 chaparstore.com:_Mirai::
+charlie.yourwebsitedemos.com:Latrodectus::
 checkfivem.com:NoTag::
 chmsts.duckdns.org:15August2025_iocbottest::
 choicecorighted.gl.at.ply.gg:6August2025_iocbottest::
@@ -296,10 +309,12 @@ client.hosthlior.com:CobaltStrike_drbra::
 clients.lamusicana.com:FakeUpdates_socgholish::
 closeddoors.shop:NoTag::
 clotmh.top:_lumma_Lumma_Stealer::
+cloud.defenderblt.com:CobaltStrike_drbra::
 clubargue.gl.at.ply.gg:triage::
 cm41241.tw1.ru:DCRat_RAT::
 cnc..agency:15August2025_iocbottest::
 cnc.kalonarkks.tk:15August2025_iocbottest::
+cnc.zinomc.com:_Mirai::
 cnm.mom:CobaltStrike_drbra::
 cnnetwork.uk:_Geofenced_MiraiUSA::
 cocacolabrandy.net:SmartApeSG::
@@ -326,6 +341,7 @@ couriontesy.com:AMOS::
 courseadmission.gl.at.ply.gg:triage::
 coverdealsforfood.icu:simplehelp::
 cpanel.365axissolution.com:FakeUpdates_socgholish::
+cpanel.northtru.net:socgholish::
 crapenral116.teresinacidade.sbs:Astaroth_guildma::
 creacn.com:_FormBook::
 creaprj.top:_lumma_Lumma_Stealer::
@@ -340,10 +356,13 @@ cs.ivyx.team:CobaltStrike_drbra::
 cs.xfdaili.com:CobaltStrike::
 csgenerationwin.com:CobaltStrike_drbra::
 csharpier.at:15August2025_iocbottest::
+cu08926.tw1.ru:DCRat_RAT::
 cugxojvumi.com:_ramnit::
+cukurukuk.fun:AS135444censys_Havoc_IDNICIKUBARUASID::
 cunruivalve.com:AMOS::
 cuproomymis.top:6August2025_iocbottest::
 curiouvsmind.tech:6August2025_iocbottest::
+customercheats.gl.at.ply.gg:Qsar_RAT_triage::
 cv34454.tw1.ru:DCRat_RAT::
 cv88767.tw1.ru:DCRat_RAT::
 cvawrs.duckdns.org:15August2025_iocbottest::
@@ -396,6 +415,7 @@ devilpsndarkcomet.noip.biz:15August2025_iocbottest::
 dfe03de95d5d4ecc942314b8f289583d.server1.nisdably.com:_Glupteba_Query::
 dfe03de95d5d4ecc942314b8f289583d.server4.nisdably.com:_Glupteba_Query::
 dfgdfgivetender.com:_FormBook::
+dimijrw.top:lumma::
 discussionannouncement.gl.at.ply.gg:::
 dishoti.top:_lumma_Lumma_Stealer::
 divqtwp.top:_lumma_Lumma_Stealer::
@@ -477,11 +497,14 @@ enterpriseconfirm.gl.at.ply.gg:NoTag::
 entrepreneurstop.top:6August2025_iocbottest::
 enviodiomdes.kozow.com:15August2025_iocbottest::
 epidebg.top:_lumma_Lumma_Stealer::
+epidmov.top:lumma::
+epifonica.com:Latrodectus::
 epointbd.xyz:_FormBook::
 epwbonwkmcvjunodvf.com:_ramnit::
 epwnqeghafyocr.com:_ramnit::
 equestrianlimousine.com:_FormBook::
 erikobi.com:AMOS_AmosStealer_macOS::
+escoladeimpressao3d.com.br:Latrodectus::
 esetblack.xyz:NoTag::
 estanicci.com:AMOS::
 eteryum.xyz:_Mirai::
@@ -492,8 +515,10 @@ event.wetlandsqre.com:_Mirai::
 evolxbnmxnighbhpbw.com:_ramnit::
 evoribusiness.com:_Mirai::
 ex9.cc:AS132203censys::
+example.com:NoTag::
 excalcf.top:_lumma_Lumma_Stealer::
 exjijcjhjlatkplnfol.com:_ramnit::
+expresssafetyinc.com:Latrodectus::
 extranetmessage.com:booking_booking.com_ClickFix_FakeCaptcha::
 ezlolsrealisgood64048.portmap.host:::
 f1155683.xsph.ru:DCRat_RAT::
@@ -712,16 +737,19 @@ ia803206.us.archive.org:stego::
 ia903206.us.archive.org:NoTag::
 iavfuykg.com:_ramnit::
 ichmidt.com:Kongtuke_LandUpdate808::
+id.rootvk.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 id4561.zapto.org:15August2025_iocbottest::
 idealista.propertiescaptcha.com:booking_booking.com_ClickFix_FakeCaptcha::
 idioticgoodev.top:6August2025_iocbottest::
 idk.daga.house:15August2025_iocbottest::
 iedttkfpokhgfclsk.com:_ramnit::
+iesorts.gl.at.ply.gg:Qsar_RAT_triage::
 iewyoon.com:AMOS::
 ijwjkcdpbueqq.com:_ramnit::
 ijxgwfuxvgoks.com:_ramnit::
 ilamaxmi.beer:_lumma_triage::
 img.cdn.plex.name:reeqc_Vidar::
+imgs2.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 imsara.dynu.net:15August2025_iocbottest::
 imuqnrtccpissbmefte.com:_ramnit::
 in.softlinko.com:5%563_Vidar::
@@ -737,6 +765,7 @@ inswti.top:15August2025_iocbottest::
 inverterpos.duckdns.org:RAT_remcos_triage::
 investplace.info:6August2025_iocbottest::
 inveuy.top:_lumma_Lumma_Stealer::
+inwww.com:Fake_Software_FakeApp::
 iotmirai.duckdns.org:15August2025_iocbottest::
 irgpjqkcojxabjs.com:_ramnit::
 irulbexujsaskp.com:_ramnit::
@@ -744,6 +773,7 @@ irypcm.com:_ramnit::
 isiore.com.co:NoTag::
 islandsmyanmar.gl.at.ply.gg:15August2025_iocbottest::
 isportdata.com:_FormBook::
+iswww.com:Fake_Software_FakeApp::
 isxvhiqqlflxicdno.com:_ramnit::
 itemexpense.gl.at.ply.gg:15August2025_iocbottest::
 itemsana.gl.at.ply.gg:NoTag::
@@ -789,6 +819,7 @@ july321.duckdns.org:RAT_remcos_triage::
 justabunchofbs.com:_FormBook::
 jztdd.itsmus1.comodo.com:NoTag::
 kakarik32070.portmap.host:15August2025_iocbottest::
+kalilinujikoll37508.portmap.host:Qsar_RAT_triage::
 kallichox22.duckdns.org:AsyncRAT_RAT_triage::
 kangiq.top:_lumma_triage::
 kariyerbak.com:AMOS::
@@ -796,6 +827,7 @@ kasi.infinityfreeapp.com:Encoded_RAT_RemcosRAT::
 kazinodengi.top:Qkbot_xmlopendir::
 kbchmynenfcuktfxa.com:_ramnit::
 kcverse.com:_FormBook::
+kecfcnyn28082.portmap.host:Qsar_RAT_triage::
 kecfcnyn29266.portmap.host:Qsar_RAT_triage::
 kegnvjtiowifoavcb.com:_ramnit::
 kenyafu.top:_lumma_Lumma_Stealer::
@@ -820,6 +852,7 @@ kurlonhyderabad.com:_FormBook::
 kuynfgdasync.duckdns.org:6August2025_iocbottest::
 kwqfxbogu.com:_ramnit::
 kxusdydywsppkdtlxws.com:_ramnit::
+l5ewog1zc.localto.net:NjRAT_triage::
 l86.wpherc.dev:AS63949censys_RAT::
 laceyanns.com:LandUpdate808::
 landdies.gl.at.ply.gg:OFFICE04::
@@ -840,6 +873,7 @@ liamderneger.zapto.org:15August2025_iocbottest::
 liangpao8541.top:RAT_triage_ValleyRAT::
 ligmfbx.top:_lumma_triage::
 linckonly.com:ClickFix_SmartApeSG::
+linesclothes.gl.at.ply.gg:triage::
 linexb.top:_lumma_Lumma_Stealer::
 lingzvl.top:_lumma_Lumma_Stealer::
 link.emcdn.ru:NoTag::
@@ -866,6 +900,7 @@ luntpi.xin:_lumma_triage::
 lupxmvb.club:6August2025_iocbottest::
 luxurylifestop.top:6August2025_iocbottest::
 lwrrvrebt.com:_ramnit::
+lwtgiajga.localto.net:NjRAT_triage::
 m.allianzcourtage.co:AS401116censys_Ermac_NYBULA_Panel::
 m2th3k.top:CobaltStrike_drbra::
 m3afiza7lou9.noip.org:6August2025_iocbottest::
@@ -922,6 +957,7 @@ mmfahqrmftuu.com:_ramnit::
 mncxzswedf.lovestoblog.com:NoTag::
 mnnbfmkccrlacrpi.com:_ramnit::
 mobiportal.at:15August2025_iocbottest::
+moe.livesync.hyghbyte.com:_Mirai::
 monstr.ddns.net:triage::
 mortebin.duckdns.org:15August2025_iocbottest::
 mortefour.duckdns.org:15August2025_iocbottest::
@@ -1009,6 +1045,7 @@ omertaza.beer:_lumma_triage::
 omfg123.zapto.org:15August2025_iocbottest::
 on.borneointernusa.com:NoTag::
 opbrghost23030.portmap.host:Qsar_RAT_triage::
+openapi.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 openedhouses.shop:NoTag::
 openheartljiving.tech:6August2025_iocbottest::
 opentyler.gl.at.ply.gg:triage::
@@ -1045,6 +1082,7 @@ paulushook.net:_NetSupport_RAT::
 pavlovski3.temp.swtest.ru:DCRat_RAT::
 pawzstore.xyz:_FormBook::
 pbbvkscdfqmx.com:_ramnit::
+pbj.cukurukuk.fun:AS135444censys_Havoc_IDNICIKUBARUASID::
 pchlbfwusr.com:_ramnit::
 pcx.polarissonic.biz.id:reeqc_Vidar::
 peerr.com:Pony::
@@ -1065,6 +1103,7 @@ physscq.top:_lumma_Lumma_Stealer::
 picaqhesd.com:_ramnit::
 pictuqyr.qpon:15August2025_iocbottest::
 pikipika.cn:Latrodectus::
+pim.legrand.pl:Latrodectus::
 piptpa.top:NoTag::
 pixeldrain.com:NoTag::
 pkfrnnsvab.com:_ramnit::
@@ -1079,6 +1118,7 @@ plumbersincali.com:_FormBook::
 pnraku.top:ConnectWise_screenconnect::
 po.rcwade.com:simplehelp::
 polsenia.com:ClickFix_CoreSecThree::
+popkruger.gl.at.ply.gg:Qsar_RAT_triage::
 prepinhenfer.belemcidade.sbs:Astaroth_guildma::
 prepintal.campinascidade.sbs:Astaroth_guildma::
 prince123.noip.biz:_CyberGateRAT_triage::
@@ -1201,12 +1241,14 @@ salebrings.gl.at.ply.gg:_Qsar::
 salpdf.duckdns.org:AsyncRAT_RAT_triage::
 santoos63758.portmap.host:_remcos::
 satisfactory.andresodev.com:_Mirai::
+satybsa.duckdns.org:AsyncRAT_RAT_triage::
 savaswsd.duckdns.org:15August2025_iocbottest::
 sazwebapiprod.allianzcourtage.co:AS401116censys_Ermac_NYBULA_Panel::
 sbd.haongmaidong.com:_Mirai::
 sbd.hoangmaidong.com:_Geofenced_MiraiUSA::
 scaleturn.xyz:OffLoader::
 scan.fdstat.vip:_Geofenced_MiraiUSA::
+scanwellhaulage.com:ConnectWise::
 schedulepci.gl.at.ply.gg:triage::
 schooleveryday.gl.at.ply.gg:_Mirai::
 sci.micsoloft.info:AS63949censys::
@@ -1301,8 +1343,10 @@ skibidi.minecraft.party:15August2025_iocbottest::
 skidlol.pe.kr:15August2025_iocbottest::
 skitvhg.top:_lumma_Lumma_Stealer::
 skunku.top:_lumma_Lumma_Stealer::
+sliv.ogzhenren.com:CobaltStrike_drbra::
 slkfbshuoru.com:_ramnit::
 slvbx0pkq.localto.net:AsyncRAT_RAT_triage::
+smarttecho.net:Latrodectus::
 smockle.top:NoTag::
 smoke.infinityfree.me:NoTag::
 smokinghot.net:ClickFix_SmartApeSG::
@@ -1337,6 +1381,7 @@ stabander.portoalegrecidade.sbs:Astaroth_guildma::
 stacindor.maceiocidadde.sbs:Astaroth_guildma::
 stageedinburgh.gl.at.ply.gg:triage::
 standardseas.gl.at.ply.gg:triage::
+startedknives.gl.at.ply.gg:triage::
 starvoluntary.gl.at.ply.gg:NanoCore_RAT_triage::
 stat.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 static.140.144.161.5.clients.yourserver.de:AS213230censys_Havoc_HETZNERCLOUD2AS::
@@ -1379,6 +1424,7 @@ system63.linkpc.net:15August2025_iocbottest::
 szwanglou.com:_FormBook::
 szx.duckdns.org:15August2025_iocbottest::
 szx.duckdns.org:_Mirai::
+t.dev.drakeinternationalagency.com:reeqc_Vidar::
 t.me:lumma::
 t.night.my.id:_Mirai::
 tagawoh.top:_lumma_Lumma_Stealer::
@@ -1395,6 +1441,7 @@ telamtykina.live:Amadey::
 telemetrywatson.live:Amadey::
 temopix.com:ClickFix_CoreSecThree::
 templfuw.my:_lumma::
+terang.duckdns.org:RAT_remcos_triage::
 terbibfx.top:_lumma_Lumma_Stealer::
 termdimension.gl.at.ply.gg:6August2025_iocbottest::
 test.woet.ipddns.com:CobaltStrike_drbra::
@@ -1424,6 +1471,7 @@ toothpastename.xyz:NoTag::
 top.lacarwashjo.waw.pl:15August2025_iocbottest::
 topfwz1.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 topofnm.lat:_lumma_Lumma_Stealer::
+totalpropertycare.ae:Latrodectus::
 toxwebapp.ru:_Stealc_triage::
 tp.api.plex.name:reeqc_Vidar::
 tpc.cloudpub.ru:6August2025_iocbottest::
@@ -1431,6 +1479,7 @@ trabajo2025.lovestoblog.com:AsyncRAT_Encoded_RAT::
 track.dgeneratr.com:Pony::
 trackopbr2.ddns.net:Qsar_RAT_triage::
 transferprotocolforsharingfiles.cloud:stego::
+trendmnicro.qzz.io:CobaltStrike_drbra::
 trmm.space:APT_APT36_TransparentTribe::
 truroncol1.maceiocidadde.sbs:Astaroth_guildma::
 trust.scriptobject.com:socgholish::
@@ -1445,6 +1494,7 @@ twcdgtvl.com:_ramnit::
 twdesignacreation.com:_FormBook::
 twilightobs.today:15August2025_iocbottest::
 ty.softlinko.com:5%563_Vidar::
+type.plex.name:reeqc_Vidar::
 typemodules.gl.at.ply.gg:triage::
 u9b.top:ConnectWise_screenconnect::
 udauindm.com:_ramnit::
@@ -1453,6 +1503,7 @@ ujyprlpoxwwshj.com:_ramnit::
 ukpamxcqknbrwtxeon.com:_ramnit::
 ukrposhttem.top:_lumma_triage::
 ulgdnhsejsmcottuod.com:_ramnit::
+ulkum.duckdns.org:AsyncRAT_RAT_triage::
 umar33myddns.rocks:6August2025_iocbottest::
 umwwjriucoa.com:_ramnit::
 understandvip.gl.at.ply.gg:Qsar_RAT_triage::
@@ -1462,6 +1513,7 @@ unsuxvxb.qpon:lumma::
 untgxlb.top:_lumma_Lumma_Stealer::
 uoctajwdjlqltbf.com:_ramnit::
 up.cpreffi.xyz:Pony::
+up.driversbp.com:Qsar_RAT_triage::
 up.qp.payoopoint.lk:reeqc_Vidar::
 updatehostone.top:NoTag::
 updatemicfosoft.com:_Storm2603::
@@ -1643,6 +1695,7 @@ www.dazi.info:_FormBook::
 www.decesi.top:_FormBook::
 www.dfgdfgivetender.com:_FormBook::
 www.dfhhja.shop:_FormBook::
+www.diuwdx.top:CobaltStrike_drbra::
 www.dmepharmacy.com:_FormBook::
 www.downloadservers.com:Pony::
 www.dropbox.com:NoTag::
@@ -1703,10 +1756,13 @@ www.icstaking.vip:_FormBook::
 www.igdesondaj.xyz:_FormBook::
 www.ightspotin.shop:_FormBook::
 www.ijnbedrijfskleding.shop:_FormBook::
+www.imaxhost.com:Latrodectus::
 www.imercyaye.xyz:_FormBook::
+www.inwww.com:Fake_Software_FakeApp::
 www.ipralex.xyz:_FormBook::
 www.irstcarepartners.net:_FormBook::
 www.isportdata.com:_FormBook::
+www.iswww.com:Fake_Software_FakeApp::
 www.jangbet.xyz:_FormBook::
 www.jaqeba.com:_FormBook::
 www.jeanmarielafon.com:_FormBook::
@@ -1767,6 +1823,7 @@ www.owfihjdad.shop:_FormBook::
 www.oyukj.top:_FormBook::
 www.pacecapsulehouse.net:_FormBook::
 www.pawzstore.xyz:_FormBook::
+www.phulocnhat2005.duckdns.org:Mirai::
 www.picmovies.sbs:_FormBook::
 www.plantestine.com:_FormBook::
 www.plumbersincali.com:_FormBook::
@@ -1819,6 +1876,7 @@ www.us82.top:_FormBook::
 www.utfinpost.xyz:_FormBook::
 www.vastkupan.com:PureLogs::
 www.vcdc.net:_FormBook::
+www.verdeta.it:Latrodectus::
 www.vortexcrystal.com:_FormBook::
 www.vovegas330.xyz:_FormBook::
 www.vpsx64.duckdns.org:_Mirai::
@@ -1886,6 +1944,8 @@ yacineoffice.com:6August2025_iocbottest::
 yamakrug.ru:lumma::
 ydobniudivan.ru:lumma::
 ydviihefckogxwqhrla.com:_ramnit::
+yehnsops.duckdns.org:AsyncRAT_RAT_triage::
+yehsnop.duckdns.org:AsyncRAT_RAT_triage::
 yelwnmiuvoqhqi.com:_ramnit::
 yetformat.gl.at.ply.gg:triage::
 ygisojwewdsirmo.com:_ramnit::
