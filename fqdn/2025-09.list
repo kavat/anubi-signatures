@@ -16,6 +16,7 @@
 1m.526r.ru:ClearFake::
 1password.pro:Fake_Software_FakeApp::
 2024.123hack.us:RAT_remcos_triage::
+211.ip.gl.ply.gg:Snote_triage::
 2152761d.langcdn.top:AROSSAS_AS400619censys::
 223.ip.gl.ply.gg:triage::
 231548050.cprapid.com:_Mozi::
@@ -49,6 +50,7 @@
 7m.van1.ru:ClearFake::
 868id.com:_GhostRedirector::
 881vn.com:_GhostRedirector::
+8msv123655.portmap.host:Qsar_RAT_triage::
 8scom.link:NjRAT_triage::
 9.9.jami.bio:Vidar::
 9.v9542.ru:ClearFake::
@@ -57,7 +59,9 @@
 a.dasurie36.ru:ClearFake::
 a.fag5.ru:ClearFake::
 a.l9a5.ru:ClearFake::
+a.n5m4t.ru:ClearFake::
 a.tem5.ru:ClearFake::
+a1.246b.ru:ClearFake::
 a1.k26i.ru:ClearFake::
 a1.l4nggeng.my.id:::
 a1113081.xsph.ru:_DCRat_scan::
@@ -78,13 +82,16 @@ a1163876.xsph.ru:DCRat_RAT::
 a1164019.xsph.ru:DCRat_RAT::
 a1165341.xsph.ru:DCRat_RAT::
 a1165370.xsph.ru:DCRat_RAT::
+a1165381.xsph.ru:DCRat_RAT::
 a1166255.xsph.ru:DCRat_RAT::
 a1167258.xsph.ru:DCRat_RAT::
 a1167812.xsph.ru:DCRat_RAT::
 a1168056.xsph.ru:DCRat_RAT::
 a1168763.xsph.ru:DCRat_RAT::
+a1168949.xsph.ru:DCRat_RAT::
 a1t.myga3.ru:ClearFake::
 a1x.81dm.ru:ClearFake::
+a2.6b96.ru:ClearFake::
 a21e50d5b00348bbb60ea938488857c3.server4.nisdably.com:_Glupteba_Query::
 a6.nbdsnb2.top:FatalRAT_RAT_triage::
 a9m.wuk0.ru:ClearFake::
@@ -143,6 +150,7 @@ air.gesybue11.ru:ClearFake::
 air.kokiu43.ru:ClearFake::
 airportnavigation.gl.at.ply.gg:13September2025_iocbottest::
 ajk.vekoloe8.ru:ClearFake::
+ak.g7r7s.ru:ClearFake::
 akgang.pro:_Mirai_morte_stopmalwareservice::
 al.f8t6m.ru:ClearFake::
 al.l9a5.ru:ClearFake::
@@ -180,6 +188,8 @@ andrewandre428.ddns.net:17September2025_iocbottest::
 anonam3921749.portmap.io:Qsar_RAT_triage::
 antiaix.qpon:lumma::
 anticlk.qpon:lumma::
+anticybercrime.net:NoTag::
+antonchehov.su:NoTag::
 anumalplanet.at:13September2025_iocbottest::
 anydeesk.ink:ClickFix_filefix_windows::
 anythingcanbethissub.chat1.store:metastealer::
@@ -240,14 +250,17 @@ averiryvx.su:lumma::
 aw.g6i2.ru:ClearFake::
 aw.s7z7r.ru:ClearFake::
 awxy.vekoloe8.ru:ClearFake::
+ax.r3l1x.ru:ClearFake::
 ax.s3i1.ru:ClearFake::
 az.b8a2.ru:ClearFake::
 azurebrief.gleeze.com:13September2025_iocbottest::
+b.4dl.icu:ClearFake::
 b.g3w2p.ru:ClearFake::
 b.h8y0.ru:ClearFake::
 b.t408.ru:ClearFake::
 b.wnkc.ru:ClearFake::
 b3.qeh5.ru:ClearFake::
+b9c.340k.ru:ClearFake::
 b9c.m074.ru:ClearFake::
 ba.d3g7t.ru:ClearFake::
 backfvb.bet:lumma::
@@ -288,7 +301,9 @@ best.jibiw8aa5.ru:ClearFake::
 best.zyrupoe.ru:ClearFake::
 bet.kokiu43.ru:ClearFake::
 bf.d1a8.ru:ClearFake::
+bf.d42n.ru:ClearFake::
 bfvfusfo.me:ConnectWise_screenconnect::
+bg.f05t.ru:ClearFake::
 bg.f8t6m.ru:ClearFake::
 bg.t4c5d.ru:ClearFake::
 bgzlive.top:ConnectWise_screenconnect::
@@ -299,6 +314,7 @@ bi.f0z1n.ru:ClearFake::
 bi.w9a5.ru:ClearFake::
 bighaj.de:::
 bigpappa.duckdns.org:RAT_remcos_triage::
+bilibili.osfc.org.cn:Mirai::
 bindpagos.org:_Mirai::
 bitbucket.org:Encoded::
 bj.m7e4.ru:ClearFake::
@@ -319,6 +335,7 @@ bn.g6i2.ru:ClearFake::
 bn.vihuqau.ru:ClearFake::
 bo.gunim5yi8.ru:ClearFake::
 bo.h8y0.ru:ClearFake::
+bo.k25q.ru:ClearFake::
 bobo101.hopto.org:13September2025_iocbottest::
 boekportretnl.gt.tc:Encoded_FormBook::
 boldchandrasekhar.134199166195.plesk.page:AS14061censys_DIGITALOCEANASN_MYTHIC::
@@ -411,6 +428,7 @@ cdektrak.icu:NoTag::
 cdh.lypelya2.ru:ClearFake::
 cdn.discordapp.com:AsyncRAT_RAT_loader::
 cdn.hyrule.pics:RustyStealer::
+cdn.mailinfo.life:CobaltStrike_drbra::
 cdn.zhuqiy.top:CobaltStrike::
 cdn1.anondns.net:Mozi::
 centerkate.gl.at.ply.gg:13September2025_iocbottest::
@@ -423,6 +441,8 @@ changemyseat.com:NoTag::
 chat.pgcountyliving.com:socgholish::
 cheyipiao.hello4am.com:AS45090censys::
 chhd.luwotaa1.ru:ClearFake::
+chillorbackup.noip.org:_CyberGateRAT_triage::
+chillornet.noip.org:_CyberGateRAT_triage::
 chimxik.shop:lumma::
 chirkqa.shop:lumma::
 choosepixel.gl.at.ply.gg:triage::
@@ -436,6 +456,7 @@ clajal.vendendosonhos.yachts:Astaroth_guildma::
 clebonvinsar.prendaminha.help:Astaroth_guildma::
 clgnymc.org:NoTag::
 clickconstraints.gl.at.ply.gg:triage::
+clickfigured.gl.at.ply.gg:Snote_triage::
 clickstime.pro:Fake_Software_FakeApp::
 client.defenderblt.com:CobaltStrike_drbra::
 clks.sweatscissors.com:_Mirai::
@@ -449,6 +470,7 @@ cloudniche.duckdns.org:AgentTesla::
 clq.hifeboi3.ru:ClearFake::
 club.nugawye78.ru:ClearFake::
 club.pornclubnight.com:AS9009censys_Havoc_M247::
+cm0.759s.ru:ClearFake::
 cm0.s57o.ru:ClearFake::
 cm31471.tw1.ru:DCRat_RAT::
 cmqsqomiwwksmcsw.xyz:NoTag::
@@ -517,10 +539,12 @@ cyberv10getcyber.live:CyberStealer::
 cyberwashere.isalawyer.com:AsyncRAT::
 cz77268.tw1.ru:DCRat_RAT::
 czvum848438102.a.free.pinggy.link:::
+d.9n75.ru:ClearFake::
 d.r274.ru:ClearFake::
 d.tbkh.ru:ClearFake::
 d.x05.ru:ClearFake::
 d.xyc0.ru:ClearFake::
+d1.465w.ru:ClearFake::
 d1.h934.ru:ClearFake::
 d1.v51o.ru:ClearFake::
 d2.cup7.ru:ClearFake::
@@ -539,6 +563,7 @@ day.sacyzie58.ru:ClearFake::
 day.syguu85.ru:ClearFake::
 day.tydubyo66.ru:ClearFake::
 daysannounce.gl.at.ply.gg:triage::
+db.f05t.ru:ClearFake::
 db.vm.masterclasstonewow.com:r4_46_Vidar::
 dbcoo.ddns.net:NjRAT_triage::
 dc.burydyu0.ru:ClearFake::
@@ -561,6 +586,7 @@ democracyansweringcustomacid.trycloudflare.com:NoTag::
 denimmi.qpon:lumma::
 deo.ydns.eu:RAT_remcos_triage::
 descroej.su:_lumma_triage::
+designrepresented.gl.at.ply.gg:Snote_triage::
 despisedmny.store:_lumma_triage::
 detachs.qpon:lumma::
 devx.nm.ru:13September2025_iocbottest::
@@ -609,6 +635,7 @@ dollarman102.duckdns.org:13September2025_iocbottest::
 doneindians.gl.at.ply.gg:13September2025_iocbottest::
 doublemanfs.com:AgentTesla_GuLoader::
 download.pdfatlizacao.online:ConnectWise::
+doxxingservices.shop:_Mirai::
 dpaste.com:loader_Encoded::
 dpaste.org:loader::
 dpi.amajed.com:op74rh_Vidar::
@@ -643,6 +670,7 @@ dwo.pejy1.ru:ClearFake::
 dwssa.top:ConnectWise_ScreenConnct::
 dyarkaka.noip.biz:13September2025_iocbottest::
 e.b340.ru:ClearFake::
+e.g0s1f.ru:ClearFake::
 e.hap7.ru:ClearFake::
 e.kilut4ou8.ru:ClearFake::
 e.s3i1.ru:ClearFake::
@@ -681,6 +709,7 @@ em8li.shop:CobaltStrike_drbra::
 email.directoryindustry.com:FakeUpdates_socgholish::
 emballeplus.com:NetSupport::
 enfee.asia:lumma::
+enjoysilent.gl.at.ply.gg:triage::
 enterdayton.gl.at.ply.gg:triage::
 enthrqe.bet:lumma::
 envio08.duckdns.org:17September2025_iocbottest::
@@ -688,6 +717,7 @@ envio1009.duckdns.org:17September2025_iocbottest::
 envio1111.duckdns.org:AsyncRAT_RAT_triage::
 enyxma.diegosr.es:AS13335censys_CLOUDFLARENET_MYTHIC::
 eotoatotlasldkd.com:ClickFix::
+er.k25q.ru:ClearFake::
 erfffxz.bounceme.net:_Mirai::
 erq.vuzojiu9.ru:ClearFake::
 esf.kufapoi3.ru:ClearFake::
@@ -698,6 +728,7 @@ evaultbuzzfix.com:triage::
 evelynnrank1.duckdns.org:_censys_Mirai::
 eventdelegationhq.com:TA2727::
 events.api.o365drivesupport.com:_Mirai::
+everrx.gl.at.ply.gg:triage::
 everyday2gether.info:SmartApeSG::
 ewg.jujosuu4.ru:ClearFake::
 excesso.qpon:_lumma_triage::
@@ -747,6 +778,7 @@ fishshake.gl.at.ply.gg:17September2025_iocbottest::
 fissiklo.shop:lumma::
 fj.wofelee.ru:ClearFake::
 fj.xijoxou.ru:ClearFake::
+fl.h73n.ru:ClearFake::
 flac.fozomya6.ru:ClearFake::
 fladiw.asia:lumma::
 flagump.top:13September2025_iocbottest::
@@ -764,6 +796,7 @@ forums.lolapps.com:_Pony::
 forumsobjectives.gl.at.ply.gg:::
 foundationfoer.com:SmartApeSG::
 fpqr.voxuzeo8.ru:ClearFake::
+fr.d42n.ru:ClearFake::
 fralunlhar.analistadoido.cyou:Astaroth_guildma::
 freaks.icu:13September2025_iocbottest::
 free.homohay31.ru:ClearFake::
@@ -859,12 +892,14 @@ gx.laqygye.ru:ClearFake::
 gxy.voxuzeo8.ru:ClearFake::
 gyr.velyzeu3.ru:ClearFake::
 gz.w30g.ru:ClearFake::
+h.2p62.ru:ClearFake::
 h.b8a2.ru:ClearFake::
 h.g3w2p.ru:ClearFake::
 h.pejy1.ru:ClearFake::
 h.z72.ru:ClearFake::
 h1.802d.ru:ClearFake::
 h1.byq3.ru:ClearFake::
+h1.plaxe.sa.com:PDQConnect_rmmtool::
 h1.zik9.ru:ClearFake::
 h1asoplooproe.com:Latrodectus::
 h3x.pro:_Mirai::
@@ -910,6 +945,7 @@ hl.naberui.ru:ClearFake::
 hlc.sewumoa.ru:ClearFake::
 hmn.voxuzeo8.ru:ClearFake::
 hmno.somipaa9.ru:ClearFake::
+hmvr4u61p.localto.net:triage::
 hn.kujywii.ru:ClearFake::
 ho.11.duitmasyuk.asia:r4_46_Vidar::
 holidaysdiarysomevancouver.trycloudflare.com:NoTag::
@@ -918,13 +954,17 @@ home.wofaraa29.ru:ClearFake::
 homemdks.top:13September2025_iocbottest::
 hoobow.asia:lumma::
 hope.cewyzui61.ru:ClearFake::
+host0.tikmaps.com:AS49870_AS49870BV_AsyncRATcensys_RAT::
+host4.thebookcult.com:AS49870_AS49870BV_AsyncRATcensys_RAT::
 hostingcloud.racing:CoinMiner_js_obfuscated::
 hostphpwindowsapp.duckdns.org:AsyncRAT_Encoded_RAT_loader::
 hostphpwindowsdriversapp.ydns.eu:AsyncRAT_Encoded_loader::
 hoursscientific.gl.at.ply.gg:triage::
 houshan.shop:lumma::
 howtianxxx.xo.je:Encoded_FormBook::
+hp.f42s.ru:ClearFake::
 hpqr.qafyi0.ru:ClearFake::
+hq.m33h.ru:ClearFake::
 hqo.pewi2ee5.ru:ClearFake::
 hs.fypufea.ru:ClearFake::
 hs.tyjyxie.ru:ClearFake::
@@ -963,6 +1003,7 @@ iloveanimals.shop:NoTag::
 images.indianadforum.com:FakeUpdates_socgholish::
 img.s3.masterclasstonewow.com:r4_46_Vidar::
 in.boku0.ru:ClearFake::
+in.ditchibuprofen.com:ClearFake::
 in.gw.hypersend.my:r4_46_Vidar::
 in.qute3.ru:ClearFake::
 incglasgow.gl.at.ply.gg:triage::
@@ -1005,6 +1046,7 @@ it.gytogii12.ru:ClearFake::
 it.muqu5.ru:ClearFake::
 it.quladao75.ru:ClearFake::
 iting.hr:RAT_RemcosRAT::
+iu.g69p.ru:ClearFake::
 iuh234.medianewsonline.com:_Kimsuky::
 iusefatalbtw50944.portmap.host:Qsar_RAT_triage::
 iusefatalbtw63960.portmap.host:Qsar_RAT_triage::
@@ -1022,6 +1064,7 @@ jakuza.noip.biz:13September2025_iocbottest::
 jambzkb.qpon:_lumma_triage::
 jargonx.asia:lumma::
 jayw872439348.portmap.host:_remcos::
+jb.k25q.ru:ClearFake::
 jc.zelojue1.ru:ClearFake::
 jerrytech2020.duckdns.org:::
 jeu60.dedyn.io:AMAZON02_AS16509censys_Havoc::
@@ -1055,6 +1098,8 @@ jt.gyjyvyy6.ru:ClearFake::
 julio2020.duckdns.org:AsyncRAT::
 justrss.gl.at.ply.gg:13September2025_iocbottest::
 jys.qecufey7.ru:ClearFake::
+k.212q.ru:ClearFake::
+k.391g.ru:ClearFake::
 k.97qm.ru:ClearFake::
 k.j2e6.ru:ClearFake::
 k.juq0.ru:ClearFake::
@@ -1065,11 +1110,13 @@ k0n.xyc0.ru:ClearFake::
 k2.z67.ru:ClearFake::
 k3.wuk0.ru:ClearFake::
 k3p.j220.ru:ClearFake::
+k3x.246b.ru:ClearFake::
 k3x.k26i.ru:ClearFake::
 k4zi.noip.org:13September2025_iocbottest::
 kafkashaliyikama.com:oauth::
 kal.biryquo.ru:ClearFake::
 kali.free.idcfengye.com:CobaltStrike::
+kardan35.3utilities.com:NjRAT_triage::
 katyache.com:Encoded::
 keen.vudeh0ae3.ru:ClearFake::
 kejishashasha.cn:RAT_triage_ValleyRAT::
@@ -1094,6 +1141,7 @@ kmmlive.help:ConnectWise_screenconnect::
 knowkeren.xyz:Loki::
 koko7878.noip.biz:_CyberGateRAT_triage::
 koolkiddoj99998765459833.portmap.host:17September2025_iocbottest::
+korneychukovsky.su:NoTag::
 koubmjm.my:lumma::
 kri.xe3ax.ru:ClearFake::
 kro.sehamyu.ru:ClearFake::
@@ -1107,6 +1155,7 @@ kws1.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 kws11.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 kws4.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
 kylesdark.zapto.org:13September2025_iocbottest::
+l.465w.ru:ClearFake::
 l.bi3ux.ru:ClearFake::
 l.dasurie36.ru:ClearFake::
 l.k9u1.ru:ClearFake::
@@ -1114,6 +1163,7 @@ l.n98.ru:ClearFake::
 l.v51o.ru:ClearFake::
 l.w30g.ru:ClearFake::
 l.zowyzyi62.ru:ClearFake::
+la.v96g.ru:ClearFake::
 lactoxn.bet:lumma::
 laevuun.top:lumma::
 laid.wofaraa29.ru:ClearFake::
@@ -1179,10 +1229,12 @@ lot.cofidyu58.ru:ClearFake::
 lot.dasurie36.ru:ClearFake::
 louglas.com:Kongtuke_LandUpdate808::
 lowkee.lovestoblog.com:Encoded_PureLogsStealer::
+lq.k25q.ru:ClearFake::
 lst.n50e.ru:ClearFake::
 lt.lohao.ru:ClearFake::
 ltbcare.live:ConnectWise::
 luck.kokiu43.ru:ClearFake::
+lummamarket.su:NoTag::
 lup.gowuhei.ru:ClearFake::
 lustmms.bet:lumma::
 lutraqdb.qpon:lumma::
@@ -1200,9 +1252,12 @@ m.zo1ah.ru:ClearFake::
 m1.p81.ru:ClearFake::
 m1f.fid1.ru:ClearFake::
 m1s.van1.ru:ClearFake::
+m2.391g.ru:ClearFake::
 m2.hap7.ru:ClearFake::
 m2.twgr.ru:ClearFake::
 m3.g22.ru:ClearFake::
+m8.2se.info:ClearFake::
+m9.1v47.ru:ClearFake::
 m9.r274.ru:ClearFake::
 m9.tem5.ru:ClearFake::
 machinevitamin.gl.at.ply.gg:13September2025_iocbottest::
@@ -1228,10 +1283,12 @@ mannewd.shop:lumma::
 manoc3686460376.portmap.host:Qsar_RAT_triage::
 manticu.asia:lumma::
 maravillas12.duckdns.org:AsyncRAT::
+marketlumma.su:NoTag::
 marvelvod.com:lumma::
 marzo2020.duckdns.org:_DCRat::
 masmbv.asia:lumma::
 masqingtestformat.gleeze.com:triage::
+materialsplant.gl.at.ply.gg:NjRAT_triage::
 math1st.com:Kongtuke::
 mautau.live:NoTag::
 mavenrat.xyz:_maksrat_MavenRAT_RAT::
@@ -1264,6 +1321,7 @@ mgi.kelu0yo5.ru:ClearFake::
 mhzl2wy36319.portmap.host:17September2025_iocbottest::
 mi.gug7.ru:ClearFake::
 mi.raisindispose.com:Amadey::
+mi.unbuttonrudder.com:Amadey::
 microsoftgraphics.ddns.net:_NjRAT::
 microsofttelemetry.at:Amadey::
 microsofttelemetry.cc:monitorauto::
@@ -1326,6 +1384,7 @@ mu.nelypuu5.ru:ClearFake::
 mugbool.bet:lumma::
 muriaspetin.es:LummaStealer::
 mv.mo5un.ru:ClearFake::
+mwq47258.portmap.host:Qsar_RAT_triage::
 mx.puva6ey2.ru:ClearFake::
 mx1.sweatscissors.com:_Mirai::
 mx2.sweatscissors.com:_Mirai::
@@ -1337,6 +1396,7 @@ mylove88.top:_Mirai::
 mypasteappnine.vercel.app:13September2025_iocbottest::
 myproject.space:NoTag::
 mysidak.asia:lumma::
+n.227m.ru:ClearFake::
 n.j220.ru:ClearFake::
 n.l48i.ru:ClearFake::
 n.wofaraa29.ru:ClearFake::
@@ -1350,6 +1410,7 @@ namesaccident.gl.at.ply.gg:NjRAT_triage::
 natione.qpon:lumma::
 ncloud.icu:ClickFix::
 ndlive.help:ConnectWise_screenconnect::
+ne.h73n.ru:ClearFake::
 neat.kuryc7yy1.ru:ClearFake::
 nectixboost.org:NoTag::
 nectixboost.xyz:NoTag::
@@ -1373,6 +1434,7 @@ nicegoodkidsevaangelsheismygirlsoir.duckdns.org:RAT_remcos_triage::
 nicepliced.live:NoTag::
 nissi.bg:NoTag::
 nl.qe3yn.ru:ClearFake::
+nn.d42n.ru:ClearFake::
 no.bavyzeo47.ru:ClearFake::
 no.buno8.ru:ClearFake::
 no.gytogii12.ru:ClearFake::
@@ -1415,6 +1477,7 @@ offer5302025.mooo.com:13September2025_iocbottest::
 officeservicecdt.com:AsyncRAT_latam_WsgiDAV::
 oh.qecufey7.ru:ClearFake::
 ohsp.luwotaa1.ru:ClearFake::
+oj.f05t.ru:ClearFake::
 ol.p93z.ru:ClearFake::
 olbanha.com:NetSupport_NetSupportManager_RAT::
 oldone888d.casacam.net:AsyncRAT_RAT_triage::
@@ -1457,6 +1520,7 @@ p.526r.ru:ClearFake::
 p.m7e4.ru:ClearFake::
 p.t4c5d.ru:ClearFake::
 p.van1.ru:ClearFake::
+p0.212q.ru:ClearFake::
 p0.qej9.ru:ClearFake::
 p1611192mobac01.tokyo.ocn.ne.jp:sshd::
 p7.l134.ru:ClearFake::
@@ -1474,6 +1538,7 @@ patrickhicks.org:Encoded_PhantomStealer::
 paygateme.net:RAT_remcos_triage::
 payload.tahirvoip.shop:triage::
 paypalcape.gl.at.ply.gg:13September2025_iocbottest::
+pc.2se.info:ClearFake::
 pc.mo5un.ru:ClearFake::
 pcare.ai:pcoptimizer_RustyStealer::
 pe.gunim5yi8.ru:ClearFake::
@@ -1569,9 +1634,12 @@ purplde.asia:lumma::
 pw577.castledev.ru:DCRat_RAT::
 pwa.vihuqau.ru:ClearFake::
 px.vumarifa.com:op74rh_Vidar::
+pz8.9n75.ru:ClearFake::
+q.1v47.ru:ClearFake::
 q.bi0ic.ru:ClearFake::
 q.d1a8.ru:ClearFake::
 q.m074.ru:ClearFake::
+q.n9t6m.ru:ClearFake::
 q2.jod6.ru:ClearFake::
 q5.f11.ru:ClearFake::
 q7.ror6.ru:ClearFake::
@@ -1598,8 +1666,10 @@ qvevd.asia:lumma::
 qw2.n98.ru:ClearFake::
 qx.jozotea.ru:ClearFake::
 qx8.mmwf.ru:ClearFake::
+qz7.391g.ru:ClearFake::
 qz7.g22.ru:ClearFake::
 qz7.twgr.ru:ClearFake::
+r.246b.ru:ClearFake::
 r.h18.ru:ClearFake::
 r.k26i.ru:ClearFake::
 r.messager.my:AS42159_censys_DELTAHOSTAS_Evilginx_Panel::
@@ -1619,6 +1689,7 @@ rawrxdd.duckdns.org:NjRAT_triage::
 ray.pobinei39.ru:ClearFake::
 ray2me.com:SmartApeSG::
 razer.chatology.my:r4_46_Vidar::
+rb.d42n.ru:ClearFake::
 rc.tigelie.ru:ClearFake::
 re.qacacoe3.ru:ClearFake::
 readerengaging.gl.at.ply.gg:triage::
@@ -1638,14 +1709,17 @@ ret.aztu.edu.az:op74rh_Vidar::
 ret.demoserviciopcmendoza.com.ar:op74rh_Vidar::
 retiregenz.com:SmartApeSG::
 rfwklaw.com:Kongtuke::
+rg.m33h.ru:ClearFake::
 rhusdniw.shop:_lumma_triage::
 rhussois.su:lumma::
 rich.jibiw8aa5.ru:ClearFake::
 ring.gofumoo29.ru:ClearFake::
 riseonid.com:_Mirai_morte_stopmalwareservice::
 rk.lohao.ru:ClearFake::
+rk1.6b96.ru:ClearFake::
 rka.firu6ui8.ru:ClearFake::
 rka.qisytui.ru:ClearFake::
+rm.h73n.ru:ClearFake::
 roadtrousers.info:OffLoader::
 robloxvithor.duckdns.org:13September2025_iocbottest::
 rockinriostatetmentsfil3945489pdf.pages.dev:NoTag::
@@ -1654,6 +1728,7 @@ roomysc.bet:_lumma_triage::
 root.iloveanimals.shop:NoTag::
 root.qilaliy87.ru:ClearFake::
 roraffle.net:_Mirai::
+roundfailing.gl.at.ply.gg:NjRAT_triage::
 routemate.us:_lumma_Lumma_Stealer::
 rozm1234567828404.portmap.host:triage::
 rq.fo1od.ru:ClearFake::
@@ -1671,6 +1746,9 @@ run.gesybue11.ru:ClearFake::
 run.kokiu43.ru:ClearFake::
 run.quladao75.ru:ClearFake::
 runjhb.asia:lumma::
+rustore.antonchehov.su:NoTag::
+rustore.iosifbrodskiy.su:NoTag::
+rustore.korneychukovsky.su:NoTag::
 rutxnm.top:13September2025_iocbottest::
 rxe.526r.ru:ClearFake::
 ry.zelojue1.ru:ClearFake::
@@ -1835,6 +1913,7 @@ ssl.gamesen.icu:CobaltStrike_drbra::
 ssnverify.pro:Fake_Software_FakeApp::
 sstu.kixyzoo7.ru:ClearFake::
 st.cofepoi2.ru:ClearFake::
+st.h73n.ru:ClearFake::
 st.hihijie3.ru:ClearFake::
 st.xekifye8.ru:ClearFake::
 stachi.ydns.eu:RAT_remcos_triage::
@@ -1896,6 +1975,8 @@ sxyz.sumukye2.ru:ClearFake::
 syapboc.qpon:lumma::
 sz.n96f.ru:ClearFake::
 szh.saqehyo1.ru:ClearFake::
+t.340k.ru:ClearFake::
+t.6b96.ru:ClearFake::
 t.gug7.ru:ClearFake::
 t.h8y0.ru:ClearFake::
 t.k002.ru:ClearFake::
@@ -1916,6 +1997,7 @@ tamarindglobal.ct.ws:Encoded_FormBook::
 tarakmb.asia:lumma::
 tatneftbank.ru:13September2025_iocbottest::
 taxacts.de:17September2025_iocbottest::
+tb.f42s.ru:ClearFake::
 tc.527w.ru:ClearFake::
 tdz.fozomya6.ru:ClearFake::
 te.gunim5yi8.ru:ClearFake::
@@ -1985,6 +2067,7 @@ tr.x73r.ru:ClearFake::
 tra.amajed.com:op74rh_Vidar::
 tra.schermgebroken.nl:op74rh_Vidar::
 trabajo2025.lovestoblog.com:NoTag::
+trachyw.qpon:NoTag::
 trackmarble.gl.at.ply.gg:13September2025_iocbottest::
 tradeviewhub.com:Fake_Software::
 trannynet.adgods.uk:Mirai::
@@ -2013,6 +2096,8 @@ u.b704.ru:ClearFake::
 u.r0z8r.ru:ClearFake::
 u.s9i1.ru:ClearFake::
 u.v9542.ru:ClearFake::
+u1.2p62.ru:ClearFake::
+u1.333f.ru:ClearFake::
 u1.p3.ru:ClearFake::
 u1r.ror6.ru:ClearFake::
 u3.x05.ru:ClearFake::
@@ -2051,6 +2136,7 @@ upwanpdx.qpon:lumma::
 uq.xexykuo2.ru:ClearFake::
 ura.vumarifa.com:op74rh_Vidar::
 uranium.ddns.net:_Mirai::
+urpwnd.site:AS8560censys::
 us.bavyzeo47.ru:ClearFake::
 us.gesybue11.ru:ClearFake::
 us.gytogii12.ru:ClearFake::
@@ -2070,17 +2156,21 @@ uvw.hihijie3.ru:ClearFake::
 uvw.xekifye8.ru:ClearFake::
 uvwh.rocixaa9.ru:ClearFake::
 ux.xijoxou.ru:ClearFake::
+uz.d09r.ru:ClearFake::
 v.d1a8.ru:ClearFake::
 v.g22.ru:ClearFake::
 v1.q780.ru:ClearFake::
 v2202507289248365122.bestsrv.de:_Mirai::
 v3.802d.ru:ClearFake::
 v4.pav3.ru:ClearFake::
+v5.759s.ru:ClearFake::
 v5.s57o.ru:ClearFake::
+va.d09r.ru:ClearFake::
 va.pewi2ee5.ru:ClearFake::
 va.sehamyu.ru:ClearFake::
 va.van1.ru:ClearFake::
 va.xe3ax.ru:ClearFake::
+valedaspecasdesmonte.com:Banker_latam_trojan::
 valentineplatformwoodexamination.trycloudflare.com:NoTag::
 valoikdortordas.com:Latrodectus::
 valuegaincircle.xyz:AuraStealer::
@@ -2130,6 +2220,7 @@ w.s3i1.ru:ClearFake::
 w.vem4.ru:ClearFake::
 w.x73r.ru:ClearFake::
 w22554844132065184848541514.cc:PDQConnect::
+w4.9n75.ru:ClearFake::
 wa.kujywii.ru:ClearFake::
 wa.poxyway.ru:ClearFake::
 wa.qecufey7.ru:ClearFake::
@@ -2164,6 +2255,7 @@ webserverupdate.com:_UNAM_Query::
 wednesdaykeyword.gl.at.ply.gg:17September2025_iocbottest::
 welcomelewis.gl.at.ply.gg:triage::
 wesyjzn.top:_lumma_virustotal::
+wg.f42s.ru:ClearFake::
 wg.gevicii.ru:ClearFake::
 wh.p93z.ru:ClearFake::
 whatdoyouwant.noip.org:_CyberGateRAT_triage::
@@ -2190,12 +2282,14 @@ wopu.live:ConnectWise_screenconnect::
 woriarcraft.4cloud.click:Qsar::
 worksamounts.gl.at.ply.gg:17September2025_iocbottest::
 wow.kuvuboa29.ru:ClearFake::
+wq9.227m.ru:ClearFake::
 wq9.l48i.ru:ClearFake::
 wrotekernelextenddesignation.trycloudflare.com:WsgiDAV::
 wrxcnc.com:_Mirai::
 wsbcard.s3.dlstack.useast1.amazonaws.com:ps::
 wso50081.portmap.host:triage::
 wsxy.kufapoi3.ru:ClearFake::
+wt.f05t.ru:ClearFake::
 wtg.xajaqoy.ru:ClearFake::
 wug.hekulei5.ru:ClearFake::
 wv.safofoe5.ru:ClearFake::
@@ -2437,10 +2531,13 @@ wxweb.tld56.cn:AS45090censys::
 wxy.cadynue6.ru:ClearFake::
 wxy.ritenoo3.ru:ClearFake::
 wymeja52.top:13September2025_iocbottest::
+wz8.212q.ru:ClearFake::
 wz8.qej9.ru:ClearFake::
 x.l5228.ru:ClearFake::
 x.x0e8.ru:ClearFake::
+x0r.465w.ru:ClearFake::
 x0r.v51o.ru:ClearFake::
+x2j.2se.info:ClearFake::
 x2n.tem5.ru:ClearFake::
 x6iye.site:NoTag::
 x8d.byq3.ru:ClearFake::
@@ -2456,11 +2553,15 @@ xhost27542.portmap.host:17September2025_iocbottest::
 xi.z99l.ru:ClearFake::
 xjk.luxemyy2.ru:ClearFake::
 xmlsuggestions.gl.at.ply.gg:triage::
+xo.v96g.ru:ClearFake::
 xq0.tbkh.ru:ClearFake::
+xq7.1v47.ru:ClearFake::
+xq8.340k.ru:ClearFake::
 xq8.juq0.ru:ClearFake::
 xrp.dasurie36.ru:ClearFake::
 xshy.luwotaa1.ru:ClearFake::
 xsopflgg.bounceme.net:_Mirai::
+xu.d09r.ru:ClearFake::
 xux.xonulee9.ru:ClearFake::
 xvape.ca:ClickFix_CoreSecThree::
 xworm0106.duckdns.org:triage::
@@ -2471,6 +2572,7 @@ xy.racypue5.ru:ClearFake::
 xy.winenoy5.ru:ClearFake::
 xyh.lypelya2.ru:ClearFake::
 xyz.fapigya6.ru:ClearFake::
+y.333f.ru:ClearFake::
 y.97jt.ru:ClearFake::
 y.h8y0.ru:ClearFake::
 y.p3.ru:ClearFake::
@@ -2500,6 +2602,8 @@ yungndcrazy.top:SmartApeSG::
 yunniuwr.beer:lumma::
 yyi.aztu.edu.az:op74rh_Vidar::
 yyi.demoserviciopcmendoza.com.ar:op74rh_Vidar::
+z.759s.ru:ClearFake::
+z.g69p.ru:ClearFake::
 z.h934.ru:ClearFake::
 z.kot9.ru:ClearFake::
 z.ror6.ru:ClearFake::
@@ -2515,6 +2619,7 @@ zclouds.icu:ClickFix::
 zczxczx37792.portmap.host:17September2025_iocbottest::
 zevsol.top:ConnectWise_screenconnect::
 zfgsol.top:ConnectWise_screenconnect::
+zh.d09r.ru:ClearFake::
 zi.vihuqau.ru:ClearFake::
 zi.we4ex.ru:ClearFake::
 zidomasones.com:CoinMiner::
